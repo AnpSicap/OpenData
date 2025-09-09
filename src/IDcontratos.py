@@ -14,7 +14,7 @@ TIMEOUT = 30
 PAGE_SIZE = 100
 URL_CONTRATOS_LISTA = f"https://contratos.comprasnet.gov.br/transparencia/contratos?orgao=[{ORGAO_CODIGO}]"
 URL_CONTRATOS_AJAX = "https://contratos.comprasnet.gov.br/transparencia/contratos/search"
-OUTPUT_PATH = "data/ids_contratos_32205.json"
+OUTPUT_PATH = "data/IDcontratos.json"
 
 def sleep_jitter(base=REQUEST_DELAY):
     time.sleep(base + random.uniform(0, 0.4))
