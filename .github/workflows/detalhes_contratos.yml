@@ -1,4 +1,4 @@
-name: Contratos Tabelas ANP
+name: Contratos Histórico e Responsáveis ANP
 
 on:
   schedule:
