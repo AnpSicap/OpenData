@@ -1,0 +1,46 @@
+name: Contratos Tabelas ANP
+
+on:
+  schedule:
+    - cron: '0 7 * * 1-5'  # Segunda a sexta às 7h UTC (4h BRT)
+  workflow_dispatch:
+
+permissions:
+  actions: none
+  contents: none
+
+jobs:
+  contratos_tabelas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    permissions:
+      actions: read
+      contents: write
+      id-token: write
+
+    steps:
+    - name: Checkout código
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.PAT_TOKEN }}
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: pip install requests beautifulsoup4
+
+    - name: Run coleta de tabelas
+      run: python src/contratos_tabelas.py
+
+    - name: Commit e push dos dados
+      run: |
+        git config --local user.email "sicap-sga@outlook.com"
+        git config --local user.name "GitHub SICAP ANP Automation"
+        git add data/*.json
+        git commit -m "📊 Atualização tabelas contratos: $(date +'%Y-%m-%d %H:%M')" || echo "Sem alterações para commit"
+        git push
