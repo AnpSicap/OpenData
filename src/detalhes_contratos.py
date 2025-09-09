@@ -66,7 +66,7 @@ def salvar_json(caminho, dados_array):
         json.dump(saida, f, ensure_ascii=False, indent=2)
 
 # =============================
-# Extração (apenas Histórico e Responsáveis)
+# Extração (Histórico e Responsáveis)
 # =============================
 TABELAS_HEADERS = {
     "historico": ["Data Assinatura", "Número", "Tipo", "Observação",
@@ -79,7 +79,21 @@ def match_headers(actual_headers, expected_headers):
     e = [norm(h) for h in expected_headers]
     return a == e
 
-def extrair_tabelas(soup: BeautifulSoup, contrato_id: str):
+def extrair_numero_contrato(soup: BeautifulSoup) -> str:
+    """
+    Procura na primeira tabela (detalhes) a linha 'Número Contrato'.
+    """
+    for tabela in soup.find_all("table"):
+        for tr in tabela.find_all("tr"):
+            tds = tr.find_all("td")
+            if len(tds) == 2:
+                chave = tds[0].get_text(strip=True)
+                valor = tds[1].get_text(strip=True)
+                if norm(chave) == "número contrato":
+                    return valor
+    return ""
+
+def extrair_tabelas(soup: BeautifulSoup, contrato_id: str, numero_contrato: str):
     tabelas = {k: [] for k in TABELAS_HEADERS.keys()}
     for tabela in soup.find_all("table"):
         headers = [th.get_text(strip=True) for th in tabela.find_all("th")]
@@ -90,6 +104,8 @@ def extrair_tabelas(soup: BeautifulSoup, contrato_id: str):
                     if not tds:
                         continue
                     linha = {headers[i]: tds[i].get_text(strip=True) for i in range(len(headers))}
+                    # adiciona também o Número Contrato
+                    linha["Número Contrato"] = numero_contrato
                     tabelas[chave].append({
                         "contrato_id": contrato_id,
                         "dados": linha
@@ -129,7 +145,12 @@ def main():
             continue
 
         soup = BeautifulSoup(detalhe_html, "html.parser")
-        tabelas = extrair_tabelas(soup, contrato_id)
+
+        # Extrai o número do contrato
+        numero_contrato = extrair_numero_contrato(soup)
+
+        # Extrai apenas as tabelas de interesse e inclui número contrato
+        tabelas = extrair_tabelas(soup, contrato_id, numero_contrato)
 
         for chave, valores in tabelas.items():
             acumulado[chave].extend(valores)
