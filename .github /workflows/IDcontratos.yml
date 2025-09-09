@@ -35,13 +35,13 @@ jobs:
       run: pip install requests beautifulsoup4
 
     - name: Run coleta de IDs
-      run: python extrair_ids_contratos.py
+      run: python src/IDcontratos.py
 
     - name: Commit e push dos dados
       run: |
-        git config --local user.email "github_anp@outlook.com"
-        git config --local user.name "GitHub ANP Automation"
-        git add data/ids_contratos_32205.json
+        git config --local user.email "sicap-sga@outlook.com"
+        git config --local user.name "GitHub SICAP ANP Automation"
+        git add data/IDcontratos.json
         git commit -m "📦 Atualização de IDs: $(date +'%Y-%m-%d %H:%M')" || echo "Sem alterações para commit"
         git push
 
