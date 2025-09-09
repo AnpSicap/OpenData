@@ -1,5 +1,7 @@
+# src/detalhes_contratos.py
 # -*- coding: utf-8 -*-
 import os
+import re
 import json
 import time
 import random
@@ -9,48 +11,59 @@ import requests
 from bs4 import BeautifulSoup
 
 # =============================
-# Configurações
+# Configurações do Coletor
 # =============================
-REQUEST_DELAY = 0.8
-MAX_RETRIES = 3
-TIMEOUT = 30
+REQUEST_DELAY = float(os.getenv("REQUEST_DELAY", "0.5"))  # segundos
+MAX_RETRIES = int(os.getenv("MAX_RETRIES", "3"))
+TIMEOUT = int(os.getenv("TIMEOUT", "30"))
 
+# Arquivo com IDs (gerado antes pelo workflow de contratos IDs)
+URL_IDS_CONTRATOS = "data/IDcontratos.json"
 URL_CONTRATO_DETALHE = "https://contratos.comprasnet.gov.br/transparencia/contratos/{}"
-URL_CONTRATOS_IDS = "data/IDcontratos.json"
 
-TABELAS_MAPA = {
-    1: "detalhes.json",
-    2: "historico.json",
-    3: "despesasAcessorias.json",
-    4: "empenhos.json",
-    5: "faturas.json",
-    6: "garantias.json",
-    7: "itens.json",
-    8: "prepostos.json",
-    9: "responsaveis.json",
-    10: "arquivos.json"
+# Saídas
+OUTPUT_FILES = {
+    "detalhes": "data/detalhes.json",
+    "historico": "data/historico.json",
+    "despesasAcessorias": "data/despesasAcessorias.json",
+    "empenhos": "data/empenhos.json",
+    "faturas": "data/faturas.json",
+    "garantias": "data/garantias.json",
+    "itens": "data/itens.json",
+    "prepostos": "data/prepostos.json",
+    "responsaveis": "data/responsaveis.json",
+    "arquivos": "data/arquivos.json",
 }
 
 # =============================
 # Utilidades
 # =============================
+def norm(txt: str) -> str:
+    if txt is None:
+        return ""
+    return re.sub(r"\s+", " ", str(txt)).strip().lower()
+
 def sleep_jitter(base=REQUEST_DELAY):
     time.sleep(base + random.uniform(0, 0.4))
 
-def make_session():
+def make_session() -> requests.Session:
     s = requests.Session()
     s.headers.update({
-        "User-Agent": "Mozilla/5.0",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                      "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7"
     })
     return s
 
-def carregar_ids(caminho=URL_CONTRATOS_IDS):
-    if not os.path.exists(caminho):
-        raise FileNotFoundError(f"Arquivo {caminho} não encontrado.")
-    with open(caminho, "r", encoding="utf-8") as f:
+def carregar_ids():
+    if not os.path.exists(URL_IDS_CONTRATOS):
+        raise FileNotFoundError(f"Arquivo não encontrado: {URL_IDS_CONTRATOS}")
+    with open(URL_IDS_CONTRATOS, "r", encoding="utf-8") as f:
         base = json.load(f)
+    # Agora funciona tanto se for lista quanto dict
+    if isinstance(base, list):
+        return base
     return base.get("dados", [])
 
 def salvar_json(caminho, dados_array):
@@ -63,32 +76,42 @@ def salvar_json(caminho, dados_array):
     with open(caminho, "w", encoding="utf-8") as f:
         json.dump(saida, f, ensure_ascii=False, indent=2)
 
+# =============================
+# Extração das tabelas
+# =============================
+TABELAS_HEADERS = {
+    "detalhes": ["Data Assinatura", "Número", "Tipo", "Observação", "Data Início", "Data Fim", "Vlr. Global", "Parcelas", "Vlr. Parcela", "Descrição", "Vencimento", "Valor", "UG", "Número", "PI", "ND", "Emp.", "A liq.", "Liquid.", "Pg", "RP Inscr.", "RP A Liq.", "RP Liq.", "RP Pg", "Número", "Data Emissão", "Processo", "Data Ateste", "Valor", "Tipo", "Vencimento", "Valor", "Tipo", "Item", "Quantidade", "Valor Unitário", "Valor Total", "CPF", "Nome", "CPF", "Nome", "Tipo", "Tipo", "Nome", "Tamanho", "Criado"],
+    "historico": ["Data Assinatura", "Número", "Tipo", "Observação", "Data Início", "Data Fim", "Vlr. Global", "Parcelas", "Vlr. Parcela"],
+    "despesasAcessorias": ["Descrição", "Vencimento", "Valor"],
+    "empenhos": ["UG", "Número", "PI", "ND", "Emp.", "A liq.", "Liquid.", "Pg", "RP Inscr.", "RP A Liq.", "RP Liq.", "RP Pg"],
+    "faturas": ["Número", "Data Emissão", "Processo", "Data Ateste", "Valor"],
+    "garantias": ["Tipo", "Vencimento", "Valor"],
+    "itens": ["Tipo", "Item", "Quantidade", "Valor Unitário", "Valor Total"],
+    "prepostos": ["CPF", "Nome"],
+    "responsaveis": ["CPF", "Nome", "Tipo"],
+    "arquivos": ["Tipo", "Nome", "Tamanho", "Criado"],
+}
+
+def match_headers(actual_headers, expected_headers):
+    a = [norm(h) for h in actual_headers]
+    e = [norm(h) for h in expected_headers]
+    return a == e
+
 def extrair_tabelas(soup: BeautifulSoup, contrato_id: str):
-    tabelas_extraidas = {}
-    tabelas = soup.find_all("table")
-    print(f"📊 {len(tabelas)} tabelas encontradas para contrato {contrato_id}")
-
-    for i, tabela in enumerate(tabelas, start=1):
-        linhas = []
+    tabelas = {k: [] for k in TABELAS_HEADERS.keys()}
+    for tabela in soup.find_all("table"):
         headers = [th.get_text(strip=True) for th in tabela.find_all("th")]
-
-        for tr in tabela.find_all("tr")[1:]:
-            tds = tr.find_all("td")
-            if not tds:
-                continue
-            linha = {headers[j]: tds[j].get_text(strip=True) for j in range(min(len(headers), len(tds)))}
-            linhas.append(linha)
-
-        nome_arquivo = TABELAS_MAPA.get(i)
-        if nome_arquivo:
-            if nome_arquivo not in tabelas_extraidas:
-                tabelas_extraidas[nome_arquivo] = []
-            tabelas_extraidas[nome_arquivo].append({
-                "contrato_id": contrato_id,
-                "registros": linhas
-            })
-
-    return tabelas_extraidas
+        for chave, esperado in TABELAS_HEADERS.items():
+            if match_headers(headers, esperado):
+                for tr in tabela.find_all("tr")[1:]:
+                    tds = tr.find_all("td")
+                    if not tds:
+                        continue
+                    tabelas[chave].append({
+                        "contrato_id": contrato_id,
+                        "dados": [td.get_text(strip=True) for td in tds]
+                    })
+    return tabelas
 
 # =============================
 # Main
@@ -96,26 +119,24 @@ def extrair_tabelas(soup: BeautifulSoup, contrato_id: str):
 def main():
     print("🚀 Extraindo tabelas dos contratos (ComprasNet)...")
     ids = carregar_ids()
-    print(f"🔢 Total de contratos: {len(ids)}")
+    print(f"🧾 Total de contratos a processar: {len(ids)}")
 
-    session = make_session()
+    s = make_session()
 
-    # buffers separados por tipo de tabela
-    buffers = {fname: [] for fname in TABELAS_MAPA.values()}
+    acumulado = {k: [] for k in TABELAS_HEADERS.keys()}
 
     for i, contrato_id in enumerate(ids, start=1):
-        print(f"[{i}/{len(ids)}] Baixando contrato {contrato_id}...")
+        print(f"[{i}/{len(ids)}] 🔎 Baixando contrato {contrato_id}...")
         url = URL_CONTRATO_DETALHE.format(contrato_id)
-
         detalhe_html = None
         for attempt in range(1, MAX_RETRIES + 1):
             try:
-                r = session.get(url, timeout=TIMEOUT)
+                r = s.get(url, timeout=TIMEOUT)
                 r.raise_for_status()
                 detalhe_html = r.text
                 break
             except Exception as e:
-                print(f"   ❌ Falha tentativa {attempt}/{MAX_RETRIES}: {e}")
+                print(f"   ❌ Falha ao carregar {contrato_id} (tentativa {attempt}/{MAX_RETRIES}): {e}")
                 if attempt >= MAX_RETRIES:
                     detalhe_html = None
                 else:
@@ -128,18 +149,16 @@ def main():
         soup = BeautifulSoup(detalhe_html, "html.parser")
         tabelas = extrair_tabelas(soup, contrato_id)
 
-        # acumula nos buffers
-        for fname, dados in tabelas.items():
-            buffers[fname].extend(dados)
+        for chave, valores in tabelas.items():
+            acumulado[chave].extend(valores)
 
         sleep_jitter()
 
-    # salvar cada arquivo
-    for fname, dados in buffers.items():
-        salvar_json(f"data/{fname}", dados)
-        print(f"✅ Gerado data/{fname} ({len(dados)} contratos)")
+    for chave, caminho in OUTPUT_FILES.items():
+        salvar_json(caminho, acumulado[chave])
+        print(f"✅ Arquivo gerado: {caminho} ({len(acumulado[chave])} registros)")
 
-    print("🎉 Finalizado com sucesso!")
+    return True
 
 if __name__ == "__main__":
     ok = main()
