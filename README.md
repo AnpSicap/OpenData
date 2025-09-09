@@ -2,24 +2,37 @@
 🏢 Scrapter de dados abertos ANP
 Automação para coleta de dados de contratos e faturas da ANP do portal de transparência.
 
-⚙️ Funcionalidades
+⚙️ **Funcionalidades**
+
 📋 Coleta automática de faturas via web scraping AJAX do portal de transparência
+
 📋 Coleta automática de histórico e resposáveis via web scraping HTTP do portal de transparência
+
 📄 Coleta de contratos através da API oficial de dados abertos
+
 💾 Armazenamento em JSON estruturado e padronizado
+
 ⏰ Execução automática via GitHub Actions (segunda a sexta-feira)
+
 🔄 Atualização diária dos dados
-📊 Estrutura de Dados
+
+
+📊 **Estrutura de Dados**
+
 Os dados são salvos em data/*.json com schema padronizado: ```json
 
 { "ultima_atualizacao": "2024-01-15T10:30:00", "total_registros": 150, "dados": [...] }
 
-🕐 Agendamento
+
+🕐 **Agendamento**
+
 📋 Faturas: Segunda a sexta, 5h UTC (2h BRT)
 
 📄 Contratos: Segunda a sexta, 6h UTC (3h BRT)
 
-📦 Dados Disponíveis
+
+
+📦 **Dados Disponíveis**
 
 ID de todos os contratos da ANP: https://raw.githubusercontent.com/AnpSicap/OpenData/main/data/IDcontratos.json
 
@@ -31,14 +44,20 @@ Histórico de Aditivos e Apostilamentos dos contratos da ANP: https://raw.github
 
 Responsáveis pelos contratos da ANP: https://raw.githubusercontent.com/AnpSicap/OpenData/main/data/responsaveis.json
 
-🚀 Como Usar
+
+
+🚀 **Como Usar**
+
 Acesse os JSONs diretamente pelos links acima
 
 Consuma no Power Apps, Excel, ou qualquer aplicação
 
 Dados atualizados automaticamente diariamente
 
-🔐 Transparência e Segurança
+
+
+🔐 **Transparência e Segurança**
+
 ✅ Repositório público e aberto
 
 ✅ Apenas dados públicos oficiais
@@ -47,14 +66,20 @@ Dados atualizados automaticamente diariamente
 
 ✅ Código aberto para auditoria
 
-🔗 Fonter Oficiais
+
+
+🔗 **Fonter Oficiais**
+
 Portal de Transparência: https://contratos.comprasnet.gov.br
 
 Faturas da ANP: https://contratos.comprasnet.gov.br/transparencia/faturas?orgao=[32205]
 
 API de Contratos: https://dadosabertos.compras.gov.br/modulo-contratos
 
-📈 Estatísticas de Execução
+
+
+📈 **Estatísticas de Execução**
+
 ⏱️ Tempo médio: 1-2 minutos por execução
 
 📊 Consumo: ≈2% do limite gratuito mensal
@@ -62,6 +87,7 @@ API de Contratos: https://dadosabertos.compras.gov.br/modulo-contratos
 💰 Custo: $0.00 (plano gratuito)
 
 💡 Informações Téncicas
+
 Desenvolvido em Python 3.10
 
 Agendamento via GitHub Actions
