@@ -3,7 +3,8 @@
 Automação para coleta de dados de contratos e faturas da ANP do portal de transparência.
 
 ⚙️ Funcionalidades
-📋 Coleta automática de faturas via web scraping do portal de transparência
+📋 Coleta automática de faturas via web scraping AJAX do portal de transparência
+📋 Coleta automática de histórico e resposáveis via web scraping HTTP do portal de transparência
 📄 Coleta de contratos através da API oficial de dados abertos
 💾 Armazenamento em JSON estruturado e padronizado
 ⏰ Execução automática via GitHub Actions (segunda a sexta-feira)
@@ -19,9 +20,16 @@ Os dados são salvos em data/*.json com schema padronizado: ```json
 📄 Contratos: Segunda a sexta, 6h UTC (3h BRT)
 
 📦 Dados Disponíveis
-Faturas: https://raw.githubusercontent.com/dadosabertosanp/scraper/main/data/faturas.json
 
-Contratos: https://raw.githubusercontent.com/dadosabertosanp/scraper/main/data/contratos.json
+ID de todos os contratos da ANP: https://raw.githubusercontent.com/AnpSicap/OpenData/main/data/IDcontratos.json
+
+Faturas de todos os contratos da ANP: https://raw.githubusercontent.com/AnpSicap/OpenData/main/data/faturas.json
+
+Informações principais dos Contratos da ANP: https://raw.githubusercontent.com/AnpSicap/OpenData/main/data/contratos.json
+
+Histórico de Aditivos e Apostilamentos dos contratos da ANP: https://raw.githubusercontent.com/AnpSicap/OpenData/main/data/historico.json
+
+Responsáveis pelos contratos da ANP: https://raw.githubusercontent.com/AnpSicap/OpenData/main/data/responsaveis.json
 
 🚀 Como Usar
 Acesse os JSONs diretamente pelos links acima
