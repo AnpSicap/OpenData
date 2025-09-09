@@ -35,7 +35,7 @@ jobs:
       run: pip install requests beautifulsoup4
 
     - name: Run coleta de tabelas
-      run: python src/contratos_tabelas.py
+      run: python src/detalhes_contratos.py
 
     - name: Commit e push dos dados
       run: |
