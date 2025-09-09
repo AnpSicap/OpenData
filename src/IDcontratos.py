@@ -22,13 +22,14 @@ def sleep_jitter(base=REQUEST_DELAY):
 def make_session():
     s = requests.Session()
     s.headers.update({
-        "User-Agent": "Mozilla/5.0",
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64)",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7"
     })
     return s
 
 def get_csrf_token(s):
+    print("🔐 Buscando CSRF token...")
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             r = s.get(URL_CONTRATOS_LISTA, timeout=TIMEOUT)
@@ -37,19 +38,25 @@ def get_csrf_token(s):
             meta = soup.find("meta", {"name": "csrf-token"})
             if not meta or not meta.get("content"):
                 raise RuntimeError("Meta csrf-token não encontrado")
-            return meta["content"]
-        except Exception:
+            token = meta["content"]
+            print(f"✅ CSRF token obtido: {token[:10]}...")
+            return token
+        except Exception as e:
+            print(f"❌ Tentativa {attempt} falhou: {e}")
             if attempt >= MAX_RETRIES:
                 raise
             sleep_jitter()
     return None
 
 def buscar_todos_ids(s, csrf_token):
+    print("🔎 Iniciando busca paginada de IDs de contratos...")
     todos_ids = []
     pagina = 0
 
     while True:
         start = pagina * PAGE_SIZE
+        print(f"\n📄 Página {pagina + 1} (start={start})...")
+
         headers = {
             "x-csrf-token": csrf_token,
             "x-requested-with": "XMLHttpRequest",
@@ -65,14 +72,18 @@ def buscar_todos_ids(s, csrf_token):
             "start": start,
             "length": PAGE_SIZE,
             "numerocontrato": "",
-            "orgao": f"[\\\"{ORGAO_CODIGO}\\\"]"
+            "orgao": f"[{ORGAO_CODIGO}]"
         }
 
         try:
             resp = s.post(URL_CONTRATOS_AJAX, data=payload, headers=headers, timeout=TIMEOUT)
+            print("➡️ Status:", resp.status_code)
+            print("➡️ Tamanho resposta:", len(resp.text))
             resp.raise_for_status()
+
             data = resp.json().get("data", [])
             if not data:
+                print("✅ Fim da paginação. Nenhum dado retornado.")
                 break
 
             for linha in data:
@@ -81,9 +92,12 @@ def buscar_todos_ids(s, csrf_token):
                     if m:
                         todos_ids.append(m.group(1))
 
+            print(f"🔢 IDs acumulados até agora: {len(todos_ids)}")
             pagina += 1
             sleep_jitter()
-        except Exception:
+
+        except Exception as e:
+            print(f"❌ Erro na página {pagina + 1}: {e}")
             break
 
     return todos_ids
@@ -99,6 +113,5 @@ if __name__ == "__main__":
     csrf_token = get_csrf_token(session)
     ids = buscar_todos_ids(session, csrf_token)
     salvar_json(OUTPUT_PATH, ids)
-    print(f"✅ Total de IDs coletados: {len(ids)}")
+    print(f"\n🧾 Total final de IDs encontrados: {len(ids)}")
     print(f"📁 Arquivo salvo em: {OUTPUT_PATH}")
-
