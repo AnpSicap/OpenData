@@ -83,13 +83,14 @@ def main():
                     print(f"   ❌ Erro ao decodificar JSON: {e}")
                     break
         
-        # 🔑 Remover duplicados por numeroContrato
-        todos_contratos_unicos = remover_duplicados_por_numero(todos_contratos)
+        # 🔑 Remover duplicados por numeroContrato, escolhendo o mais completo
+        todos_contratos_unicos, descartados = remover_duplicados_por_numero(todos_contratos)
         
         # Salvar dados
-        salvar_contratos(todos_contratos_unicos)
+        salvar_contratos(todos_contratos_unicos, 'data/contratos.json')
+        salvar_contratos(descartados, 'data/contratos_descartados.json')
         
-        print(f"\n🎉 Concluído! Total coletados: {len(todos_contratos)} | Únicos por numeroContrato: {len(todos_contratos_unicos)}")
+        print(f"\n🎉 Concluído! Total coletados: {len(todos_contratos)} | Únicos: {len(todos_contratos_unicos)} | Descartados: {len(descartados)}")
         return True
         
     except Exception as e:
@@ -99,13 +100,30 @@ def main():
         return False
 
 def remover_duplicados_por_numero(contratos):
-    """Remove contratos duplicados com base em numeroContrato"""
+    """Remove duplicados por numeroContrato mantendo o mais completo"""
     unicos = {}
+    descartados = []
+
     for c in contratos:
         numero = c.get("numeroContrato")
-        if numero and numero not in unicos:
+        if not numero:
+            continue
+
+        if numero not in unicos:
             unicos[numero] = c
-    return list(unicos.values())
+        else:
+            atual = unicos[numero]
+            # Contar quantos campos não são None ou vazios
+            preenchidos_atual = sum(1 for v in atual.values() if v not in [None, "", [], {}])
+            preenchidos_novo = sum(1 for v in c.values() if v not in [None, "", [], {}])
+            
+            if preenchidos_novo > preenchidos_atual:
+                descartados.append(atual)
+                unicos[numero] = c
+            else:
+                descartados.append(c)
+
+    return list(unicos.values()), descartados
 
 def formatar_contrato_completo(contrato):
     """Mantém todos os campos da API, apenas formatando valores"""
@@ -196,7 +214,7 @@ def extrair_ano(data_str):
     except:
         return None
 
-def salvar_contratos(contratos):
+def salvar_contratos(contratos, caminho):
     """Salva os contratos em JSON"""
     os.makedirs('data', exist_ok=True)
     
@@ -206,10 +224,10 @@ def salvar_contratos(contratos):
         "dados": contratos
     }
     
-    with open('data/contratos.json', 'w', encoding='utf-8') as f:
+    with open(caminho, 'w', encoding='utf-8') as f:
         json.dump(resultado, f, ensure_ascii=False, indent=2, default=str)
     
-    print(f"💾 Dados salvos em: data/contratos.json")
+    print(f"💾 Dados salvos em: {caminho}")
 
 if __name__ == "__main__":
     success = main()
