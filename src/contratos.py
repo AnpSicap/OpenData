@@ -1,7 +1,7 @@
 import requests
 import json
 import os
-from datetime import datetime, timedelta
+from datetime import datetime
 import time
 
 def main():
@@ -83,10 +83,13 @@ def main():
                     print(f"   ❌ Erro ao decodificar JSON: {e}")
                     break
         
-        # Salvar dados
-        salvar_contratos(todos_contratos)
+        # Remover duplicados antes de salvar
+        contratos_filtrados, contratos_descartados = remover_duplicados(todos_contratos)
         
-        print(f"\n🎉 Concluído! Total de contratos coletados: {len(todos_contratos)}")
+        salvar_contratos(contratos_filtrados, "data/contratos.json")
+        salvar_contratos(contratos_descartados, "data/contratos_descartados.json")
+        
+        print(f"\n🎉 Concluído! Total coletados: {len(todos_contratos)} | Únicos: {len(contratos_filtrados)} | Descartados: {len(contratos_descartados)}")
         return True
         
     except Exception as e:
@@ -186,9 +189,9 @@ def extrair_ano(data_str):
     except:
         return None
 
-def salvar_contratos(contratos):
+def salvar_contratos(contratos, caminho):
     """Salva os contratos em JSON"""
-    os.makedirs('data', exist_ok=True)
+    os.makedirs(os.path.dirname(caminho), exist_ok=True)
     
     resultado = {
         "ultima_atualizacao": datetime.now().isoformat(),
@@ -196,10 +199,39 @@ def salvar_contratos(contratos):
         "dados": contratos
     }
     
-    with open('data/contratos.json', 'w', encoding='utf-8') as f:
+    with open(caminho, 'w', encoding='utf-8') as f:
         json.dump(resultado, f, ensure_ascii=False, indent=2, default=str)
     
-    print(f"💾 Dados salvos em: data/contratos.json")
+    print(f"💾 Dados salvos em: {caminho}")
+
+def remover_duplicados(contratos):
+    """Remove duplicados, mantendo o mais completo (menos nulls).
+       Também retorna os descartados para auditoria."""
+    contratos_unicos = {}
+    contratos_descartados = []
+
+    for contrato in contratos:
+        # Definir chave única (usa idCompra como prioridade, senão combina UG + numeroContrato)
+        chave = (
+            contrato.get("idCompra") 
+            or (contrato.get("codigoUnidadeGestora"), contrato.get("numeroContrato"))
+        )
+
+        # Contar nulls
+        null_count = sum(1 for v in contrato.values() if v is None)
+
+        if chave not in contratos_unicos:
+            contratos_unicos[chave] = (contrato, null_count)
+        else:
+            existente, existente_nulls = contratos_unicos[chave]
+            # Mantém o mais completo (menos nulls)
+            if null_count < existente_nulls:
+                contratos_descartados.append(existente)
+                contratos_unicos[chave] = (contrato, null_count)
+            else:
+                contratos_descartados.append(contrato)
+
+    return [c[0] for c in contratos_unicos.values()], contratos_descartados
 
 if __name__ == "__main__":
     success = main()
