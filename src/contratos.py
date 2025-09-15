@@ -1,138 +1,216 @@
-import os
-import json
-import time
 import requests
-from collections import defaultdict
-
-BASE_URL = "https://contratos-api.ans.gov.br/contratos"
-DATA_DIR = "data"
-os.makedirs(DATA_DIR, exist_ok=True)
-
-ARQUIVO_SAIDA = os.path.join(DATA_DIR, "contratos.json")
-ARQUIVO_DESCARTADOS = os.path.join(DATA_DIR, "contratos_descartados.json")
-
-
-def coletar_contratos():
-    contratos = []
-    for ano in range(2000, 2026):
-        print(f"\n🔍 Processando ano {ano}...")
-        pagina = 1
-        while True:
-            print(f"   📄 Página {pagina}...")
-            url = f"{BASE_URL}?ano={ano}&pagina={pagina}&tamanhoPagina=200"
-            try:
-                resp = requests.get(url, timeout=30)
-                resp.raise_for_status()
-                dados = resp.json()
-            except Exception as e:
-                print(f"   ⚠️ Erro ao coletar ano {ano} página {pagina}: {e}")
-                break
-
-            itens = dados.get("content", [])
-            if not itens:
-                print(f"   ✅ 0 contratos encontrados (Total: {len(contratos)})")
-                break
-
-            contratos.extend(itens)
-            print(f"   ✅ {len(itens)} contratos encontrados (Total: {len(contratos)})")
-
-            if dados.get("last", True):
-                break
-            pagina += 1
-            time.sleep(0.5)
-    return contratos
-
-
-def remover_duplicados_com_diagnostico(contratos):
-    """Remove duplicados usando apenas numeroContrato como chave."""
-    contratos_unicos = {}
-    contratos_descartados = []
-    ocorrencias_por_numero = {}
-
-    for idx, contrato in enumerate(contratos):
-        numero = contrato.get("numeroContrato")
-        if not numero:
-            # Se não houver numeroContrato, guarda como descartado com motivo
-            contrato_copy = contrato.copy()
-            contrato_copy.update({"motivo_descarte": "sem_numeroContrato"})
-            contratos_descartados.append(contrato_copy)
-            continue
-
-        # Contar campos missing
-        null_count = sum(
-            1
-            for v in contrato.values()
-            if v is None or (isinstance(v, str) and v.strip() == "")
-        )
-
-        ocorrencias_por_numero.setdefault(numero, {"count": 0, "samples": []})
-        ocorrencias_por_numero[numero]["count"] += 1
-        if len(ocorrencias_por_numero[numero]["samples"]) < 3:
-            ocorrencias_por_numero[numero]["samples"].append(
-                {
-                    "idx": idx,
-                    "null_count": null_count,
-                    "idCompra": contrato.get("idCompra"),
-                    "codigoUnidadeGestora": contrato.get("codigoUnidadeGestora"),
-                }
-            )
-
-        if numero not in contratos_unicos:
-            contratos_unicos[numero] = (contrato, null_count)
-        else:
-            existente, existente_nulls = contratos_unicos[numero]
-            if null_count < existente_nulls:
-                # novo é mais completo -> descarta o antigo
-                existente_copy = existente.copy()
-                existente_copy.update(
-                    {"motivo_descarte": "mais_incompleto", "null_count": existente_nulls}
-                )
-                contratos_descartados.append(existente_copy)
-                contratos_unicos[numero] = (contrato, null_count)
-            elif null_count == existente_nulls:
-                # empate -> mantém o primeiro
-                contrato_copy = contrato.copy()
-                contrato_copy.update(
-                    {"motivo_descarte": "empate_mesmo_numero", "null_count": null_count}
-                )
-                contratos_descartados.append(contrato_copy)
-            else:
-                # novo é mais incompleto
-                contrato_copy = contrato.copy()
-                contrato_copy.update(
-                    {"motivo_descarte": "mais_incompleto", "null_count": null_count}
-                )
-                contratos_descartados.append(contrato_copy)
-
-    unicos = [c for c, _ in contratos_unicos.values()]
-    return unicos, contratos_descartados, ocorrencias_por_numero
-
-
-def salvar_json(dados, caminho):
-    with open(caminho, "w", encoding="utf-8") as f:
-        json.dump(dados, f, ensure_ascii=False, indent=2)
-    print(f"💾 Dados salvos em: {caminho}")
-
+import json
+import os
+from datetime import datetime
+import time
 
 def main():
     print("🚀 Iniciando coleta de contratos ANP via API...")
-    contratos = coletar_contratos()
+    
+    try:
+        # Configurações da API
+        BASE_URL = "https://dadosabertos.compras.gov.br/modulo-contratos/1_consultarContratos"
+        todos_contratos = []
+        
+        # Parâmetros fixos
+        params_base = {
+            "codigoOrgao": "32205",
+            "tamanhoPagina": 500
+        }
+        
+        # Período de busca (2000 até ano atual)
+        ano_atual = datetime.now().year
+        ano_inicio = 2000
+        
+        print(f"📅 Buscando contratos de {ano_inicio} a {ano_atual}...")
+        
+        # Loop por anos
+        for ano in range(ano_inicio, ano_atual + 1):
+            print(f"\n🔍 Processando ano {ano}...")
+            
+            data_inicio = f"{ano}-01-01"
+            data_fim = f"{ano}-12-31"
+            
+            pagina = 1
+            tem_mais_paginas = True
+            
+            while tem_mais_paginas:
+                # Parâmetros da requisição
+                params = params_base.copy()
+                params.update({
+                    "dataVigenciaInicialMin": data_inicio,
+                    "dataVigenciaInicialMax": data_fim,
+                    "pagina": pagina
+                })
+                
+                print(f"   📄 Página {pagina}...")
+                
+                try:
+                    # Fazer requisição
+                    response = requests.get(BASE_URL, params=params, timeout=60)
+                    response.raise_for_status()
+                    
+                    dados = response.json()
+                    
+                    # Extrair contratos
+                    contratos = dados.get("resultado", [])
+                    total_paginas = dados.get("totalPaginas", 1)
+                    total_registros = dados.get("totalRegistros", 0)
+                    
+                    print(f"   ✅ {len(contratos)} contratos encontrados (Total: {total_registros})")
+                    
+                    if not contratos:
+                        break
+                    
+                    # Processar e formatar cada contrato (mantendo TUDO)
+                    for contrato in contratos:
+                        contrato_formatado = formatar_contrato_completo(contrato)
+                        todos_contratos.append(contrato_formatado)
+                    
+                    # Verificar se há mais páginas
+                    if pagina >= total_paginas:
+                        tem_mais_paginas = False
+                    else:
+                        pagina += 1
+                    
+                    # Delay para não sobrecarregar a API
+                    time.sleep(0.5)
+                        
+                except requests.exceptions.RequestException as e:
+                    print(f"   ❌ Erro na página {pagina}: {e}")
+                    break
+                except json.JSONDecodeError as e:
+                    print(f"   ❌ Erro ao decodificar JSON: {e}")
+                    break
+        
+        # 🔑 Remover duplicados por numeroContrato
+        todos_contratos_unicos = remover_duplicados_por_numero(todos_contratos)
+        
+        # Salvar dados
+        salvar_contratos(todos_contratos_unicos)
+        
+        print(f"\n🎉 Concluído! Total coletados: {len(todos_contratos)} | Únicos por numeroContrato: {len(todos_contratos_unicos)}")
+        return True
+        
+    except Exception as e:
+        print(f"❌ Erro geral: {e}")
+        import traceback
+        traceback.print_exc()
+        return False
 
-    unicos, descartados, ocorrencias = remover_duplicados_com_diagnostico(contratos)
+def remover_duplicados_por_numero(contratos):
+    """Remove contratos duplicados com base em numeroContrato"""
+    unicos = {}
+    for c in contratos:
+        numero = c.get("numeroContrato")
+        if numero and numero not in unicos:
+            unicos[numero] = c
+    return list(unicos.values())
 
-    salvar_json(unicos, ARQUIVO_SAIDA)
-    salvar_json(descartados, ARQUIVO_DESCARTADOS)
+def formatar_contrato_completo(contrato):
+    """Mantém todos os campos da API, apenas formatando valores"""
+    return {
+        # Identificação
+        "codigoOrgao": contrato.get("codigoOrgao"),
+        "nomeOrgao": contrato.get("nomeOrgao"),
+        "codigoUnidadeGestora": contrato.get("codigoUnidadeGestora"),
+        "nomeUnidadeGestora": contrato.get("nomeUnidadeGestora"),
+        "codigoUnidadeGestoraOrigemContrato": contrato.get("codigoUnidadeGestoraOrigemContrato"),
+        "nomeUnidadeGestoraOrigemContrato": contrato.get("nomeUnidadeGestoraOrigemContrato"),
+        "receitaDespesa": contrato.get("receitaDespesa"),
+        
+        # Contrato
+        "numeroContrato": contrato.get("numeroContrato"),
+        "codigoUnidadeRealizadoraCompra": contrato.get("codigoUnidadeRealizadoraCompra"),
+        "nomeUnidadeRealizadoraCompra": contrato.get("nomeUnidadeRealizadoraCompra"),
+        "numeroCompra": contrato.get("numeroCompra"),
+        
+        # Modalidade
+        "codigoModalidadeCompra": contrato.get("codigoModalidadeCompra"),
+        "nomeModalidadeCompra": contrato.get("nomeModalidadeCompra"),
+        "codigoTipo": contrato.get("codigoTipo"),
+        "nomeTipo": contrato.get("nomeTipo"),
+        
+        # Categoria
+        "codigoCategoria": contrato.get("codigoCategoria"),
+        "nomeCategoria": contrato.get("nomeCategoria"),
+        "codigoSubcategoria": contrato.get("codigoSubcategoria"),
+        "nomeSubcategoria": contrato.get("nomeSubcategoria"),
+        
+        # Fornecedor
+        "niFornecedor": contrato.get("niFornecedor"),
+        "nomeRazaoSocialFornecedor": contrato.get("nomeRazaoSocialFornecedor"),
+        
+        # Detalhes
+        "processo": contrato.get("processo"),
+        "objeto": contrato.get("objeto"),
+        "informacoesComplementares": contrato.get("informacoesComplementares"),
+        
+        # Datas (formatadas)
+        "dataVigenciaInicial": formatar_data(contrato.get("dataVigenciaInicial")),
+        "dataVigenciaFinal": formatar_data(contrato.get("dataVigenciaFinal")),
+        "dataHoraInclusao": formatar_data_hora(contrato.get("dataHoraInclusao")),
+        "dataHoraExclusao": formatar_data_hora(contrato.get("dataHoraExclusao")),
+        
+        # Valores (convertidos para número)
+        "valorGlobal": float(contrato.get("valorGlobal", 0)) if contrato.get("valorGlobal") is not None else 0.0,
+        "numeroParcelas": int(contrato.get("numeroParcelas", 0)) if contrato.get("numeroParcelas") is not None else 0,
+        "valorParcela": float(contrato.get("valorParcela", 0)) if contrato.get("valorParcela") is not None else 0.0,
+        "valorAcumulado": float(contrato.get("valorAcumulado", 0)) if contrato.get("valorAcumulado") is not None else 0.0,
+        "totalDespesasAcessorias": float(contrato.get("totalDespesasAcessorias", 0)) if contrato.get("totalDespesasAcessorias") is not None else 0.0,
+        
+        # Controle
+        "numeroControlePncpContrato": contrato.get("numeroControlePncpContrato"),
+        "idCompra": contrato.get("idCompra"),
+        "contratoExcluido": bool(contrato.get("contratoExcluido", False)),
+        "unidadesRequisitantes": contrato.get("unidadesRequisitantes"),
+        
+        # Metadados
+        "anoVigencia": extrair_ano(contrato.get("dataVigenciaInicial")),
+        "dataColeta": datetime.now().isoformat()
+    }
 
-    print(
-        f"\n🎉 Concluído! Total coletados: {len(contratos)} | Únicos: {len(unicos)} | Descartados: {len(descartados)}"
-    )
+def formatar_data(data_str):
+    """Converte data para formato ISO (apenas data)"""
+    if not data_str:
+        return None
+    try:
+        if "T" in data_str:
+            return data_str.split("T")[0]
+        return data_str
+    except:
+        return None
 
-    # Diagnóstico rápido
-    repetidos = {k: v for k, v in ocorrencias.items() if v["count"] > 1}
-    print(f"\n📊 Diagnóstico: {len(repetidos)} numerosContrato com mais de 1 ocorrência")
-    for numero, info in list(repetidos.items())[:5]:
-        print(f"   - {numero}: {info['count']} ocorrências (amostras: {info['samples']})")
+def formatar_data_hora(data_str):
+    """Mantém datetime completo quando disponível"""
+    return data_str if data_str else None
 
+def extrair_ano(data_str):
+    """Extrai ano da data"""
+    if not data_str:
+        return None
+    try:
+        if "T" in data_str:
+            return int(data_str.split("T")[0].split("-")[0])
+        return int(data_str.split("-")[0])
+    except:
+        return None
+
+def salvar_contratos(contratos):
+    """Salva os contratos em JSON"""
+    os.makedirs('data', exist_ok=True)
+    
+    resultado = {
+        "ultima_atualizacao": datetime.now().isoformat(),
+        "total_registros": len(contratos),
+        "dados": contratos
+    }
+    
+    with open('data/contratos.json', 'w', encoding='utf-8') as f:
+        json.dump(resultado, f, ensure_ascii=False, indent=2, default=str)
+    
+    print(f"💾 Dados salvos em: data/contratos.json")
 
 if __name__ == "__main__":
-    main()
+    success = main()
+    exit(0 if success else 1)
