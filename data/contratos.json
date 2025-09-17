@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2025-09-16T06:52:17.033331",
+  "ultima_atualizacao": "2025-09-17T15:00:03.944611",
   "total_registros": 630,
   "dados": [
     {
@@ -41,7 +41,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2008,
-      "dataColeta": "2025-09-16T06:51:58.826386"
+      "dataColeta": "2025-09-17T14:59:36.377648"
     },
     {
       "codigoOrgao": "32205",
@@ -82,7 +82,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2009,
-      "dataColeta": "2025-09-16T06:52:00.175548"
+      "dataColeta": "2025-09-17T14:59:37.610054"
     },
     {
       "codigoOrgao": "32205",
@@ -123,7 +123,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2009,
-      "dataColeta": "2025-09-16T06:52:00.175542"
+      "dataColeta": "2025-09-17T14:59:37.610047"
     },
     {
       "codigoOrgao": "32205",
@@ -164,7 +164,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2009,
-      "dataColeta": "2025-09-16T06:52:00.175535"
+      "dataColeta": "2025-09-17T14:59:37.610022"
     },
     {
       "codigoOrgao": "32205",
@@ -205,7 +205,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2009,
-      "dataColeta": "2025-09-16T06:52:00.175527"
+      "dataColeta": "2025-09-17T14:59:37.610015"
     },
     {
       "codigoOrgao": "32205",
@@ -246,7 +246,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2013,
-      "dataColeta": "2025-09-16T06:52:02.136352"
+      "dataColeta": "2025-09-17T14:59:42.453776"
     },
     {
       "codigoOrgao": "32205",
@@ -287,7 +287,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2015,
-      "dataColeta": "2025-09-16T06:52:03.190942"
+      "dataColeta": "2025-09-17T14:59:44.325944"
     },
     {
       "codigoOrgao": "32205",
@@ -328,7 +328,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2015,
-      "dataColeta": "2025-09-16T06:52:03.190948"
+      "dataColeta": "2025-09-17T14:59:44.325950"
     },
     {
       "codigoOrgao": "32205",
@@ -369,7 +369,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2015,
-      "dataColeta": "2025-09-16T06:52:03.190973"
+      "dataColeta": "2025-09-17T14:59:44.325975"
     },
     {
       "codigoOrgao": "32205",
@@ -410,7 +410,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2015,
-      "dataColeta": "2025-09-16T06:52:03.190955"
+      "dataColeta": "2025-09-17T14:59:44.325957"
     },
     {
       "codigoOrgao": "32205",
@@ -451,7 +451,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2015,
-      "dataColeta": "2025-09-16T06:52:03.190961"
+      "dataColeta": "2025-09-17T14:59:44.325963"
     },
     {
       "codigoOrgao": "32205",
@@ -492,7 +492,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2015,
-      "dataColeta": "2025-09-16T06:52:03.190967"
+      "dataColeta": "2025-09-17T14:59:44.325969"
     },
     {
       "codigoOrgao": "32205",
@@ -533,7 +533,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA - BDEP",
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353679"
+      "dataColeta": "2025-09-17T14:59:45.915675"
     },
     {
       "codigoOrgao": "32205",
@@ -574,7 +574,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353632"
+      "dataColeta": "2025-09-17T14:59:45.915628"
     },
     {
       "codigoOrgao": "32205",
@@ -615,7 +615,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353574"
+      "dataColeta": "2025-09-17T14:59:45.915567"
     },
     {
       "codigoOrgao": "32205",
@@ -656,7 +656,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353599"
+      "dataColeta": "2025-09-17T14:59:45.915595"
     },
     {
       "codigoOrgao": "32205",
@@ -697,7 +697,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353649"
+      "dataColeta": "2025-09-17T14:59:45.915645"
     },
     {
       "codigoOrgao": "32205",
@@ -738,7 +738,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353564"
+      "dataColeta": "2025-09-17T14:59:45.915561"
     },
     {
       "codigoOrgao": "32205",
@@ -779,7 +779,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353704"
+      "dataColeta": "2025-09-17T14:59:45.915698"
     },
     {
       "codigoOrgao": "32205",
@@ -820,7 +820,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353721"
+      "dataColeta": "2025-09-17T14:59:45.915716"
     },
     {
       "codigoOrgao": "32205",
@@ -861,7 +861,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353655"
+      "dataColeta": "2025-09-17T14:59:45.915651"
     },
     {
       "codigoOrgao": "32205",
@@ -902,7 +902,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353668"
+      "dataColeta": "2025-09-17T14:59:45.915664"
     },
     {
       "codigoOrgao": "32205",
@@ -943,7 +943,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353621"
+      "dataColeta": "2025-09-17T14:59:45.915617"
     },
     {
       "codigoOrgao": "32205",
@@ -984,7 +984,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353661"
+      "dataColeta": "2025-09-17T14:59:45.915656"
     },
     {
       "codigoOrgao": "32205",
@@ -1025,7 +1025,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353610"
+      "dataColeta": "2025-09-17T14:59:45.915606"
     },
     {
       "codigoOrgao": "32205",
@@ -1066,7 +1066,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353685"
+      "dataColeta": "2025-09-17T14:59:45.915681"
     },
     {
       "codigoOrgao": "32205",
@@ -1107,7 +1107,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353715"
+      "dataColeta": "2025-09-17T14:59:45.915711"
     },
     {
       "codigoOrgao": "32205",
@@ -1148,7 +1148,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353638"
+      "dataColeta": "2025-09-17T14:59:45.915634"
     },
     {
       "codigoOrgao": "32205",
@@ -1189,7 +1189,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353587"
+      "dataColeta": "2025-09-17T14:59:45.915580"
     },
     {
       "codigoOrgao": "32205",
@@ -1230,7 +1230,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353627"
+      "dataColeta": "2025-09-17T14:59:45.915623"
     },
     {
       "codigoOrgao": "32205",
@@ -1271,7 +1271,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353644"
+      "dataColeta": "2025-09-17T14:59:45.915640"
     },
     {
       "codigoOrgao": "32205",
@@ -1312,7 +1312,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353698"
+      "dataColeta": "2025-09-17T14:59:45.915692"
     },
     {
       "codigoOrgao": "32205",
@@ -1353,7 +1353,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353691"
+      "dataColeta": "2025-09-17T14:59:45.915686"
     },
     {
       "codigoOrgao": "32205",
@@ -1394,7 +1394,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353727"
+      "dataColeta": "2025-09-17T14:59:45.915722"
     },
     {
       "codigoOrgao": "32205",
@@ -1435,7 +1435,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353674"
+      "dataColeta": "2025-09-17T14:59:45.915670"
     },
     {
       "codigoOrgao": "32205",
@@ -1476,7 +1476,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353593"
+      "dataColeta": "2025-09-17T14:59:45.915589"
     },
     {
       "codigoOrgao": "32205",
@@ -1517,7 +1517,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353558"
+      "dataColeta": "2025-09-17T14:59:45.915556"
     },
     {
       "codigoOrgao": "32205",
@@ -1558,7 +1558,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353710"
+      "dataColeta": "2025-09-17T14:59:45.915703"
     },
     {
       "codigoOrgao": "32205",
@@ -1599,7 +1599,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353616"
+      "dataColeta": "2025-09-17T14:59:45.915612"
     },
     {
       "codigoOrgao": "32205",
@@ -1640,7 +1640,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353604"
+      "dataColeta": "2025-09-17T14:59:45.915600"
     },
     {
       "codigoOrgao": "32205",
@@ -1681,7 +1681,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2016,
-      "dataColeta": "2025-09-16T06:52:04.353580"
+      "dataColeta": "2025-09-17T14:59:45.915574"
     },
     {
       "codigoOrgao": "32205",
@@ -1722,7 +1722,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520397"
+      "dataColeta": "2025-09-17T14:59:47.385508"
     },
     {
       "codigoOrgao": "32205",
@@ -1763,7 +1763,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520448"
+      "dataColeta": "2025-09-17T14:59:47.385559"
     },
     {
       "codigoOrgao": "32205",
@@ -1804,7 +1804,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520221"
+      "dataColeta": "2025-09-17T14:59:47.385334"
     },
     {
       "codigoOrgao": "32205",
@@ -1845,7 +1845,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520348"
+      "dataColeta": "2025-09-17T14:59:47.385459"
     },
     {
       "codigoOrgao": "32205",
@@ -1886,7 +1886,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520414"
+      "dataColeta": "2025-09-17T14:59:47.385525"
     },
     {
       "codigoOrgao": "32205",
@@ -1927,7 +1927,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520425"
+      "dataColeta": "2025-09-17T14:59:47.385537"
     },
     {
       "codigoOrgao": "32205",
@@ -1968,7 +1968,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520470"
+      "dataColeta": "2025-09-17T14:59:47.385582"
     },
     {
       "codigoOrgao": "32205",
@@ -2009,7 +2009,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520419"
+      "dataColeta": "2025-09-17T14:59:47.385531"
     },
     {
       "codigoOrgao": "32205",
@@ -2050,7 +2050,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520403"
+      "dataColeta": "2025-09-17T14:59:47.385514"
     },
     {
       "codigoOrgao": "32205",
@@ -2091,7 +2091,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520391"
+      "dataColeta": "2025-09-17T14:59:47.385502"
     },
     {
       "codigoOrgao": "32205",
@@ -2132,7 +2132,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520380"
+      "dataColeta": "2025-09-17T14:59:47.385488"
     },
     {
       "codigoOrgao": "32205",
@@ -2173,7 +2173,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520459"
+      "dataColeta": "2025-09-17T14:59:47.385571"
     },
     {
       "codigoOrgao": "32205",
@@ -2214,7 +2214,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520386"
+      "dataColeta": "2025-09-17T14:59:47.385496"
     },
     {
       "codigoOrgao": "32205",
@@ -2255,7 +2255,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520368"
+      "dataColeta": "2025-09-17T14:59:47.385476"
     },
     {
       "codigoOrgao": "32205",
@@ -2296,7 +2296,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520408"
+      "dataColeta": "2025-09-17T14:59:47.385519"
     },
     {
       "codigoOrgao": "32205",
@@ -2337,7 +2337,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520464"
+      "dataColeta": "2025-09-17T14:59:47.385577"
     },
     {
       "codigoOrgao": "32205",
@@ -2378,7 +2378,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520363"
+      "dataColeta": "2025-09-17T14:59:47.385471"
     },
     {
       "codigoOrgao": "32205",
@@ -2419,7 +2419,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520354"
+      "dataColeta": "2025-09-17T14:59:47.385465"
     },
     {
       "codigoOrgao": "32205",
@@ -2460,7 +2460,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520436"
+      "dataColeta": "2025-09-17T14:59:47.385548"
     },
     {
       "codigoOrgao": "32205",
@@ -2501,7 +2501,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520442"
+      "dataColeta": "2025-09-17T14:59:47.385554"
     },
     {
       "codigoOrgao": "32205",
@@ -2542,7 +2542,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520374"
+      "dataColeta": "2025-09-17T14:59:47.385482"
     },
     {
       "codigoOrgao": "32205",
@@ -2583,7 +2583,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520431"
+      "dataColeta": "2025-09-17T14:59:47.385542"
     },
     {
       "codigoOrgao": "32205",
@@ -2624,7 +2624,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2017,
-      "dataColeta": "2025-09-16T06:52:05.520453"
+      "dataColeta": "2025-09-17T14:59:47.385565"
     },
     {
       "codigoOrgao": "32205",
@@ -2665,7 +2665,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009345"
+      "dataColeta": "2025-09-17T14:59:49.565344"
     },
     {
       "codigoOrgao": "32205",
@@ -2706,7 +2706,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009256"
+      "dataColeta": "2025-09-17T14:59:49.565260"
     },
     {
       "codigoOrgao": "32205",
@@ -2747,7 +2747,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009296"
+      "dataColeta": "2025-09-17T14:59:49.565299"
     },
     {
       "codigoOrgao": "32205",
@@ -2788,7 +2788,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009301"
+      "dataColeta": "2025-09-17T14:59:49.565305"
     },
     {
       "codigoOrgao": "32205",
@@ -2829,7 +2829,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009307"
+      "dataColeta": "2025-09-17T14:59:49.565310"
     },
     {
       "codigoOrgao": "32205",
@@ -2870,7 +2870,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009313"
+      "dataColeta": "2025-09-17T14:59:49.565316"
     },
     {
       "codigoOrgao": "32205",
@@ -2911,7 +2911,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009325"
+      "dataColeta": "2025-09-17T14:59:49.565327"
     },
     {
       "codigoOrgao": "32205",
@@ -2952,7 +2952,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009240"
+      "dataColeta": "2025-09-17T14:59:49.565244"
     },
     {
       "codigoOrgao": "32205",
@@ -2993,7 +2993,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009356"
+      "dataColeta": "2025-09-17T14:59:49.565357"
     },
     {
       "codigoOrgao": "32205",
@@ -3034,7 +3034,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009290"
+      "dataColeta": "2025-09-17T14:59:49.565294"
     },
     {
       "codigoOrgao": "32205",
@@ -3075,7 +3075,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009279"
+      "dataColeta": "2025-09-17T14:59:49.565283"
     },
     {
       "codigoOrgao": "32205",
@@ -3116,7 +3116,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009331"
+      "dataColeta": "2025-09-17T14:59:49.565333"
     },
     {
       "codigoOrgao": "32205",
@@ -3157,7 +3157,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009273"
+      "dataColeta": "2025-09-17T14:59:49.565277"
     },
     {
       "codigoOrgao": "32205",
@@ -3198,7 +3198,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009362"
+      "dataColeta": "2025-09-17T14:59:49.565363"
     },
     {
       "codigoOrgao": "32205",
@@ -3239,7 +3239,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009251"
+      "dataColeta": "2025-09-17T14:59:49.565255"
     },
     {
       "codigoOrgao": "32205",
@@ -3280,7 +3280,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009319"
+      "dataColeta": "2025-09-17T14:59:49.565321"
     },
     {
       "codigoOrgao": "32205",
@@ -3321,7 +3321,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009285"
+      "dataColeta": "2025-09-17T14:59:49.565288"
     },
     {
       "codigoOrgao": "32205",
@@ -3362,7 +3362,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009268"
+      "dataColeta": "2025-09-17T14:59:49.565271"
     },
     {
       "codigoOrgao": "32205",
@@ -3403,7 +3403,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009339"
+      "dataColeta": "2025-09-17T14:59:49.565338"
     },
     {
       "codigoOrgao": "32205",
@@ -3444,7 +3444,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009351"
+      "dataColeta": "2025-09-17T14:59:49.565351"
     },
     {
       "codigoOrgao": "32205",
@@ -3485,7 +3485,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009368"
+      "dataColeta": "2025-09-17T14:59:49.565368"
     },
     {
       "codigoOrgao": "32205",
@@ -3526,7 +3526,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009245"
+      "dataColeta": "2025-09-17T14:59:49.565249"
     },
     {
       "codigoOrgao": "32205",
@@ -3567,7 +3567,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2018,
-      "dataColeta": "2025-09-16T06:52:07.009262"
+      "dataColeta": "2025-09-17T14:59:49.565266"
     },
     {
       "codigoOrgao": "32205",
@@ -3608,7 +3608,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465173"
+      "dataColeta": "2025-09-17T14:59:51.623402"
     },
     {
       "codigoOrgao": "32205",
@@ -3649,7 +3649,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465271"
+      "dataColeta": "2025-09-17T14:59:51.623497"
     },
     {
       "codigoOrgao": "32205",
@@ -3690,7 +3690,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465145"
+      "dataColeta": "2025-09-17T14:59:51.623372"
     },
     {
       "codigoOrgao": "32205",
@@ -3731,7 +3731,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465259"
+      "dataColeta": "2025-09-17T14:59:51.623485"
     },
     {
       "codigoOrgao": "32205",
@@ -3772,7 +3772,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465189"
+      "dataColeta": "2025-09-17T14:59:51.623419"
     },
     {
       "codigoOrgao": "32205",
@@ -3813,7 +3813,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465161"
+      "dataColeta": "2025-09-17T14:59:51.623391"
     },
     {
       "codigoOrgao": "32205",
@@ -3854,7 +3854,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465206"
+      "dataColeta": "2025-09-17T14:59:51.623435"
     },
     {
       "codigoOrgao": "32205",
@@ -3895,7 +3895,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465405"
+      "dataColeta": "2025-09-17T14:59:51.623628"
     },
     {
       "codigoOrgao": "32205",
@@ -3936,7 +3936,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465288"
+      "dataColeta": "2025-09-17T14:59:51.623515"
     },
     {
       "codigoOrgao": "32205",
@@ -3977,7 +3977,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465235"
+      "dataColeta": "2025-09-17T14:59:51.623463"
     },
     {
       "codigoOrgao": "32205",
@@ -4018,7 +4018,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465338"
+      "dataColeta": "2025-09-17T14:59:51.623565"
     },
     {
       "codigoOrgao": "32205",
@@ -4059,7 +4059,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465112"
+      "dataColeta": "2025-09-17T14:59:51.623342"
     },
     {
       "codigoOrgao": "32205",
@@ -4100,7 +4100,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465305"
+      "dataColeta": "2025-09-17T14:59:51.623532"
     },
     {
       "codigoOrgao": "32205",
@@ -4141,7 +4141,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465332"
+      "dataColeta": "2025-09-17T14:59:51.623559"
     },
     {
       "codigoOrgao": "32205",
@@ -4182,7 +4182,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465400"
+      "dataColeta": "2025-09-17T14:59:51.623621"
     },
     {
       "codigoOrgao": "32205",
@@ -4223,7 +4223,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465366"
+      "dataColeta": "2025-09-17T14:59:51.623593"
     },
     {
       "codigoOrgao": "32205",
@@ -4264,7 +4264,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465195"
+      "dataColeta": "2025-09-17T14:59:51.623424"
     },
     {
       "codigoOrgao": "32205",
@@ -4305,7 +4305,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465167"
+      "dataColeta": "2025-09-17T14:59:51.623397"
     },
     {
       "codigoOrgao": "32205",
@@ -4346,7 +4346,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465327"
+      "dataColeta": "2025-09-17T14:59:51.623554"
     },
     {
       "codigoOrgao": "32205",
@@ -4387,7 +4387,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465124"
+      "dataColeta": "2025-09-17T14:59:51.623353"
     },
     {
       "codigoOrgao": "32205",
@@ -4428,7 +4428,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465246"
+      "dataColeta": "2025-09-17T14:59:51.623474"
     },
     {
       "codigoOrgao": "32205",
@@ -4469,7 +4469,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465299"
+      "dataColeta": "2025-09-17T14:59:51.623526"
     },
     {
       "codigoOrgao": "32205",
@@ -4510,7 +4510,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465282"
+      "dataColeta": "2025-09-17T14:59:51.623509"
     },
     {
       "codigoOrgao": "32205",
@@ -4551,7 +4551,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465107"
+      "dataColeta": "2025-09-17T14:59:51.623337"
     },
     {
       "codigoOrgao": "32205",
@@ -4592,7 +4592,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "323031",
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465349"
+      "dataColeta": "2025-09-17T14:59:51.623576"
     },
     {
       "codigoOrgao": "32205",
@@ -4633,7 +4633,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465411"
+      "dataColeta": "2025-09-17T14:59:51.623634"
     },
     {
       "codigoOrgao": "32205",
@@ -4674,7 +4674,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465372"
+      "dataColeta": "2025-09-17T14:59:51.623599"
     },
     {
       "codigoOrgao": "32205",
@@ -4715,7 +4715,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465223"
+      "dataColeta": "2025-09-17T14:59:51.623452"
     },
     {
       "codigoOrgao": "32205",
@@ -4756,7 +4756,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465139"
+      "dataColeta": "2025-09-17T14:59:51.623367"
     },
     {
       "codigoOrgao": "32205",
@@ -4797,7 +4797,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465218"
+      "dataColeta": "2025-09-17T14:59:51.623446"
     },
     {
       "codigoOrgao": "32205",
@@ -4838,7 +4838,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465156"
+      "dataColeta": "2025-09-17T14:59:51.623384"
     },
     {
       "codigoOrgao": "32205",
@@ -4879,7 +4879,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465294"
+      "dataColeta": "2025-09-17T14:59:51.623521"
     },
     {
       "codigoOrgao": "32205",
@@ -4920,7 +4920,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465118"
+      "dataColeta": "2025-09-17T14:59:51.623348"
     },
     {
       "codigoOrgao": "32205",
@@ -4961,7 +4961,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465276"
+      "dataColeta": "2025-09-17T14:59:51.623502"
     },
     {
       "codigoOrgao": "32205",
@@ -5002,7 +5002,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465184"
+      "dataColeta": "2025-09-17T14:59:51.623413"
     },
     {
       "codigoOrgao": "32205",
@@ -5043,7 +5043,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465417"
+      "dataColeta": "2025-09-17T14:59:51.623640"
     },
     {
       "codigoOrgao": "32205",
@@ -5084,7 +5084,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465379"
+      "dataColeta": "2025-09-17T14:59:51.623604"
     },
     {
       "codigoOrgao": "32205",
@@ -5125,7 +5125,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465252"
+      "dataColeta": "2025-09-17T14:59:51.623480"
     },
     {
       "codigoOrgao": "32205",
@@ -5166,7 +5166,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465265"
+      "dataColeta": "2025-09-17T14:59:51.623491"
     },
     {
       "codigoOrgao": "32205",
@@ -5207,7 +5207,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465344"
+      "dataColeta": "2025-09-17T14:59:51.623571"
     },
     {
       "codigoOrgao": "32205",
@@ -5248,7 +5248,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465131"
+      "dataColeta": "2025-09-17T14:59:51.623361"
     },
     {
       "codigoOrgao": "32205",
@@ -5289,7 +5289,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465201"
+      "dataColeta": "2025-09-17T14:59:51.623430"
     },
     {
       "codigoOrgao": "32205",
@@ -5330,7 +5330,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465150"
+      "dataColeta": "2025-09-17T14:59:51.623378"
     },
     {
       "codigoOrgao": "32205",
@@ -5371,7 +5371,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465355"
+      "dataColeta": "2025-09-17T14:59:51.623582"
     },
     {
       "codigoOrgao": "32205",
@@ -5412,7 +5412,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465321"
+      "dataColeta": "2025-09-17T14:59:51.623548"
     },
     {
       "codigoOrgao": "32205",
@@ -5453,7 +5453,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465392"
+      "dataColeta": "2025-09-17T14:59:51.623615"
     },
     {
       "codigoOrgao": "32205",
@@ -5494,7 +5494,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465178"
+      "dataColeta": "2025-09-17T14:59:51.623408"
     },
     {
       "codigoOrgao": "32205",
@@ -5535,7 +5535,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465422"
+      "dataColeta": "2025-09-17T14:59:51.623645"
     },
     {
       "codigoOrgao": "32205",
@@ -5576,7 +5576,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465360"
+      "dataColeta": "2025-09-17T14:59:51.623588"
     },
     {
       "codigoOrgao": "32205",
@@ -5617,7 +5617,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465310"
+      "dataColeta": "2025-09-17T14:59:51.623537"
     },
     {
       "codigoOrgao": "32205",
@@ -5658,7 +5658,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465241"
+      "dataColeta": "2025-09-17T14:59:51.623469"
     },
     {
       "codigoOrgao": "32205",
@@ -5699,7 +5699,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465316"
+      "dataColeta": "2025-09-17T14:59:51.623543"
     },
     {
       "codigoOrgao": "32205",
@@ -5740,7 +5740,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465212"
+      "dataColeta": "2025-09-17T14:59:51.623441"
     },
     {
       "codigoOrgao": "32205",
@@ -5781,7 +5781,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465385"
+      "dataColeta": "2025-09-17T14:59:51.623610"
     },
     {
       "codigoOrgao": "32205",
@@ -5822,7 +5822,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2019,
-      "dataColeta": "2025-09-16T06:52:08.465229"
+      "dataColeta": "2025-09-17T14:59:51.623457"
     },
     {
       "codigoOrgao": "32205",
@@ -5863,7 +5863,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932707"
+      "dataColeta": "2025-09-17T14:59:53.611050"
     },
     {
       "codigoOrgao": "32205",
@@ -5904,7 +5904,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932662"
+      "dataColeta": "2025-09-17T14:59:53.610993"
     },
     {
       "codigoOrgao": "32205",
@@ -5945,7 +5945,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932484"
+      "dataColeta": "2025-09-17T14:59:53.610813"
     },
     {
       "codigoOrgao": "32205",
@@ -5986,7 +5986,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932466"
+      "dataColeta": "2025-09-17T14:59:53.610796"
     },
     {
       "codigoOrgao": "32205",
@@ -6027,7 +6027,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932420"
+      "dataColeta": "2025-09-17T14:59:53.610751"
     },
     {
       "codigoOrgao": "32205",
@@ -6068,7 +6068,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932749"
+      "dataColeta": "2025-09-17T14:59:53.611092"
     },
     {
       "codigoOrgao": "32205",
@@ -6109,7 +6109,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932507"
+      "dataColeta": "2025-09-17T14:59:53.610838"
     },
     {
       "codigoOrgao": "32205",
@@ -6150,7 +6150,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932537"
+      "dataColeta": "2025-09-17T14:59:53.610867"
     },
     {
       "codigoOrgao": "32205",
@@ -6191,7 +6191,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932727"
+      "dataColeta": "2025-09-17T14:59:53.611068"
     },
     {
       "codigoOrgao": "32205",
@@ -6232,7 +6232,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932702"
+      "dataColeta": "2025-09-17T14:59:53.611044"
     },
     {
       "codigoOrgao": "32205",
@@ -6273,7 +6273,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932628"
+      "dataColeta": "2025-09-17T14:59:53.610959"
     },
     {
       "codigoOrgao": "32205",
@@ -6314,7 +6314,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932409"
+      "dataColeta": "2025-09-17T14:59:53.610740"
     },
     {
       "codigoOrgao": "32205",
@@ -6355,7 +6355,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932496"
+      "dataColeta": "2025-09-17T14:59:53.610827"
     },
     {
       "codigoOrgao": "32205",
@@ -6396,7 +6396,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932460"
+      "dataColeta": "2025-09-17T14:59:53.610791"
     },
     {
       "codigoOrgao": "32205",
@@ -6437,7 +6437,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932743"
+      "dataColeta": "2025-09-17T14:59:53.611087"
     },
     {
       "codigoOrgao": "32205",
@@ -6478,7 +6478,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932651"
+      "dataColeta": "2025-09-17T14:59:53.610981"
     },
     {
       "codigoOrgao": "32205",
@@ -6519,7 +6519,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932514"
+      "dataColeta": "2025-09-17T14:59:53.610845"
     },
     {
       "codigoOrgao": "32205",
@@ -6560,7 +6560,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932438"
+      "dataColeta": "2025-09-17T14:59:53.610768"
     },
     {
       "codigoOrgao": "32205",
@@ -6601,7 +6601,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932673"
+      "dataColeta": "2025-09-17T14:59:53.611004"
     },
     {
       "codigoOrgao": "32205",
@@ -6642,7 +6642,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932553"
+      "dataColeta": "2025-09-17T14:59:53.610884"
     },
     {
       "codigoOrgao": "32205",
@@ -6683,7 +6683,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932738"
+      "dataColeta": "2025-09-17T14:59:53.611081"
     },
     {
       "codigoOrgao": "32205",
@@ -6724,7 +6724,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932157"
+      "dataColeta": "2025-09-17T14:59:53.610484"
     },
     {
       "codigoOrgao": "32205",
@@ -6765,7 +6765,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932713"
+      "dataColeta": "2025-09-17T14:59:53.611056"
     },
     {
       "codigoOrgao": "32205",
@@ -6806,7 +6806,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932634"
+      "dataColeta": "2025-09-17T14:59:53.610964"
     },
     {
       "codigoOrgao": "32205",
@@ -6847,7 +6847,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932581"
+      "dataColeta": "2025-09-17T14:59:53.610912"
     },
     {
       "codigoOrgao": "32205",
@@ -6888,7 +6888,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932455"
+      "dataColeta": "2025-09-17T14:59:53.610785"
     },
     {
       "codigoOrgao": "32205",
@@ -6929,7 +6929,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SDT",
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932564"
+      "dataColeta": "2025-09-17T14:59:53.610895"
     },
     {
       "codigoOrgao": "32205",
@@ -6970,7 +6970,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932570"
+      "dataColeta": "2025-09-17T14:59:53.610901"
     },
     {
       "codigoOrgao": "32205",
@@ -7011,7 +7011,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932490"
+      "dataColeta": "2025-09-17T14:59:53.610821"
     },
     {
       "codigoOrgao": "32205",
@@ -7052,7 +7052,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932755"
+      "dataColeta": "2025-09-17T14:59:53.611098"
     },
     {
       "codigoOrgao": "32205",
@@ -7093,7 +7093,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932559"
+      "dataColeta": "2025-09-17T14:59:53.610890"
     },
     {
       "codigoOrgao": "32205",
@@ -7134,7 +7134,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932606"
+      "dataColeta": "2025-09-17T14:59:53.610935"
     },
     {
       "codigoOrgao": "32205",
@@ -7175,7 +7175,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932432"
+      "dataColeta": "2025-09-17T14:59:53.610762"
     },
     {
       "codigoOrgao": "32205",
@@ -7216,7 +7216,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932449"
+      "dataColeta": "2025-09-17T14:59:53.610780"
     },
     {
       "codigoOrgao": "32205",
@@ -7257,7 +7257,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932668"
+      "dataColeta": "2025-09-17T14:59:53.610998"
     },
     {
       "codigoOrgao": "32205",
@@ -7298,7 +7298,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932623"
+      "dataColeta": "2025-09-17T14:59:53.610953"
     },
     {
       "codigoOrgao": "32205",
@@ -7339,7 +7339,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT/SBQ",
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932617"
+      "dataColeta": "2025-09-17T14:59:53.610947"
     },
     {
       "codigoOrgao": "32205",
@@ -7380,7 +7380,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932587"
+      "dataColeta": "2025-09-17T14:59:53.610918"
     },
     {
       "codigoOrgao": "32205",
@@ -7421,7 +7421,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932548"
+      "dataColeta": "2025-09-17T14:59:53.610878"
     },
     {
       "codigoOrgao": "32205",
@@ -7462,7 +7462,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932600"
+      "dataColeta": "2025-09-17T14:59:53.610929"
     },
     {
       "codigoOrgao": "32205",
@@ -7503,7 +7503,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SDT",
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932531"
+      "dataColeta": "2025-09-17T14:59:53.610862"
     },
     {
       "codigoOrgao": "32205",
@@ -7544,7 +7544,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932679"
+      "dataColeta": "2025-09-17T14:59:53.611009"
     },
     {
       "codigoOrgao": "32205",
@@ -7585,7 +7585,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932611"
+      "dataColeta": "2025-09-17T14:59:53.610942"
     },
     {
       "codigoOrgao": "32205",
@@ -7626,7 +7626,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932639"
+      "dataColeta": "2025-09-17T14:59:53.610970"
     },
     {
       "codigoOrgao": "32205",
@@ -7667,7 +7667,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932291"
+      "dataColeta": "2025-09-17T14:59:53.610619"
     },
     {
       "codigoOrgao": "32205",
@@ -7708,7 +7708,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932404"
+      "dataColeta": "2025-09-17T14:59:53.610734"
     },
     {
       "codigoOrgao": "32205",
@@ -7749,7 +7749,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932426"
+      "dataColeta": "2025-09-17T14:59:53.610756"
     },
     {
       "codigoOrgao": "32205",
@@ -7790,7 +7790,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932479"
+      "dataColeta": "2025-09-17T14:59:53.610807"
     },
     {
       "codigoOrgao": "32205",
@@ -7831,7 +7831,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932696"
+      "dataColeta": "2025-09-17T14:59:53.611026"
     },
     {
       "codigoOrgao": "32205",
@@ -7872,7 +7872,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932443"
+      "dataColeta": "2025-09-17T14:59:53.610774"
     },
     {
       "codigoOrgao": "32205",
@@ -7913,7 +7913,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932732"
+      "dataColeta": "2025-09-17T14:59:53.611075"
     },
     {
       "codigoOrgao": "32205",
@@ -7954,7 +7954,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932501"
+      "dataColeta": "2025-09-17T14:59:53.610832"
     },
     {
       "codigoOrgao": "32205",
@@ -7995,7 +7995,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932593"
+      "dataColeta": "2025-09-17T14:59:53.610923"
     },
     {
       "codigoOrgao": "32205",
@@ -8036,7 +8036,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932721"
+      "dataColeta": "2025-09-17T14:59:53.611062"
     },
     {
       "codigoOrgao": "32205",
@@ -8077,7 +8077,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932520"
+      "dataColeta": "2025-09-17T14:59:53.610851"
     },
     {
       "codigoOrgao": "32205",
@@ -8118,7 +8118,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932576"
+      "dataColeta": "2025-09-17T14:59:53.610907"
     },
     {
       "codigoOrgao": "32205",
@@ -8159,7 +8159,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932656"
+      "dataColeta": "2025-09-17T14:59:53.610987"
     },
     {
       "codigoOrgao": "32205",
@@ -8200,7 +8200,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932645"
+      "dataColeta": "2025-09-17T14:59:53.610976"
     },
     {
       "codigoOrgao": "32205",
@@ -8241,7 +8241,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932542"
+      "dataColeta": "2025-09-17T14:59:53.610873"
     },
     {
       "codigoOrgao": "32205",
@@ -8282,7 +8282,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGP",
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932415"
+      "dataColeta": "2025-09-17T14:59:53.610745"
     },
     {
       "codigoOrgao": "32205",
@@ -8323,7 +8323,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932690"
+      "dataColeta": "2025-09-17T14:59:53.611021"
     },
     {
       "codigoOrgao": "32205",
@@ -8364,7 +8364,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932525"
+      "dataColeta": "2025-09-17T14:59:53.610856"
     },
     {
       "codigoOrgao": "32205",
@@ -8405,7 +8405,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932473"
+      "dataColeta": "2025-09-17T14:59:53.610802"
     },
     {
       "codigoOrgao": "32205",
@@ -8446,7 +8446,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2020,
-      "dataColeta": "2025-09-16T06:52:09.932685"
+      "dataColeta": "2025-09-17T14:59:53.611015"
     },
     {
       "codigoOrgao": "32205",
@@ -8487,7 +8487,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553680"
+      "dataColeta": "2025-09-17T14:59:56.360231"
     },
     {
       "codigoOrgao": "32205",
@@ -8528,7 +8528,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553611"
+      "dataColeta": "2025-09-17T14:59:56.360162"
     },
     {
       "codigoOrgao": "32205",
@@ -8569,7 +8569,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553519"
+      "dataColeta": "2025-09-17T14:59:56.360071"
     },
     {
       "codigoOrgao": "32205",
@@ -8610,7 +8610,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552796"
+      "dataColeta": "2025-09-17T14:59:56.359350"
     },
     {
       "codigoOrgao": "32205",
@@ -8651,7 +8651,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552802"
+      "dataColeta": "2025-09-17T14:59:56.359356"
     },
     {
       "codigoOrgao": "32205",
@@ -8692,7 +8692,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552808"
+      "dataColeta": "2025-09-17T14:59:56.359362"
     },
     {
       "codigoOrgao": "32205",
@@ -8733,7 +8733,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552825"
+      "dataColeta": "2025-09-17T14:59:56.359368"
     },
     {
       "codigoOrgao": "32205",
@@ -8774,7 +8774,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552831"
+      "dataColeta": "2025-09-17T14:59:56.359374"
     },
     {
       "codigoOrgao": "32205",
@@ -8815,7 +8815,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552837"
+      "dataColeta": "2025-09-17T14:59:56.359380"
     },
     {
       "codigoOrgao": "32205",
@@ -8856,7 +8856,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552843"
+      "dataColeta": "2025-09-17T14:59:56.359385"
     },
     {
       "codigoOrgao": "32205",
@@ -8897,7 +8897,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552849"
+      "dataColeta": "2025-09-17T14:59:56.359391"
     },
     {
       "codigoOrgao": "32205",
@@ -8938,7 +8938,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553428"
+      "dataColeta": "2025-09-17T14:59:56.359967"
     },
     {
       "codigoOrgao": "32205",
@@ -8979,7 +8979,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552863"
+      "dataColeta": "2025-09-17T14:59:56.359403"
     },
     {
       "codigoOrgao": "32205",
@@ -9020,7 +9020,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA/CA",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552868"
+      "dataColeta": "2025-09-17T14:59:56.359408"
     },
     {
       "codigoOrgao": "32205",
@@ -9061,7 +9061,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552874"
+      "dataColeta": "2025-09-17T14:59:56.359414"
     },
     {
       "codigoOrgao": "32205",
@@ -9102,7 +9102,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553669"
+      "dataColeta": "2025-09-17T14:59:56.360220"
     },
     {
       "codigoOrgao": "32205",
@@ -9143,7 +9143,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553644"
+      "dataColeta": "2025-09-17T14:59:56.360195"
     },
     {
       "codigoOrgao": "32205",
@@ -9184,7 +9184,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA/CA",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552891"
+      "dataColeta": "2025-09-17T14:59:56.359431"
     },
     {
       "codigoOrgao": "32205",
@@ -9225,7 +9225,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552896"
+      "dataColeta": "2025-09-17T14:59:56.359436"
     },
     {
       "codigoOrgao": "32205",
@@ -9266,7 +9266,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552902"
+      "dataColeta": "2025-09-17T14:59:56.359442"
     },
     {
       "codigoOrgao": "32205",
@@ -9307,7 +9307,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552908"
+      "dataColeta": "2025-09-17T14:59:56.359448"
     },
     {
       "codigoOrgao": "32205",
@@ -9348,7 +9348,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA/CA",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552914"
+      "dataColeta": "2025-09-17T14:59:56.359453"
     },
     {
       "codigoOrgao": "32205",
@@ -9389,7 +9389,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552920"
+      "dataColeta": "2025-09-17T14:59:56.359459"
     },
     {
       "codigoOrgao": "32205",
@@ -9430,7 +9430,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552927"
+      "dataColeta": "2025-09-17T14:59:56.359465"
     },
     {
       "codigoOrgao": "32205",
@@ -9471,7 +9471,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552933"
+      "dataColeta": "2025-09-17T14:59:56.359470"
     },
     {
       "codigoOrgao": "32205",
@@ -9512,7 +9512,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552939"
+      "dataColeta": "2025-09-17T14:59:56.359476"
     },
     {
       "codigoOrgao": "32205",
@@ -9553,7 +9553,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "NSA",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553555"
+      "dataColeta": "2025-09-17T14:59:56.360107"
     },
     {
       "codigoOrgao": "32205",
@@ -9594,7 +9594,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552951"
+      "dataColeta": "2025-09-17T14:59:56.359487"
     },
     {
       "codigoOrgao": "32205",
@@ -9635,7 +9635,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552956"
+      "dataColeta": "2025-09-17T14:59:56.359493"
     },
     {
       "codigoOrgao": "32205",
@@ -9676,7 +9676,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552962"
+      "dataColeta": "2025-09-17T14:59:56.359499"
     },
     {
       "codigoOrgao": "32205",
@@ -9717,7 +9717,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552968"
+      "dataColeta": "2025-09-17T14:59:56.359504"
     },
     {
       "codigoOrgao": "32205",
@@ -9758,7 +9758,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553663"
+      "dataColeta": "2025-09-17T14:59:56.360212"
     },
     {
       "codigoOrgao": "32205",
@@ -9799,7 +9799,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552980"
+      "dataColeta": "2025-09-17T14:59:56.359515"
     },
     {
       "codigoOrgao": "32205",
@@ -9840,7 +9840,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552985"
+      "dataColeta": "2025-09-17T14:59:56.359521"
     },
     {
       "codigoOrgao": "32205",
@@ -9881,7 +9881,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552991"
+      "dataColeta": "2025-09-17T14:59:56.359527"
     },
     {
       "codigoOrgao": "32205",
@@ -9922,7 +9922,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.552997"
+      "dataColeta": "2025-09-17T14:59:56.359533"
     },
     {
       "codigoOrgao": "32205",
@@ -9963,7 +9963,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SFI",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553003"
+      "dataColeta": "2025-09-17T14:59:56.359538"
     },
     {
       "codigoOrgao": "32205",
@@ -10004,7 +10004,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SDC/RJ",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553464"
+      "dataColeta": "2025-09-17T14:59:56.360002"
     },
     {
       "codigoOrgao": "32205",
@@ -10045,7 +10045,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ-CPT/DF",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553616"
+      "dataColeta": "2025-09-17T14:59:56.360168"
     },
     {
       "codigoOrgao": "32205",
@@ -10086,7 +10086,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553019"
+      "dataColeta": "2025-09-17T14:59:56.359555"
     },
     {
       "codigoOrgao": "32205",
@@ -10127,7 +10127,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "OUVIDORIA",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553633"
+      "dataColeta": "2025-09-17T14:59:56.360184"
     },
     {
       "codigoOrgao": "32205",
@@ -10168,7 +10168,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553030"
+      "dataColeta": "2025-09-17T14:59:56.359567"
     },
     {
       "codigoOrgao": "32205",
@@ -10209,7 +10209,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553035"
+      "dataColeta": "2025-09-17T14:59:56.359572"
     },
     {
       "codigoOrgao": "32205",
@@ -10250,7 +10250,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553041"
+      "dataColeta": "2025-09-17T14:59:56.359578"
     },
     {
       "codigoOrgao": "32205",
@@ -10291,7 +10291,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "sga",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553046"
+      "dataColeta": "2025-09-17T14:59:56.359583"
     },
     {
       "codigoOrgao": "32205",
@@ -10332,7 +10332,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553052"
+      "dataColeta": "2025-09-17T14:59:56.359589"
     },
     {
       "codigoOrgao": "32205",
@@ -10373,7 +10373,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553058"
+      "dataColeta": "2025-09-17T14:59:56.359595"
     },
     {
       "codigoOrgao": "32205",
@@ -10414,7 +10414,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553406"
+      "dataColeta": "2025-09-17T14:59:56.359943"
     },
     {
       "codigoOrgao": "32205",
@@ -10455,7 +10455,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553685"
+      "dataColeta": "2025-09-17T14:59:56.360237"
     },
     {
       "codigoOrgao": "32205",
@@ -10496,7 +10496,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553075"
+      "dataColeta": "2025-09-17T14:59:56.359612"
     },
     {
       "codigoOrgao": "32205",
@@ -10537,7 +10537,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SCI",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553393"
+      "dataColeta": "2025-09-17T14:59:56.359932"
     },
     {
       "codigoOrgao": "32205",
@@ -10578,7 +10578,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553087"
+      "dataColeta": "2025-09-17T14:59:56.359623"
     },
     {
       "codigoOrgao": "32205",
@@ -10619,7 +10619,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGE",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553571"
+      "dataColeta": "2025-09-17T14:59:56.360123"
     },
     {
       "codigoOrgao": "32205",
@@ -10660,7 +10660,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553098"
+      "dataColeta": "2025-09-17T14:59:56.359634"
     },
     {
       "codigoOrgao": "32205",
@@ -10701,7 +10701,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553104"
+      "dataColeta": "2025-09-17T14:59:56.359640"
     },
     {
       "codigoOrgao": "32205",
@@ -10742,7 +10742,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553109"
+      "dataColeta": "2025-09-17T14:59:56.359645"
     },
     {
       "codigoOrgao": "32205",
@@ -10783,7 +10783,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ-CPT/DF",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553588"
+      "dataColeta": "2025-09-17T14:59:56.360141"
     },
     {
       "codigoOrgao": "32205",
@@ -10824,7 +10824,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SSM",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553417"
+      "dataColeta": "2025-09-17T14:59:56.359954"
     },
     {
       "codigoOrgao": "32205",
@@ -10865,7 +10865,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553622"
+      "dataColeta": "2025-09-17T14:59:56.360173"
     },
     {
       "codigoOrgao": "32205",
@@ -10906,7 +10906,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553532"
+      "dataColeta": "2025-09-17T14:59:56.360082"
     },
     {
       "codigoOrgao": "32205",
@@ -10947,7 +10947,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "NBH",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553651"
+      "dataColeta": "2025-09-17T14:59:56.360201"
     },
     {
       "codigoOrgao": "32205",
@@ -10988,7 +10988,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553691"
+      "dataColeta": "2025-09-17T14:59:56.360242"
     },
     {
       "codigoOrgao": "32205",
@@ -11029,7 +11029,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553157"
+      "dataColeta": "2025-09-17T14:59:56.359693"
     },
     {
       "codigoOrgao": "32205",
@@ -11070,7 +11070,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553163"
+      "dataColeta": "2025-09-17T14:59:56.359699"
     },
     {
       "codigoOrgao": "32205",
@@ -11111,7 +11111,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "NSA",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553599"
+      "dataColeta": "2025-09-17T14:59:56.360151"
     },
     {
       "codigoOrgao": "32205",
@@ -11152,7 +11152,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553538"
+      "dataColeta": "2025-09-17T14:59:56.360088"
     },
     {
       "codigoOrgao": "32205",
@@ -11193,7 +11193,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553179"
+      "dataColeta": "2025-09-17T14:59:56.359716"
     },
     {
       "codigoOrgao": "32205",
@@ -11234,7 +11234,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553702"
+      "dataColeta": "2025-09-17T14:59:56.360253"
     },
     {
       "codigoOrgao": "32205",
@@ -11275,7 +11275,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553707"
+      "dataColeta": "2025-09-17T14:59:56.360259"
     },
     {
       "codigoOrgao": "32205",
@@ -11316,7 +11316,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553201"
+      "dataColeta": "2025-09-17T14:59:56.359739"
     },
     {
       "codigoOrgao": "32205",
@@ -11357,7 +11357,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT/DF",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553638"
+      "dataColeta": "2025-09-17T14:59:56.360190"
     },
     {
       "codigoOrgao": "32205",
@@ -11398,7 +11398,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553440"
+      "dataColeta": "2025-09-17T14:59:56.359979"
     },
     {
       "codigoOrgao": "32205",
@@ -11439,7 +11439,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553527"
+      "dataColeta": "2025-09-17T14:59:56.360077"
     },
     {
       "codigoOrgao": "32205",
@@ -11480,7 +11480,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553453"
+      "dataColeta": "2025-09-17T14:59:56.359991"
     },
     {
       "codigoOrgao": "32205",
@@ -11521,7 +11521,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553514"
+      "dataColeta": "2025-09-17T14:59:56.360065"
     },
     {
       "codigoOrgao": "32205",
@@ -11562,7 +11562,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SDT",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553434"
+      "dataColeta": "2025-09-17T14:59:56.359973"
     },
     {
       "codigoOrgao": "32205",
@@ -11603,7 +11603,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553674"
+      "dataColeta": "2025-09-17T14:59:56.360226"
     },
     {
       "codigoOrgao": "32205",
@@ -11644,7 +11644,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553251"
+      "dataColeta": "2025-09-17T14:59:56.359789"
     },
     {
       "codigoOrgao": "32205",
@@ -11685,7 +11685,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553627"
+      "dataColeta": "2025-09-17T14:59:56.360179"
     },
     {
       "codigoOrgao": "32205",
@@ -11726,7 +11726,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553262"
+      "dataColeta": "2025-09-17T14:59:56.359800"
     },
     {
       "codigoOrgao": "32205",
@@ -11767,7 +11767,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553268"
+      "dataColeta": "2025-09-17T14:59:56.359806"
     },
     {
       "codigoOrgao": "32205",
@@ -11808,7 +11808,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553605"
+      "dataColeta": "2025-09-17T14:59:56.360157"
     },
     {
       "codigoOrgao": "32205",
@@ -11849,7 +11849,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553412"
+      "dataColeta": "2025-09-17T14:59:56.359948"
     },
     {
       "codigoOrgao": "32205",
@@ -11890,7 +11890,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "sti",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553577"
+      "dataColeta": "2025-09-17T14:59:56.360129"
     },
     {
       "codigoOrgao": "32205",
@@ -11931,7 +11931,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "NSP/SFI/ANP",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553543"
+      "dataColeta": "2025-09-17T14:59:56.360093"
     },
     {
       "codigoOrgao": "32205",
@@ -11972,7 +11972,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553480"
+      "dataColeta": "2025-09-17T14:59:56.360019"
     },
     {
       "codigoOrgao": "32205",
@@ -12013,7 +12013,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553486"
+      "dataColeta": "2025-09-17T14:59:56.360025"
     },
     {
       "codigoOrgao": "32205",
@@ -12054,7 +12054,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553309"
+      "dataColeta": "2025-09-17T14:59:56.359846"
     },
     {
       "codigoOrgao": "32205",
@@ -12095,7 +12095,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ-CPT/DF",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553469"
+      "dataColeta": "2025-09-17T14:59:56.360008"
     },
     {
       "codigoOrgao": "32205",
@@ -12136,7 +12136,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553458"
+      "dataColeta": "2025-09-17T14:59:56.359997"
     },
     {
       "codigoOrgao": "32205",
@@ -12177,7 +12177,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553560"
+      "dataColeta": "2025-09-17T14:59:56.360112"
     },
     {
       "codigoOrgao": "32205",
@@ -12218,7 +12218,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553566"
+      "dataColeta": "2025-09-17T14:59:56.360118"
     },
     {
       "codigoOrgao": "32205",
@@ -12259,7 +12259,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553475"
+      "dataColeta": "2025-09-17T14:59:56.360014"
     },
     {
       "codigoOrgao": "32205",
@@ -12300,7 +12300,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "NFP",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553447"
+      "dataColeta": "2025-09-17T14:59:56.359986"
     },
     {
       "codigoOrgao": "32205",
@@ -12341,7 +12341,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553491"
+      "dataColeta": "2025-09-17T14:59:56.360043"
     },
     {
       "codigoOrgao": "32205",
@@ -12382,7 +12382,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553399"
+      "dataColeta": "2025-09-17T14:59:56.359937"
     },
     {
       "codigoOrgao": "32205",
@@ -12423,7 +12423,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553423"
+      "dataColeta": "2025-09-17T14:59:56.359961"
     },
     {
       "codigoOrgao": "32205",
@@ -12464,7 +12464,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553549"
+      "dataColeta": "2025-09-17T14:59:56.360101"
     },
     {
       "codigoOrgao": "32205",
@@ -12505,7 +12505,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553583"
+      "dataColeta": "2025-09-17T14:59:56.360135"
     },
     {
       "codigoOrgao": "32205",
@@ -12546,7 +12546,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SFI-NSA",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553594"
+      "dataColeta": "2025-09-17T14:59:56.360146"
     },
     {
       "codigoOrgao": "32205",
@@ -12587,7 +12587,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553508"
+      "dataColeta": "2025-09-17T14:59:56.360060"
     },
     {
       "codigoOrgao": "32205",
@@ -12628,7 +12628,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2021,
-      "dataColeta": "2025-09-16T06:52:11.553657"
+      "dataColeta": "2025-09-17T14:59:56.360207"
     },
     {
       "codigoOrgao": "32205",
@@ -12669,7 +12669,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019749"
+      "dataColeta": "2025-09-17T14:59:58.347702"
     },
     {
       "codigoOrgao": "32205",
@@ -12710,7 +12710,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019047"
+      "dataColeta": "2025-09-17T14:59:58.347008"
     },
     {
       "codigoOrgao": "32205",
@@ -12751,7 +12751,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019789"
+      "dataColeta": "2025-09-17T14:59:58.347741"
     },
     {
       "codigoOrgao": "32205",
@@ -12792,7 +12792,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019061"
+      "dataColeta": "2025-09-17T14:59:58.347021"
     },
     {
       "codigoOrgao": "32205",
@@ -12833,7 +12833,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019068"
+      "dataColeta": "2025-09-17T14:59:58.347027"
     },
     {
       "codigoOrgao": "32205",
@@ -12874,7 +12874,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019074"
+      "dataColeta": "2025-09-17T14:59:58.347045"
     },
     {
       "codigoOrgao": "32205",
@@ -12915,7 +12915,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SCI",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019975"
+      "dataColeta": "2025-09-17T14:59:58.347904"
     },
     {
       "codigoOrgao": "32205",
@@ -12956,7 +12956,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019086"
+      "dataColeta": "2025-09-17T14:59:58.347057"
     },
     {
       "codigoOrgao": "32205",
@@ -12997,7 +12997,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019092"
+      "dataColeta": "2025-09-17T14:59:58.347063"
     },
     {
       "codigoOrgao": "32205",
@@ -13038,7 +13038,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019098"
+      "dataColeta": "2025-09-17T14:59:58.347068"
     },
     {
       "codigoOrgao": "32205",
@@ -13079,7 +13079,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019103"
+      "dataColeta": "2025-09-17T14:59:58.347074"
     },
     {
       "codigoOrgao": "32205",
@@ -13120,7 +13120,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019109"
+      "dataColeta": "2025-09-17T14:59:58.347080"
     },
     {
       "codigoOrgao": "32205",
@@ -13161,7 +13161,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019115"
+      "dataColeta": "2025-09-17T14:59:58.347085"
     },
     {
       "codigoOrgao": "32205",
@@ -13202,7 +13202,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019800"
+      "dataColeta": "2025-09-17T14:59:58.347752"
     },
     {
       "codigoOrgao": "32205",
@@ -13243,7 +13243,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019755"
+      "dataColeta": "2025-09-17T14:59:58.347708"
     },
     {
       "codigoOrgao": "32205",
@@ -13284,7 +13284,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SDT",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019938"
+      "dataColeta": "2025-09-17T14:59:58.347871"
     },
     {
       "codigoOrgao": "32205",
@@ -13325,7 +13325,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019138"
+      "dataColeta": "2025-09-17T14:59:58.347108"
     },
     {
       "codigoOrgao": "32205",
@@ -13366,7 +13366,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SAG",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019834"
+      "dataColeta": "2025-09-17T14:59:58.347769"
     },
     {
       "codigoOrgao": "32205",
@@ -13407,7 +13407,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019149"
+      "dataColeta": "2025-09-17T14:59:58.347119"
     },
     {
       "codigoOrgao": "32205",
@@ -13448,7 +13448,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SFI",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019155"
+      "dataColeta": "2025-09-17T14:59:58.347124"
     },
     {
       "codigoOrgao": "32205",
@@ -13489,7 +13489,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019161"
+      "dataColeta": "2025-09-17T14:59:58.347130"
     },
     {
       "codigoOrgao": "32205",
@@ -13530,7 +13530,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019167"
+      "dataColeta": "2025-09-17T14:59:58.347135"
     },
     {
       "codigoOrgao": "32205",
@@ -13571,7 +13571,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019173"
+      "dataColeta": "2025-09-17T14:59:58.347141"
     },
     {
       "codigoOrgao": "32205",
@@ -13612,7 +13612,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019180"
+      "dataColeta": "2025-09-17T14:59:58.347147"
     },
     {
       "codigoOrgao": "32205",
@@ -13653,7 +13653,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019186"
+      "dataColeta": "2025-09-17T14:59:58.347153"
     },
     {
       "codigoOrgao": "32205",
@@ -13694,7 +13694,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019192"
+      "dataColeta": "2025-09-17T14:59:58.347159"
     },
     {
       "codigoOrgao": "32205",
@@ -13735,7 +13735,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019197"
+      "dataColeta": "2025-09-17T14:59:58.347164"
     },
     {
       "codigoOrgao": "32205",
@@ -13776,7 +13776,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA/RJ",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.020010"
+      "dataColeta": "2025-09-17T14:59:58.347937"
     },
     {
       "codigoOrgao": "32205",
@@ -13817,7 +13817,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019209"
+      "dataColeta": "2025-09-17T14:59:58.347176"
     },
     {
       "codigoOrgao": "32205",
@@ -13858,7 +13858,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SDT",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019876"
+      "dataColeta": "2025-09-17T14:59:58.347807"
     },
     {
       "codigoOrgao": "32205",
@@ -13899,7 +13899,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019220"
+      "dataColeta": "2025-09-17T14:59:58.347187"
     },
     {
       "codigoOrgao": "32205",
@@ -13940,7 +13940,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019955"
+      "dataColeta": "2025-09-17T14:59:58.347887"
     },
     {
       "codigoOrgao": "32205",
@@ -13981,7 +13981,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGP",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019232"
+      "dataColeta": "2025-09-17T14:59:58.347198"
     },
     {
       "codigoOrgao": "32205",
@@ -14022,7 +14022,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019237"
+      "dataColeta": "2025-09-17T14:59:58.347204"
     },
     {
       "codigoOrgao": "32205",
@@ -14063,7 +14063,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019243"
+      "dataColeta": "2025-09-17T14:59:58.347210"
     },
     {
       "codigoOrgao": "32205",
@@ -14104,7 +14104,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019805"
+      "dataColeta": "2025-09-17T14:59:58.347758"
     },
     {
       "codigoOrgao": "32205",
@@ -14145,7 +14145,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019254"
+      "dataColeta": "2025-09-17T14:59:58.347221"
     },
     {
       "codigoOrgao": "32205",
@@ -14186,7 +14186,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019260"
+      "dataColeta": "2025-09-17T14:59:58.347227"
     },
     {
       "codigoOrgao": "32205",
@@ -14227,7 +14227,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019266"
+      "dataColeta": "2025-09-17T14:59:58.347232"
     },
     {
       "codigoOrgao": "32205",
@@ -14268,7 +14268,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA-ADM-DF",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019842"
+      "dataColeta": "2025-09-17T14:59:58.347774"
     },
     {
       "codigoOrgao": "32205",
@@ -14309,7 +14309,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019277"
+      "dataColeta": "2025-09-17T14:59:58.347243"
     },
     {
       "codigoOrgao": "32205",
@@ -14350,7 +14350,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SDT",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.020062"
+      "dataColeta": "2025-09-17T14:59:58.347988"
     },
     {
       "codigoOrgao": "32205",
@@ -14391,7 +14391,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019289"
+      "dataColeta": "2025-09-17T14:59:58.347254"
     },
     {
       "codigoOrgao": "32205",
@@ -14432,7 +14432,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019294"
+      "dataColeta": "2025-09-17T14:59:58.347260"
     },
     {
       "codigoOrgao": "32205",
@@ -14473,7 +14473,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019300"
+      "dataColeta": "2025-09-17T14:59:58.347265"
     },
     {
       "codigoOrgao": "32205",
@@ -14514,7 +14514,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019305"
+      "dataColeta": "2025-09-17T14:59:58.347271"
     },
     {
       "codigoOrgao": "32205",
@@ -14555,7 +14555,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019311"
+      "dataColeta": "2025-09-17T14:59:58.347276"
     },
     {
       "codigoOrgao": "32205",
@@ -14596,7 +14596,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019317"
+      "dataColeta": "2025-09-17T14:59:58.347282"
     },
     {
       "codigoOrgao": "32205",
@@ -14637,7 +14637,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019322"
+      "dataColeta": "2025-09-17T14:59:58.347287"
     },
     {
       "codigoOrgao": "32205",
@@ -14678,7 +14678,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019328"
+      "dataColeta": "2025-09-17T14:59:58.347293"
     },
     {
       "codigoOrgao": "32205",
@@ -14719,7 +14719,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019334"
+      "dataColeta": "2025-09-17T14:59:58.347298"
     },
     {
       "codigoOrgao": "32205",
@@ -14760,7 +14760,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019339"
+      "dataColeta": "2025-09-17T14:59:58.347304"
     },
     {
       "codigoOrgao": "32205",
@@ -14801,7 +14801,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019345"
+      "dataColeta": "2025-09-17T14:59:58.347309"
     },
     {
       "codigoOrgao": "32205",
@@ -14842,7 +14842,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019351"
+      "dataColeta": "2025-09-17T14:59:58.347315"
     },
     {
       "codigoOrgao": "32205",
@@ -14883,7 +14883,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019357"
+      "dataColeta": "2025-09-17T14:59:58.347320"
     },
     {
       "codigoOrgao": "32205",
@@ -14924,7 +14924,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019362"
+      "dataColeta": "2025-09-17T14:59:58.347326"
     },
     {
       "codigoOrgao": "32205",
@@ -14965,7 +14965,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019777"
+      "dataColeta": "2025-09-17T14:59:58.347730"
     },
     {
       "codigoOrgao": "32205",
@@ -15006,7 +15006,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019374"
+      "dataColeta": "2025-09-17T14:59:58.347337"
     },
     {
       "codigoOrgao": "32205",
@@ -15047,7 +15047,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019379"
+      "dataColeta": "2025-09-17T14:59:58.347342"
     },
     {
       "codigoOrgao": "32205",
@@ -15088,7 +15088,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019385"
+      "dataColeta": "2025-09-17T14:59:58.347348"
     },
     {
       "codigoOrgao": "32205",
@@ -15129,7 +15129,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019391"
+      "dataColeta": "2025-09-17T14:59:58.347353"
     },
     {
       "codigoOrgao": "32205",
@@ -15170,7 +15170,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019397"
+      "dataColeta": "2025-09-17T14:59:58.347359"
     },
     {
       "codigoOrgao": "32205",
@@ -15211,7 +15211,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019402"
+      "dataColeta": "2025-09-17T14:59:58.347364"
     },
     {
       "codigoOrgao": "32205",
@@ -15252,7 +15252,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019410"
+      "dataColeta": "2025-09-17T14:59:58.347370"
     },
     {
       "codigoOrgao": "32205",
@@ -15293,7 +15293,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SAG",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019997"
+      "dataColeta": "2025-09-17T14:59:58.347926"
     },
     {
       "codigoOrgao": "32205",
@@ -15334,7 +15334,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019986"
+      "dataColeta": "2025-09-17T14:59:58.347915"
     },
     {
       "codigoOrgao": "32205",
@@ -15375,7 +15375,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019431"
+      "dataColeta": "2025-09-17T14:59:58.347386"
     },
     {
       "codigoOrgao": "32205",
@@ -15416,7 +15416,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGP",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019921"
+      "dataColeta": "2025-09-17T14:59:58.347853"
     },
     {
       "codigoOrgao": "32205",
@@ -15457,7 +15457,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019443"
+      "dataColeta": "2025-09-17T14:59:58.347397"
     },
     {
       "codigoOrgao": "32205",
@@ -15498,7 +15498,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019449"
+      "dataColeta": "2025-09-17T14:59:58.347403"
     },
     {
       "codigoOrgao": "32205",
@@ -15539,7 +15539,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019456"
+      "dataColeta": "2025-09-17T14:59:58.347411"
     },
     {
       "codigoOrgao": "32205",
@@ -15580,7 +15580,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019772"
+      "dataColeta": "2025-09-17T14:59:58.347724"
     },
     {
       "codigoOrgao": "32205",
@@ -15621,7 +15621,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019827"
+      "dataColeta": "2025-09-17T14:59:58.347763"
     },
     {
       "codigoOrgao": "32205",
@@ -15662,7 +15662,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.020073"
+      "dataColeta": "2025-09-17T14:59:58.347999"
     },
     {
       "codigoOrgao": "32205",
@@ -15703,7 +15703,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019766"
+      "dataColeta": "2025-09-17T14:59:58.347719"
     },
     {
       "codigoOrgao": "32205",
@@ -15744,7 +15744,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.020045"
+      "dataColeta": "2025-09-17T14:59:58.347972"
     },
     {
       "codigoOrgao": "32205",
@@ -15785,7 +15785,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019490"
+      "dataColeta": "2025-09-17T14:59:58.347445"
     },
     {
       "codigoOrgao": "32205",
@@ -15826,7 +15826,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019495"
+      "dataColeta": "2025-09-17T14:59:58.347450"
     },
     {
       "codigoOrgao": "32205",
@@ -15867,7 +15867,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.020022"
+      "dataColeta": "2025-09-17T14:59:58.347950"
     },
     {
       "codigoOrgao": "32205",
@@ -15908,7 +15908,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019916"
+      "dataColeta": "2025-09-17T14:59:58.347847"
     },
     {
       "codigoOrgao": "32205",
@@ -15949,7 +15949,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019860"
+      "dataColeta": "2025-09-17T14:59:58.347791"
     },
     {
       "codigoOrgao": "32205",
@@ -15990,7 +15990,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019882"
+      "dataColeta": "2025-09-17T14:59:58.347813"
     },
     {
       "codigoOrgao": "32205",
@@ -16031,7 +16031,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019524"
+      "dataColeta": "2025-09-17T14:59:58.347482"
     },
     {
       "codigoOrgao": "32205",
@@ -16072,7 +16072,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019871"
+      "dataColeta": "2025-09-17T14:59:58.347802"
     },
     {
       "codigoOrgao": "32205",
@@ -16113,7 +16113,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019535"
+      "dataColeta": "2025-09-17T14:59:58.347494"
     },
     {
       "codigoOrgao": "32205",
@@ -16154,7 +16154,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019933"
+      "dataColeta": "2025-09-17T14:59:58.347865"
     },
     {
       "codigoOrgao": "32205",
@@ -16195,7 +16195,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SFI",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019927"
+      "dataColeta": "2025-09-17T14:59:58.347858"
     },
     {
       "codigoOrgao": "32205",
@@ -16236,7 +16236,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.020067"
+      "dataColeta": "2025-09-17T14:59:58.347994"
     },
     {
       "codigoOrgao": "32205",
@@ -16277,7 +16277,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019848"
+      "dataColeta": "2025-09-17T14:59:58.347780"
     },
     {
       "codigoOrgao": "32205",
@@ -16318,7 +16318,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019783"
+      "dataColeta": "2025-09-17T14:59:58.347736"
     },
     {
       "codigoOrgao": "32205",
@@ -16359,7 +16359,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SDC",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019980"
+      "dataColeta": "2025-09-17T14:59:58.347909"
     },
     {
       "codigoOrgao": "32205",
@@ -16400,7 +16400,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.020017"
+      "dataColeta": "2025-09-17T14:59:58.347944"
     },
     {
       "codigoOrgao": "32205",
@@ -16441,7 +16441,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.020050"
+      "dataColeta": "2025-09-17T14:59:58.347977"
     },
     {
       "codigoOrgao": "32205",
@@ -16482,7 +16482,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "sti",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019944"
+      "dataColeta": "2025-09-17T14:59:58.347876"
     },
     {
       "codigoOrgao": "32205",
@@ -16523,7 +16523,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.020028"
+      "dataColeta": "2025-09-17T14:59:58.347956"
     },
     {
       "codigoOrgao": "32205",
@@ -16564,7 +16564,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.020003"
+      "dataColeta": "2025-09-17T14:59:58.347931"
     },
     {
       "codigoOrgao": "32205",
@@ -16605,7 +16605,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019969"
+      "dataColeta": "2025-09-17T14:59:58.347898"
     },
     {
       "codigoOrgao": "32205",
@@ -16646,7 +16646,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019611"
+      "dataColeta": "2025-09-17T14:59:58.347566"
     },
     {
       "codigoOrgao": "32205",
@@ -16687,7 +16687,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019616"
+      "dataColeta": "2025-09-17T14:59:58.347571"
     },
     {
       "codigoOrgao": "32205",
@@ -16728,7 +16728,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGP",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.020056"
+      "dataColeta": "2025-09-17T14:59:58.347983"
     },
     {
       "codigoOrgao": "32205",
@@ -16769,7 +16769,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019888"
+      "dataColeta": "2025-09-17T14:59:58.347820"
     },
     {
       "codigoOrgao": "32205",
@@ -16810,7 +16810,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019905"
+      "dataColeta": "2025-09-17T14:59:58.347836"
     },
     {
       "codigoOrgao": "32205",
@@ -16851,7 +16851,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019760"
+      "dataColeta": "2025-09-17T14:59:58.347714"
     },
     {
       "codigoOrgao": "32205",
@@ -16892,7 +16892,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019910"
+      "dataColeta": "2025-09-17T14:59:58.347842"
     },
     {
       "codigoOrgao": "32205",
@@ -16933,7 +16933,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019651"
+      "dataColeta": "2025-09-17T14:59:58.347607"
     },
     {
       "codigoOrgao": "32205",
@@ -16974,7 +16974,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019657"
+      "dataColeta": "2025-09-17T14:59:58.347612"
     },
     {
       "codigoOrgao": "32205",
@@ -17015,7 +17015,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019899"
+      "dataColeta": "2025-09-17T14:59:58.347831"
     },
     {
       "codigoOrgao": "32205",
@@ -17056,7 +17056,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.020034"
+      "dataColeta": "2025-09-17T14:59:58.347961"
     },
     {
       "codigoOrgao": "32205",
@@ -17097,7 +17097,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGP",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.020039"
+      "dataColeta": "2025-09-17T14:59:58.347967"
     },
     {
       "codigoOrgao": "32205",
@@ -17138,7 +17138,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "NFP",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019853"
+      "dataColeta": "2025-09-17T14:59:58.347785"
     },
     {
       "codigoOrgao": "32205",
@@ -17179,7 +17179,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.020079"
+      "dataColeta": "2025-09-17T14:59:58.348005"
     },
     {
       "codigoOrgao": "32205",
@@ -17220,7 +17220,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019691"
+      "dataColeta": "2025-09-17T14:59:58.347645"
     },
     {
       "codigoOrgao": "32205",
@@ -17261,7 +17261,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019893"
+      "dataColeta": "2025-09-17T14:59:58.347825"
     },
     {
       "codigoOrgao": "32205",
@@ -17302,7 +17302,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019704"
+      "dataColeta": "2025-09-17T14:59:58.347656"
     },
     {
       "codigoOrgao": "32205",
@@ -17343,7 +17343,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019963"
+      "dataColeta": "2025-09-17T14:59:58.347893"
     },
     {
       "codigoOrgao": "32205",
@@ -17384,7 +17384,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019715"
+      "dataColeta": "2025-09-17T14:59:58.347667"
     },
     {
       "codigoOrgao": "32205",
@@ -17425,7 +17425,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019794"
+      "dataColeta": "2025-09-17T14:59:58.347747"
     },
     {
       "codigoOrgao": "32205",
@@ -17466,7 +17466,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019991"
+      "dataColeta": "2025-09-17T14:59:58.347920"
     },
     {
       "codigoOrgao": "32205",
@@ -17507,7 +17507,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019732"
+      "dataColeta": "2025-09-17T14:59:58.347684"
     },
     {
       "codigoOrgao": "32205",
@@ -17548,7 +17548,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SPL",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019950"
+      "dataColeta": "2025-09-17T14:59:58.347882"
     },
     {
       "codigoOrgao": "32205",
@@ -17589,7 +17589,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "sbq",
       "anoVigencia": 2022,
-      "dataColeta": "2025-09-16T06:52:13.019865"
+      "dataColeta": "2025-09-17T14:59:58.347796"
     },
     {
       "codigoOrgao": "32205",
@@ -17630,7 +17630,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SFI",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339038"
+      "dataColeta": "2025-09-17T15:00:00.186839"
     },
     {
       "codigoOrgao": "32205",
@@ -17671,7 +17671,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.338701"
+      "dataColeta": "2025-09-17T15:00:00.186511"
     },
     {
       "codigoOrgao": "32205",
@@ -17712,7 +17712,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.338707"
+      "dataColeta": "2025-09-17T15:00:00.186518"
     },
     {
       "codigoOrgao": "32205",
@@ -17753,7 +17753,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.338714"
+      "dataColeta": "2025-09-17T15:00:00.186524"
     },
     {
       "codigoOrgao": "32205",
@@ -17794,7 +17794,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.338719"
+      "dataColeta": "2025-09-17T15:00:00.186530"
     },
     {
       "codigoOrgao": "32205",
@@ -17835,7 +17835,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "NPA",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339175"
+      "dataColeta": "2025-09-17T15:00:00.186977"
     },
     {
       "codigoOrgao": "32205",
@@ -17876,7 +17876,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339214"
+      "dataColeta": "2025-09-17T15:00:00.187016"
     },
     {
       "codigoOrgao": "32205",
@@ -17917,7 +17917,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339227"
+      "dataColeta": "2025-09-17T15:00:00.187028"
     },
     {
       "codigoOrgao": "32205",
@@ -17958,7 +17958,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339169"
+      "dataColeta": "2025-09-17T15:00:00.186972"
     },
     {
       "codigoOrgao": "32205",
@@ -17999,7 +17999,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339203"
+      "dataColeta": "2025-09-17T15:00:00.187005"
     },
     {
       "codigoOrgao": "32205",
@@ -18040,7 +18040,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339071"
+      "dataColeta": "2025-09-17T15:00:00.186873"
     },
     {
       "codigoOrgao": "32205",
@@ -18081,7 +18081,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SSO",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.338759"
+      "dataColeta": "2025-09-17T15:00:00.186570"
     },
     {
       "codigoOrgao": "32205",
@@ -18122,7 +18122,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339197"
+      "dataColeta": "2025-09-17T15:00:00.187000"
     },
     {
       "codigoOrgao": "32205",
@@ -18163,7 +18163,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339153"
+      "dataColeta": "2025-09-17T15:00:00.186951"
     },
     {
       "codigoOrgao": "32205",
@@ -18204,7 +18204,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339249"
+      "dataColeta": "2025-09-17T15:00:00.187062"
     },
     {
       "codigoOrgao": "32205",
@@ -18245,7 +18245,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.338782"
+      "dataColeta": "2025-09-17T15:00:00.186594"
     },
     {
       "codigoOrgao": "32205",
@@ -18286,7 +18286,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339103"
+      "dataColeta": "2025-09-17T15:00:00.186901"
     },
     {
       "codigoOrgao": "32205",
@@ -18327,7 +18327,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SFI",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.338794"
+      "dataColeta": "2025-09-17T15:00:00.186605"
     },
     {
       "codigoOrgao": "32205",
@@ -18368,7 +18368,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339232"
+      "dataColeta": "2025-09-17T15:00:00.187045"
     },
     {
       "codigoOrgao": "32205",
@@ -18409,7 +18409,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339060"
+      "dataColeta": "2025-09-17T15:00:00.186862"
     },
     {
       "codigoOrgao": "32205",
@@ -18450,7 +18450,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339130"
+      "dataColeta": "2025-09-17T15:00:00.186929"
     },
     {
       "codigoOrgao": "32205",
@@ -18491,7 +18491,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "cpt - sbq",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339125"
+      "dataColeta": "2025-09-17T15:00:00.186923"
     },
     {
       "codigoOrgao": "32205",
@@ -18532,7 +18532,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT -- SBQ",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339158"
+      "dataColeta": "2025-09-17T15:00:00.186960"
     },
     {
       "codigoOrgao": "32205",
@@ -18573,7 +18573,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339066"
+      "dataColeta": "2025-09-17T15:00:00.186868"
     },
     {
       "codigoOrgao": "32205",
@@ -18614,7 +18614,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339221"
+      "dataColeta": "2025-09-17T15:00:00.187022"
     },
     {
       "codigoOrgao": "32205",
@@ -18655,7 +18655,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT/SBQ",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.338851"
+      "dataColeta": "2025-09-17T15:00:00.186651"
     },
     {
       "codigoOrgao": "32205",
@@ -18696,7 +18696,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339032"
+      "dataColeta": "2025-09-17T15:00:00.186833"
     },
     {
       "codigoOrgao": "32205",
@@ -18737,7 +18737,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT/SBQ",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339238"
+      "dataColeta": "2025-09-17T15:00:00.187051"
     },
     {
       "codigoOrgao": "32205",
@@ -18778,7 +18778,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339086"
+      "dataColeta": "2025-09-17T15:00:00.186884"
     },
     {
       "codigoOrgao": "32205",
@@ -18819,7 +18819,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT/SBQ",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339091"
+      "dataColeta": "2025-09-17T15:00:00.186890"
     },
     {
       "codigoOrgao": "32205",
@@ -18860,7 +18860,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA ADM - DF",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339108"
+      "dataColeta": "2025-09-17T15:00:00.186907"
     },
     {
       "codigoOrgao": "32205",
@@ -18901,7 +18901,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.338885"
+      "dataColeta": "2025-09-17T15:00:00.186685"
     },
     {
       "codigoOrgao": "32205",
@@ -18942,7 +18942,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339254"
+      "dataColeta": "2025-09-17T15:00:00.187068"
     },
     {
       "codigoOrgao": "32205",
@@ -18983,7 +18983,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339186"
+      "dataColeta": "2025-09-17T15:00:00.186989"
     },
     {
       "codigoOrgao": "32205",
@@ -19024,7 +19024,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339114"
+      "dataColeta": "2025-09-17T15:00:00.186912"
     },
     {
       "codigoOrgao": "32205",
@@ -19065,7 +19065,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SAG",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339043"
+      "dataColeta": "2025-09-17T15:00:00.186845"
     },
     {
       "codigoOrgao": "32205",
@@ -19106,7 +19106,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339055"
+      "dataColeta": "2025-09-17T15:00:00.186857"
     },
     {
       "codigoOrgao": "32205",
@@ -19147,7 +19147,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339164"
+      "dataColeta": "2025-09-17T15:00:00.186966"
     },
     {
       "codigoOrgao": "32205",
@@ -19188,7 +19188,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339208"
+      "dataColeta": "2025-09-17T15:00:00.187011"
     },
     {
       "codigoOrgao": "32205",
@@ -19229,7 +19229,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.338929"
+      "dataColeta": "2025-09-17T15:00:00.186731"
     },
     {
       "codigoOrgao": "32205",
@@ -19270,7 +19270,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "OUV",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339080"
+      "dataColeta": "2025-09-17T15:00:00.186879"
     },
     {
       "codigoOrgao": "32205",
@@ -19311,7 +19311,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339243"
+      "dataColeta": "2025-09-17T15:00:00.187057"
     },
     {
       "codigoOrgao": "32205",
@@ -19352,7 +19352,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SFI",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339136"
+      "dataColeta": "2025-09-17T15:00:00.186934"
     },
     {
       "codigoOrgao": "32205",
@@ -19393,7 +19393,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SCI",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339181"
+      "dataColeta": "2025-09-17T15:00:00.186983"
     },
     {
       "codigoOrgao": "32205",
@@ -19434,7 +19434,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339097"
+      "dataColeta": "2025-09-17T15:00:00.186895"
     },
     {
       "codigoOrgao": "32205",
@@ -19475,7 +19475,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGP",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339142"
+      "dataColeta": "2025-09-17T15:00:00.186940"
     },
     {
       "codigoOrgao": "32205",
@@ -19516,7 +19516,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.338970"
+      "dataColeta": "2025-09-17T15:00:00.186771"
     },
     {
       "codigoOrgao": "32205",
@@ -19557,7 +19557,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339049"
+      "dataColeta": "2025-09-17T15:00:00.186851"
     },
     {
       "codigoOrgao": "32205",
@@ -19598,7 +19598,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.338981"
+      "dataColeta": "2025-09-17T15:00:00.186782"
     },
     {
       "codigoOrgao": "32205",
@@ -19639,7 +19639,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339021"
+      "dataColeta": "2025-09-17T15:00:00.186822"
     },
     {
       "codigoOrgao": "32205",
@@ -19680,7 +19680,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.338992"
+      "dataColeta": "2025-09-17T15:00:00.186793"
     },
     {
       "codigoOrgao": "32205",
@@ -19721,7 +19721,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339192"
+      "dataColeta": "2025-09-17T15:00:00.186994"
     },
     {
       "codigoOrgao": "32205",
@@ -19762,7 +19762,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339119"
+      "dataColeta": "2025-09-17T15:00:00.186918"
     },
     {
       "codigoOrgao": "32205",
@@ -19803,7 +19803,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339026"
+      "dataColeta": "2025-09-17T15:00:00.186828"
     },
     {
       "codigoOrgao": "32205",
@@ -19844,7 +19844,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2023,
-      "dataColeta": "2025-09-16T06:52:14.339147"
+      "dataColeta": "2025-09-17T15:00:00.186945"
     },
     {
       "codigoOrgao": "32205",
@@ -19885,7 +19885,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SDT",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497273"
+      "dataColeta": "2025-09-17T15:00:01.823044"
     },
     {
       "codigoOrgao": "32205",
@@ -19926,7 +19926,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496676"
+      "dataColeta": "2025-09-17T15:00:01.822458"
     },
     {
       "codigoOrgao": "32205",
@@ -19967,7 +19967,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT/SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497370"
+      "dataColeta": "2025-09-17T15:00:01.823141"
     },
     {
       "codigoOrgao": "32205",
@@ -20008,7 +20008,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497306"
+      "dataColeta": "2025-09-17T15:00:01.823078"
     },
     {
       "codigoOrgao": "32205",
@@ -20049,7 +20049,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT/SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497261"
+      "dataColeta": "2025-09-17T15:00:01.823022"
     },
     {
       "codigoOrgao": "32205",
@@ -20090,7 +20090,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497323"
+      "dataColeta": "2025-09-17T15:00:01.823095"
     },
     {
       "codigoOrgao": "32205",
@@ -20131,7 +20131,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496709"
+      "dataColeta": "2025-09-17T15:00:01.822491"
     },
     {
       "codigoOrgao": "32205",
@@ -20172,7 +20172,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497256"
+      "dataColeta": "2025-09-17T15:00:01.823016"
     },
     {
       "codigoOrgao": "32205",
@@ -20213,7 +20213,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497244"
+      "dataColeta": "2025-09-17T15:00:01.823005"
     },
     {
       "codigoOrgao": "32205",
@@ -20254,7 +20254,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497250"
+      "dataColeta": "2025-09-17T15:00:01.823010"
     },
     {
       "codigoOrgao": "32205",
@@ -20295,7 +20295,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497421"
+      "dataColeta": "2025-09-17T15:00:01.823191"
     },
     {
       "codigoOrgao": "32205",
@@ -20336,7 +20336,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496744"
+      "dataColeta": "2025-09-17T15:00:01.822521"
     },
     {
       "codigoOrgao": "32205",
@@ -20377,7 +20377,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SCI",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497387"
+      "dataColeta": "2025-09-17T15:00:01.823158"
     },
     {
       "codigoOrgao": "32205",
@@ -20418,7 +20418,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497284"
+      "dataColeta": "2025-09-17T15:00:01.823056"
     },
     {
       "codigoOrgao": "32205",
@@ -20459,7 +20459,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT/SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497267"
+      "dataColeta": "2025-09-17T15:00:01.823027"
     },
     {
       "codigoOrgao": "32205",
@@ -20500,7 +20500,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497301"
+      "dataColeta": "2025-09-17T15:00:01.823073"
     },
     {
       "codigoOrgao": "32205",
@@ -20541,7 +20541,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496772"
+      "dataColeta": "2025-09-17T15:00:01.822549"
     },
     {
       "codigoOrgao": "32205",
@@ -20582,7 +20582,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496778"
+      "dataColeta": "2025-09-17T15:00:01.822555"
     },
     {
       "codigoOrgao": "32205",
@@ -20623,7 +20623,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496785"
+      "dataColeta": "2025-09-17T15:00:01.822562"
     },
     {
       "codigoOrgao": "32205",
@@ -20664,7 +20664,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496791"
+      "dataColeta": "2025-09-17T15:00:01.822568"
     },
     {
       "codigoOrgao": "32205",
@@ -20705,7 +20705,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496797"
+      "dataColeta": "2025-09-17T15:00:01.822574"
     },
     {
       "codigoOrgao": "32205",
@@ -20746,7 +20746,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497210"
+      "dataColeta": "2025-09-17T15:00:01.822969"
     },
     {
       "codigoOrgao": "32205",
@@ -20787,7 +20787,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497222"
+      "dataColeta": "2025-09-17T15:00:01.822981"
     },
     {
       "codigoOrgao": "32205",
@@ -20828,7 +20828,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497398"
+      "dataColeta": "2025-09-17T15:00:01.823169"
     },
     {
       "codigoOrgao": "32205",
@@ -20869,7 +20869,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497228"
+      "dataColeta": "2025-09-17T15:00:01.822986"
     },
     {
       "codigoOrgao": "32205",
@@ -20910,7 +20910,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496837"
+      "dataColeta": "2025-09-17T15:00:01.822603"
     },
     {
       "codigoOrgao": "32205",
@@ -20951,7 +20951,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497239"
+      "dataColeta": "2025-09-17T15:00:01.822999"
     },
     {
       "codigoOrgao": "32205",
@@ -20992,7 +20992,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496848"
+      "dataColeta": "2025-09-17T15:00:01.822614"
     },
     {
       "codigoOrgao": "32205",
@@ -21033,7 +21033,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496855"
+      "dataColeta": "2025-09-17T15:00:01.822620"
     },
     {
       "codigoOrgao": "32205",
@@ -21074,7 +21074,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496864"
+      "dataColeta": "2025-09-17T15:00:01.822625"
     },
     {
       "codigoOrgao": "32205",
@@ -21115,7 +21115,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496870"
+      "dataColeta": "2025-09-17T15:00:01.822631"
     },
     {
       "codigoOrgao": "32205",
@@ -21156,7 +21156,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496878"
+      "dataColeta": "2025-09-17T15:00:01.822639"
     },
     {
       "codigoOrgao": "32205",
@@ -21197,7 +21197,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496884"
+      "dataColeta": "2025-09-17T15:00:01.822645"
     },
     {
       "codigoOrgao": "32205",
@@ -21238,7 +21238,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496890"
+      "dataColeta": "2025-09-17T15:00:01.822651"
     },
     {
       "codigoOrgao": "32205",
@@ -21279,7 +21279,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496895"
+      "dataColeta": "2025-09-17T15:00:01.822656"
     },
     {
       "codigoOrgao": "32205",
@@ -21320,7 +21320,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496901"
+      "dataColeta": "2025-09-17T15:00:01.822662"
     },
     {
       "codigoOrgao": "32205",
@@ -21361,7 +21361,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496907"
+      "dataColeta": "2025-09-17T15:00:01.822667"
     },
     {
       "codigoOrgao": "32205",
@@ -21402,7 +21402,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT/SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497364"
+      "dataColeta": "2025-09-17T15:00:01.823136"
     },
     {
       "codigoOrgao": "32205",
@@ -21443,7 +21443,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT/SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497331"
+      "dataColeta": "2025-09-17T15:00:01.823100"
     },
     {
       "codigoOrgao": "32205",
@@ -21484,7 +21484,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496924"
+      "dataColeta": "2025-09-17T15:00:01.822687"
     },
     {
       "codigoOrgao": "32205",
@@ -21525,7 +21525,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496929"
+      "dataColeta": "2025-09-17T15:00:01.822692"
     },
     {
       "codigoOrgao": "32205",
@@ -21566,7 +21566,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496935"
+      "dataColeta": "2025-09-17T15:00:01.822698"
     },
     {
       "codigoOrgao": "32205",
@@ -21607,7 +21607,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT/SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497342"
+      "dataColeta": "2025-09-17T15:00:01.823111"
     },
     {
       "codigoOrgao": "32205",
@@ -21648,7 +21648,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT/SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497317"
+      "dataColeta": "2025-09-17T15:00:01.823089"
     },
     {
       "codigoOrgao": "32205",
@@ -21689,7 +21689,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT/SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497205"
+      "dataColeta": "2025-09-17T15:00:01.822964"
     },
     {
       "codigoOrgao": "32205",
@@ -21730,7 +21730,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497233"
+      "dataColeta": "2025-09-17T15:00:01.822994"
     },
     {
       "codigoOrgao": "32205",
@@ -21771,7 +21771,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496963"
+      "dataColeta": "2025-09-17T15:00:01.822726"
     },
     {
       "codigoOrgao": "32205",
@@ -21812,7 +21812,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496969"
+      "dataColeta": "2025-09-17T15:00:01.822732"
     },
     {
       "codigoOrgao": "32205",
@@ -21853,7 +21853,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496974"
+      "dataColeta": "2025-09-17T15:00:01.822737"
     },
     {
       "codigoOrgao": "32205",
@@ -21894,7 +21894,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496980"
+      "dataColeta": "2025-09-17T15:00:01.822744"
     },
     {
       "codigoOrgao": "32205",
@@ -21935,7 +21935,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496985"
+      "dataColeta": "2025-09-17T15:00:01.822749"
     },
     {
       "codigoOrgao": "32205",
@@ -21976,7 +21976,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497359"
+      "dataColeta": "2025-09-17T15:00:01.823130"
     },
     {
       "codigoOrgao": "32205",
@@ -22017,7 +22017,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.496996"
+      "dataColeta": "2025-09-17T15:00:01.822761"
     },
     {
       "codigoOrgao": "32205",
@@ -22058,7 +22058,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497002"
+      "dataColeta": "2025-09-17T15:00:01.822766"
     },
     {
       "codigoOrgao": "32205",
@@ -22099,7 +22099,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497008"
+      "dataColeta": "2025-09-17T15:00:01.822772"
     },
     {
       "codigoOrgao": "32205",
@@ -22140,7 +22140,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497013"
+      "dataColeta": "2025-09-17T15:00:01.822777"
     },
     {
       "codigoOrgao": "32205",
@@ -22181,7 +22181,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497019"
+      "dataColeta": "2025-09-17T15:00:01.822783"
     },
     {
       "codigoOrgao": "32205",
@@ -22222,7 +22222,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "Superintendência de Gestão Administrativa e Aquisições",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497024"
+      "dataColeta": "2025-09-17T15:00:01.822789"
     },
     {
       "codigoOrgao": "32205",
@@ -22263,7 +22263,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497312"
+      "dataColeta": "2025-09-17T15:00:01.823084"
     },
     {
       "codigoOrgao": "32205",
@@ -22304,7 +22304,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497035"
+      "dataColeta": "2025-09-17T15:00:01.822800"
     },
     {
       "codigoOrgao": "32205",
@@ -22345,7 +22345,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497041"
+      "dataColeta": "2025-09-17T15:00:01.822805"
     },
     {
       "codigoOrgao": "32205",
@@ -22386,7 +22386,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497048"
+      "dataColeta": "2025-09-17T15:00:01.822811"
     },
     {
       "codigoOrgao": "32205",
@@ -22427,7 +22427,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497426"
+      "dataColeta": "2025-09-17T15:00:01.823197"
     },
     {
       "codigoOrgao": "32205",
@@ -22468,7 +22468,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497060"
+      "dataColeta": "2025-09-17T15:00:01.822822"
     },
     {
       "codigoOrgao": "32205",
@@ -22509,7 +22509,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGP",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497404"
+      "dataColeta": "2025-09-17T15:00:01.823175"
     },
     {
       "codigoOrgao": "32205",
@@ -22550,7 +22550,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497392"
+      "dataColeta": "2025-09-17T15:00:01.823164"
     },
     {
       "codigoOrgao": "32205",
@@ -22591,7 +22591,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497409"
+      "dataColeta": "2025-09-17T15:00:01.823180"
     },
     {
       "codigoOrgao": "32205",
@@ -22632,7 +22632,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497376"
+      "dataColeta": "2025-09-17T15:00:01.823147"
     },
     {
       "codigoOrgao": "32205",
@@ -22673,7 +22673,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SFI",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497444"
+      "dataColeta": "2025-09-17T15:00:01.823215"
     },
     {
       "codigoOrgao": "32205",
@@ -22714,7 +22714,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497415"
+      "dataColeta": "2025-09-17T15:00:01.823186"
     },
     {
       "codigoOrgao": "32205",
@@ -22755,7 +22755,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497432"
+      "dataColeta": "2025-09-17T15:00:01.823202"
     },
     {
       "codigoOrgao": "32205",
@@ -22796,7 +22796,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497353"
+      "dataColeta": "2025-09-17T15:00:01.823122"
     },
     {
       "codigoOrgao": "32205",
@@ -22837,7 +22837,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497278"
+      "dataColeta": "2025-09-17T15:00:01.823050"
     },
     {
       "codigoOrgao": "32205",
@@ -22878,7 +22878,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SFI",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497381"
+      "dataColeta": "2025-09-17T15:00:01.823153"
     },
     {
       "codigoOrgao": "32205",
@@ -22919,7 +22919,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SFI",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497452"
+      "dataColeta": "2025-09-17T15:00:01.823220"
     },
     {
       "codigoOrgao": "32205",
@@ -22960,7 +22960,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497128"
+      "dataColeta": "2025-09-17T15:00:01.822891"
     },
     {
       "codigoOrgao": "32205",
@@ -23001,7 +23001,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497133"
+      "dataColeta": "2025-09-17T15:00:01.822897"
     },
     {
       "codigoOrgao": "32205",
@@ -23042,7 +23042,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497139"
+      "dataColeta": "2025-09-17T15:00:01.822902"
     },
     {
       "codigoOrgao": "32205",
@@ -23083,7 +23083,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SFI",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497437"
+      "dataColeta": "2025-09-17T15:00:01.823208"
     },
     {
       "codigoOrgao": "32205",
@@ -23124,7 +23124,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497150"
+      "dataColeta": "2025-09-17T15:00:01.822913"
     },
     {
       "codigoOrgao": "32205",
@@ -23165,7 +23165,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGP",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497216"
+      "dataColeta": "2025-09-17T15:00:01.822975"
     },
     {
       "codigoOrgao": "32205",
@@ -23206,7 +23206,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497163"
+      "dataColeta": "2025-09-17T15:00:01.822925"
     },
     {
       "codigoOrgao": "32205",
@@ -23247,7 +23247,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497336"
+      "dataColeta": "2025-09-17T15:00:01.823106"
     },
     {
       "codigoOrgao": "32205",
@@ -23288,7 +23288,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "NSA",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497289"
+      "dataColeta": "2025-09-17T15:00:01.823061"
     },
     {
       "codigoOrgao": "32205",
@@ -23329,7 +23329,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497180"
+      "dataColeta": "2025-09-17T15:00:01.822941"
     },
     {
       "codigoOrgao": "32205",
@@ -23370,7 +23370,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497186"
+      "dataColeta": "2025-09-17T15:00:01.822947"
     },
     {
       "codigoOrgao": "32205",
@@ -23411,7 +23411,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497295"
+      "dataColeta": "2025-09-17T15:00:01.823067"
     },
     {
       "codigoOrgao": "32205",
@@ -23452,7 +23452,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SBQ",
       "anoVigencia": 2024,
-      "dataColeta": "2025-09-16T06:52:15.497348"
+      "dataColeta": "2025-09-17T15:00:01.823117"
     },
     {
       "codigoOrgao": "32205",
@@ -23493,7 +23493,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526350"
+      "dataColeta": "2025-09-17T15:00:03.437290"
     },
     {
       "codigoOrgao": "32205",
@@ -23534,7 +23534,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.525905"
+      "dataColeta": "2025-09-17T15:00:03.436843"
     },
     {
       "codigoOrgao": "32205",
@@ -23575,7 +23575,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.525913"
+      "dataColeta": "2025-09-17T15:00:03.436851"
     },
     {
       "codigoOrgao": "32205",
@@ -23616,7 +23616,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.525919"
+      "dataColeta": "2025-09-17T15:00:03.436857"
     },
     {
       "codigoOrgao": "32205",
@@ -23657,7 +23657,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.525925"
+      "dataColeta": "2025-09-17T15:00:03.436863"
     },
     {
       "codigoOrgao": "32205",
@@ -23698,7 +23698,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526276"
+      "dataColeta": "2025-09-17T15:00:03.437219"
     },
     {
       "codigoOrgao": "32205",
@@ -23739,7 +23739,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526389"
+      "dataColeta": "2025-09-17T15:00:03.437330"
     },
     {
       "codigoOrgao": "32205",
@@ -23780,7 +23780,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526366"
+      "dataColeta": "2025-09-17T15:00:03.437306"
     },
     {
       "codigoOrgao": "32205",
@@ -23821,7 +23821,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "OUV",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526328"
+      "dataColeta": "2025-09-17T15:00:03.437268"
     },
     {
       "codigoOrgao": "32205",
@@ -23862,7 +23862,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526287"
+      "dataColeta": "2025-09-17T15:00:03.437230"
     },
     {
       "codigoOrgao": "32205",
@@ -23903,7 +23903,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.525960"
+      "dataColeta": "2025-09-17T15:00:03.436898"
     },
     {
       "codigoOrgao": "32205",
@@ -23944,7 +23944,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.525965"
+      "dataColeta": "2025-09-17T15:00:03.436904"
     },
     {
       "codigoOrgao": "32205",
@@ -23985,7 +23985,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.525971"
+      "dataColeta": "2025-09-17T15:00:03.436910"
     },
     {
       "codigoOrgao": "32205",
@@ -24026,7 +24026,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.525978"
+      "dataColeta": "2025-09-17T15:00:03.436915"
     },
     {
       "codigoOrgao": "32205",
@@ -24067,7 +24067,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.525984"
+      "dataColeta": "2025-09-17T15:00:03.436921"
     },
     {
       "codigoOrgao": "32205",
@@ -24108,7 +24108,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT/SBQ",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526304"
+      "dataColeta": "2025-09-17T15:00:03.437246"
     },
     {
       "codigoOrgao": "32205",
@@ -24149,7 +24149,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.525996"
+      "dataColeta": "2025-09-17T15:00:03.436932"
     },
     {
       "codigoOrgao": "32205",
@@ -24190,7 +24190,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SFI",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526271"
+      "dataColeta": "2025-09-17T15:00:03.437214"
     },
     {
       "codigoOrgao": "32205",
@@ -24231,7 +24231,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526007"
+      "dataColeta": "2025-09-17T15:00:03.436943"
     },
     {
       "codigoOrgao": "32205",
@@ -24272,7 +24272,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526013"
+      "dataColeta": "2025-09-17T15:00:03.436949"
     },
     {
       "codigoOrgao": "32205",
@@ -24313,7 +24313,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526018"
+      "dataColeta": "2025-09-17T15:00:03.436955"
     },
     {
       "codigoOrgao": "32205",
@@ -24354,7 +24354,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526320"
+      "dataColeta": "2025-09-17T15:00:03.437262"
     },
     {
       "codigoOrgao": "32205",
@@ -24395,7 +24395,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SPG",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526372"
+      "dataColeta": "2025-09-17T15:00:03.437311"
     },
     {
       "codigoOrgao": "32205",
@@ -24436,7 +24436,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526333"
+      "dataColeta": "2025-09-17T15:00:03.437273"
     },
     {
       "codigoOrgao": "32205",
@@ -24477,7 +24477,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526254"
+      "dataColeta": "2025-09-17T15:00:03.437198"
     },
     {
       "codigoOrgao": "32205",
@@ -24518,7 +24518,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "CPT",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526394"
+      "dataColeta": "2025-09-17T15:00:03.437335"
     },
     {
       "codigoOrgao": "32205",
@@ -24559,7 +24559,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526053"
+      "dataColeta": "2025-09-17T15:00:03.436989"
     },
     {
       "codigoOrgao": "32205",
@@ -24600,7 +24600,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526282"
+      "dataColeta": "2025-09-17T15:00:03.437225"
     },
     {
       "codigoOrgao": "32205",
@@ -24641,7 +24641,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526065"
+      "dataColeta": "2025-09-17T15:00:03.437000"
     },
     {
       "codigoOrgao": "32205",
@@ -24682,7 +24682,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526071"
+      "dataColeta": "2025-09-17T15:00:03.437005"
     },
     {
       "codigoOrgao": "32205",
@@ -24723,7 +24723,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526077"
+      "dataColeta": "2025-09-17T15:00:03.437011"
     },
     {
       "codigoOrgao": "32205",
@@ -24764,7 +24764,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526265"
+      "dataColeta": "2025-09-17T15:00:03.437208"
     },
     {
       "codigoOrgao": "32205",
@@ -24805,7 +24805,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526088"
+      "dataColeta": "2025-09-17T15:00:03.437022"
     },
     {
       "codigoOrgao": "32205",
@@ -24846,7 +24846,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526094"
+      "dataColeta": "2025-09-17T15:00:03.437028"
     },
     {
       "codigoOrgao": "32205",
@@ -24887,7 +24887,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526298"
+      "dataColeta": "2025-09-17T15:00:03.437241"
     },
     {
       "codigoOrgao": "32205",
@@ -24928,7 +24928,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "NBH",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526315"
+      "dataColeta": "2025-09-17T15:00:03.437257"
     },
     {
       "codigoOrgao": "32205",
@@ -24969,7 +24969,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526111"
+      "dataColeta": "2025-09-17T15:00:03.437057"
     },
     {
       "codigoOrgao": "32205",
@@ -25010,7 +25010,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGP",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526117"
+      "dataColeta": "2025-09-17T15:00:03.437063"
     },
     {
       "codigoOrgao": "32205",
@@ -25051,7 +25051,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SCI",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526377"
+      "dataColeta": "2025-09-17T15:00:03.437317"
     },
     {
       "codigoOrgao": "32205",
@@ -25092,7 +25092,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SFI",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526355"
+      "dataColeta": "2025-09-17T15:00:03.437295"
     },
     {
       "codigoOrgao": "32205",
@@ -25133,7 +25133,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526293"
+      "dataColeta": "2025-09-17T15:00:03.437235"
     },
     {
       "codigoOrgao": "32205",
@@ -25174,7 +25174,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SFI",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526339"
+      "dataColeta": "2025-09-17T15:00:03.437279"
     },
     {
       "codigoOrgao": "32205",
@@ -25215,7 +25215,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526150"
+      "dataColeta": "2025-09-17T15:00:03.437094"
     },
     {
       "codigoOrgao": "32205",
@@ -25256,7 +25256,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526156"
+      "dataColeta": "2025-09-17T15:00:03.437099"
     },
     {
       "codigoOrgao": "32205",
@@ -25297,7 +25297,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SSO",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526361"
+      "dataColeta": "2025-09-17T15:00:03.437301"
     },
     {
       "codigoOrgao": "32205",
@@ -25338,7 +25338,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526167"
+      "dataColeta": "2025-09-17T15:00:03.437111"
     },
     {
       "codigoOrgao": "32205",
@@ -25379,7 +25379,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526173"
+      "dataColeta": "2025-09-17T15:00:03.437116"
     },
     {
       "codigoOrgao": "32205",
@@ -25420,7 +25420,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526179"
+      "dataColeta": "2025-09-17T15:00:03.437122"
     },
     {
       "codigoOrgao": "32205",
@@ -25461,7 +25461,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SIM",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526344"
+      "dataColeta": "2025-09-17T15:00:03.437284"
     },
     {
       "codigoOrgao": "32205",
@@ -25502,7 +25502,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGA",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526243"
+      "dataColeta": "2025-09-17T15:00:03.437187"
     },
     {
       "codigoOrgao": "32205",
@@ -25543,7 +25543,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526198"
+      "dataColeta": "2025-09-17T15:00:03.437141"
     },
     {
       "codigoOrgao": "32205",
@@ -25584,7 +25584,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526204"
+      "dataColeta": "2025-09-17T15:00:03.437148"
     },
     {
       "codigoOrgao": "32205",
@@ -25625,7 +25625,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526210"
+      "dataColeta": "2025-09-17T15:00:03.437154"
     },
     {
       "codigoOrgao": "32205",
@@ -25666,7 +25666,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526309"
+      "dataColeta": "2025-09-17T15:00:03.437252"
     },
     {
       "codigoOrgao": "32205",
@@ -25707,7 +25707,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "SGE",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526221"
+      "dataColeta": "2025-09-17T15:00:03.437165"
     },
     {
       "codigoOrgao": "32205",
@@ -25748,7 +25748,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": null,
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526248"
+      "dataColeta": "2025-09-17T15:00:03.437192"
     },
     {
       "codigoOrgao": "32205",
@@ -25789,7 +25789,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "NSA",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526259"
+      "dataColeta": "2025-09-17T15:00:03.437203"
     },
     {
       "codigoOrgao": "32205",
@@ -25830,7 +25830,7 @@
       "contratoExcluido": false,
       "unidadesRequisitantes": "STI",
       "anoVigencia": 2025,
-      "dataColeta": "2025-09-16T06:52:16.526383"
+      "dataColeta": "2025-09-17T15:00:03.437324"
     }
   ]
 }
