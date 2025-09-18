@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-09-17T07:39:23.668925",
-  "total_registros": 1583,
+  "ultima_atualizacao": "2025-09-18T07:39:16.384147",
+  "total_registros": 1591,
   "dados": [
     {
       "contrato_id": "121472",
@@ -2159,6 +2159,15 @@
         "CPF": "***.163.777-**",
         "Nome": "ALISSON CHRISTI VIEIRA ROCHA",
         "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "09044/2022"
+      }
+    },
+    {
+      "contrato_id": "191181",
+      "dados": {
+        "CPF": "***.826.884-**",
+        "Nome": "NATALIE FERNANDA FERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09044/2022"
       }
     },
@@ -5542,6 +5551,15 @@
       "dados": {
         "CPF": "***.476.213-**",
         "Nome": "JOSÉ ESMERALDO BARRETO NETO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09029/2023"
+      }
+    },
+    {
+      "contrato_id": "223442",
+      "dados": {
+        "CPF": "***.826.884-**",
+        "Nome": "NATALIE FERNANDA FERNANDES",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09029/2023"
       }
@@ -11687,6 +11705,24 @@
     {
       "contrato_id": "475000",
       "dados": {
+        "CPF": "***.339.387-**",
+        "Nome": "RAPHAEL NOGUEIRA DE CARVALHO COELHO",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2024NE000803"
+      }
+    },
+    {
+      "contrato_id": "475000",
+      "dados": {
+        "CPF": "***.339.387-**",
+        "Nome": "RAPHAEL NOGUEIRA DE CARVALHO COELHO",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "2024NE000803"
+      }
+    },
+    {
+      "contrato_id": "475000",
+      "dados": {
         "CPF": "***.476.213-**",
         "Nome": "JOSÉ ESMERALDO BARRETO NETO",
         "Tipo": "Fiscal Administrativo Substituto",
@@ -13262,6 +13298,24 @@
     {
       "contrato_id": "225733",
       "dados": {
+        "CPF": "***.687.827-**",
+        "Nome": "WELLINGTON DA SILVA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "08028/2023"
+      }
+    },
+    {
+      "contrato_id": "225733",
+      "dados": {
+        "CPF": "***.687.827-**",
+        "Nome": "WELLINGTON DA SILVA",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "08028/2023"
+      }
+    },
+    {
+      "contrato_id": "225733",
+      "dados": {
         "CPF": "***.896.037-**",
         "Nome": "SAHID DE OLIVEIRA KIK",
         "Tipo": "Fiscal Administrativo",
@@ -13473,6 +13527,24 @@
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09054/2020"
+      }
+    },
+    {
+      "contrato_id": "205105",
+      "dados": {
+        "CPF": "***.687.827-**",
+        "Nome": "WELLINGTON DA SILVA",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "08009/2023"
+      }
+    },
+    {
+      "contrato_id": "205105",
+      "dados": {
+        "CPF": "***.687.827-**",
+        "Nome": "WELLINGTON DA SILVA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "08009/2023"
       }
     },
     {
