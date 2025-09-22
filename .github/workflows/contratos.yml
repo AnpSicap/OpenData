@@ -38,10 +38,24 @@ jobs:
     - name: Run contratos API
       run: python src/contratos.py
         
-    - name: Commit and push contratos data
+    - name: Commit e push dos dados
       run: |
-        git config --local user.email "github_anp@outlook.com"
-        git config --local user.name "GitHub ANP Automation"
+        git config --local user.email "sicap-sga@outlook.com"
+        git config --local user.name "GitHub SICAP ANP Automation"
+
         git add data/contratos.json
-        git commit -m "📦 Contratos Update: $(date +'%Y-%m-%d %H:%M')" || echo "Sem alterações para commit"
-        git push
+        git commit -m "📦 Atualização de IDs: $(date +'%Y-%m-%d %H:%M')" || echo "Sem alterações para commit"
+
+        # 🔄 Tentar até 3 vezes em caso de erro de push
+        for i in 1 2 3; do
+          # Pega as últimas mudanças do remoto e rebaseia antes de push
+          git pull --rebase origin main || true
+          
+          if git push origin main; then
+            echo "✅ Push realizado com sucesso"
+            break
+          else
+            echo "⚠️ Tentativa $i falhou, tentando de novo em 10s..."
+            sleep 10
+          fi
+        done
