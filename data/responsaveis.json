@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2025-09-19T07:39:58.006321",
+  "ultima_atualizacao": "2025-09-22T07:42:49.658495",
   "total_registros": 1591,
   "dados": [
     {
@@ -6132,51 +6132,6 @@
       }
     },
     {
-      "contrato_id": "80291",
-      "dados": {
-        "CPF": "***.476.213-**",
-        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09064/2020"
-      }
-    },
-    {
-      "contrato_id": "80291",
-      "dados": {
-        "CPF": "***.896.037-**",
-        "Nome": "SAHID DE OLIVEIRA KIK",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09064/2020"
-      }
-    },
-    {
-      "contrato_id": "80291",
-      "dados": {
-        "CPF": "***.527.027-**",
-        "Nome": "JAYME DE ALMEIDA LOPES",
-        "Tipo": "Fiscal Requisitante",
-        "Número Contrato": "09064/2020"
-      }
-    },
-    {
-      "contrato_id": "80291",
-      "dados": {
-        "CPF": "***.156.568-**",
-        "Nome": "MAURO RICARDO DA SILVA",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09064/2020"
-      }
-    },
-    {
-      "contrato_id": "80291",
-      "dados": {
-        "CPF": "***.476.213-**",
-        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09064/2020"
-      }
-    },
-    {
       "contrato_id": "247381",
       "dados": {
         "CPF": "***.470.941-**",
@@ -7398,6 +7353,51 @@
         "Nome": "CECILIA VARELA",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "05010/2025"
+      }
+    },
+    {
+      "contrato_id": "80291",
+      "dados": {
+        "CPF": "***.476.213-**",
+        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09064/2020"
+      }
+    },
+    {
+      "contrato_id": "80291",
+      "dados": {
+        "CPF": "***.896.037-**",
+        "Nome": "SAHID DE OLIVEIRA KIK",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09064/2020"
+      }
+    },
+    {
+      "contrato_id": "80291",
+      "dados": {
+        "CPF": "***.527.027-**",
+        "Nome": "JAYME DE ALMEIDA LOPES",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "09064/2020"
+      }
+    },
+    {
+      "contrato_id": "80291",
+      "dados": {
+        "CPF": "***.156.568-**",
+        "Nome": "MAURO RICARDO DA SILVA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09064/2020"
+      }
+    },
+    {
+      "contrato_id": "80291",
+      "dados": {
+        "CPF": "***.476.213-**",
+        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09064/2020"
       }
     },
     {
