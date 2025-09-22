@@ -23,6 +23,7 @@ URL_CONTRATO_DETALHE = "https://contratos.comprasnet.gov.br/transparencia/contra
 OUTPUT_FILES = {
     "historico": "data/historico.json",
     "responsaveis": "data/responsaveis.json",
+    "empenhos": "data/empenhos.json",   # 🚀 nova saída
 }
 
 # =============================
@@ -66,12 +67,14 @@ def salvar_json(caminho, dados_array):
         json.dump(saida, f, ensure_ascii=False, indent=2)
 
 # =============================
-# Extração (Histórico e Responsáveis)
+# Extração (Histórico, Responsáveis, Empenhos)
 # =============================
 TABELAS_HEADERS = {
     "historico": ["Data Assinatura", "Número", "Tipo", "Observação",
                   "Data Início", "Data Fim", "Vlr. Global", "Parcelas", "Vlr. Parcela"],
     "responsaveis": ["CPF", "Nome", "Tipo"],
+    "empenhos": ["UG", "Número", "PI", "ND", "Emp.", "A liq.", "Liquid.", "Pg",
+                 "RP Inscr.", "RP A Liq.", "RP Liq.", "RP Pg"],  # 🚀 adicionada
 }
 
 def match_headers(actual_headers, expected_headers):
@@ -80,9 +83,6 @@ def match_headers(actual_headers, expected_headers):
     return a == e
 
 def extrair_numero_contrato(soup: BeautifulSoup) -> str:
-    """
-    Procura na primeira tabela (detalhes) a linha 'Número Contrato'.
-    """
     for tabela in soup.find_all("table"):
         for tr in tabela.find_all("tr"):
             tds = tr.find_all("td")
@@ -104,7 +104,6 @@ def extrair_tabelas(soup: BeautifulSoup, contrato_id: str, numero_contrato: str)
                     if not tds:
                         continue
                     linha = {headers[i]: tds[i].get_text(strip=True) for i in range(len(headers))}
-                    # adiciona também o Número Contrato
                     linha["Número Contrato"] = numero_contrato
                     tabelas[chave].append({
                         "contrato_id": contrato_id,
@@ -116,7 +115,7 @@ def extrair_tabelas(soup: BeautifulSoup, contrato_id: str, numero_contrato: str)
 # Main
 # =============================
 def main():
-    print("🚀 Extraindo Histórico e Responsáveis dos contratos (ComprasNet)...")
+    print("🚀 Extraindo Histórico, Responsáveis e Empenhos dos contratos (ComprasNet)...")
     ids = carregar_ids()
     print(f"🧾 Total de contratos a processar: {len(ids)}")
 
@@ -145,11 +144,7 @@ def main():
             continue
 
         soup = BeautifulSoup(detalhe_html, "html.parser")
-
-        # Extrai o número do contrato
         numero_contrato = extrair_numero_contrato(soup)
-
-        # Extrai apenas as tabelas de interesse e inclui número contrato
         tabelas = extrair_tabelas(soup, contrato_id, numero_contrato)
 
         for chave, valores in tabelas.items():
