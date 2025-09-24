@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-09-23T07:42:26.178556",
-  "total_registros": 1591,
+  "ultima_atualizacao": "2025-09-24T07:42:25.758138",
+  "total_registros": 1598,
   "dados": [
     {
       "contrato_id": "121472",
@@ -5178,60 +5178,6 @@
       }
     },
     {
-      "contrato_id": "159010",
-      "dados": {
-        "CPF": "***.192.489-**",
-        "Nome": "LUIS EDUARDO ESTEVES",
-        "Tipo": "Gestor",
-        "Número Contrato": "09031/2022"
-      }
-    },
-    {
-      "contrato_id": "159010",
-      "dados": {
-        "CPF": "***.125.536-**",
-        "Nome": "THIERS DE CRUZ E ALVES",
-        "Tipo": "Gestor Substituto",
-        "Número Contrato": "09031/2022"
-      }
-    },
-    {
-      "contrato_id": "159010",
-      "dados": {
-        "CPF": "***.424.337-**",
-        "Nome": "THIAGO DA SILVA PEREIRA SOARES",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "09031/2022"
-      }
-    },
-    {
-      "contrato_id": "159010",
-      "dados": {
-        "CPF": "***.818.647-**",
-        "Nome": "LEONARDO DE VASCONCELOS MACHADO RODRIGUES -",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09031/2022"
-      }
-    },
-    {
-      "contrato_id": "159010",
-      "dados": {
-        "CPF": "***.132.027-**",
-        "Nome": "JOAO VICTOR GONCALVES GOUVEA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09031/2022"
-      }
-    },
-    {
-      "contrato_id": "159010",
-      "dados": {
-        "CPF": "***.380.258-**",
-        "Nome": "REGINA CELIA LOURENCO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09031/2022"
-      }
-    },
-    {
       "contrato_id": "47949",
       "dados": {
         "CPF": "***.248.978-**",
@@ -7743,6 +7689,24 @@
       }
     },
     {
+      "contrato_id": "655048",
+      "dados": {
+        "CPF": "***.415.617-**",
+        "Nome": "ELISABETH MACHADO LOURENÇO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09022/2025"
+      }
+    },
+    {
+      "contrato_id": "655048",
+      "dados": {
+        "CPF": "***.622.527-**",
+        "Nome": "PRISCILA RAMOS BARRETO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09022/2025"
+      }
+    },
+    {
       "contrato_id": "199407",
       "dados": {
         "CPF": "***.750.188-**",
@@ -7950,6 +7914,42 @@
       }
     },
     {
+      "contrato_id": "657959",
+      "dados": {
+        "CPF": "***.466.297-**",
+        "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09024/2025"
+      }
+    },
+    {
+      "contrato_id": "657959",
+      "dados": {
+        "CPF": "***.155.097-**",
+        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09024/2025"
+      }
+    },
+    {
+      "contrato_id": "657959",
+      "dados": {
+        "CPF": "***.529.093-**",
+        "Nome": "MARIO DOS SANTOS FERNANDES",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09024/2025"
+      }
+    },
+    {
+      "contrato_id": "657959",
+      "dados": {
+        "CPF": "***.126.417-**",
+        "Nome": "CARLOS ANDRÉ JACOMIM DOS SANTOS",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09024/2025"
+      }
+    },
+    {
       "contrato_id": "163748",
       "dados": {
         "CPF": "***.984.147-**",
@@ -8082,6 +8082,60 @@
         "Nome": "SILVIO ROBERTO PEREIRA DA COSTA",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "09009/2020"
+      }
+    },
+    {
+      "contrato_id": "159010",
+      "dados": {
+        "CPF": "***.192.489-**",
+        "Nome": "LUIS EDUARDO ESTEVES",
+        "Tipo": "Gestor",
+        "Número Contrato": "09031/2022"
+      }
+    },
+    {
+      "contrato_id": "159010",
+      "dados": {
+        "CPF": "***.125.536-**",
+        "Nome": "THIERS DE CRUZ E ALVES",
+        "Tipo": "Gestor Substituto",
+        "Número Contrato": "09031/2022"
+      }
+    },
+    {
+      "contrato_id": "159010",
+      "dados": {
+        "CPF": "***.424.337-**",
+        "Nome": "THIAGO DA SILVA PEREIRA SOARES",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "09031/2022"
+      }
+    },
+    {
+      "contrato_id": "159010",
+      "dados": {
+        "CPF": "***.818.647-**",
+        "Nome": "LEONARDO DE VASCONCELOS MACHADO RODRIGUES -",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09031/2022"
+      }
+    },
+    {
+      "contrato_id": "159010",
+      "dados": {
+        "CPF": "***.132.027-**",
+        "Nome": "JOAO VICTOR GONCALVES GOUVEA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09031/2022"
+      }
+    },
+    {
+      "contrato_id": "159010",
+      "dados": {
+        "CPF": "***.380.258-**",
+        "Nome": "REGINA CELIA LOURENCO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09031/2022"
       }
     },
     {
@@ -11870,6 +11924,15 @@
         "CPF": "***.507.968-**",
         "Nome": "FLAVIO BARROSO NEVES",
         "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "01027/2022"
+      }
+    },
+    {
+      "contrato_id": "150817",
+      "dados": {
+        "CPF": "***.749.267-**",
+        "Nome": "ALEXANDRE SEIXAS FRANCA",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "01027/2022"
       }
     },
