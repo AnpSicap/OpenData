@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-10-02T07:41:17.821932",
-  "total_registros": 1605,
+  "ultima_atualizacao": "2025-10-03T07:39:30.110564",
+  "total_registros": 1606,
   "dados": [
     {
       "contrato_id": "121472",
@@ -6758,6 +6758,15 @@
         "CPF": "***.750.044-**",
         "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
         "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09009/2024"
+      }
+    },
+    {
+      "contrato_id": "247388",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09009/2024"
       }
     },
