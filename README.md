@@ -103,7 +103,7 @@ OpenData
 - 📌 ID de todos os contratos da ANP: https://raw.githubusercontent.com/AnpSicap/OpenData/main/data/IDcontratos.json
 - 📌 Faturas de todos os contratos da ANP: https://raw.githubusercontent.com/AnpSicap/OpenData/main/data/faturas.json
 - 📌 Informações principais dos Contratos da ANP: https://raw.githubusercontent.com/AnpSicap/OpenData/main/data/contratos.json
-- 📌 Histórico dos contratos da ANP: https://raw.githubusercontent.com/AnpSicap/OpenData/main/data/historico
+- 📌 Histórico dos contratos da ANP: https://raw.githubusercontent.com/AnpSicap/OpenData/main/data/historico.json
 - 📌 Responsáveis pelos contratos da ANP: https://raw.githubusercontent.com/AnpSicap/OpenData/main/data/responsaveis.json
 
 
