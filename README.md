@@ -12,7 +12,7 @@ Repositório: **AnpSicap/OpenData**
 
 ## ⚙️ Funcionalidades
 
-- 📋 Coleta automática de **faturas** via web scraping do portal de transparência  
+- 📋 Coleta automática de **faturas, histórico e responsáveis** via web scraping do portal de transparência  
 - 📄 Coleta de **contratos** através da **API oficial de dados abertos**  
 - 💾 Armazenamento em **JSON estruturado e padronizado**  
 - ⏰ Execução automática via **GitHub Actions** (segunda a sexta-feira)  
