@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2025-10-07T07:40:49.280499",
+  "ultima_atualizacao": "2025-10-08T07:40:43.224677",
   "total_registros": 1606,
   "dados": [
     {
@@ -7952,6 +7952,15 @@
     {
       "contrato_id": "657959",
       "dados": {
+        "CPF": "***.889.617-**",
+        "Nome": "SANDRO CASSIANO DA COSTA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09024/2025"
+      }
+    },
+    {
+      "contrato_id": "657959",
+      "dados": {
         "CPF": "***.466.297-**",
         "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
         "Tipo": "Fiscal Administrativo",
@@ -7973,15 +7982,6 @@
         "CPF": "***.529.093-**",
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09024/2025"
-      }
-    },
-    {
-      "contrato_id": "657959",
-      "dados": {
-        "CPF": "***.126.417-**",
-        "Nome": "CARLOS ANDRÉ JACOMIM DOS SANTOS",
-        "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09024/2025"
       }
     },
@@ -11993,15 +11993,6 @@
     {
       "contrato_id": "150817",
       "dados": {
-        "CPF": "***.507.968-**",
-        "Nome": "FLAVIO BARROSO NEVES",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "01027/2022"
-      }
-    },
-    {
-      "contrato_id": "150817",
-      "dados": {
         "CPF": "***.749.267-**",
         "Nome": "ALEXANDRE SEIXAS FRANCA",
         "Tipo": "Fiscal Administrativo Substituto",
@@ -12041,6 +12032,15 @@
         "CPF": "***.398.851-**",
         "Nome": "GISELY LIMA COSTA",
         "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "01027/2022"
+      }
+    },
+    {
+      "contrato_id": "150817",
+      "dados": {
+        "CPF": "***.507.968-**",
+        "Nome": "FLAVIO BARROSO NEVES",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "01027/2022"
       }
     },
