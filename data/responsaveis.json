@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-10-08T07:40:43.224677",
-  "total_registros": 1606,
+  "ultima_atualizacao": "2025-10-09T07:41:25.695167",
+  "total_registros": 1605,
   "dados": [
     {
       "contrato_id": "121472",
@@ -822,33 +822,6 @@
       }
     },
     {
-      "contrato_id": "315641",
-      "dados": {
-        "CPF": "***.813.875-**",
-        "Nome": "ADRIANA NASCIMENTO SOUZA",
-        "Tipo": "Apoio Administrativo",
-        "Número Contrato": "09032/2024"
-      }
-    },
-    {
-      "contrato_id": "315641",
-      "dados": {
-        "CPF": "***.800.535-**",
-        "Nome": "MILENA NASCIMENTO SALES",
-        "Tipo": "Gestor",
-        "Número Contrato": "09032/2024"
-      }
-    },
-    {
-      "contrato_id": "315641",
-      "dados": {
-        "CPF": "***.326.385-**",
-        "Nome": "VLADIMIR SOUSA COSTA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09032/2024"
-      }
-    },
-    {
       "contrato_id": "121587",
       "dados": {
         "CPF": "***.131.887-**",
@@ -1341,6 +1314,24 @@
         "Nome": "BRUNO SALES BERNARDO",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000137"
+      }
+    },
+    {
+      "contrato_id": "638632",
+      "dados": {
+        "CPF": "***.549.427-**",
+        "Nome": "ANKE CORDEIRO MORAES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05021/2025"
+      }
+    },
+    {
+      "contrato_id": "638632",
+      "dados": {
+        "CPF": "***.792.977-**",
+        "Nome": "ALESSANDRA DA SILVA GOMES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05021/2025"
       }
     },
     {
