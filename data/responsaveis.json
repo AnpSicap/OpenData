@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2025-10-09T07:41:25.695167",
+  "ultima_atualizacao": "2025-10-10T07:31:32.393672",
   "total_registros": 1605,
   "dados": [
     {
@@ -7149,51 +7149,6 @@
       }
     },
     {
-      "contrato_id": "118143",
-      "dados": {
-        "CPF": "***.284.527-**",
-        "Nome": "JOSÉ ANTONIO RODRIGUES",
-        "Tipo": "Gestor",
-        "Número Contrato": "09023/2021"
-      }
-    },
-    {
-      "contrato_id": "118143",
-      "dados": {
-        "CPF": "***.244.899-**",
-        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09023/2021"
-      }
-    },
-    {
-      "contrato_id": "118143",
-      "dados": {
-        "CPF": "***.809.164-**",
-        "Nome": "RODRIGO PEREIRA CÂMARA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09023/2021"
-      }
-    },
-    {
-      "contrato_id": "118143",
-      "dados": {
-        "CPF": "***.471.041-**",
-        "Nome": "JULIANA LOPES DE CARVALHO NUNES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09023/2021"
-      }
-    },
-    {
-      "contrato_id": "118143",
-      "dados": {
-        "CPF": "***.382.531-**",
-        "Nome": "FERNANDA VENTURA MOURA LIMA",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "09023/2021"
-      }
-    },
-    {
       "contrato_id": "47409",
       "dados": {
         "CPF": "***.248.978-**",
@@ -10080,6 +10035,51 @@
         "Nome": "VANJOALDO DOS REIS LOPES NETO",
         "Tipo": "Fiscal Setorial Substituto",
         "Número Contrato": "09042/2024"
+      }
+    },
+    {
+      "contrato_id": "118143",
+      "dados": {
+        "CPF": "***.284.527-**",
+        "Nome": "JOSÉ ANTONIO RODRIGUES",
+        "Tipo": "Gestor",
+        "Número Contrato": "09023/2021"
+      }
+    },
+    {
+      "contrato_id": "118143",
+      "dados": {
+        "CPF": "***.244.899-**",
+        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09023/2021"
+      }
+    },
+    {
+      "contrato_id": "118143",
+      "dados": {
+        "CPF": "***.809.164-**",
+        "Nome": "RODRIGO PEREIRA CÂMARA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09023/2021"
+      }
+    },
+    {
+      "contrato_id": "118143",
+      "dados": {
+        "CPF": "***.471.041-**",
+        "Nome": "JULIANA LOPES DE CARVALHO NUNES",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09023/2021"
+      }
+    },
+    {
+      "contrato_id": "118143",
+      "dados": {
+        "CPF": "***.382.531-**",
+        "Nome": "FERNANDA VENTURA MOURA LIMA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09023/2021"
       }
     },
     {
