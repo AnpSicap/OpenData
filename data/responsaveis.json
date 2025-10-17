@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2025-10-16T07:32:51.320702",
+  "ultima_atualizacao": "2025-10-17T07:32:44.746213",
   "total_registros": 1605,
   "dados": [
     {
@@ -6060,33 +6060,6 @@
       }
     },
     {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.809.164-**",
-        "Nome": "RODRIGO PEREIRA CÂMARA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.244.899-**",
-        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.677.011-**",
-        "Nome": "RANI DE FREITAS VIEIRA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
       "contrato_id": "247381",
       "dados": {
         "CPF": "***.470.941-**",
@@ -9009,6 +8982,33 @@
         "Nome": "ARNALDO SHIOJI FERRADOSA ARCOVERDE",
         "Tipo": "Fiscal Substituto",
         "Número Contrato": "01018/2016"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.809.164-**",
+        "Nome": "RODRIGO PEREIRA CÂMARA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.244.899-**",
+        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.677.011-**",
+        "Nome": "RANI DE FREITAS VIEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09036/2023"
       }
     },
     {
