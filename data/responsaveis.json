@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2025-10-31T07:32:04.590137",
+  "ultima_atualizacao": "2025-11-03T07:33:49.887151",
   "total_registros": 1607,
   "dados": [
     {
@@ -4521,24 +4521,6 @@
       }
     },
     {
-      "contrato_id": "119226",
-      "dados": {
-        "CPF": "***.565.627-**",
-        "Nome": "MERCEDES SANTANA DA SILVA",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "01028/2021"
-      }
-    },
-    {
-      "contrato_id": "119226",
-      "dados": {
-        "CPF": "***.131.887-**",
-        "Nome": "BRUNO PEREIRA NASCIMENTO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "01028/2021"
-      }
-    },
-    {
       "contrato_id": "565983",
       "dados": {
         "CPF": "***.896.037-**",
@@ -8640,6 +8622,24 @@
         "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
         "Tipo": "Gestor",
         "Número Contrato": "09022/2017"
+      }
+    },
+    {
+      "contrato_id": "119226",
+      "dados": {
+        "CPF": "***.565.627-**",
+        "Nome": "MERCEDES SANTANA DA SILVA",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "01028/2021"
+      }
+    },
+    {
+      "contrato_id": "119226",
+      "dados": {
+        "CPF": "***.131.887-**",
+        "Nome": "BRUNO PEREIRA NASCIMENTO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01028/2021"
       }
     },
     {
