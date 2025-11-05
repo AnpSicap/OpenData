@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-04T07:33:28.025989",
-  "total_registros": 1238,
+  "ultima_atualizacao": "2025-11-05T07:32:53.607632",
+  "total_registros": 1241,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1510,7 +1510,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "04/11/2025",
+        "Data Fim": "05/11/2025",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -7113,111 +7113,6 @@
       }
     },
     {
-      "contrato_id": "47297",
-      "dados": {
-        "Data Assinatura": "31/10/2019",
-        "Número": "09046/2019",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09046/2019 DE ACORDO COM PROCESSO NÚMERO: 48610.204298/2019-91",
-        "Data Início": "31/10/2019",
-        "Data Fim": "31/10/2023",
-        "Vlr. Global": "2.597.448,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "2.597.448,00",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
-      "contrato_id": "47297",
-      "dados": {
-        "Data Assinatura": "22/03/2021",
-        "Número": "00001/2021",
-        "Tipo": "Termo Aditivo",
-        "Observação": "REDUÇÃO QUANTITATIVA DA FRANQUIA EM 25% (VINTE E CINCO POR CENTO) DO CONTRATO ORIGINAL, MEDIANTE A ALTERAÇÃO, DE FORMA UNILATERAL, DA FRANQUIA GLOBAL MENSAL DE CÓPIAS/IMPRESSÕES, CONFORME MOTIVAÇÃO CONTIDA NA NOTA TÉCNICA Nº 95/2020/STI-CONT/STI/ANP-RJ (SEI Nº 0983557), COM BASE NO ARTIGO 65, § 1º, DA LEI Nº 8.666/93.",
-        "Data Início": "31/10/2019",
-        "Data Fim": "31/10/2023",
-        "Vlr. Global": "1.948.086,24",
-        "Parcelas": "4",
-        "Vlr. Parcela": "487.021,56",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
-      "contrato_id": "47297",
-      "dados": {
-        "Data Assinatura": "05/04/2023",
-        "Número": "00002/2023",
-        "Tipo": "Termo Aditivo",
-        "Observação": "SUPRIMIR EM 51,31% DO VALOR INICIAL ATUALIZADO DO CONTRATO, DEVIDO A SUPRESSÃO DE 61 (SESSENTA E UM) EQUIPAMENTOS E PROPORCIONAL REDUÇÃO DAS RESPECTIVAS FRANQUIAS DE IMPRESSÃO, CONFORME MOTIVAÇÃO CONTIDA NA NOTA TÉCNICA Nº 120/2022/STI-CONT/STI/ANP-RJ (SEI Nº 2655223), A PARTIR DA DATA DE ASSINATURA DESTE INSTRUMENTO, EQUIVALENTE A R$ 333.192,48 (TREZENTOS E TRINTA E TRÊS MIL CENTO E NOVENTA E DOIS REAIS E QUARENTA E OITO CENTAVOS), NOS MOLDES DO ART. 65, INCISO I, ALÍNEA “B”, §§ 1º E 2º, DA LEI N.º 8.666/1993.",
-        "Data Início": "05/04/2023",
-        "Data Fim": "31/10/2023",
-        "Vlr. Global": "316.169,52",
-        "Parcelas": "4",
-        "Vlr. Parcela": "79.042,38",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
-      "contrato_id": "47297",
-      "dados": {
-        "Data Assinatura": "24/07/2023",
-        "Número": "00001/2023",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 9.046/19, EM 6,67% COM BASE NO ICTI ACUMULADO DE OUTUBRO/20 A SETEMBRO/21 E, DE FORMA CUMULATIVA, EM 5,78%, COM BASE ICTI ACUMULADO DE OUTUBRO/21 A SETEMBRO/22, COM IMPACTOS FINANCEIROS RETROAGINDO A  01/10/2021, EM CONSONÂNCIA COM AS PLANILHAS DE DETALHAMENTO CONTIDAS NOS DOCUMENTOS SEI N.º 3151000 E 3154940, E CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 56/2023/STI-CONT/STI/ANP-RJ (SEI 3146379).",
-        "Data Início": "31/10/2019",
-        "Data Fim": "31/10/2023",
-        "Vlr. Global": "397.548,96",
-        "Parcelas": "4",
-        "Vlr. Parcela": "99.387,24",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
-      "contrato_id": "47297",
-      "dados": {
-        "Data Assinatura": "05/10/2023",
-        "Número": "00003/2023",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO 31/10/2023 E 31/10/2024,  COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93.\r\n\r\n2.2 CONSIGNAR A POSSIBILIDADE DE CESSÃO DOS CRÉDITOS DECORRENTES DA CONTRATAÇÃO EM ATENDIMENTO À IN 53-20 SEGES-ME E ÀS RECOMENDAÇÕES REFERENTES À MESMA NO OFÍCIO CIRCULAR SEI Nº 608/2022/ME (SEI 2427692), QUE TRATA DA PREVISÃO CONTRATUAL DA OPERAÇÃO DE CRÉDITO GARANTIDA POR CESSÃO FIDUCIÁRIA DOS DIREITOS DE CRÉDITOS DECORRENTES DE CONTRATOS ADMINISTRATIVOS DE QUE TRATA A MENCIONADA IN EM SEU ARTIGO 19,\r\nASSEGURAR À CONTRATADA,  O DIREITO DE PLEITEAR  A REAJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRAT",
-        "Data Início": "31/10/2023",
-        "Data Fim": "31/10/2024",
-        "Vlr. Global": "353.370,48",
-        "Parcelas": "4",
-        "Vlr. Parcela": "88.342,62",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
-      "contrato_id": "47297",
-      "dados": {
-        "Data Assinatura": "12/04/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 9.046/19 EM 2,59%, COM BASE NO ICTI ACUMULADO DE OUTUBRO/22 A SETEMBRO/23, TENDO SEUS EFEITOS FINANCEIROS RETROAGINDO A PARTIR DE 01/10/23, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 31/2024/STI-CONT/STI/ANP-RJ (SEI 3880376).",
-        "Data Início": "31/10/2019",
-        "Data Fim": "31/10/2024",
-        "Vlr. Global": "360.516,84",
-        "Parcelas": "4",
-        "Vlr. Parcela": "90.129,21",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
-      "contrato_id": "47297",
-      "dados": {
-        "Data Assinatura": "09/10/2024",
-        "Número": "00004/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR, EM CARÁTER EXCEPCIONAL, A VIGÊNCIA DO CONTRATO POR ATÉ 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO 31/10/2024 E 31/10/2025, COM FUNDAMENTO NO ARTIGO 57, § 4O, DA LEI Nº 8666/93.\r\n\r\n2.2 O CONTRATO PODERÁ SER RESCINDIDO DE FORMA AMIGÁVEL E ANTECIPADA,  NOS TERMOS DO ARTIGO 79, INCISO II E §1º, DA LEI Nº 8.666/1993, MEDIANTE NOTIFICAÇÃO PRÉVIA DA CONTRATANTE À CONTRATADA, COM NO MÍNIMO 30 (TRINTA) DIAS DE ANTECEDÊNCIA, MANTIDAS AS DEMAIS CONDIÇÕES ANTERIORMENTE PACTUADAS.\r\n\r\n2.2 ASSEGURAR À CONTRATADA, O DIREITO DE PLEITEAR O REAJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
-        "Data Início": "31/10/2024",
-        "Data Fim": "31/10/2025",
-        "Vlr. Global": "360.516,84",
-        "Parcelas": "4",
-        "Vlr. Parcela": "90.129,21",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
       "contrato_id": "319371",
       "dados": {
         "Data Assinatura": "14/11/2023",
@@ -8905,7 +8800,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "04/11/2025",
+        "Data Fim": "05/11/2025",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -10150,7 +10045,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "04/11/2025",
+        "Data Fim": "05/11/2025",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -10515,6 +10410,141 @@
         "Parcelas": "1",
         "Vlr. Parcela": "4.833.816,45",
         "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "700486",
+      "dados": {
+        "Data Assinatura": "28/10/2025",
+        "Número": "2025NE000626",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000626 DE ACORDO COM PROCESSO NÚMERO: 48600.203353/2025-93",
+        "Data Início": "28/10/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "1.232,72",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.232,72",
+        "Número Contrato": "2025NE000626"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "Data Assinatura": "31/10/2019",
+        "Número": "09046/2019",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09046/2019 DE ACORDO COM PROCESSO NÚMERO: 48610.204298/2019-91",
+        "Data Início": "31/10/2019",
+        "Data Fim": "31/10/2023",
+        "Vlr. Global": "2.597.448,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "2.597.448,00",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "Data Assinatura": "22/03/2021",
+        "Número": "00001/2021",
+        "Tipo": "Termo Aditivo",
+        "Observação": "REDUÇÃO QUANTITATIVA DA FRANQUIA EM 25% (VINTE E CINCO POR CENTO) DO CONTRATO ORIGINAL, MEDIANTE A ALTERAÇÃO, DE FORMA UNILATERAL, DA FRANQUIA GLOBAL MENSAL DE CÓPIAS/IMPRESSÕES, CONFORME MOTIVAÇÃO CONTIDA NA NOTA TÉCNICA Nº 95/2020/STI-CONT/STI/ANP-RJ (SEI Nº 0983557), COM BASE NO ARTIGO 65, § 1º, DA LEI Nº 8.666/93.",
+        "Data Início": "31/10/2019",
+        "Data Fim": "31/10/2023",
+        "Vlr. Global": "1.948.086,24",
+        "Parcelas": "4",
+        "Vlr. Parcela": "487.021,56",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "Data Assinatura": "05/04/2023",
+        "Número": "00002/2023",
+        "Tipo": "Termo Aditivo",
+        "Observação": "SUPRIMIR EM 51,31% DO VALOR INICIAL ATUALIZADO DO CONTRATO, DEVIDO A SUPRESSÃO DE 61 (SESSENTA E UM) EQUIPAMENTOS E PROPORCIONAL REDUÇÃO DAS RESPECTIVAS FRANQUIAS DE IMPRESSÃO, CONFORME MOTIVAÇÃO CONTIDA NA NOTA TÉCNICA Nº 120/2022/STI-CONT/STI/ANP-RJ (SEI Nº 2655223), A PARTIR DA DATA DE ASSINATURA DESTE INSTRUMENTO, EQUIVALENTE A R$ 333.192,48 (TREZENTOS E TRINTA E TRÊS MIL CENTO E NOVENTA E DOIS REAIS E QUARENTA E OITO CENTAVOS), NOS MOLDES DO ART. 65, INCISO I, ALÍNEA “B”, §§ 1º E 2º, DA LEI N.º 8.666/1993.",
+        "Data Início": "05/04/2023",
+        "Data Fim": "31/10/2023",
+        "Vlr. Global": "316.169,52",
+        "Parcelas": "4",
+        "Vlr. Parcela": "79.042,38",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "Data Assinatura": "24/07/2023",
+        "Número": "00001/2023",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 9.046/19, EM 6,67% COM BASE NO ICTI ACUMULADO DE OUTUBRO/20 A SETEMBRO/21 E, DE FORMA CUMULATIVA, EM 5,78%, COM BASE ICTI ACUMULADO DE OUTUBRO/21 A SETEMBRO/22, COM IMPACTOS FINANCEIROS RETROAGINDO A  01/10/2021, EM CONSONÂNCIA COM AS PLANILHAS DE DETALHAMENTO CONTIDAS NOS DOCUMENTOS SEI N.º 3151000 E 3154940, E CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 56/2023/STI-CONT/STI/ANP-RJ (SEI 3146379).",
+        "Data Início": "31/10/2019",
+        "Data Fim": "31/10/2023",
+        "Vlr. Global": "397.548,96",
+        "Parcelas": "4",
+        "Vlr. Parcela": "99.387,24",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "Data Assinatura": "05/10/2023",
+        "Número": "00003/2023",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO 31/10/2023 E 31/10/2024,  COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93.\r\n\r\n2.2 CONSIGNAR A POSSIBILIDADE DE CESSÃO DOS CRÉDITOS DECORRENTES DA CONTRATAÇÃO EM ATENDIMENTO À IN 53-20 SEGES-ME E ÀS RECOMENDAÇÕES REFERENTES À MESMA NO OFÍCIO CIRCULAR SEI Nº 608/2022/ME (SEI 2427692), QUE TRATA DA PREVISÃO CONTRATUAL DA OPERAÇÃO DE CRÉDITO GARANTIDA POR CESSÃO FIDUCIÁRIA DOS DIREITOS DE CRÉDITOS DECORRENTES DE CONTRATOS ADMINISTRATIVOS DE QUE TRATA A MENCIONADA IN EM SEU ARTIGO 19,\r\nASSEGURAR À CONTRATADA,  O DIREITO DE PLEITEAR  A REAJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRAT",
+        "Data Início": "31/10/2023",
+        "Data Fim": "31/10/2024",
+        "Vlr. Global": "353.370,48",
+        "Parcelas": "4",
+        "Vlr. Parcela": "88.342,62",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "Data Assinatura": "12/04/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 9.046/19 EM 2,59%, COM BASE NO ICTI ACUMULADO DE OUTUBRO/22 A SETEMBRO/23, TENDO SEUS EFEITOS FINANCEIROS RETROAGINDO A PARTIR DE 01/10/23, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 31/2024/STI-CONT/STI/ANP-RJ (SEI 3880376).",
+        "Data Início": "31/10/2019",
+        "Data Fim": "31/10/2024",
+        "Vlr. Global": "360.516,84",
+        "Parcelas": "4",
+        "Vlr. Parcela": "90.129,21",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "Data Assinatura": "09/10/2024",
+        "Número": "00004/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR, EM CARÁTER EXCEPCIONAL, A VIGÊNCIA DO CONTRATO POR ATÉ 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO 31/10/2024 E 31/10/2025, COM FUNDAMENTO NO ARTIGO 57, § 4O, DA LEI Nº 8666/93.\r\n\r\n2.2 O CONTRATO PODERÁ SER RESCINDIDO DE FORMA AMIGÁVEL E ANTECIPADA,  NOS TERMOS DO ARTIGO 79, INCISO II E §1º, DA LEI Nº 8.666/1993, MEDIANTE NOTIFICAÇÃO PRÉVIA DA CONTRATANTE À CONTRATADA, COM NO MÍNIMO 30 (TRINTA) DIAS DE ANTECEDÊNCIA, MANTIDAS AS DEMAIS CONDIÇÕES ANTERIORMENTE PACTUADAS.\r\n\r\n2.2 ASSEGURAR À CONTRATADA, O DIREITO DE PLEITEAR O REAJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "31/10/2024",
+        "Data Fim": "31/10/2025",
+        "Vlr. Global": "360.516,84",
+        "Parcelas": "4",
+        "Vlr. Parcela": "90.129,21",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "Data Assinatura": "29/10/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 9.046/19 EM 6,40%, COM BASE NO ICTI ACUMULADO DE OUTUBRO/23 A SETEMBRO/24, TENDO SEUS EFEITOS FINANCEIROS RETROAGINDO A PARTIR DE 01/10/24, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 95/2025/STI-CONT/STI/ANP-RJ (SEI 5414619).",
+        "Data Início": "31/10/2019",
+        "Data Fim": "31/10/2025",
+        "Vlr. Global": "383.812,44",
+        "Parcelas": "4",
+        "Vlr. Parcela": "95.953,11",
+        "Número Contrato": "09046/2019"
       }
     },
     {
@@ -12618,6 +12648,21 @@
       }
     },
     {
+      "contrato_id": "701825",
+      "dados": {
+        "Data Assinatura": "29/09/2025",
+        "Número": "09023/2025",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09023/2025 DE ACORDO COM PROCESSO NÚMERO: 48610231943202244",
+        "Data Início": "29/09/2025",
+        "Data Fim": "28/09/2026",
+        "Vlr. Global": "1.928.836,80",
+        "Parcelas": "12",
+        "Vlr. Parcela": "160.736,40",
+        "Número Contrato": "09023/2025"
+      }
+    },
+    {
       "contrato_id": "119226",
       "dados": {
         "Data Assinatura": "21/10/2021",
@@ -13855,7 +13900,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "04/11/2025",
+        "Data Fim": "05/11/2025",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -14170,7 +14215,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "04/11/2025",
+        "Data Fim": "05/11/2025",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -14305,7 +14350,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "04/11/2025",
+        "Data Fim": "05/11/2025",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",

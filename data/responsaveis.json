@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-04T07:33:28.049509",
-  "total_registros": 1611,
+  "ultima_atualizacao": "2025-11-05T07:32:53.631124",
+  "total_registros": 1618,
   "dados": [
     {
       "contrato_id": "121472",
@@ -5223,78 +5223,6 @@
       }
     },
     {
-      "contrato_id": "47297",
-      "dados": {
-        "CPF": "***.248.978-**",
-        "Nome": "ADRIANA MARCÍLIO",
-        "Tipo": "Gestor",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
-      "contrato_id": "47297",
-      "dados": {
-        "CPF": "***.167.627-**",
-        "Nome": "ADRIANA LEITE COSTA SILVA MACHADO",
-        "Tipo": "Fiscal Requisitante",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
-      "contrato_id": "47297",
-      "dados": {
-        "CPF": "***.527.027-**",
-        "Nome": "JAYME DE ALMEIDA LOPES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
-      "contrato_id": "47297",
-      "dados": {
-        "CPF": "***.527.027-**",
-        "Nome": "JAYME DE ALMEIDA LOPES",
-        "Tipo": "Fiscal Requisitante Substituto",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
-      "contrato_id": "47297",
-      "dados": {
-        "CPF": "***.167.627-**",
-        "Nome": "ADRIANA LEITE COSTA SILVA MACHADO",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
-      "contrato_id": "47297",
-      "dados": {
-        "CPF": "***.156.568-**",
-        "Nome": "MAURO RICARDO DA SILVA",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
-      "contrato_id": "47297",
-      "dados": {
-        "CPF": "***.476.213-**",
-        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
-      "contrato_id": "47297",
-      "dados": {
-        "CPF": "***.896.037-**",
-        "Nome": "SAHID DE OLIVEIRA KIK",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09046/2019"
-      }
-    },
-    {
       "contrato_id": "319371",
       "dados": {
         "CPF": "***.896.037-**",
@@ -8733,6 +8661,87 @@
       }
     },
     {
+      "contrato_id": "700486",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000626"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "CPF": "***.248.978-**",
+        "Nome": "ADRIANA MARCÍLIO",
+        "Tipo": "Gestor",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "CPF": "***.167.627-**",
+        "Nome": "ADRIANA LEITE COSTA SILVA MACHADO",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "CPF": "***.527.027-**",
+        "Nome": "JAYME DE ALMEIDA LOPES",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "CPF": "***.527.027-**",
+        "Nome": "JAYME DE ALMEIDA LOPES",
+        "Tipo": "Fiscal Requisitante Substituto",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "CPF": "***.167.627-**",
+        "Nome": "ADRIANA LEITE COSTA SILVA MACHADO",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "CPF": "***.156.568-**",
+        "Nome": "MAURO RICARDO DA SILVA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "CPF": "***.476.213-**",
+        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "47297",
+      "dados": {
+        "CPF": "***.896.037-**",
+        "Nome": "SAHID DE OLIVEIRA KIK",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09046/2019"
+      }
+    },
+    {
       "contrato_id": "14380",
       "dados": {
         "CPF": "***.248.978-**",
@@ -10449,6 +10458,60 @@
         "Nome": "ISABELLA RODRIGUES VIEIRA UTINGA",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09054/2021"
+      }
+    },
+    {
+      "contrato_id": "701825",
+      "dados": {
+        "CPF": "***.651.927-**",
+        "Nome": "HESLEY DA SILVA PY",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "09023/2025"
+      }
+    },
+    {
+      "contrato_id": "701825",
+      "dados": {
+        "CPF": "***.651.927-**",
+        "Nome": "HESLEY DA SILVA PY",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09023/2025"
+      }
+    },
+    {
+      "contrato_id": "701825",
+      "dados": {
+        "CPF": "***.527.027-**",
+        "Nome": "JAYME DE ALMEIDA LOPES",
+        "Tipo": "Fiscal Requisitante Substituto",
+        "Número Contrato": "09023/2025"
+      }
+    },
+    {
+      "contrato_id": "701825",
+      "dados": {
+        "CPF": "***.527.027-**",
+        "Nome": "JAYME DE ALMEIDA LOPES",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09023/2025"
+      }
+    },
+    {
+      "contrato_id": "701825",
+      "dados": {
+        "CPF": "***.476.213-**",
+        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09023/2025"
+      }
+    },
+    {
+      "contrato_id": "701825",
+      "dados": {
+        "CPF": "***.896.037-**",
+        "Nome": "SAHID DE OLIVEIRA KIK",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09023/2025"
       }
     },
     {
