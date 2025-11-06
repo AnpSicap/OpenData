@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-05T07:32:53.631124",
-  "total_registros": 1618,
+  "ultima_atualizacao": "2025-11-06T07:33:28.375561",
+  "total_registros": 1624,
   "dados": [
     {
       "contrato_id": "121472",
@@ -421,6 +421,15 @@
       "dados": {
         "CPF": "***.959.686-**",
         "Nome": "DANYELE APARECIDA ALVES GUIMARÃES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09034/2024"
+      }
+    },
+    {
+      "contrato_id": "320723",
+      "dados": {
+        "CPF": "***.749.537-**",
+        "Nome": "LUCIA HELENA DA COSTA PINTO ZUGLIANI PEREIRA",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09034/2024"
       }
@@ -3364,6 +3373,42 @@
       "dados": {
         "CPF": "***.006.437-**",
         "Nome": "MONICA MARIZ DE CARVALHO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09021/2024"
+      }
+    },
+    {
+      "contrato_id": "259191",
+      "dados": {
+        "CPF": "***.697.927-**",
+        "Nome": "FERNANDA SEIXAS DE ABREU GOMES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09021/2024"
+      }
+    },
+    {
+      "contrato_id": "259191",
+      "dados": {
+        "CPF": "***.750.188-**",
+        "Nome": "FELIPE BOTTAS DE OLIVEIRA E SOUZA",
+        "Tipo": "Gestor",
+        "Número Contrato": "09021/2024"
+      }
+    },
+    {
+      "contrato_id": "259191",
+      "dados": {
+        "CPF": "***.749.537-**",
+        "Nome": "LUCIA HELENA DA COSTA PINTO ZUGLIANI PEREIRA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09021/2024"
+      }
+    },
+    {
+      "contrato_id": "259191",
+      "dados": {
+        "CPF": "***.176.987-**",
+        "Nome": "EMERSON LEANDRO DA COSTA",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09021/2024"
       }
@@ -7340,15 +7385,6 @@
     {
       "contrato_id": "199407",
       "dados": {
-        "CPF": "***.896.011-**",
-        "Nome": "EDUARDO ERISTÔNIO RAMOS DE SOUSA",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
         "CPF": "***.492.110-**",
         "Nome": "RONALDO VINICIUS BENETTI",
         "Tipo": "Fiscal Administrativo",
@@ -7379,6 +7415,24 @@
         "CPF": "***.654.897-**",
         "Nome": "GUALTER FERNANDO LEMOS DO AMARAL",
         "Tipo": "Gestor",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "CPF": "***.749.537-**",
+        "Nome": "LUCIA HELENA DA COSTA PINTO ZUGLIANI PEREIRA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "CPF": "***.896.011-**",
+        "Nome": "EDUARDO ERISTÔNIO RAMOS DE SOUSA",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "09012/2023"
       }
     },
