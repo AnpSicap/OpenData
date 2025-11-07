@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-06T07:33:28.375561",
-  "total_registros": 1624,
+  "ultima_atualizacao": "2025-11-07T07:33:18.196257",
+  "total_registros": 1628,
   "dados": [
     {
       "contrato_id": "121472",
@@ -401,18 +401,9 @@
     {
       "contrato_id": "320723",
       "dados": {
-        "CPF": "***.654.897-**",
-        "Nome": "GUALTER FERNANDO LEMOS DO AMARAL",
-        "Tipo": "Gestor",
-        "Número Contrato": "09034/2024"
-      }
-    },
-    {
-      "contrato_id": "320723",
-      "dados": {
-        "CPF": "***.484.857-**",
-        "Nome": "RAQUEL BENAYON",
-        "Tipo": "Fiscal Administrativo Substituto",
+        "CPF": "***.697.927-**",
+        "Nome": "FERNANDA SEIXAS DE ABREU GOMES",
+        "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09034/2024"
       }
     },
@@ -428,9 +419,45 @@
     {
       "contrato_id": "320723",
       "dados": {
+        "CPF": "***.484.857-**",
+        "Nome": "RAQUEL BENAYON",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09034/2024"
+      }
+    },
+    {
+      "contrato_id": "320723",
+      "dados": {
+        "CPF": "***.654.897-**",
+        "Nome": "GUALTER FERNANDO LEMOS DO AMARAL",
+        "Tipo": "Gestor",
+        "Número Contrato": "09034/2024"
+      }
+    },
+    {
+      "contrato_id": "320723",
+      "dados": {
+        "CPF": "***.750.188-**",
+        "Nome": "FELIPE BOTTAS DE OLIVEIRA E SOUZA",
+        "Tipo": "Gestor",
+        "Número Contrato": "09034/2024"
+      }
+    },
+    {
+      "contrato_id": "320723",
+      "dados": {
+        "CPF": "***.176.987-**",
+        "Nome": "EMERSON LEANDRO DA COSTA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09034/2024"
+      }
+    },
+    {
+      "contrato_id": "320723",
+      "dados": {
         "CPF": "***.749.537-**",
         "Nome": "LUCIA HELENA DA COSTA PINTO ZUGLIANI PEREIRA",
-        "Tipo": "Fiscal Administrativo",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "09034/2024"
       }
     },
@@ -7415,6 +7442,15 @@
         "CPF": "***.654.897-**",
         "Nome": "GUALTER FERNANDO LEMOS DO AMARAL",
         "Tipo": "Gestor",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "CPF": "***.176.987-**",
+        "Nome": "EMERSON LEANDRO DA COSTA",
+        "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09012/2023"
       }
     },
