@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-07T07:33:18.172539",
-  "total_registros": 1241,
+  "ultima_atualizacao": "2025-11-10T07:32:48.022026",
+  "total_registros": 1242,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1510,7 +1510,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "07/11/2025",
+        "Data Fim": "10/11/2025",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -8800,7 +8800,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "07/11/2025",
+        "Data Fim": "10/11/2025",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -10045,7 +10045,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "07/11/2025",
+        "Data Fim": "10/11/2025",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -11433,6 +11433,51 @@
       }
     },
     {
+      "contrato_id": "346051",
+      "dados": {
+        "Data Assinatura": "26/11/2024",
+        "Número": "09038/2024",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09038/2024 DE ACORDO COM PROCESSO NÚMERO: 48610215046202455",
+        "Data Início": "04/12/2024",
+        "Data Fim": "04/12/2025",
+        "Vlr. Global": "138.600,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "138.600,00",
+        "Número Contrato": "09038/2024"
+      }
+    },
+    {
+      "contrato_id": "346051",
+      "dados": {
+        "Data Assinatura": "08/08/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1. PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 04/12/2025 A 04/12/2026, COM FUNDAMENTO NO ARTIGO 107, DA LEI Nº. 14.133, DE 1º DE ABRIL DE 2021.\r\n\r\n2 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O REAJUSTE E A REPACTUAÇÃO DOS VALORES DO CONTRATO, DE FORMA RETROATIVA, TÃO LOGO DISPONHA DO PERCENTUAL ACUMULADO NO PERÍODO, CONFORME DISPOSTO NA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "04/12/2025",
+        "Data Fim": "04/12/2026",
+        "Vlr. Global": "138.600,00",
+        "Parcelas": "12",
+        "Vlr. Parcela": "11.550,00",
+        "Número Contrato": "09038/2024"
+      }
+    },
+    {
+      "contrato_id": "346051",
+      "dados": {
+        "Data Assinatura": "06/11/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 9.038/24ANP-215.046, ITENS 1, 2 E 3, COM FUNDAMENTO NA CLÁUSULA SÉTIMA – REAJUSTE (ART. 92, V) DO CONTRATO E CONFORME APURAÇÃO CONSTANTE DA NOTA TÉCNICA Nº 44/2025/SGA-CCO/SGA/ANP-RJ (SEI Nº 5398002) E NA PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇOS  (SEI Nº 5375715), APLICANDO-SE AOS ITENS 1 E 2 O PERCENTUAL DE 5,130500%, REFERENTE AO IPCA/IBGE ACUMULADO ENTRE 09/2024 E 08/2025, E AO ITEM 3 O PERCENTUAL DE 0,1656%, CORRESPONDENTE À VARIAÇÃO AUMENTATIVA DO PREÇO DO ÓLEO DIESEL S10 NO MUNICÍPIO DO RIO DE JANEIRO – RJ, NO PERÍODO ENTRE 12/08/2024 E 12/08/2025. O REAJUSTE PRODUZIRÁ EFEITOS JURÍDICOS E FINANCEIROS A PARTIR DE 12/08/2025, PERMANECENDO INALTERADAS TODAS AS DEMAIS CLÁUSULAS E CONDIÇÕES CONTRATUAIS.",
+        "Data Início": "04/12/2025",
+        "Data Fim": "04/12/2026",
+        "Vlr. Global": "140.646,64",
+        "Parcelas": "12",
+        "Vlr. Parcela": "11.720,55",
+        "Número Contrato": "09038/2024"
+      }
+    },
+    {
       "contrato_id": "159010",
       "dados": {
         "Data Assinatura": "29/08/2022",
@@ -12165,36 +12210,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "2.293,41",
         "Número Contrato": "09022/2023"
-      }
-    },
-    {
-      "contrato_id": "346051",
-      "dados": {
-        "Data Assinatura": "26/11/2024",
-        "Número": "09038/2024",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09038/2024 DE ACORDO COM PROCESSO NÚMERO: 48610215046202455",
-        "Data Início": "04/12/2024",
-        "Data Fim": "04/12/2025",
-        "Vlr. Global": "138.600,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "138.600,00",
-        "Número Contrato": "09038/2024"
-      }
-    },
-    {
-      "contrato_id": "346051",
-      "dados": {
-        "Data Assinatura": "08/08/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "1. PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 04/12/2025 A 04/12/2026, COM FUNDAMENTO NO ARTIGO 107, DA LEI Nº. 14.133, DE 1º DE ABRIL DE 2021.\r\n\r\n2 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O REAJUSTE E A REPACTUAÇÃO DOS VALORES DO CONTRATO, DE FORMA RETROATIVA, TÃO LOGO DISPONHA DO PERCENTUAL ACUMULADO NO PERÍODO, CONFORME DISPOSTO NA CLÁUSULA SEXTA DO CONTRATO.",
-        "Data Início": "04/12/2025",
-        "Data Fim": "04/12/2026",
-        "Vlr. Global": "138.600,00",
-        "Parcelas": "12",
-        "Vlr. Parcela": "11.550,00",
-        "Número Contrato": "09038/2024"
       }
     },
     {
@@ -13900,7 +13915,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "07/11/2025",
+        "Data Fim": "10/11/2025",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -14215,7 +14230,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "07/11/2025",
+        "Data Fim": "10/11/2025",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -14350,7 +14365,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "07/11/2025",
+        "Data Fim": "10/11/2025",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
