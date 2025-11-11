@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-10T07:32:48.046033",
-  "total_registros": 1629,
+  "ultima_atualizacao": "2025-11-11T07:33:53.034750",
+  "total_registros": 1634,
   "dados": [
     {
       "contrato_id": "121472",
@@ -9759,6 +9759,15 @@
       }
     },
     {
+      "contrato_id": "706867",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000645"
+      }
+    },
+    {
       "contrato_id": "346051",
       "dados": {
         "CPF": "***.155.097-**",
@@ -10341,6 +10350,42 @@
         "Nome": "SAHID DE OLIVEIRA KIK",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "08019/2021"
+      }
+    },
+    {
+      "contrato_id": "699712",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09031/2025"
+      }
+    },
+    {
+      "contrato_id": "699712",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09031/2025"
+      }
+    },
+    {
+      "contrato_id": "699712",
+      "dados": {
+        "CPF": "***.470.941-**",
+        "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
+        "Tipo": "Gestor",
+        "Número Contrato": "09031/2025"
+      }
+    },
+    {
+      "contrato_id": "699712",
+      "dados": {
+        "CPF": "***.320.476-**",
+        "Nome": "MARISTELA LOPES SILVA MELO",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09031/2025"
       }
     },
     {
