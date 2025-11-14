@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-13T07:33:11.144335",
-  "total_registros": 1640,
+  "ultima_atualizacao": "2025-11-14T07:33:30.631589",
+  "total_registros": 1658,
   "dados": [
     {
       "contrato_id": "121472",
@@ -10191,6 +10191,42 @@
       }
     },
     {
+      "contrato_id": "715653",
+      "dados": {
+        "CPF": "***.750.044-**",
+        "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000604"
+      }
+    },
+    {
+      "contrato_id": "715653",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000604"
+      }
+    },
+    {
+      "contrato_id": "715666",
+      "dados": {
+        "CPF": "***.750.044-**",
+        "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000605"
+      }
+    },
+    {
+      "contrato_id": "715666",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000605"
+      }
+    },
+    {
       "contrato_id": "15627",
       "dados": {
         "CPF": "***.823.874-**",
@@ -10215,6 +10251,24 @@
         "Nome": "MERCEDES SANTANA DA SILVA",
         "Tipo": "Fiscal Substituto",
         "Número Contrato": "01040/2016"
+      }
+    },
+    {
+      "contrato_id": "715674",
+      "dados": {
+        "CPF": "***.750.044-**",
+        "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000606"
+      }
+    },
+    {
+      "contrato_id": "715674",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000606"
       }
     },
     {
@@ -10533,6 +10587,42 @@
       }
     },
     {
+      "contrato_id": "715850",
+      "dados": {
+        "CPF": "***.750.044-**",
+        "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000607"
+      }
+    },
+    {
+      "contrato_id": "715850",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000607"
+      }
+    },
+    {
+      "contrato_id": "715860",
+      "dados": {
+        "CPF": "***.750.044-**",
+        "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000608"
+      }
+    },
+    {
+      "contrato_id": "715860",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000608"
+      }
+    },
+    {
       "contrato_id": "130642",
       "dados": {
         "CPF": "***.805.821-**",
@@ -10722,6 +10812,24 @@
       }
     },
     {
+      "contrato_id": "715883",
+      "dados": {
+        "CPF": "***.750.044-**",
+        "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000609"
+      }
+    },
+    {
+      "contrato_id": "715883",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000609"
+      }
+    },
+    {
       "contrato_id": "15626",
       "dados": {
         "CPF": "***.565.627-**",
@@ -10746,6 +10854,24 @@
         "Nome": "OTHON MAXIMIANO WILIAM",
         "Tipo": "Fiscal Titular",
         "Número Contrato": "01038/2016"
+      }
+    },
+    {
+      "contrato_id": "715899",
+      "dados": {
+        "CPF": "***.750.044-**",
+        "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000610"
+      }
+    },
+    {
+      "contrato_id": "715899",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000610"
       }
     },
     {
@@ -10827,6 +10953,42 @@
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09001/2019"
+      }
+    },
+    {
+      "contrato_id": "715916",
+      "dados": {
+        "CPF": "***.750.044-**",
+        "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000611"
+      }
+    },
+    {
+      "contrato_id": "715916",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000611"
+      }
+    },
+    {
+      "contrato_id": "715922",
+      "dados": {
+        "CPF": "***.750.044-**",
+        "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000612"
+      }
+    },
+    {
+      "contrato_id": "715922",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000612"
       }
     },
     {
