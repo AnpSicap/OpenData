@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-14T07:33:30.631589",
-  "total_registros": 1658,
+  "ultima_atualizacao": "2025-11-17T07:34:36.541367",
+  "total_registros": 1660,
   "dados": [
     {
       "contrato_id": "121472",
@@ -5486,15 +5486,6 @@
     {
       "contrato_id": "194278",
       "dados": {
-        "CPF": "***.896.011-**",
-        "Nome": "EDUARDO ERISTÔNIO RAMOS DE SOUSA",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09010/2023"
-      }
-    },
-    {
-      "contrato_id": "194278",
-      "dados": {
         "CPF": "***.697.927-**",
         "Nome": "FERNANDA SEIXAS DE ABREU GOMES",
         "Tipo": "Fiscal Administrativo",
@@ -5507,6 +5498,33 @@
         "CPF": "***.603.328-**",
         "Nome": "MICHAEL LAIA FERREIRA",
         "Tipo": "Fiscal Titular",
+        "Número Contrato": "09010/2023"
+      }
+    },
+    {
+      "contrato_id": "194278",
+      "dados": {
+        "CPF": "***.749.537-**",
+        "Nome": "LUCIA HELENA DA COSTA PINTO ZUGLIANI PEREIRA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09010/2023"
+      }
+    },
+    {
+      "contrato_id": "194278",
+      "dados": {
+        "CPF": "***.176.987-**",
+        "Nome": "EMERSON LEANDRO DA COSTA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09010/2023"
+      }
+    },
+    {
+      "contrato_id": "194278",
+      "dados": {
+        "CPF": "***.896.011-**",
+        "Nome": "EDUARDO ERISTÔNIO RAMOS DE SOUSA",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "09010/2023"
       }
     },
