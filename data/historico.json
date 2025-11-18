@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-17T07:34:36.517127",
-  "total_registros": 1261,
+  "ultima_atualizacao": "2025-11-18T07:34:45.297373",
+  "total_registros": 1264,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1510,7 +1510,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "17/11/2025",
+        "Data Fim": "18/11/2025",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -7143,36 +7143,6 @@
       }
     },
     {
-      "contrato_id": "193571",
-      "dados": {
-        "Data Assinatura": "15/05/2023",
-        "Número": "09007/2023",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09007/2023 DE ACORDO COM PROCESSO NÚMERO: 48640.200780/2022-09",
-        "Data Início": "15/05/2023",
-        "Data Fim": "15/11/2025",
-        "Vlr. Global": "134.990,70",
-        "Parcelas": "30",
-        "Vlr. Parcela": "4.499,69",
-        "Número Contrato": "09007/2023"
-      }
-    },
-    {
-      "contrato_id": "193571",
-      "dados": {
-        "Data Assinatura": "09/07/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REPACTUAR  O VALOR DO CONTRATO N° 9.007/2023 EM VIRTUDE DAS ALTERAÇÕES DE CUSTOS DECORRENTES DA CONVENÇÃO  COLETIVA DE TRABALHO - CCT  2024/2024, Nº MG004113/2023 (SEI 3957601), REGISTRADA NO MTE EM 22/12/2023, COM DATA BASE DE 01/JANEIRO A 31/DEZEMBRO DE 2024, COM EFEITOS FINANCEIROS RETROATIVOS A 01/01/2024, QUE DETERMINOU REAJUSTES NO PISO SALARIAL, NO AUXÍLIO ALIMENTAÇÃO E NO PROGRAMA DE ASSISTÊNCIA FAMILIAR DOS PROFISSIONAIS ALOCADOS NA PRESTAÇÃO DE SERVIÇOS, COM FUNDAMENTO NA CLÁUSULA SEXTA DO CONTRATO COMBINADA COM O ITEM 21 DO TERMO DE REFERÊNCIA, E EM CONFORMIDADE COM O DISPOSTO NA  NOTA TÉCNICA Nº 1/2024/SFI-NBH-ADM/SFI/ANP-MG (SEI Nº  3957620).",
-        "Data Início": "15/05/2023",
-        "Data Fim": "15/11/2025",
-        "Vlr. Global": "54.894,12",
-        "Parcelas": "30",
-        "Vlr. Parcela": "1.829,80",
-        "Número Contrato": "09007/2023"
-      }
-    },
-    {
       "contrato_id": "48486",
       "dados": {
         "Data Assinatura": "30/03/0022",
@@ -8725,7 +8695,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "17/11/2025",
+        "Data Fim": "18/11/2025",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -9970,11 +9940,56 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "17/11/2025",
+        "Data Fim": "18/11/2025",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
         "Número Contrato": "2025NE000134"
+      }
+    },
+    {
+      "contrato_id": "193571",
+      "dados": {
+        "Data Assinatura": "15/05/2023",
+        "Número": "09007/2023",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09007/2023 DE ACORDO COM PROCESSO NÚMERO: 48640.200780/2022-09",
+        "Data Início": "15/05/2023",
+        "Data Fim": "15/11/2025",
+        "Vlr. Global": "134.990,70",
+        "Parcelas": "30",
+        "Vlr. Parcela": "4.499,69",
+        "Número Contrato": "09007/2023"
+      }
+    },
+    {
+      "contrato_id": "193571",
+      "dados": {
+        "Data Assinatura": "09/07/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REPACTUAR  O VALOR DO CONTRATO N° 9.007/2023 EM VIRTUDE DAS ALTERAÇÕES DE CUSTOS DECORRENTES DA CONVENÇÃO  COLETIVA DE TRABALHO - CCT  2024/2024, Nº MG004113/2023 (SEI 3957601), REGISTRADA NO MTE EM 22/12/2023, COM DATA BASE DE 01/JANEIRO A 31/DEZEMBRO DE 2024, COM EFEITOS FINANCEIROS RETROATIVOS A 01/01/2024, QUE DETERMINOU REAJUSTES NO PISO SALARIAL, NO AUXÍLIO ALIMENTAÇÃO E NO PROGRAMA DE ASSISTÊNCIA FAMILIAR DOS PROFISSIONAIS ALOCADOS NA PRESTAÇÃO DE SERVIÇOS, COM FUNDAMENTO NA CLÁUSULA SEXTA DO CONTRATO COMBINADA COM O ITEM 21 DO TERMO DE REFERÊNCIA, E EM CONFORMIDADE COM O DISPOSTO NA  NOTA TÉCNICA Nº 1/2024/SFI-NBH-ADM/SFI/ANP-MG (SEI Nº  3957620).",
+        "Data Início": "15/05/2023",
+        "Data Fim": "15/11/2025",
+        "Vlr. Global": "54.894,12",
+        "Parcelas": "30",
+        "Vlr. Parcela": "1.829,80",
+        "Número Contrato": "09007/2023"
+      }
+    },
+    {
+      "contrato_id": "193571",
+      "dados": {
+        "Data Assinatura": "14/11/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1. PRORROGAR A VIGÊNCIA DO CONTRATO PARA O PERÍODO DE 15/11/2025 A 15/05/2028, COM FUNDAMENTO NO ART. 57, INCISO II, DA LEI Nº 8.666/1993; 2.2. REPACTUAR O VALOR CONTRATUAL EM RAZÃO DAS ALTERAÇÕES DE CUSTOS DECORRENTES DA CONVENÇÃO COLETIVA DE TRABALHO – CCT 2025/2025, REGISTRADA NO MTE EM 27/12/2024, CONSIDERANDO A DATA-BASE DE 01/01/2025 A 31/12/2025, COM EFEITOS FINANCEIROS RETROATIVOS A 01/01/2025 ATÉ 15/11/2025, CONFORME DEMONSTRADO NA PLANILHA DE CUSTOS (SEI 5211858) E NA NOTA TÉCNICA Nº 1/2025/SFI-NBH-ADM/SFI/ANP-MG (SEI 5212457); 2.3. PROMOVER A SUPRESSÃO OU REDUÇÃO DOS CUSTOS FIXOS OU VARIÁVEIS JÁ PAGOS INTEGRALMENTE OU AMORTIZADOS NO PRIMEIRO ANO DE VIGÊNCIA CONTRATUAL, NOS TERMOS DO ITEM 9 DO ANEXO IX DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 5/2017.; 2.4. ASSEGURAR À CONTRATADA O DIREITO DE SOLICITAR REPACTUAÇÃO FUTURA, NO MOMENTO OPORTUNO, PERMANECENDO INALTERADAS AS DEMAIS CONDIÇÕES ORIGINALMENTE PACTUADAS.",
+        "Data Início": "15/11/2025",
+        "Data Fim": "15/05/2028",
+        "Vlr. Global": "145.575,00",
+        "Parcelas": "30",
+        "Vlr. Parcela": "4.852,50",
+        "Número Contrato": "09007/2023"
       }
     },
     {
@@ -10983,21 +10998,6 @@
       }
     },
     {
-      "contrato_id": "408531",
-      "dados": {
-        "Data Assinatura": "16/01/2025",
-        "Número": "09001/2025",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 00001/2025 DE ACORDO COM PROCESSO NÚMERO: 48610.216784/2024-10",
-        "Data Início": "19/01/2025",
-        "Data Fim": "19/01/2026",
-        "Vlr. Global": "79.000,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "79.000,00",
-        "Número Contrato": "09001/2025"
-      }
-    },
-    {
       "contrato_id": "114935",
       "dados": {
         "Data Assinatura": "30/08/2021",
@@ -11295,6 +11295,21 @@
         "Parcelas": "12",
         "Vlr. Parcela": "216.535,76",
         "Número Contrato": "01024/2021"
+      }
+    },
+    {
+      "contrato_id": "718731",
+      "dados": {
+        "Data Assinatura": "19/09/2025",
+        "Número": "09028/2025",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09028/2025 DE ACORDO COM PROCESSO NÚMERO: 48610.231580/2024-17",
+        "Data Início": "10/10/2025",
+        "Data Fim": "10/10/2028",
+        "Vlr. Global": "5.614.098,42",
+        "Parcelas": "1",
+        "Vlr. Parcela": "5.614.098,42",
+        "Número Contrato": "09028/2025"
       }
     },
     {
@@ -13728,6 +13743,36 @@
       }
     },
     {
+      "contrato_id": "408531",
+      "dados": {
+        "Data Assinatura": "16/01/2025",
+        "Número": "09001/2025",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 00001/2025 DE ACORDO COM PROCESSO NÚMERO: 48610.216784/2024-10",
+        "Data Início": "19/01/2025",
+        "Data Fim": "19/01/2026",
+        "Vlr. Global": "79.000,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "79.000,00",
+        "Número Contrato": "09001/2025"
+      }
+    },
+    {
+      "contrato_id": "408531",
+      "dados": {
+        "Data Assinatura": "17/11/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1. PRORROGAR A VIGÊNCIA DO CONTRATO Nº 9.001/2025, PELO PERÍODO COMPREENDIDO ENTRE 19/01/2026 E 19/01/2027, COM FUNDAMENTO NO ART. 107 DA LEI Nº 14.133/2021; 2.2. REAJUSTAR O VALOR CONTRATUAL EM APROXIMADAMENTE 5,225220%, EM RAZÃO DA VARIAÇÃO DO IPCA/IBGE ACUMULADO ENTRE AGOSTO/2024 E JULHO/2025, ELEVANDO O VALOR UNITÁRIO DO QUILÔMETRO RODADO DE R$ 3,95 (TRÊS REAIS E NOVENTA E CINCO CENTAVOS) PARA R$ 4,16 (QUATRO REAIS E DEZESSEIS CENTAVOS), E ATUALIZANDO O VALOR GLOBAL ANUAL DA CONTRATAÇÃO DE R$ 79.000,00 (SETENTA E NOVE MIL REAIS) PARA R$ 83.200,00 (OITENTA E TRÊS MIL E DUZENTOS REAIS), COM EFEITOS JURÍDICOS E FINANCEIROS A PARTIR DE 23/07/2025; 2.3. PROMOVER O ACRÉSCIMO DO OBJETO MEDIANTE ALTERAÇÃO CONTRATUAL UNILATERAL, COM MAJORAÇÃO DE 25% (VINTE E CINCO POR CENTO) SOBRE O VALOR INICIAL ATUALIZADO DO CONTRATO, NOS TERMOS DO ART. 124, INCISO I, ALÍNEA “B”, DA LEI Nº 14.133/2021, E EM CONSONÂNCIA COM A CLÁUSULA DÉCIMA SEXTA DO AJUSTE, AMPLIANDO O QUANTITATIVO ANUAL DE 20.000 (VINTE MIL) PARA 25.000 (VINTE E CINCO MIL) QUILÔMETROS E O VALOR GLOBAL DE R$ 83.200,00 (OITENTA E TRÊS MIL E DUZENTOS REAIS) PARA R$ 104.000,00 (CENTO E QUATRO MIL REAIS).",
+        "Data Início": "19/01/2026",
+        "Data Fim": "19/01/2027",
+        "Vlr. Global": "104.000,00",
+        "Parcelas": "12",
+        "Vlr. Parcela": "8.666,67",
+        "Número Contrato": "09001/2025"
+      }
+    },
+    {
       "contrato_id": "166008",
       "dados": {
         "Data Assinatura": "17/10/2022",
@@ -14200,7 +14245,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "17/11/2025",
+        "Data Fim": "18/11/2025",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -14515,7 +14560,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "17/11/2025",
+        "Data Fim": "18/11/2025",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -14650,7 +14695,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "17/11/2025",
+        "Data Fim": "18/11/2025",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
