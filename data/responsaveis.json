@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-19T07:34:34.127951",
-  "total_registros": 1660,
+  "ultima_atualizacao": "2025-11-20T07:34:04.879789",
+  "total_registros": 1663,
   "dados": [
     {
       "contrato_id": "121472",
@@ -9585,6 +9585,33 @@
         "Nome": "MERCEDES SANTANA DA SILVA",
         "Tipo": "Fiscal Substituto",
         "Número Contrato": "01024/2021"
+      }
+    },
+    {
+      "contrato_id": "718731",
+      "dados": {
+        "CPF": "***.404.477-**",
+        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09028/2025"
+      }
+    },
+    {
+      "contrato_id": "718731",
+      "dados": {
+        "CPF": "***.767.959-**",
+        "Nome": "PATRICK MOREIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09028/2025"
+      }
+    },
+    {
+      "contrato_id": "718731",
+      "dados": {
+        "CPF": "***.539.347-**",
+        "Nome": "ESTEFANY GONZAGA JERONIMO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09028/2025"
       }
     },
     {

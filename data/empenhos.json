@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-19T07:34:34.144238",
-  "total_registros": 1857,
+  "ultima_atualizacao": "2025-11-20T07:34:04.896278",
+  "total_registros": 1859,
   "dados": [
     {
       "contrato_id": "121472",
@@ -22467,6 +22467,24 @@
       }
     },
     {
+      "contrato_id": "722145",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000657",
+        "PI": "-",
+        "ND": "449052 - EQUIPAMENTOS E MATERIAL PERMANENTE",
+        "Emp.": "278.780,68",
+        "A liq.": "278.780,68",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09039/2025"
+      }
+    },
+    {
       "contrato_id": "715674",
       "dados": {
         "UG": "323031",
@@ -22590,6 +22608,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09035/2022"
+      }
+    },
+    {
+      "contrato_id": "722202",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000658",
+        "PI": "-",
+        "ND": "449052 - EQUIPAMENTOS E MATERIAL PERMANENTE",
+        "Emp.": "428.000,00",
+        "A liq.": "428.000,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09036/2025"
       }
     },
     {
