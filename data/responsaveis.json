@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2025-11-20T07:34:04.879789",
+  "ultima_atualizacao": "2025-11-21T07:34:54.600711",
   "total_registros": 1663,
   "dados": [
     {
@@ -5196,24 +5196,6 @@
       }
     },
     {
-      "contrato_id": "535991",
-      "dados": {
-        "CPF": "***.907.567-**",
-        "Nome": "FÁBIO PORTNOJ CANTINHO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "04003/2025"
-      }
-    },
-    {
-      "contrato_id": "535991",
-      "dados": {
-        "CPF": "***.919.117-**",
-        "Nome": "BARBARA CORDEIRO DIAS SKABA",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "04003/2025"
-      }
-    },
-    {
       "contrato_id": "223442",
       "dados": {
         "CPF": "***.984.147-**",
@@ -8568,6 +8550,24 @@
         "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
         "Tipo": "Gestor",
         "Número Contrato": "09022/2017"
+      }
+    },
+    {
+      "contrato_id": "535991",
+      "dados": {
+        "CPF": "***.907.567-**",
+        "Nome": "FÁBIO PORTNOJ CANTINHO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "04003/2025"
+      }
+    },
+    {
+      "contrato_id": "535991",
+      "dados": {
+        "CPF": "***.919.117-**",
+        "Nome": "BARBARA CORDEIRO DIAS SKABA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "04003/2025"
       }
     },
     {
