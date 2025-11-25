@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-24T07:34:25.375854",
-  "total_registros": 1861,
+  "ultima_atualizacao": "2025-11-25T07:34:33.619453",
+  "total_registros": 1862,
   "dados": [
     {
       "contrato_id": "121472",
@@ -2016,60 +2016,6 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09031/2021"
-      }
-    },
-    {
-      "contrato_id": "253364",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000201",
-        "PI": "-",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "45.697,71",
-        "A liq.": "0,02",
-        "Liquid.": "1.517,00",
-        "Pg": "44.180,69",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "05020/2023"
-      }
-    },
-    {
-      "contrato_id": "253364",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000385",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "05020/2023"
-      }
-    },
-    {
-      "contrato_id": "253364",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000313",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339030 - MATERIAL DE CONSUMO",
-        "Emp.": "27.199,75",
-        "A liq.": "9.766,41",
-        "Liquid.": "0,00",
-        "Pg": "17.433,34",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "05020/2023"
       }
     },
     {
@@ -22536,6 +22482,78 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09010/2023"
+      }
+    },
+    {
+      "contrato_id": "253364",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000385",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "05020/2023"
+      }
+    },
+    {
+      "contrato_id": "253364",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000201",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "45.697,71",
+        "A liq.": "0,02",
+        "Liquid.": "1.517,00",
+        "Pg": "44.180,69",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "05020/2023"
+      }
+    },
+    {
+      "contrato_id": "253364",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000313",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "27.199,75",
+        "A liq.": "9.766,41",
+        "Liquid.": "0,00",
+        "Pg": "17.433,34",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "05020/2023"
+      }
+    },
+    {
+      "contrato_id": "253364",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000686",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "05020/2023"
       }
     },
     {

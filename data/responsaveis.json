@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-24T07:34:25.358696",
-  "total_registros": 1677,
+  "ultima_atualizacao": "2025-11-25T07:34:33.602894",
+  "total_registros": 1678,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1170,15 +1170,6 @@
         "Nome": "SAHID DE OLIVEIRA KIK",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09031/2021"
-      }
-    },
-    {
-      "contrato_id": "253364",
-      "dados": {
-        "CPF": "***.566.343-**",
-        "Nome": "JULIANA PETRONILLIO HERNANDES",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "05020/2023"
       }
     },
     {
@@ -10353,6 +10344,15 @@
       }
     },
     {
+      "contrato_id": "253364",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05020/2023"
+      }
+    },
+    {
       "contrato_id": "163102",
       "dados": {
         "CPF": "***.984.147-**",
@@ -11077,6 +11077,15 @@
       "dados": {
         "CPF": "***.905.654-**",
         "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000612"
+      }
+    },
+    {
+      "contrato_id": "715922",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000612"
       }
