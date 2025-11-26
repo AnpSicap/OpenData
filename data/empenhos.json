@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-25T07:34:33.619453",
-  "total_registros": 1862,
+  "ultima_atualizacao": "2025-11-26T07:33:47.486465",
+  "total_registros": 1867,
   "dados": [
     {
       "contrato_id": "121472",
@@ -2214,2058 +2214,6 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09026/2022"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000067",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "1.000,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "1.000,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000597",
-        "PI": "-8 -",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "2.500,00",
-        "A liq.": "2.500,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000595",
-        "PI": "-8 -",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000752",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "12.858,06",
-        "A liq.": "12.858,06",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000596",
-        "PI": "-8 -",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000753",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "65.772,07",
-        "A liq.": "65.772,07",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000686",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "100,00",
-        "A liq.": "100,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000682",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000679",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000692",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "100,00",
-        "A liq.": "100,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000693",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "200,00",
-        "A liq.": "200,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "4.704,02",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "4.704,02",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000694",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "5.249,91",
-        "A liq.": "5.249,91",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000701",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "32.306,07",
-        "A liq.": "32.306,07",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000698",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000696",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "33.112,24",
-        "A liq.": "33.112,24",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000691",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000703",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000697",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "65.116,00",
-        "A liq.": "65.116,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000678",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000705",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000690",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000683",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000685",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000681",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "4.239,23",
-        "A liq.": "4.239,23",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000702",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "697,82",
-        "A liq.": "697,82",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000687",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "24.212,80",
-        "A liq.": "24.212,80",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000677",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "15.200,00",
-        "A liq.": "15.200,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000704",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000680",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000684",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000688",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "579,10",
-        "A liq.": "579,10",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000689",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "4.598,76",
-        "A liq.": "4.598,76",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000695",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "18.864,79",
-        "A liq.": "18.864,79",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000699",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000700",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000754",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "73.489,11",
-        "A liq.": "73.489,11",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000706",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "75.899,24",
-        "A liq.": "75.899,24",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000710",
-        "PI": "8421FL3C006 - TED - YANOMAMI",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "39.369,53",
-        "A liq.": "39.369,53",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000767",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "8.290,77",
-        "A liq.": "8.290,77",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000034",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000724",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000047",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "6.000,00",
-        "A liq.": "3.363,98",
-        "Liquid.": "0,00",
-        "Pg": "2.636,02",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000749",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "5.946,06",
-        "A liq.": "5.946,06",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000050",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "1.000,00",
-        "A liq.": "100,00",
-        "Liquid.": "0,00",
-        "Pg": "900,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000751",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "8.288,48",
-        "A liq.": "8.288,48",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000750",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "16.113,78",
-        "A liq.": "16.113,78",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000814",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "11.495,98",
-        "A liq.": "11.495,98",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000788",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "3.383,18",
-        "A liq.": "3.383,18",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000815",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "3.383,18",
-        "A liq.": "3.383,18",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000816",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "1.000,00",
-        "A liq.": "1.000,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000036",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "2.830,85",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "2.830,85",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000048",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "17.570,71",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "17.570,71",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000049",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "19.073,16",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "19.073,16",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000041",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000037",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "4.178,08",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "4.178,08",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000038",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "1.322,96",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "1.322,96",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000045",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "49.310,77",
-        "A liq.": "0,00",
-        "Liquid.": "1.966,93",
-        "Pg": "47.343,84",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000052",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "1.000,00",
-        "A liq.": "1.000,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000040",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "2.913,85",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "2.913,85",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000042",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000043",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000039",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000033",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "45.337,75",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "45.337,75",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000046",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "1.000,00",
-        "A liq.": "1.000,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000044",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "17.380,26",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "17.380,26",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000035",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "900,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "900,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000051",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "33.441,69",
-        "A liq.": "100,00",
-        "Liquid.": "0,00",
-        "Pg": "33.341,69",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000809",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "8.782,38",
-        "A liq.": "8.782,38",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000053",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000810",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "8.290,77",
-        "A liq.": "8.290,77",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000060",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "55.110,98",
-        "A liq.": "100,00",
-        "Liquid.": "0,00",
-        "Pg": "55.010,98",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000056",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "15.526,65",
-        "A liq.": "100,00",
-        "Liquid.": "0,00",
-        "Pg": "15.426,65",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000054",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "25.810,98",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "25.810,98",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000055",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "70.915,51",
-        "A liq.": "100,00",
-        "Liquid.": "0,00",
-        "Pg": "70.815,51",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000057",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "1.893,32",
-        "A liq.": "100,00",
-        "Liquid.": "0,00",
-        "Pg": "1.793,32",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000058",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "1.000,00",
-        "A liq.": "100,00",
-        "Liquid.": "0,00",
-        "Pg": "900,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000059",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "27.522,62",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "27.522,62",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000061",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "1.000,00",
-        "A liq.": "100,00",
-        "Liquid.": "0,00",
-        "Pg": "900,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000062",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000063",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000358",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "14.030,30",
-        "A liq.": "0,00",
-        "Liquid.": "4.864,14",
-        "Pg": "9.166,16",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000065",
-        "PI": "-",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "2.149,96",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "2.149,96",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000359",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "6.271,73",
-        "A liq.": "0,01",
-        "Liquid.": "0,00",
-        "Pg": "6.271,72",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000361",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "84.845,52",
-        "A liq.": "14.306,49",
-        "Liquid.": "0,00",
-        "Pg": "70.539,03",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000360",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "98.551,55",
-        "A liq.": "14.947,86",
-        "Liquid.": "0,00",
-        "Pg": "83.603,69",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000368",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "246.503,99",
-        "A liq.": "111.539,88",
-        "Liquid.": "0,00",
-        "Pg": "134.964,11",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000364",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "114.513,93",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "114.513,93",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000367",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "11.013,01",
-        "A liq.": "4.321,89",
-        "Liquid.": "0,00",
-        "Pg": "6.691,12",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000366",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "48.936,69",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "48.936,69",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000363",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "20.902,70",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "20.902,70",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000365",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "26.742,18",
-        "A liq.": "16.541,44",
-        "Liquid.": "0,00",
-        "Pg": "10.200,74",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000380",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "14.089,61",
-        "A liq.": "14.089,61",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000362",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "51.926,84",
-        "A liq.": "13.525,42",
-        "Liquid.": "0,00",
-        "Pg": "38.401,42",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000369",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "78.902,91",
-        "A liq.": "1.748,42",
-        "Liquid.": "0,00",
-        "Pg": "77.154,49",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000382",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000390",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "4.000,00",
-        "A liq.": "4.000,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000383",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "6.341,59",
-        "A liq.": "6.341,59",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000370",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "49.478,90",
-        "A liq.": "31.347,29",
-        "Liquid.": "0,00",
-        "Pg": "18.131,61",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000389",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "6.000,01",
-        "A liq.": "3.782,37",
-        "Liquid.": "130,90",
-        "Pg": "2.086,74",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000374",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "8.479,69",
-        "A liq.": "8.479,69",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000375",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "90.117,19",
-        "A liq.": "76.694,04",
-        "Liquid.": "0,00",
-        "Pg": "13.423,15",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000388",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000371",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "45.189,02",
-        "A liq.": "14.185,06",
-        "Liquid.": "0,00",
-        "Pg": "31.003,96",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000387",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "4.000,00",
-        "A liq.": "4.000,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000377",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "5.615,91",
-        "A liq.": "5.615,91",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000379",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "43.477,38",
-        "A liq.": "2.981,64",
-        "Liquid.": "0,00",
-        "Pg": "40.495,74",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000385",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "21.625,00",
-        "A liq.": "11.410,06",
-        "Liquid.": "0,00",
-        "Pg": "10.214,94",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000378",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "53.619,74",
-        "A liq.": "7.907,19",
-        "Liquid.": "0,00",
-        "Pg": "45.712,55",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000381",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "23.491,63",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "23.491,63",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000391",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "4.000,00",
-        "A liq.": "2.913,14",
-        "Liquid.": "0,00",
-        "Pg": "1.086,86",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000376",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "14.192,27",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "14.192,27",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000386",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "4.000,00",
-        "A liq.": "419,53",
-        "Liquid.": "0,00",
-        "Pg": "3.580,47",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000384",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "7.109,87",
-        "A liq.": "2.305,70",
-        "Liquid.": "0,00",
-        "Pg": "4.804,17",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "302298",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000568",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "2.717,85",
-        "A liq.": "2.717,85",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2024"
       }
     },
     {
@@ -9090,78 +7038,6 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "05016/2025"
-      }
-    },
-    {
-      "contrato_id": "243360",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000416",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "296.741,70",
-        "A liq.": "142.139,09",
-        "Liquid.": "0,00",
-        "Pg": "154.602,61",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09038/2023"
-      }
-    },
-    {
-      "contrato_id": "243360",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000246",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "317.913,75",
-        "A liq.": "58.801,80",
-        "Liquid.": "0,00",
-        "Pg": "259.111,95",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09038/2023"
-      }
-    },
-    {
-      "contrato_id": "243360",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000168",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "69.627,08",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "69.627,08",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09038/2023"
-      }
-    },
-    {
-      "contrato_id": "243360",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000862",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "10,00",
-        "A liq.": "10,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "10,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "10,00",
-        "Número Contrato": "09038/2023"
       }
     },
     {
@@ -25077,6 +22953,78 @@
       }
     },
     {
+      "contrato_id": "243360",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000416",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "296.741,70",
+        "A liq.": "142.139,09",
+        "Liquid.": "0,00",
+        "Pg": "154.602,61",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09038/2023"
+      }
+    },
+    {
+      "contrato_id": "243360",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000246",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "317.913,75",
+        "A liq.": "58.801,80",
+        "Liquid.": "0,00",
+        "Pg": "259.111,95",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09038/2023"
+      }
+    },
+    {
+      "contrato_id": "243360",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000168",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "69.627,08",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "69.627,08",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09038/2023"
+      }
+    },
+    {
+      "contrato_id": "243360",
+      "dados": {
+        "UG": "323031",
+        "Número": "2023NE000862",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "10,00",
+        "A liq.": "10,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "10,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "10,00",
+        "Número Contrato": "09038/2023"
+      }
+    },
+    {
       "contrato_id": "284746",
       "dados": {
         "UG": "323031",
@@ -25419,6 +23367,24 @@
       }
     },
     {
+      "contrato_id": "728895",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000622",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "62.450,00",
+        "A liq.": "62.450,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000622"
+      }
+    },
+    {
       "contrato_id": "151204",
       "dados": {
         "UG": "",
@@ -25434,6 +23400,2130 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "04004/2022"
+      }
+    },
+    {
+      "contrato_id": "729020",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000634",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "449052 - EQUIPAMENTOS E MATERIAL PERMANENTE",
+        "Emp.": "6.853,14",
+        "A liq.": "6.853,14",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000634"
+      }
+    },
+    {
+      "contrato_id": "729019",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000633",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "449052 - EQUIPAMENTOS E MATERIAL PERMANENTE",
+        "Emp.": "17.400,00",
+        "A liq.": "17.400,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000633"
+      }
+    },
+    {
+      "contrato_id": "729018",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000632",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "449052 - EQUIPAMENTOS E MATERIAL PERMANENTE",
+        "Emp.": "2.353,78",
+        "A liq.": "2.353,78",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000632"
+      }
+    },
+    {
+      "contrato_id": "729017",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000635",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "449052 - EQUIPAMENTOS E MATERIAL PERMANENTE",
+        "Emp.": "36.000,00",
+        "A liq.": "36.000,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000635"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000067",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "1.000,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "1.000,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000597",
+        "PI": "-8 -",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "2.500,00",
+        "A liq.": "2.500,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000595",
+        "PI": "-8 -",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000752",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "12.858,06",
+        "A liq.": "12.858,06",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000596",
+        "PI": "-8 -",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000753",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "65.772,07",
+        "A liq.": "65.772,07",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000686",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "100,00",
+        "A liq.": "100,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000682",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000679",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000692",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "100,00",
+        "A liq.": "100,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000693",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "200,00",
+        "A liq.": "200,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "4.704,02",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "4.704,02",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000694",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "5.249,91",
+        "A liq.": "5.249,91",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000701",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "32.306,07",
+        "A liq.": "32.306,07",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000698",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000696",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "33.112,24",
+        "A liq.": "33.112,24",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000691",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000703",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000697",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "65.116,00",
+        "A liq.": "65.116,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000678",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000705",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000690",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000683",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000685",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000681",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "4.239,23",
+        "A liq.": "4.239,23",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000702",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "697,82",
+        "A liq.": "697,82",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000687",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "24.212,80",
+        "A liq.": "24.212,80",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000677",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "15.200,00",
+        "A liq.": "15.200,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000704",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000680",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000684",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000688",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "579,10",
+        "A liq.": "579,10",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000689",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "4.598,76",
+        "A liq.": "4.598,76",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000695",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "18.864,79",
+        "A liq.": "18.864,79",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000699",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000700",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000754",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "73.489,11",
+        "A liq.": "73.489,11",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000706",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "75.899,24",
+        "A liq.": "75.899,24",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000710",
+        "PI": "8421FL3C006 - TED - YANOMAMI",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "39.369,53",
+        "A liq.": "39.369,53",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000767",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "8.290,77",
+        "A liq.": "8.290,77",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000034",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000724",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000047",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "6.000,00",
+        "A liq.": "3.363,98",
+        "Liquid.": "0,00",
+        "Pg": "2.636,02",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000749",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "5.946,06",
+        "A liq.": "5.946,06",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000050",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "1.000,00",
+        "A liq.": "100,00",
+        "Liquid.": "0,00",
+        "Pg": "900,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000751",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "8.288,48",
+        "A liq.": "8.288,48",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000750",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "16.113,78",
+        "A liq.": "16.113,78",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000814",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "11.495,98",
+        "A liq.": "11.495,98",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000788",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "3.383,18",
+        "A liq.": "3.383,18",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000815",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "3.383,18",
+        "A liq.": "3.383,18",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000816",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "1.000,00",
+        "A liq.": "1.000,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000036",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "2.830,85",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "2.830,85",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000048",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "17.570,71",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "17.570,71",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000049",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "19.073,16",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "19.073,16",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000041",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000037",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "4.178,08",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "4.178,08",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000038",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "1.322,96",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "1.322,96",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000045",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "49.310,77",
+        "A liq.": "0,00",
+        "Liquid.": "1.966,93",
+        "Pg": "47.343,84",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000052",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "1.000,00",
+        "A liq.": "1.000,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000040",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "2.913,85",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "2.913,85",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000042",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000043",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000039",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000033",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "45.337,75",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "45.337,75",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000046",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "1.000,00",
+        "A liq.": "1.000,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000044",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "17.380,26",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "17.380,26",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000035",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "900,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "900,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000051",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "33.441,69",
+        "A liq.": "100,00",
+        "Liquid.": "0,00",
+        "Pg": "33.341,69",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000809",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "8.782,38",
+        "A liq.": "8.782,38",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000053",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000810",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "8.290,77",
+        "A liq.": "8.290,77",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000060",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "55.110,98",
+        "A liq.": "100,00",
+        "Liquid.": "0,00",
+        "Pg": "55.010,98",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000056",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "15.526,65",
+        "A liq.": "100,00",
+        "Liquid.": "0,00",
+        "Pg": "15.426,65",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000054",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "25.810,98",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "25.810,98",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000055",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "70.915,51",
+        "A liq.": "100,00",
+        "Liquid.": "0,00",
+        "Pg": "70.815,51",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000057",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "1.893,32",
+        "A liq.": "100,00",
+        "Liquid.": "0,00",
+        "Pg": "1.793,32",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000058",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "1.000,00",
+        "A liq.": "100,00",
+        "Liquid.": "0,00",
+        "Pg": "900,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000059",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "27.522,62",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "27.522,62",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000061",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "1.000,00",
+        "A liq.": "100,00",
+        "Liquid.": "0,00",
+        "Pg": "900,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000062",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000063",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000358",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "14.030,30",
+        "A liq.": "0,00",
+        "Liquid.": "4.864,14",
+        "Pg": "9.166,16",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000065",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "2.149,96",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "2.149,96",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000359",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "6.271,73",
+        "A liq.": "0,01",
+        "Liquid.": "0,00",
+        "Pg": "6.271,72",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000361",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "84.845,52",
+        "A liq.": "14.306,49",
+        "Liquid.": "0,00",
+        "Pg": "70.539,03",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000360",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "98.551,55",
+        "A liq.": "14.947,86",
+        "Liquid.": "0,00",
+        "Pg": "83.603,69",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000368",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "246.503,99",
+        "A liq.": "111.539,88",
+        "Liquid.": "0,00",
+        "Pg": "134.964,11",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000364",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "114.513,93",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "114.513,93",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000367",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "11.013,01",
+        "A liq.": "4.321,89",
+        "Liquid.": "0,00",
+        "Pg": "6.691,12",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000366",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "48.936,69",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "48.936,69",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000363",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "20.902,70",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "20.902,70",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000365",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "26.742,18",
+        "A liq.": "16.541,44",
+        "Liquid.": "0,00",
+        "Pg": "10.200,74",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000380",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "14.089,61",
+        "A liq.": "14.089,61",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000362",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "51.926,84",
+        "A liq.": "13.525,42",
+        "Liquid.": "0,00",
+        "Pg": "38.401,42",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000369",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "78.902,91",
+        "A liq.": "1.748,42",
+        "Liquid.": "0,00",
+        "Pg": "77.154,49",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000382",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000390",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "4.000,00",
+        "A liq.": "4.000,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000383",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "6.341,59",
+        "A liq.": "6.341,59",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000370",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "49.478,90",
+        "A liq.": "31.347,29",
+        "Liquid.": "0,00",
+        "Pg": "18.131,61",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000389",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "6.000,01",
+        "A liq.": "3.782,37",
+        "Liquid.": "130,90",
+        "Pg": "2.086,74",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000374",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "8.479,69",
+        "A liq.": "8.479,69",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000375",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "90.117,19",
+        "A liq.": "76.694,04",
+        "Liquid.": "0,00",
+        "Pg": "13.423,15",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000388",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000371",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "45.189,02",
+        "A liq.": "14.185,06",
+        "Liquid.": "0,00",
+        "Pg": "31.003,96",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000387",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "4.000,00",
+        "A liq.": "4.000,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000377",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "5.615,91",
+        "A liq.": "5.615,91",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000379",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "43.477,38",
+        "A liq.": "2.981,64",
+        "Liquid.": "0,00",
+        "Pg": "40.495,74",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000385",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "21.625,00",
+        "A liq.": "11.410,06",
+        "Liquid.": "0,00",
+        "Pg": "10.214,94",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000378",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "53.619,74",
+        "A liq.": "7.907,19",
+        "Liquid.": "0,00",
+        "Pg": "45.712,55",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000381",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "23.491,63",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "23.491,63",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000391",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "4.000,00",
+        "A liq.": "2.913,14",
+        "Liquid.": "0,00",
+        "Pg": "1.086,86",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000376",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "14.192,27",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "14.192,27",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000386",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "4.000,00",
+        "A liq.": "419,53",
+        "Liquid.": "0,00",
+        "Pg": "3.580,47",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000384",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "7.109,87",
+        "A liq.": "2.305,70",
+        "Liquid.": "0,00",
+        "Pg": "4.804,17",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000568",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "2.717,85",
+        "A liq.": "2.717,85",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2024"
       }
     },
     {
