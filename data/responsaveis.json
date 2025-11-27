@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-26T07:33:47.469053",
-  "total_registros": 1690,
+  "ultima_atualizacao": "2025-11-27T07:35:28.700451",
+  "total_registros": 1692,
   "dados": [
     {
       "contrato_id": "121472",
@@ -8472,33 +8472,6 @@
       }
     },
     {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.809.164-**",
-        "Nome": "RODRIGO PEREIRA CÂMARA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.244.899-**",
-        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.677.011-**",
-        "Nome": "RANI DE FREITAS VIEIRA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
       "contrato_id": "700486",
       "dados": {
         "CPF": "***.566.343-**",
@@ -10218,6 +10191,24 @@
       }
     },
     {
+      "contrato_id": "730997",
+      "dados": {
+        "CPF": "***.330.017-**",
+        "Nome": "MINA SAITO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000639"
+      }
+    },
+    {
+      "contrato_id": "730997",
+      "dados": {
+        "CPF": "***.099.297-**",
+        "Nome": "JESSICA BAUCK DE LA VEGA DA SILVA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000639"
+      }
+    },
+    {
       "contrato_id": "253364",
       "dados": {
         "CPF": "***.566.343-**",
@@ -11313,6 +11304,33 @@
         "Nome": "DAVID FERNANDES FRANÇA",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09014/2020"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.809.164-**",
+        "Nome": "RODRIGO PEREIRA CÂMARA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.244.899-**",
+        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.677.011-**",
+        "Nome": "RANI DE FREITAS VIEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09036/2023"
       }
     },
     {

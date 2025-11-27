@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-26T07:33:47.486465",
-  "total_registros": 1867,
+  "ultima_atualizacao": "2025-11-27T07:35:28.717134",
+  "total_registros": 1871,
   "dados": [
     {
       "contrato_id": "121472",
@@ -16905,42 +16905,6 @@
       }
     },
     {
-      "contrato_id": "243362",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000788",
-        "PI": "00000008757 - OBRAS DE DRENAGEM/REVITALIZACAO ESTACIONAMENT",
-        "ND": "449051 - OBRAS E INSTALACOES",
-        "Emp.": "2.800.000,00",
-        "A liq.": "2.800.000,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "2.800.000,00",
-        "RP A Liq.": "756.075,78",
-        "RP Liq.": "756.075,78",
-        "RP Pg": "2.043.924,22",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000825",
-        "PI": "00000008757 - OBRAS DE DRENAGEM/REVITALIZACAO ESTACIONAMENT",
-        "ND": "449051 - OBRAS E INSTALACOES",
-        "Emp.": "1.336.000,00",
-        "A liq.": "1.336.000,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "1.336.000,00",
-        "RP A Liq.": "1.336.000,00",
-        "RP Liq.": "1.336.000,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
       "contrato_id": "700486",
       "dados": {
         "UG": "323031",
@@ -20361,6 +20325,24 @@
       }
     },
     {
+      "contrato_id": "730997",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000639",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "2.100,00",
+        "A liq.": "2.100,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000639"
+      }
+    },
+    {
       "contrato_id": "253364",
       "dados": {
         "UG": "323031",
@@ -22608,6 +22590,96 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "2021NE000308"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000777",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "449051 - OBRAS E INSTALACOES",
+        "Emp.": "124.896,40",
+        "A liq.": "124.896,40",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000599",
+        "PI": "00000008334 - DESCENTRALIZACAO DE CREDITOS",
+        "ND": "449051 - OBRAS E INSTALACOES",
+        "Emp.": "274.507,13",
+        "A liq.": "274.507,13",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "UG": "323031",
+        "Número": "2023NE000788",
+        "PI": "00000008757 - OBRAS DE DRENAGEM/REVITALIZACAO ESTACIONAMENT",
+        "ND": "449051 - OBRAS E INSTALACOES",
+        "Emp.": "2.800.000,00",
+        "A liq.": "2.800.000,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "2.800.000,00",
+        "RP A Liq.": "756.075,78",
+        "RP Liq.": "756.075,78",
+        "RP Pg": "2.043.924,22",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "UG": "323031",
+        "Número": "2023NE000825",
+        "PI": "00000008757 - OBRAS DE DRENAGEM/REVITALIZACAO ESTACIONAMENT",
+        "ND": "449051 - OBRAS E INSTALACOES",
+        "Emp.": "1.336.000,00",
+        "A liq.": "1.336.000,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "1.336.000,00",
+        "RP A Liq.": "1.336.000,00",
+        "RP Liq.": "1.336.000,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000621",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "449051 - OBRAS E INSTALACOES",
+        "Emp.": "4.137,23",
+        "A liq.": "4.137,23",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09036/2023"
       }
     },
     {

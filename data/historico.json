@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-26T07:33:47.442831",
-  "total_registros": 1277,
+  "ultima_atualizacao": "2025-11-27T07:35:28.676274",
+  "total_registros": 1278,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1465,7 +1465,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "26/11/2025",
+        "Data Fim": "27/11/2025",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -8545,7 +8545,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "26/11/2025",
+        "Data Fim": "27/11/2025",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -9805,7 +9805,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "26/11/2025",
+        "Data Fim": "27/11/2025",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -10200,81 +10200,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "174.000,00",
         "Número Contrato": "09034/2025"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "Data Assinatura": "19/12/2023",
-        "Número": "09036/2023",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09036/2023 DE ACORDO COM PROCESSO NÚMERO: 48600.203121/2022-92",
-        "Data Início": "19/12/2023",
-        "Data Fim": "19/08/2025",
-        "Vlr. Global": "4.136.000,00",
-        "Parcelas": "25",
-        "Vlr. Parcela": "165.440,00",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "Data Assinatura": "13/12/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "2.1 PROMOVER A ALTERAÇÃO QUANTITATIVA E QUALITATIVA DO CONTRATO COM OS ACRÉSCIMOS E SUPRESSÕES, IMPOSTOS POR FATOS SUPERVENIENTES QUE ENSEJARAM AJUSTES NECESSÁRIOS À ADEQUAÇÃO DO PROJETO BÁSICO ORIGINAL, COM FUNDAMENTO NO INCISO I, ALÍNEAS \"A\" E \"B\", DO ART. 124 DA LEI 14.133/21 E NA CLÁUSULA DÉCIMA SEXTA DO AJUSTE, MEDIANTE O CONTIDO NA NOTA TÉCNICA 17/2024/SGA-ADM DF/SGA/ANP-DF (SEI 4174029), E NOTA TÉCNICA 28/2024/SGA-ADM DF/SGA/ANP-DF (SEI 4453079), CONFORME ABAIXO:\r\n\r\nI - REMOÇÃO DE ÁRVORES NÃO PREVISTAS EM PROJETO E RECUPERAÇÃO DO ALAMBRADO EXTERNO;\r\n\r\nII - REMOÇÃO DO PAVIMENTO INTERTRAVADO;\r\n\r\nIII - AUMENTO DA ÁREA DE CONCRETO IMPERMEABILIZADO NA ÁREA DOS FUNDOS DA EDIFICAÇÃO;\r\n\r\nIV - SUPRESSÃO DE  TUBO PEAD E POÇOS DE VISITA DE ACORDO COM PROJETO APRESENTADO PELA PROJETISTA DO OBJETO;\r\n\r\nV - INCLUSÃO DE ELETRODUTOS PARA FUTURAS PASSAGEM DE INSTALAÇÕES ELÉTRICAS PRÓXIMO A ÁREA DA PASSAGEM DAS FIBRAS ÓPTICAS E REINSTALAÇÃO DOS POSTES REMOVIDOS E DO AUMENTO DA ALTURA DAS CAIXAS DE PASSAGEM;\r\n\r\nVI - EXECUÇÃO DE PAVIMENTO INTERTRAVADO NA ÁREA EXTERNA DO COMPLEXO;\r\n\r\nVII - FORNECIMENTO E PLANTIO DE GRAMA;\r\n\r\nVIII - PINTURA DO PISO EM CONCRETO\r\n\r\n \r\n\r\n2.1.1  OS ACRÉSCIMOS  ACIMA DESCRITOS SOMAM R$ 427.818,02 (QUATROCENTOS E VINTE E SETE MIL OITOCENTOS E DEZOITO REAIS E DOIS CENTAVOS) E EQUIVALE A 10,34% DO VALOR INICIAL CONTRATADO, DENTRO DO LIMITE DE 50%, ESTABELECIDO  ARTIGO 125 DA LEI 14.133/2021.\r\n\r\n \r\n\r\n2.1.2  AS SUPRESSÕES PREVISTAS NA PLANILHA ORÇAMENTÁRIA SOMAM R$ 8.645,94 (OITO MIL SEISCENTOS E QUARENTA E CINCO REAIS E NOVENTA E QUATRO CENTAVOS), OU SEJA, 0,21% DO VALOR TOTAL CONTRATADO, COM FUNDAMENTO  NO ARTIGO 125 DA  LEI 14.133 DE 2021.  \r\n\r\n \r\n\r\n2.2 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O AJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO DISPONHA DOS VALORES REAJUSTADO.",
-        "Data Início": "13/12/2024",
-        "Data Fim": "19/08/2025",
-        "Vlr. Global": "4.555.172,08",
-        "Parcelas": "1",
-        "Vlr. Parcela": "4.555.172,08",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "Data Assinatura": "28/02/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR DO CONTRATO EM 3,29%, EM RAZÃO DA VARIAÇÃO DO INCC-M ACUMULADO NO PERÍODO DE MARÇO DE 2023 A FEVEREIRO DE 2024, COM EFEITOS FINANCEIROS RETROATIVOS A PARTIR DE MARÇO DE 2024, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 33/2024/SGA-ADM DF/SGA/ANP-DF (SEI Nº  4559518).",
-        "Data Início": "19/12/2023",
-        "Data Fim": "19/08/2025",
-        "Vlr. Global": "4.705.037,25",
-        "Parcelas": "1",
-        "Vlr. Parcela": "4.705.037,25",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "Data Assinatura": "19/08/2025",
-        "Número": "00002/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "2.1 PRORROGAR A VIGÊNCIA  DO CONTRATO E A  DO CRONOGRAMA FÍSICO-FINANCEIRO ORIGINAIS,  COM FUNDAMENTO NO ART. 6º, INCISO XVII DA LEI Nº 14.133/2021, NA FORMA DISPOSTA NA NOTA TÉCNICA Nº 17/2025/SGA-ADM DF/SGA/ANP-DF (SEI 5179222), TENDO POR RESULTADO AS SEGUINTES ALTERAÇÕES DE PRAZOS: A) O PRAZO DA VIGÊNCIA CONTRATUAL, PREVISTA NO ITEM 2.1 DO AJUSTE, PASSA DE 19/08/2025 PARA 31/12/2025; E B)  O PRAZO DE VIGÊNCIA DO CRONOGRAMA FÍSICO- FINANCEIRO SE ENCERRARÁ EM 10/10/2025.  2.2 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O AJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO A SOLICITAÇÃO DE REAJUSTE ENCAMINHADA SEJA ANALISADA PELA CONTRATANTE.",
-        "Data Início": "19/08/2025",
-        "Data Fim": "31/12/2025",
-        "Vlr. Global": "4.705.037,25",
-        "Parcelas": "1",
-        "Vlr. Parcela": "4.705.037,25",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "Data Assinatura": "15/10/2025",
-        "Número": "00002/2025",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR DO CONTRATO EM 7,32%, EM RAZÃO DA VARIAÇÃO DO INCC-M ACUMULADO NO PERÍODO DE MARÇO DE 2024 A FEVEREIRO DE 2025, COM EFEITOS FINANCEIROS RETROATIVOS A PARTIR DE MARÇO DE 2025, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 21/2025/SGA-ADM DF/SGA/ANP-DF (SEI Nº  5241018).",
-        "Data Início": "19/12/2023",
-        "Data Fim": "31/12/2025",
-        "Vlr. Global": "4.833.816,45",
-        "Parcelas": "1",
-        "Vlr. Parcela": "4.833.816,45",
-        "Número Contrato": "09036/2023"
       }
     },
     {
@@ -12243,6 +12168,21 @@
       }
     },
     {
+      "contrato_id": "730997",
+      "dados": {
+        "Data Assinatura": "03/11/2025",
+        "Número": "2025NE000639",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000639 DE ACORDO COM PROCESSO NÚMERO: 48610.225885/2025-62",
+        "Data Início": "03/11/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "2.100,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "2.100,00",
+        "Número Contrato": "2025NE000639"
+      }
+    },
+    {
       "contrato_id": "253364",
       "dados": {
         "Data Assinatura": "19/02/2024",
@@ -13758,6 +13698,81 @@
       }
     },
     {
+      "contrato_id": "243362",
+      "dados": {
+        "Data Assinatura": "19/12/2023",
+        "Número": "09036/2023",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09036/2023 DE ACORDO COM PROCESSO NÚMERO: 48600.203121/2022-92",
+        "Data Início": "19/12/2023",
+        "Data Fim": "19/08/2025",
+        "Vlr. Global": "4.136.000,00",
+        "Parcelas": "25",
+        "Vlr. Parcela": "165.440,00",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "Data Assinatura": "13/12/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1 PROMOVER A ALTERAÇÃO QUANTITATIVA E QUALITATIVA DO CONTRATO COM OS ACRÉSCIMOS E SUPRESSÕES, IMPOSTOS POR FATOS SUPERVENIENTES QUE ENSEJARAM AJUSTES NECESSÁRIOS À ADEQUAÇÃO DO PROJETO BÁSICO ORIGINAL, COM FUNDAMENTO NO INCISO I, ALÍNEAS \"A\" E \"B\", DO ART. 124 DA LEI 14.133/21 E NA CLÁUSULA DÉCIMA SEXTA DO AJUSTE, MEDIANTE O CONTIDO NA NOTA TÉCNICA 17/2024/SGA-ADM DF/SGA/ANP-DF (SEI 4174029), E NOTA TÉCNICA 28/2024/SGA-ADM DF/SGA/ANP-DF (SEI 4453079), CONFORME ABAIXO:\r\n\r\nI - REMOÇÃO DE ÁRVORES NÃO PREVISTAS EM PROJETO E RECUPERAÇÃO DO ALAMBRADO EXTERNO;\r\n\r\nII - REMOÇÃO DO PAVIMENTO INTERTRAVADO;\r\n\r\nIII - AUMENTO DA ÁREA DE CONCRETO IMPERMEABILIZADO NA ÁREA DOS FUNDOS DA EDIFICAÇÃO;\r\n\r\nIV - SUPRESSÃO DE  TUBO PEAD E POÇOS DE VISITA DE ACORDO COM PROJETO APRESENTADO PELA PROJETISTA DO OBJETO;\r\n\r\nV - INCLUSÃO DE ELETRODUTOS PARA FUTURAS PASSAGEM DE INSTALAÇÕES ELÉTRICAS PRÓXIMO A ÁREA DA PASSAGEM DAS FIBRAS ÓPTICAS E REINSTALAÇÃO DOS POSTES REMOVIDOS E DO AUMENTO DA ALTURA DAS CAIXAS DE PASSAGEM;\r\n\r\nVI - EXECUÇÃO DE PAVIMENTO INTERTRAVADO NA ÁREA EXTERNA DO COMPLEXO;\r\n\r\nVII - FORNECIMENTO E PLANTIO DE GRAMA;\r\n\r\nVIII - PINTURA DO PISO EM CONCRETO\r\n\r\n \r\n\r\n2.1.1  OS ACRÉSCIMOS  ACIMA DESCRITOS SOMAM R$ 427.818,02 (QUATROCENTOS E VINTE E SETE MIL OITOCENTOS E DEZOITO REAIS E DOIS CENTAVOS) E EQUIVALE A 10,34% DO VALOR INICIAL CONTRATADO, DENTRO DO LIMITE DE 50%, ESTABELECIDO  ARTIGO 125 DA LEI 14.133/2021.\r\n\r\n \r\n\r\n2.1.2  AS SUPRESSÕES PREVISTAS NA PLANILHA ORÇAMENTÁRIA SOMAM R$ 8.645,94 (OITO MIL SEISCENTOS E QUARENTA E CINCO REAIS E NOVENTA E QUATRO CENTAVOS), OU SEJA, 0,21% DO VALOR TOTAL CONTRATADO, COM FUNDAMENTO  NO ARTIGO 125 DA  LEI 14.133 DE 2021.  \r\n\r\n \r\n\r\n2.2 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O AJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO DISPONHA DOS VALORES REAJUSTADO.",
+        "Data Início": "13/12/2024",
+        "Data Fim": "19/08/2025",
+        "Vlr. Global": "4.555.172,08",
+        "Parcelas": "1",
+        "Vlr. Parcela": "4.555.172,08",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "Data Assinatura": "28/02/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO EM 3,29%, EM RAZÃO DA VARIAÇÃO DO INCC-M ACUMULADO NO PERÍODO DE MARÇO DE 2023 A FEVEREIRO DE 2024, COM EFEITOS FINANCEIROS RETROATIVOS A PARTIR DE MARÇO DE 2024, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 33/2024/SGA-ADM DF/SGA/ANP-DF (SEI Nº  4559518).",
+        "Data Início": "19/12/2023",
+        "Data Fim": "19/08/2025",
+        "Vlr. Global": "4.705.037,25",
+        "Parcelas": "1",
+        "Vlr. Parcela": "4.705.037,25",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "Data Assinatura": "19/08/2025",
+        "Número": "00002/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1 PRORROGAR A VIGÊNCIA  DO CONTRATO E A  DO CRONOGRAMA FÍSICO-FINANCEIRO ORIGINAIS,  COM FUNDAMENTO NO ART. 6º, INCISO XVII DA LEI Nº 14.133/2021, NA FORMA DISPOSTA NA NOTA TÉCNICA Nº 17/2025/SGA-ADM DF/SGA/ANP-DF (SEI 5179222), TENDO POR RESULTADO AS SEGUINTES ALTERAÇÕES DE PRAZOS: A) O PRAZO DA VIGÊNCIA CONTRATUAL, PREVISTA NO ITEM 2.1 DO AJUSTE, PASSA DE 19/08/2025 PARA 31/12/2025; E B)  O PRAZO DE VIGÊNCIA DO CRONOGRAMA FÍSICO- FINANCEIRO SE ENCERRARÁ EM 10/10/2025.  2.2 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O AJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO A SOLICITAÇÃO DE REAJUSTE ENCAMINHADA SEJA ANALISADA PELA CONTRATANTE.",
+        "Data Início": "19/08/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "4.705.037,25",
+        "Parcelas": "1",
+        "Vlr. Parcela": "4.705.037,25",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "Data Assinatura": "15/10/2025",
+        "Número": "00002/2025",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO EM 7,32%, EM RAZÃO DA VARIAÇÃO DO INCC-M ACUMULADO NO PERÍODO DE MARÇO DE 2024 A FEVEREIRO DE 2025, COM EFEITOS FINANCEIROS RETROATIVOS A PARTIR DE MARÇO DE 2025, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 21/2025/SGA-ADM DF/SGA/ANP-DF (SEI Nº  5241018).",
+        "Data Início": "19/12/2023",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "4.833.816,45",
+        "Parcelas": "1",
+        "Vlr. Parcela": "4.833.816,45",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
       "contrato_id": "165995",
       "dados": {
         "Data Assinatura": "17/10/2022",
@@ -14440,7 +14455,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "26/11/2025",
+        "Data Fim": "27/11/2025",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -14755,7 +14770,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "26/11/2025",
+        "Data Fim": "27/11/2025",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -14890,7 +14905,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "26/11/2025",
+        "Data Fim": "27/11/2025",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
