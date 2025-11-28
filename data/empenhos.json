@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-27T07:35:28.717134",
-  "total_registros": 1871,
+  "ultima_atualizacao": "2025-11-28T07:34:49.006588",
+  "total_registros": 1872,
   "dados": [
     {
       "contrato_id": "121472",
@@ -22770,6 +22770,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "2022NE000705"
+      }
+    },
+    {
+      "contrato_id": "732408",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000531",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "218,00",
+        "A liq.": "218,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000531"
       }
     },
     {

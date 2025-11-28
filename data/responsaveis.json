@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-11-27T07:35:28.700451",
-  "total_registros": 1692,
+  "ultima_atualizacao": "2025-11-28T07:34:48.990012",
+  "total_registros": 1699,
   "dados": [
     {
       "contrato_id": "121472",
@@ -10362,6 +10362,15 @@
       }
     },
     {
+      "contrato_id": "699712",
+      "dados": {
+        "CPF": "***.715.531-**",
+        "Nome": "LUIZ NOGUEIRA DE SOUZA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09031/2025"
+      }
+    },
+    {
       "contrato_id": "32031",
       "dados": {
         "CPF": "***.248.978-**",
@@ -11412,6 +11421,60 @@
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "09001/2025"
+      }
+    },
+    {
+      "contrato_id": "732408",
+      "dados": {
+        "CPF": "***.476.213-**",
+        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000531"
+      }
+    },
+    {
+      "contrato_id": "732408",
+      "dados": {
+        "CPF": "***.896.037-**",
+        "Nome": "SAHID DE OLIVEIRA KIK",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000531"
+      }
+    },
+    {
+      "contrato_id": "732408",
+      "dados": {
+        "CPF": "***.163.777-**",
+        "Nome": "ALISSON CHRISTI VIEIRA ROCHA",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "2025NE000531"
+      }
+    },
+    {
+      "contrato_id": "732408",
+      "dados": {
+        "CPF": "***.163.777-**",
+        "Nome": "ALISSON CHRISTI VIEIRA ROCHA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2025NE000531"
+      }
+    },
+    {
+      "contrato_id": "732408",
+      "dados": {
+        "CPF": "***.798.974-**",
+        "Nome": "DAVID FERNANDES FRANÇA",
+        "Tipo": "Fiscal Requisitante Substituto",
+        "Número Contrato": "2025NE000531"
+      }
+    },
+    {
+      "contrato_id": "732408",
+      "dados": {
+        "CPF": "***.798.974-**",
+        "Nome": "DAVID FERNANDES FRANÇA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2025NE000531"
       }
     },
     {
