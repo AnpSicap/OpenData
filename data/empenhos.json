@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-01T07:38:07.479035",
-  "total_registros": 1874,
+  "ultima_atualizacao": "2025-12-02T07:36:48.996244",
+  "total_registros": 1880,
   "dados": [
     {
       "contrato_id": "121472",
@@ -22305,6 +22305,24 @@
       }
     },
     {
+      "contrato_id": "735277",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000677",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "05025/2025"
+      }
+    },
+    {
       "contrato_id": "160742",
       "dados": {
         "UG": "323031",
@@ -22464,6 +22482,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "465.418,33",
         "Número Contrato": "09032/2022"
+      }
+    },
+    {
+      "contrato_id": "735307",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000668",
+        "PI": "-",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "145.600,00",
+        "A liq.": "145.600,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09040/2025"
       }
     },
     {
@@ -22860,6 +22896,60 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "00011/2022"
+      }
+    },
+    {
+      "contrato_id": "735718",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000676",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "5.981,70",
+        "A liq.": "5.981,70",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000676"
+      }
+    },
+    {
+      "contrato_id": "735727",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000688",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000688"
+      }
+    },
+    {
+      "contrato_id": "735736",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000689",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000689"
       }
     },
     {
@@ -26599,6 +26689,24 @@
         "A liq.": "97.719,19",
         "Liquid.": "0,00",
         "Pg": "757.137,72",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09039/2022"
+      }
+    },
+    {
+      "contrato_id": "168205",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000704",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
