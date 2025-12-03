@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-02T07:36:48.979442",
-  "total_registros": 1702,
+  "ultima_atualizacao": "2025-12-03T07:36:40.343872",
+  "total_registros": 1704,
   "dados": [
     {
       "contrato_id": "121472",
@@ -10566,6 +10566,24 @@
         "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09036/2022"
+      }
+    },
+    {
+      "contrato_id": "737207",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2025NE000701"
+      }
+    },
+    {
+      "contrato_id": "737207",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000701"
       }
     },
     {
