@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-03T07:36:40.360607",
-  "total_registros": 1882,
+  "ultima_atualizacao": "2025-12-04T07:36:56.175029",
+  "total_registros": 1893,
   "dados": [
     {
       "contrato_id": "121472",
@@ -147,6 +147,42 @@
       }
     },
     {
+      "contrato_id": "738222",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000655",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "676,60",
+        "A liq.": "676,60",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000655"
+      }
+    },
+    {
+      "contrato_id": "738223",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000656",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "288,00",
+        "A liq.": "288,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000656"
+      }
+    },
+    {
       "contrato_id": "15585",
       "dados": {
         "UG": "323031",
@@ -270,6 +306,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09070/2016"
+      }
+    },
+    {
+      "contrato_id": "738228",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000646",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "6.800,00",
+        "A liq.": "6.800,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000646"
       }
     },
     {
@@ -921,6 +975,42 @@
       }
     },
     {
+      "contrato_id": "738243",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000647",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "5.400,00",
+        "A liq.": "5.400,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000647"
+      }
+    },
+    {
+      "contrato_id": "738246",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000648",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "400,00",
+        "A liq.": "400,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000648"
+      }
+    },
+    {
       "contrato_id": "479607",
       "dados": {
         "UG": "323031",
@@ -1065,6 +1155,42 @@
       }
     },
     {
+      "contrato_id": "738250",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000649",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "334,00",
+        "A liq.": "334,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000649"
+      }
+    },
+    {
+      "contrato_id": "738252",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000650",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "133,80",
+        "A liq.": "133,80",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000650"
+      }
+    },
+    {
       "contrato_id": "86909",
       "dados": {
         "UG": "",
@@ -1098,6 +1224,42 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09029/2020"
+      }
+    },
+    {
+      "contrato_id": "738257",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000671",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "1.440,00",
+        "A liq.": "1.440,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000671"
+      }
+    },
+    {
+      "contrato_id": "738263",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000679",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000679"
       }
     },
     {
@@ -2055,6 +2217,24 @@
       }
     },
     {
+      "contrato_id": "738265",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000680",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000680"
+      }
+    },
+    {
       "contrato_id": "80402",
       "dados": {
         "UG": "323031",
@@ -2322,6 +2502,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "2025NE000137"
+      }
+    },
+    {
+      "contrato_id": "738267",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000681",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000681"
       }
     },
     {
