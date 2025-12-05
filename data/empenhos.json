@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-04T07:36:56.175029",
-  "total_registros": 1893,
+  "ultima_atualizacao": "2025-12-05T07:37:09.182582",
+  "total_registros": 1894,
   "dados": [
     {
       "contrato_id": "121472",
@@ -23184,6 +23184,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "2025NE000689"
+      }
+    },
+    {
+      "contrato_id": "742361",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000699",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000699"
       }
     },
     {

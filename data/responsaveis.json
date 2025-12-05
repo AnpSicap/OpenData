@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-04T07:36:56.157768",
-  "total_registros": 1726,
+  "ultima_atualizacao": "2025-12-05T07:37:09.166372",
+  "total_registros": 1738,
   "dados": [
     {
       "contrato_id": "121472",
@@ -2451,6 +2451,15 @@
       }
     },
     {
+      "contrato_id": "632335",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000467"
+      }
+    },
+    {
       "contrato_id": "386557",
       "dados": {
         "CPF": "***.284.527-**",
@@ -3069,6 +3078,42 @@
         "Nome": "ROBERTO MOREIRA CALDEIRA",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2025NE000222"
+      }
+    },
+    {
+      "contrato_id": "691191",
+      "dados": {
+        "CPF": "***.527.027-**",
+        "Nome": "JAYME DE ALMEIDA LOPES",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "09029/2025"
+      }
+    },
+    {
+      "contrato_id": "691191",
+      "dados": {
+        "CPF": "***.156.568-**",
+        "Nome": "MAURO RICARDO DA SILVA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09029/2025"
+      }
+    },
+    {
+      "contrato_id": "691191",
+      "dados": {
+        "CPF": "***.896.037-**",
+        "Nome": "SAHID DE OLIVEIRA KIK",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09029/2025"
+      }
+    },
+    {
+      "contrato_id": "691191",
+      "dados": {
+        "CPF": "***.476.213-**",
+        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09029/2025"
       }
     },
     {
@@ -10812,6 +10857,15 @@
       }
     },
     {
+      "contrato_id": "717244",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000538"
+      }
+    },
+    {
       "contrato_id": "717246",
       "dados": {
         "CPF": "***.174.041-**",
@@ -10821,11 +10875,29 @@
       }
     },
     {
+      "contrato_id": "717246",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000590"
+      }
+    },
+    {
       "contrato_id": "717250",
       "dados": {
         "CPF": "***.174.041-**",
         "Nome": "ANDREA CAMBRAIA VIDAL",
         "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000614"
+      }
+    },
+    {
+      "contrato_id": "717250",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000614"
       }
     },
@@ -11213,6 +11285,15 @@
         "CPF": "***.905.654-**",
         "Nome": "BRUNO SALES BERNARDO",
         "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000611"
+      }
+    },
+    {
+      "contrato_id": "715916",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2025NE000611"
       }
     },
@@ -11745,6 +11826,33 @@
         "Nome": "DAVID FERNANDES FRANÇA",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "2025NE000531"
+      }
+    },
+    {
+      "contrato_id": "735718",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000676"
+      }
+    },
+    {
+      "contrato_id": "735727",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000688"
+      }
+    },
+    {
+      "contrato_id": "742361",
+      "dados": {
+        "CPF": "***.973.643-**",
+        "Nome": "FRANCISCO BENEDITO CRUZ PAIVA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000699"
       }
     },
     {
