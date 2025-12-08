@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-05T07:37:09.166372",
-  "total_registros": 1738,
+  "ultima_atualizacao": "2025-12-08T07:39:13.281169",
+  "total_registros": 1745,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1403,6 +1403,24 @@
         "CPF": "***.731.796-**",
         "Nome": "ROBERTO MOREIRA CALDEIRA",
         "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05040/2024"
+      }
+    },
+    {
+      "contrato_id": "501037",
+      "dados": {
+        "CPF": "***.206.377-**",
+        "Nome": "CRISTIANE FERREIRA DOS SANTOS",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05040/2024"
+      }
+    },
+    {
+      "contrato_id": "501037",
+      "dados": {
+        "CPF": "***.486.236-**",
+        "Nome": "EDER MARCIO SILVA DE OLIVEIRA",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "05040/2024"
       }
     },
@@ -3783,6 +3801,33 @@
       }
     },
     {
+      "contrato_id": "157486",
+      "dados": {
+        "CPF": "***.421.287-**",
+        "Nome": "ARNALDO SHIOJI FERRADOSA ARCOVERDE",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "01020/2022"
+      }
+    },
+    {
+      "contrato_id": "157486",
+      "dados": {
+        "CPF": "***.371.887-**",
+        "Nome": "EDUARDO DOS SANTOS BARROSO",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "01020/2022"
+      }
+    },
+    {
+      "contrato_id": "157486",
+      "dados": {
+        "CPF": "***.565.627-**",
+        "Nome": "MERCEDES SANTANA DA SILVA",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "01020/2022"
+      }
+    },
+    {
       "contrato_id": "612915",
       "dados": {
         "CPF": "***.798.974-**",
@@ -4788,33 +4833,6 @@
         "Nome": "ANDREA CAMBRAIA VIDAL",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2022NE000720"
-      }
-    },
-    {
-      "contrato_id": "157486",
-      "dados": {
-        "CPF": "***.421.287-**",
-        "Nome": "ARNALDO SHIOJI FERRADOSA ARCOVERDE",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "01020/2022"
-      }
-    },
-    {
-      "contrato_id": "157486",
-      "dados": {
-        "CPF": "***.371.887-**",
-        "Nome": "EDUARDO DOS SANTOS BARROSO",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "01020/2022"
-      }
-    },
-    {
-      "contrato_id": "157486",
-      "dados": {
-        "CPF": "***.565.627-**",
-        "Nome": "MERCEDES SANTANA DA SILVA",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "01020/2022"
       }
     },
     {
@@ -8625,6 +8643,24 @@
       }
     },
     {
+      "contrato_id": "193571",
+      "dados": {
+        "CPF": "***.206.377-**",
+        "Nome": "CRISTIANE FERREIRA DOS SANTOS",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09007/2023"
+      }
+    },
+    {
+      "contrato_id": "193571",
+      "dados": {
+        "CPF": "***.486.236-**",
+        "Nome": "EDER MARCIO SILVA DE OLIVEIRA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09007/2023"
+      }
+    },
+    {
       "contrato_id": "111640",
       "dados": {
         "CPF": "***.470.941-**",
@@ -10839,6 +10875,15 @@
       }
     },
     {
+      "contrato_id": "742630",
+      "dados": {
+        "CPF": "***.207.107-**",
+        "Nome": "RONAN MAGALHÃES AVILA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000711"
+      }
+    },
+    {
       "contrato_id": "717241",
       "dados": {
         "CPF": "***.174.041-**",
@@ -12419,6 +12464,24 @@
         "CPF": "***.731.796-**",
         "Nome": "ROBERTO MOREIRA CALDEIRA",
         "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000135"
+      }
+    },
+    {
+      "contrato_id": "431901",
+      "dados": {
+        "CPF": "***.206.377-**",
+        "Nome": "CRISTIANE FERREIRA DOS SANTOS",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000135"
+      }
+    },
+    {
+      "contrato_id": "431901",
+      "dados": {
+        "CPF": "***.486.236-**",
+        "Nome": "EDER MARCIO SILVA DE OLIVEIRA",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "2025NE000135"
       }
     },
