@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-08T07:39:13.298478",
-  "total_registros": 1895,
+  "ultima_atualizacao": "2025-12-09T07:37:33.957986",
+  "total_registros": 1896,
   "dados": [
     {
       "contrato_id": "121472",
@@ -22878,6 +22878,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09014/2020"
+      }
+    },
+    {
+      "contrato_id": "745252",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000674",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "153.747,90",
+        "A liq.": "153.747,90",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09043/2025"
       }
     },
     {
