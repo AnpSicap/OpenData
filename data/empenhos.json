@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-10T07:37:48.196959",
-  "total_registros": 1899,
+  "ultima_atualizacao": "2025-12-11T07:40:46.599599",
+  "total_registros": 1902,
   "dados": [
     {
       "contrato_id": "121472",
@@ -11699,6 +11699,24 @@
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
         "RP Pg": "85.935,37",
+        "Número Contrato": "05041/2022"
+      }
+    },
+    {
+      "contrato_id": "175550",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000760",
+        "PI": "-",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
         "Número Contrato": "05041/2022"
       }
     },
@@ -23457,6 +23475,24 @@
       }
     },
     {
+      "contrato_id": "748192",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000597",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "12.800,00",
+        "A liq.": "12.800,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000597"
+      }
+    },
+    {
       "contrato_id": "166009",
       "dados": {
         "UG": "",
@@ -23580,6 +23616,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "10,00",
         "Número Contrato": "09038/2023"
+      }
+    },
+    {
+      "contrato_id": "748600",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000595",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "62.500,00",
+        "A liq.": "62.500,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000595"
       }
     },
     {

@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-10T07:37:48.178978",
-  "total_registros": 1852,
+  "ultima_atualizacao": "2025-12-11T07:40:46.581505",
+  "total_registros": 1854,
   "dados": [
     {
       "contrato_id": "121472",
@@ -12864,6 +12864,15 @@
       }
     },
     {
+      "contrato_id": "748192",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000597"
+      }
+    },
+    {
       "contrato_id": "139670",
       "dados": {
         "CPF": "***.284.527-**",
@@ -12987,6 +12996,15 @@
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "09038/2023"
+      }
+    },
+    {
+      "contrato_id": "748600",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000595"
       }
     },
     {
