@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-11T07:40:46.581505",
-  "total_registros": 1854,
+  "ultima_atualizacao": "2025-12-12T07:39:20.663007",
+  "total_registros": 1861,
   "dados": [
     {
       "contrato_id": "121472",
@@ -12279,6 +12279,42 @@
       }
     },
     {
+      "contrato_id": "748984",
+      "dados": {
+        "CPF": "***.326.955-**",
+        "Nome": "CAROLINA RODRIGUES DE CARVALHO DOS SANTOS",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2025NE000723"
+      }
+    },
+    {
+      "contrato_id": "748984",
+      "dados": {
+        "CPF": "***.326.955-**",
+        "Nome": "CAROLINA RODRIGUES DE CARVALHO DOS SANTOS",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000723"
+      }
+    },
+    {
+      "contrato_id": "748984",
+      "dados": {
+        "CPF": "***.487.292-**",
+        "Nome": "LUCIANO RICARDO DA SILVA LOBO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000723"
+      }
+    },
+    {
+      "contrato_id": "748984",
+      "dados": {
+        "CPF": "***.487.292-**",
+        "Nome": "LUCIANO RICARDO DA SILVA LOBO",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2025NE000723"
+      }
+    },
+    {
       "contrato_id": "715916",
       "dados": {
         "CPF": "***.750.044-**",
@@ -12864,12 +12900,39 @@
       }
     },
     {
+      "contrato_id": "749584",
+      "dados": {
+        "CPF": "***.330.607-**",
+        "Nome": "ADEMAR FIGUEIREDO DOS SANTOS",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2025NE000678"
+      }
+    },
+    {
       "contrato_id": "748192",
       "dados": {
         "CPF": "***.562.837-**",
         "Nome": "RICARDO RODRIGUES MONTEIRO",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2025NE000597"
+      }
+    },
+    {
+      "contrato_id": "746915",
+      "dados": {
+        "CPF": "***.175.046-**",
+        "Nome": "LIVIA FIGUEIRAS DE FRANÇA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2025NE000705"
+      }
+    },
+    {
+      "contrato_id": "746915",
+      "dados": {
+        "CPF": "***.175.046-**",
+        "Nome": "LIVIA FIGUEIRAS DE FRANÇA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000705"
       }
     },
     {
