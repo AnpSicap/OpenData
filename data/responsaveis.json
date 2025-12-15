@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-12T07:39:20.663007",
-  "total_registros": 1861,
+  "ultima_atualizacao": "2025-12-15T07:39:58.694852",
+  "total_registros": 1862,
   "dados": [
     {
       "contrato_id": "121472",
@@ -12905,6 +12905,15 @@
         "CPF": "***.330.607-**",
         "Nome": "ADEMAR FIGUEIREDO DOS SANTOS",
         "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2025NE000678"
+      }
+    },
+    {
+      "contrato_id": "749584",
+      "dados": {
+        "CPF": "***.486.387-**",
+        "Nome": "CLAUDIA VALERIA RIBEIRO MORANDE",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "2025NE000678"
       }
     },
