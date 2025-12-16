@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-15T07:39:58.712012",
-  "total_registros": 1904,
+  "ultima_atualizacao": "2025-12-16T07:38:22.603155",
+  "total_registros": 1907,
   "dados": [
     {
       "contrato_id": "121472",
@@ -22197,6 +22197,24 @@
       }
     },
     {
+      "contrato_id": "752510",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000575",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "33.660,00",
+        "A liq.": "33.660,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09027/2025"
+      }
+    },
+    {
       "contrato_id": "715916",
       "dados": {
         "UG": "323031",
@@ -22986,6 +23004,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09041/2025"
+      }
+    },
+    {
+      "contrato_id": "752198",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000755",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "449052 - EQUIPAMENTOS E MATERIAL PERMANENTE",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "90048/2025"
       }
     },
     {
@@ -34181,6 +34217,24 @@
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
         "RP Pg": "2.932,95",
+        "Número Contrato": "08012/2019"
+      }
+    },
+    {
+      "contrato_id": "28142",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000762",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
         "Número Contrato": "08012/2019"
       }
     },

@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-15T07:39:58.694852",
-  "total_registros": 1862,
+  "ultima_atualizacao": "2025-12-16T07:38:22.584842",
+  "total_registros": 1871,
   "dados": [
     {
       "contrato_id": "121472",
@@ -12315,6 +12315,42 @@
       }
     },
     {
+      "contrato_id": "752510",
+      "dados": {
+        "CPF": "***.327.947-**",
+        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "09027/2025"
+      }
+    },
+    {
+      "contrato_id": "752510",
+      "dados": {
+        "CPF": "***.327.947-**",
+        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09027/2025"
+      }
+    },
+    {
+      "contrato_id": "752510",
+      "dados": {
+        "CPF": "***.476.213-**",
+        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09027/2025"
+      }
+    },
+    {
+      "contrato_id": "752510",
+      "dados": {
+        "CPF": "***.896.037-**",
+        "Nome": "SAHID DE OLIVEIRA KIK",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09027/2025"
+      }
+    },
+    {
       "contrato_id": "715916",
       "dados": {
         "CPF": "***.750.044-**",
@@ -12708,6 +12744,51 @@
         "Nome": "DAVID FERNANDES FRANÇA",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09014/2020"
+      }
+    },
+    {
+      "contrato_id": "736908",
+      "dados": {
+        "CPF": "***.798.974-**",
+        "Nome": "DAVID FERNANDES FRANÇA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09041/2025"
+      }
+    },
+    {
+      "contrato_id": "736908",
+      "dados": {
+        "CPF": "***.327.947-**",
+        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09041/2025"
+      }
+    },
+    {
+      "contrato_id": "736908",
+      "dados": {
+        "CPF": "***.826.884-**",
+        "Nome": "NATALIE FERNANDA FERNANDES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09041/2025"
+      }
+    },
+    {
+      "contrato_id": "736908",
+      "dados": {
+        "CPF": "***.984.147-**",
+        "Nome": "JACSON DAMASCENO NUNES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09041/2025"
+      }
+    },
+    {
+      "contrato_id": "736908",
+      "dados": {
+        "CPF": "***.896.037-**",
+        "Nome": "SAHID DE OLIVEIRA KIK",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09041/2025"
       }
     },
     {
