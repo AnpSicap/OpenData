@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-17T07:38:10.391971",
-  "total_registros": 1875,
+  "ultima_atualizacao": "2025-12-18T07:38:35.361624",
+  "total_registros": 1877,
   "dados": [
     {
       "contrato_id": "121472",
@@ -11264,6 +11264,15 @@
     {
       "contrato_id": "715653",
       "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000604"
+      }
+    },
+    {
+      "contrato_id": "715653",
+      "dados": {
         "CPF": "***.750.044-**",
         "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
         "Tipo": "Fiscal Administrativo",
@@ -11520,6 +11529,15 @@
         "Nome": "JESSICA BAUCK DE LA VEGA DA SILVA",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000639"
+      }
+    },
+    {
+      "contrato_id": "253364",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05020/2023"
       }
     },
     {
