@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-19T07:37:37.077695",
-  "total_registros": 1937,
+  "ultima_atualizacao": "2025-12-22T07:40:28.593209",
+  "total_registros": 1943,
   "dados": [
     {
       "contrato_id": "121472",
@@ -11244,6 +11244,15 @@
       }
     },
     {
+      "contrato_id": "709308",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09033/2025"
+      }
+    },
+    {
       "contrato_id": "181092",
       "dados": {
         "CPF": "***.163.777-**",
@@ -13566,6 +13575,51 @@
       }
     },
     {
+      "contrato_id": "759952",
+      "dados": {
+        "CPF": "***.163.777-**",
+        "Nome": "ALISSON CHRISTI VIEIRA ROCHA",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "2025NE000616"
+      }
+    },
+    {
+      "contrato_id": "759952",
+      "dados": {
+        "CPF": "***.826.884-**",
+        "Nome": "NATALIE FERNANDA FERNANDES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000616"
+      }
+    },
+    {
+      "contrato_id": "759952",
+      "dados": {
+        "CPF": "***.163.777-**",
+        "Nome": "ALISSON CHRISTI VIEIRA ROCHA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2025NE000616"
+      }
+    },
+    {
+      "contrato_id": "759952",
+      "dados": {
+        "CPF": "***.327.947-**",
+        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
+        "Tipo": "Fiscal Requisitante Substituto",
+        "Número Contrato": "2025NE000616"
+      }
+    },
+    {
+      "contrato_id": "759952",
+      "dados": {
+        "CPF": "***.327.947-**",
+        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2025NE000616"
+      }
+    },
+    {
       "contrato_id": "749584",
       "dados": {
         "CPF": "***.330.607-**",
@@ -13869,6 +13923,24 @@
         "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09006/2019"
+      }
+    },
+    {
+      "contrato_id": "170776",
+      "dados": {
+        "CPF": "***.959.447-**",
+        "Nome": "JEAN DA CRUZ LOPES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05022/2022"
+      }
+    },
+    {
+      "contrato_id": "170776",
+      "dados": {
+        "CPF": "***.415.617-**",
+        "Nome": "ELISABETH MACHADO LOURENÇO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05022/2022"
       }
     },
     {
@@ -17064,24 +17136,6 @@
         "Nome": "BRUNO SALES BERNARDO",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "08024/2024"
-      }
-    },
-    {
-      "contrato_id": "170776",
-      "dados": {
-        "CPF": "***.959.447-**",
-        "Nome": "JEAN DA CRUZ LOPES",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "05022/2022"
-      }
-    },
-    {
-      "contrato_id": "170776",
-      "dados": {
-        "CPF": "***.415.617-**",
-        "Nome": "ELISABETH MACHADO LOURENÇO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "05022/2022"
       }
     },
     {

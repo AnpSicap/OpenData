@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-19T07:37:37.052493",
-  "total_registros": 1322,
+  "ultima_atualizacao": "2025-12-22T07:40:28.568438",
+  "total_registros": 1325,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1525,7 +1525,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "19/12/2025",
+        "Data Fim": "22/12/2025",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -8770,7 +8770,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "19/12/2025",
+        "Data Fim": "22/12/2025",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -10060,7 +10060,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "19/12/2025",
+        "Data Fim": "22/12/2025",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -14553,6 +14553,21 @@
       }
     },
     {
+      "contrato_id": "759952",
+      "dados": {
+        "Data Assinatura": "21/10/2025",
+        "Número": "2025NE000616",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000616 DE ACORDO COM PROCESSO NÚMERO: 48610.224748/2025-19",
+        "Data Início": "21/10/2025",
+        "Data Fim": "21/10/2026",
+        "Vlr. Global": "1.254,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.254,00",
+        "Número Contrato": "2025NE000616"
+      }
+    },
+    {
       "contrato_id": "749584",
       "dados": {
         "Data Assinatura": "19/11/2025",
@@ -14595,6 +14610,21 @@
         "Parcelas": "1",
         "Vlr. Parcela": "0,00",
         "Número Contrato": "11111/1111"
+      }
+    },
+    {
+      "contrato_id": "760150",
+      "dados": {
+        "Data Assinatura": "18/12/2025",
+        "Número": "05032/2025",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 05032/2025 DE ACORDO COM PROCESSO NÚMERO: 48610.210555/2024-91",
+        "Data Início": "18/12/2025",
+        "Data Fim": "18/06/2026",
+        "Vlr. Global": "688.081,99",
+        "Parcelas": "1",
+        "Vlr. Parcela": "688.081,99",
+        "Número Contrato": "05032/2025"
       }
     },
     {
@@ -14928,6 +14958,51 @@
       }
     },
     {
+      "contrato_id": "170776",
+      "dados": {
+        "Data Assinatura": "29/11/2022",
+        "Número": "05022/2022",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 05022/2022 DE ACORDO COM PROCESSO NÚMERO: 48610.201985/2022-51",
+        "Data Início": "29/11/2022",
+        "Data Fim": "29/11/2025",
+        "Vlr. Global": "1.699.260,48",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.699.260,48",
+        "Número Contrato": "05022/2022"
+      }
+    },
+    {
+      "contrato_id": "170776",
+      "dados": {
+        "Data Assinatura": "02/12/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REPACTUAR O VALOR DO CONTRATO N° 5.022/22-ANP, EM APROXIMADAMENTE 1,66%, COM BASE NA VARIAÇÃO DOS CUSTOS DECORRENTES DO ICTI/IPEA (PERÍODO ENTRE 12/2022 A 11/2023), TENDO SEUS EFEITOS FINANCEIROS RETROATIVOS A 01/12/2023, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA Nº 46/2024/SDT/ANP-RJ (SEI 4442388)",
+        "Data Início": "29/11/2022",
+        "Data Fim": "29/11/2025",
+        "Vlr. Global": "1.718.065,68",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.718.065,68",
+        "Número Contrato": "05022/2022"
+      }
+    },
+    {
+      "contrato_id": "170776",
+      "dados": {
+        "Data Assinatura": "28/11/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO DE 29/11/2025 À 29/11/2026, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93.\r\nPROMOVER A ALTERAÇÃO QUANTITATIVA DO CONTRATO MEDIANTE A SUPRESSÃO DE EQUIPAMENTOS, EM RAZÃO DO CORTE ORÇAMENTÁRIO PREVISTO PELO DECRETO 12477/25, E EM VIRTUDE DA COMUNICAÇÃO DA EMPRESA REGISTRANDO QUE ALGUNS EQUIPAMENTOS TERIAM SEUS SERVIÇOS DESCONTINUADOS A PARTIR DE 30/04/2025 (SYSTEM NETWORKING SAN24B-5, TIPO 2498 MODELO X24) E 31/05/2025 (STORAGE SAN48B-5, TIPO 2498 MODELO F48), MOTIVO PELO QUAL OS ITENS 10 E 11 DO LOTE 1 E ITENS 18 E 19 DO LOTE 2 JÁ VEM SENDO GLOSADOS E SERÃO SUPRIMIDOS A PARTIR DESTE TERMO ADITIVO, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº  32/2025/SDT/ANP-RJ  (SEI 5241867)..",
+        "Data Início": "29/11/2025",
+        "Data Fim": "29/11/2026",
+        "Vlr. Global": "502.975,44",
+        "Parcelas": "1",
+        "Vlr. Parcela": "502.975,44",
+        "Número Contrato": "05022/2022"
+      }
+    },
+    {
       "contrato_id": "358892",
       "dados": {
         "Data Assinatura": "13/12/2024",
@@ -15100,7 +15175,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "19/12/2025",
+        "Data Fim": "22/12/2025",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -15415,7 +15490,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "19/12/2025",
+        "Data Fim": "22/12/2025",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -15550,7 +15625,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "19/12/2025",
+        "Data Fim": "22/12/2025",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -19590,36 +19665,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "4.532,40",
         "Número Contrato": "2022NE000704"
-      }
-    },
-    {
-      "contrato_id": "170776",
-      "dados": {
-        "Data Assinatura": "29/11/2022",
-        "Número": "05022/2022",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 05022/2022 DE ACORDO COM PROCESSO NÚMERO: 48610.201985/2022-51",
-        "Data Início": "29/11/2022",
-        "Data Fim": "29/11/2025",
-        "Vlr. Global": "1.699.260,48",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.699.260,48",
-        "Número Contrato": "05022/2022"
-      }
-    },
-    {
-      "contrato_id": "170776",
-      "dados": {
-        "Data Assinatura": "02/12/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REPACTUAR O VALOR DO CONTRATO N° 5.022/22-ANP, EM APROXIMADAMENTE 1,66%, COM BASE NA VARIAÇÃO DOS CUSTOS DECORRENTES DO ICTI/IPEA (PERÍODO ENTRE 12/2022 A 11/2023), TENDO SEUS EFEITOS FINANCEIROS RETROATIVOS A 01/12/2023, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA Nº 46/2024/SDT/ANP-RJ (SEI 4442388)",
-        "Data Início": "29/11/2022",
-        "Data Fim": "29/11/2025",
-        "Vlr. Global": "1.718.065,68",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.718.065,68",
-        "Número Contrato": "05022/2022"
       }
     },
     {
