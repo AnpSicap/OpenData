@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-22T07:40:28.568438",
-  "total_registros": 1325,
+  "ultima_atualizacao": "2025-12-23T07:40:31.358483",
+  "total_registros": 1347,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1525,7 +1525,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "22/12/2025",
+        "Data Fim": "23/12/2025",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -5493,96 +5493,6 @@
       }
     },
     {
-      "contrato_id": "129118",
-      "dados": {
-        "Data Assinatura": "22/12/2021",
-        "Número": "09038/2021",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09038/2021 DE ACORDO COM PROCESSO NÚMERO: 48610.207185/2021-62",
-        "Data Início": "22/12/2021",
-        "Data Fim": "22/12/2025",
-        "Vlr. Global": "393.519,60",
-        "Parcelas": "1",
-        "Vlr. Parcela": "393.519,60",
-        "Número Contrato": "09038/2021"
-      }
-    },
-    {
-      "contrato_id": "129118",
-      "dados": {
-        "Data Assinatura": "13/12/2022",
-        "Número": "00001/2021",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 22/12/2022 A 22/12/2023, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8.666/93; E ASSEGURAR À CONTRATADA,  O DIREITO DE PLEITEAR  O REAJUSTE DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS.",
-        "Data Início": "22/12/2022",
-        "Data Fim": "22/12/2023",
-        "Vlr. Global": "393.519,60",
-        "Parcelas": "1",
-        "Vlr. Parcela": "393.519,60",
-        "Número Contrato": "09038/2021"
-      }
-    },
-    {
-      "contrato_id": "129118",
-      "dados": {
-        "Data Assinatura": "27/02/2023",
-        "Número": "00001/2023",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 9.038 /21 ​ EM 5,78% (CINCO INTEIROS E SETENTA E OITO CENTÉSIMOS PERCENTUAIS), TENDO SEUS EFEITOS RETROATIVOS A 01/01/2023, COM BASE NA VARIAÇÃO NO IPCA/IBGE ENTRE 01/2022 A 12/2022, COM FUNDAMENTO NA CLÁUSULA SEXTA DO CONTRATO.",
-        "Data Início": "22/12/2021",
-        "Data Fim": "22/12/2023",
-        "Vlr. Global": "416.278,67",
-        "Parcelas": "1",
-        "Vlr. Parcela": "416.278,67",
-        "Número Contrato": "09038/2021"
-      }
-    },
-    {
-      "contrato_id": "129118",
-      "dados": {
-        "Data Assinatura": "14/12/2023",
-        "Número": "00002/2023",
-        "Tipo": "Termo Aditivo",
-        "Observação": "1. PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 22/12/2023, A 22/12/2024, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8.666/93; E\r\n\r\n \r\n\r\n2. ASSEGURAR À CONTRATADA  O DIREITO DE PLEITEAR  O REAJUSTE DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO E NO ITEM 19 DO TERMO DE REFERÊNCIA.",
-        "Data Início": "22/12/2023",
-        "Data Fim": "22/12/2024",
-        "Vlr. Global": "416.278,67",
-        "Parcelas": "1",
-        "Vlr. Parcela": "416.278,67",
-        "Número Contrato": "09038/2021"
-      }
-    },
-    {
-      "contrato_id": "129118",
-      "dados": {
-        "Data Assinatura": "09/12/2024",
-        "Número": "00003/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO DE 22/12/2024 A 22/12/2025, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8.666/93.",
-        "Data Início": "22/12/2024",
-        "Data Fim": "22/12/2025",
-        "Vlr. Global": "459.540,38",
-        "Parcelas": "1",
-        "Vlr. Parcela": "459.540,38",
-        "Número Contrato": "09038/2021"
-      }
-    },
-    {
-      "contrato_id": "129118",
-      "dados": {
-        "Data Assinatura": "16/06/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR DO CONTRATO ​ EM  4,831300%, COM BASE NA VARIAÇÃO NO IPCA/IBGE ACUMULADO ENTRE 01/2024 A 12/2024, TENDO SEUS EFEITOS FINANCEIROS RETROATIVOS A 01/01/2025, COM FUNDAMENTO NA CLÁUSULA SEXTA DO CONTRATO, E CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 7/2025/SDT/ANP-RJ (SEI Nº  4828704), COMPLEMENTADA PELO DESPACHO N.º 102/2025/SDT/ANP-RJ (SEI 4915560).",
-        "Data Início": "22/12/2021",
-        "Data Fim": "22/12/2025",
-        "Vlr. Global": "456.326,73",
-        "Parcelas": "1",
-        "Vlr. Parcela": "456.326,73",
-        "Número Contrato": "09038/2021"
-      }
-    },
-    {
       "contrato_id": "163962",
       "dados": {
         "Data Assinatura": "22/09/2022",
@@ -6135,6 +6045,21 @@
         "Parcelas": "1",
         "Vlr. Parcela": "46.591,00",
         "Número Contrato": "2022NE000720"
+      }
+    },
+    {
+      "contrato_id": "762157",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000742",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000742 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "138,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "138,00",
+        "Número Contrato": "2025NE000742"
       }
     },
     {
@@ -8418,6 +8343,21 @@
       }
     },
     {
+      "contrato_id": "762191",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000743",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000743 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "2.319,98",
+        "Parcelas": "1",
+        "Vlr. Parcela": "2.319,98",
+        "Número Contrato": "2025NE000743"
+      }
+    },
+    {
       "contrato_id": "80291",
       "dados": {
         "Data Assinatura": "29/12/2020",
@@ -8770,7 +8710,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "22/12/2025",
+        "Data Fim": "23/12/2025",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -9663,6 +9603,21 @@
       }
     },
     {
+      "contrato_id": "762227",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000744",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000744 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "1.293,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.293,00",
+        "Número Contrato": "2025NE000744"
+      }
+    },
+    {
       "contrato_id": "167146",
       "dados": {
         "Data Assinatura": "03/11/2022",
@@ -10060,7 +10015,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "22/12/2025",
+        "Data Fim": "23/12/2025",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -10605,6 +10560,21 @@
         "Parcelas": "1",
         "Vlr. Parcela": "296.000,00",
         "Número Contrato": "09037/2025"
+      }
+    },
+    {
+      "contrato_id": "762323",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000745",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000745 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "30.312,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "30.312,00",
+        "Número Contrato": "2025NE000745"
       }
     },
     {
@@ -14103,6 +14073,21 @@
       }
     },
     {
+      "contrato_id": "762404",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000746",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000746 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "73,36",
+        "Parcelas": "1",
+        "Vlr. Parcela": "73,36",
+        "Número Contrato": "2025NE000746"
+      }
+    },
+    {
       "contrato_id": "745252",
       "dados": {
         "Data Assinatura": "08/12/2025",
@@ -14175,6 +14160,21 @@
         "Parcelas": "1",
         "Vlr. Parcela": "1.719,80",
         "Número Contrato": "2025NE000692"
+      }
+    },
+    {
+      "contrato_id": "762429",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000748",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000748 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "799,38",
+        "Parcelas": "1",
+        "Vlr. Parcela": "799,38",
+        "Número Contrato": "2025NE000748"
       }
     },
     {
@@ -14265,6 +14265,21 @@
         "Parcelas": "1",
         "Vlr. Parcela": "4.833.816,45",
         "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "762483",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000749",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000749 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "5.320,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "5.320,00",
+        "Número Contrato": "2025NE000749"
       }
     },
     {
@@ -14553,6 +14568,21 @@
       }
     },
     {
+      "contrato_id": "762525",
+      "dados": {
+        "Data Assinatura": "19/12/2025",
+        "Número": "2025NE000775",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000775 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "19/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "138,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "138,00",
+        "Número Contrato": "2025NE000775"
+      }
+    },
+    {
       "contrato_id": "759952",
       "dados": {
         "Data Assinatura": "21/10/2025",
@@ -14565,6 +14595,66 @@
         "Parcelas": "1",
         "Vlr. Parcela": "1.254,00",
         "Número Contrato": "2025NE000616"
+      }
+    },
+    {
+      "contrato_id": "762713",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000750",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000750 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "4.400,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "4.400,00",
+        "Número Contrato": "2025NE000750"
+      }
+    },
+    {
+      "contrato_id": "762740",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000751",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000751 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "200,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "200,00",
+        "Número Contrato": "2025NE000751"
+      }
+    },
+    {
+      "contrato_id": "762751",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000752",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000752 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "88,50",
+        "Parcelas": "1",
+        "Vlr. Parcela": "88,50",
+        "Número Contrato": "2025NE000752"
+      }
+    },
+    {
+      "contrato_id": "762778",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000753",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000753 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "631,60",
+        "Parcelas": "1",
+        "Vlr. Parcela": "631,60",
+        "Número Contrato": "2025NE000753"
       }
     },
     {
@@ -14583,6 +14673,21 @@
       }
     },
     {
+      "contrato_id": "762819",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000754",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000754 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "146,52",
+        "Parcelas": "1",
+        "Vlr. Parcela": "146,52",
+        "Número Contrato": "2025NE000754"
+      }
+    },
+    {
       "contrato_id": "112031",
       "dados": {
         "Data Assinatura": "17/08/2021",
@@ -14598,6 +14703,51 @@
       }
     },
     {
+      "contrato_id": "762838",
+      "dados": {
+        "Data Assinatura": "19/12/2025",
+        "Número": "2025NE000779",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000779 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "19/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "200,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "200,00",
+        "Número Contrato": "2025NE000779"
+      }
+    },
+    {
+      "contrato_id": "762855",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000747",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000747 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "1.481,36",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.481,36",
+        "Número Contrato": "2025NE000747"
+      }
+    },
+    {
+      "contrato_id": "762877",
+      "dados": {
+        "Data Assinatura": "19/12/2025",
+        "Número": "2025NE000777",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000777 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "19/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "73,36",
+        "Parcelas": "1",
+        "Vlr. Parcela": "73,36",
+        "Número Contrato": "2025NE000777"
+      }
+    },
+    {
       "contrato_id": "113025",
       "dados": {
         "Data Assinatura": "28/07/2021",
@@ -14610,6 +14760,111 @@
         "Parcelas": "1",
         "Vlr. Parcela": "0,00",
         "Número Contrato": "11111/1111"
+      }
+    },
+    {
+      "contrato_id": "129118",
+      "dados": {
+        "Data Assinatura": "22/12/2021",
+        "Número": "09038/2021",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09038/2021 DE ACORDO COM PROCESSO NÚMERO: 48610.207185/2021-62",
+        "Data Início": "22/12/2021",
+        "Data Fim": "22/12/2025",
+        "Vlr. Global": "393.519,60",
+        "Parcelas": "1",
+        "Vlr. Parcela": "393.519,60",
+        "Número Contrato": "09038/2021"
+      }
+    },
+    {
+      "contrato_id": "129118",
+      "dados": {
+        "Data Assinatura": "13/12/2022",
+        "Número": "00001/2021",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 22/12/2022 A 22/12/2023, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8.666/93; E ASSEGURAR À CONTRATADA,  O DIREITO DE PLEITEAR  O REAJUSTE DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS.",
+        "Data Início": "22/12/2022",
+        "Data Fim": "22/12/2023",
+        "Vlr. Global": "393.519,60",
+        "Parcelas": "1",
+        "Vlr. Parcela": "393.519,60",
+        "Número Contrato": "09038/2021"
+      }
+    },
+    {
+      "contrato_id": "129118",
+      "dados": {
+        "Data Assinatura": "27/02/2023",
+        "Número": "00001/2023",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 9.038 /21 ​ EM 5,78% (CINCO INTEIROS E SETENTA E OITO CENTÉSIMOS PERCENTUAIS), TENDO SEUS EFEITOS RETROATIVOS A 01/01/2023, COM BASE NA VARIAÇÃO NO IPCA/IBGE ENTRE 01/2022 A 12/2022, COM FUNDAMENTO NA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "22/12/2021",
+        "Data Fim": "22/12/2023",
+        "Vlr. Global": "416.278,67",
+        "Parcelas": "1",
+        "Vlr. Parcela": "416.278,67",
+        "Número Contrato": "09038/2021"
+      }
+    },
+    {
+      "contrato_id": "129118",
+      "dados": {
+        "Data Assinatura": "14/12/2023",
+        "Número": "00002/2023",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1. PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 22/12/2023, A 22/12/2024, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8.666/93; E\r\n\r\n \r\n\r\n2. ASSEGURAR À CONTRATADA  O DIREITO DE PLEITEAR  O REAJUSTE DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO E NO ITEM 19 DO TERMO DE REFERÊNCIA.",
+        "Data Início": "22/12/2023",
+        "Data Fim": "22/12/2024",
+        "Vlr. Global": "416.278,67",
+        "Parcelas": "1",
+        "Vlr. Parcela": "416.278,67",
+        "Número Contrato": "09038/2021"
+      }
+    },
+    {
+      "contrato_id": "129118",
+      "dados": {
+        "Data Assinatura": "09/12/2024",
+        "Número": "00003/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO DE 22/12/2024 A 22/12/2025, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8.666/93.",
+        "Data Início": "22/12/2024",
+        "Data Fim": "22/12/2025",
+        "Vlr. Global": "459.540,38",
+        "Parcelas": "1",
+        "Vlr. Parcela": "459.540,38",
+        "Número Contrato": "09038/2021"
+      }
+    },
+    {
+      "contrato_id": "129118",
+      "dados": {
+        "Data Assinatura": "16/06/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO ​ EM  4,831300%, COM BASE NA VARIAÇÃO NO IPCA/IBGE ACUMULADO ENTRE 01/2024 A 12/2024, TENDO SEUS EFEITOS FINANCEIROS RETROATIVOS A 01/01/2025, COM FUNDAMENTO NA CLÁUSULA SEXTA DO CONTRATO, E CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 7/2025/SDT/ANP-RJ (SEI Nº  4828704), COMPLEMENTADA PELO DESPACHO N.º 102/2025/SDT/ANP-RJ (SEI 4915560).",
+        "Data Início": "22/12/2021",
+        "Data Fim": "22/12/2025",
+        "Vlr. Global": "456.326,73",
+        "Parcelas": "1",
+        "Vlr. Parcela": "456.326,73",
+        "Número Contrato": "09038/2021"
+      }
+    },
+    {
+      "contrato_id": "129118",
+      "dados": {
+        "Data Assinatura": "18/12/2025",
+        "Número": "00004/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1 PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO DE 22/12/2025 A 22/12/2026, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8.666/93; E\r\n2 ASSEGURAR À CONTRATADA,  O DIREITO DE PLEITEAR  O REAJUSTE DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO E NO ITEM 19 DO TERMO DE REFERÊNCIA.",
+        "Data Início": "22/12/2025",
+        "Data Fim": "22/12/2026",
+        "Vlr. Global": "456.326,73",
+        "Parcelas": "12",
+        "Vlr. Parcela": "38.027,23",
+        "Número Contrato": "09038/2021"
       }
     },
     {
@@ -14820,6 +15075,81 @@
         "Parcelas": "12",
         "Vlr. Parcela": "51.231,73",
         "Número Contrato": "09038/2023"
+      }
+    },
+    {
+      "contrato_id": "763233",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000738",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000738 DE ACORDO COM PROCESSO NÚMERO: 48610.226250/2025-82",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "8.819,80",
+        "Parcelas": "1",
+        "Vlr. Parcela": "8.819,80",
+        "Número Contrato": "2025NE000738"
+      }
+    },
+    {
+      "contrato_id": "763256",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000739",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000739 DE ACORDO COM PROCESSO NÚMERO: 48610.226250/2025-82",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "8.450,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "8.450,00",
+        "Número Contrato": "2025NE000739"
+      }
+    },
+    {
+      "contrato_id": "763267",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000740",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000740 DE ACORDO COM PROCESSO NÚMERO: 48610.226250/2025-82",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "15.997,84",
+        "Parcelas": "1",
+        "Vlr. Parcela": "15.997,84",
+        "Número Contrato": "2025NE000740"
+      }
+    },
+    {
+      "contrato_id": "763286",
+      "dados": {
+        "Data Assinatura": "08/12/2025",
+        "Número": "2025NE000741",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000741 DE ACORDO COM PROCESSO NÚMERO: 48610.226250/2025-82",
+        "Data Início": "08/12/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "15.390,40",
+        "Parcelas": "1",
+        "Vlr. Parcela": "15.390,40",
+        "Número Contrato": "2025NE000741"
+      }
+    },
+    {
+      "contrato_id": "763379",
+      "dados": {
+        "Data Assinatura": "19/09/2025",
+        "Número": "2025NE000577",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000577 DE ACORDO COM PROCESSO NÚMERO: 48600.201888/2023-68",
+        "Data Início": "19/09/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "24.997,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "24.997,00",
+        "Número Contrato": "2025NE000577"
       }
     },
     {
@@ -15175,7 +15505,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "22/12/2025",
+        "Data Fim": "23/12/2025",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -15490,7 +15820,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "22/12/2025",
+        "Data Fim": "23/12/2025",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -15625,7 +15955,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "22/12/2025",
+        "Data Fim": "23/12/2025",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
