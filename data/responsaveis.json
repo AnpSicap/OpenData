@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-23T07:40:31.384314",
-  "total_registros": 2127,
+  "ultima_atualizacao": "2025-12-24T07:39:43.320467",
+  "total_registros": 2143,
   "dados": [
     {
       "contrato_id": "121472",
@@ -6096,24 +6096,6 @@
       }
     },
     {
-      "contrato_id": "639744",
-      "dados": {
-        "CPF": "***.330.087-**",
-        "Nome": "ANA LUCIA BRANT FERREIRA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "2025NE000478"
-      }
-    },
-    {
-      "contrato_id": "639744",
-      "dados": {
-        "CPF": "***.404.477-**",
-        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "2025NE000478"
-      }
-    },
-    {
       "contrato_id": "80619",
       "dados": {
         "CPF": "***.750.044-**",
@@ -10076,6 +10058,15 @@
     {
       "contrato_id": "709325",
       "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09034/2025"
+      }
+    },
+    {
+      "contrato_id": "709325",
+      "dados": {
         "CPF": "***.905.654-**",
         "Nome": "BRUNO SALES BERNARDO",
         "Tipo": "Fiscal Administrativo",
@@ -10179,6 +10170,15 @@
         "Nome": "SAHID DE OLIVEIRA KIK",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09046/2019"
+      }
+    },
+    {
+      "contrato_id": "709341",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09037/2025"
       }
     },
     {
@@ -11336,9 +11336,18 @@
     {
       "contrato_id": "159010",
       "dados": {
-        "CPF": "***.125.536-**",
-        "Nome": "THIERS DE CRUZ E ALVES",
-        "Tipo": "Gestor Substituto",
+        "CPF": "***.424.337-**",
+        "Nome": "THIAGO DA SILVA PEREIRA SOARES",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "09031/2022"
+      }
+    },
+    {
+      "contrato_id": "159010",
+      "dados": {
+        "CPF": "***.380.258-**",
+        "Nome": "REGINA CELIA LOURENCO",
+        "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09031/2022"
       }
     },
@@ -11347,7 +11356,7 @@
       "dados": {
         "CPF": "***.424.337-**",
         "Nome": "THIAGO DA SILVA PEREIRA SOARES",
-        "Tipo": "Fiscal Titular",
+        "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09031/2022"
       }
     },
@@ -11372,9 +11381,9 @@
     {
       "contrato_id": "159010",
       "dados": {
-        "CPF": "***.380.258-**",
-        "Nome": "REGINA CELIA LOURENCO",
-        "Tipo": "Fiscal Administrativo",
+        "CPF": "***.125.536-**",
+        "Nome": "THIERS DE CRUZ E ALVES",
+        "Tipo": "Gestor Substituto",
         "Número Contrato": "09031/2022"
       }
     },
@@ -11565,6 +11574,15 @@
         "Nome": "FERNANDA VENTURA MOURA LIMA",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09023/2021"
+      }
+    },
+    {
+      "contrato_id": "709308",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09033/2025"
       }
     },
     {
@@ -13359,6 +13377,42 @@
       }
     },
     {
+      "contrato_id": "735307",
+      "dados": {
+        "CPF": "***.327.947-**",
+        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "09040/2025"
+      }
+    },
+    {
+      "contrato_id": "735307",
+      "dados": {
+        "CPF": "***.798.974-**",
+        "Nome": "DAVID FERNANDES FRANÇA",
+        "Tipo": "Fiscal Requisitante Substituto",
+        "Número Contrato": "09040/2025"
+      }
+    },
+    {
+      "contrato_id": "735307",
+      "dados": {
+        "CPF": "***.826.884-**",
+        "Nome": "NATALIE FERNANDA FERNANDES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09040/2025"
+      }
+    },
+    {
+      "contrato_id": "735307",
+      "dados": {
+        "CPF": "***.984.147-**",
+        "Nome": "JACSON DAMASCENO NUNES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09040/2025"
+      }
+    },
+    {
       "contrato_id": "758212",
       "dados": {
         "CPF": "***.155.097-**",
@@ -14171,10 +14225,28 @@
     {
       "contrato_id": "735718",
       "dados": {
+        "CPF": "***.174.041-**",
+        "Nome": "ANDREA CAMBRAIA VIDAL",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000676"
+      }
+    },
+    {
+      "contrato_id": "735718",
+      "dados": {
         "CPF": "***.025.391-**",
         "Nome": "CECILIA VARELA",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000676"
+      }
+    },
+    {
+      "contrato_id": "735727",
+      "dados": {
+        "CPF": "***.174.041-**",
+        "Nome": "ANDREA CAMBRAIA VIDAL",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000688"
       }
     },
     {
@@ -14907,6 +14979,24 @@
       }
     },
     {
+      "contrato_id": "760150",
+      "dados": {
+        "CPF": "***.456.917-**",
+        "Nome": "ANA CAROLINA XAVIER SILVA FONSECA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05032/2025"
+      }
+    },
+    {
+      "contrato_id": "760150",
+      "dados": {
+        "CPF": "***.175.046-**",
+        "Nome": "LIVIA FIGUEIRAS DE FRANÇA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05032/2025"
+      }
+    },
+    {
       "contrato_id": "748192",
       "dados": {
         "CPF": "***.562.837-**",
@@ -14988,6 +15078,24 @@
       }
     },
     {
+      "contrato_id": "764107",
+      "dados": {
+        "CPF": "***.474.226-**",
+        "Nome": "IVANDRO SANT'ANA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000700"
+      }
+    },
+    {
+      "contrato_id": "764107",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000700"
+      }
+    },
+    {
       "contrato_id": "243360",
       "dados": {
         "CPF": "***.340.087-**",
@@ -15066,6 +15174,15 @@
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "09038/2023"
+      }
+    },
+    {
+      "contrato_id": "764122",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000769"
       }
     },
     {
@@ -15483,6 +15600,24 @@
       }
     },
     {
+      "contrato_id": "170776",
+      "dados": {
+        "CPF": "***.959.447-**",
+        "Nome": "JEAN DA CRUZ LOPES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05022/2022"
+      }
+    },
+    {
+      "contrato_id": "170776",
+      "dados": {
+        "CPF": "***.415.617-**",
+        "Nome": "ELISABETH MACHADO LOURENÇO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05022/2022"
+      }
+    },
+    {
       "contrato_id": "143339",
       "dados": {
         "CPF": "***.798.974-**",
@@ -15579,24 +15714,6 @@
         "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09006/2019"
-      }
-    },
-    {
-      "contrato_id": "170776",
-      "dados": {
-        "CPF": "***.959.447-**",
-        "Nome": "JEAN DA CRUZ LOPES",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "05022/2022"
-      }
-    },
-    {
-      "contrato_id": "170776",
-      "dados": {
-        "CPF": "***.415.617-**",
-        "Nome": "ELISABETH MACHADO LOURENÇO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "05022/2022"
       }
     },
     {
@@ -15717,6 +15834,24 @@
       }
     },
     {
+      "contrato_id": "639744",
+      "dados": {
+        "CPF": "***.330.087-**",
+        "Nome": "ANA LUCIA BRANT FERREIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000478"
+      }
+    },
+    {
+      "contrato_id": "639744",
+      "dados": {
+        "CPF": "***.404.477-**",
+        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000478"
+      }
+    },
+    {
       "contrato_id": "729020",
       "dados": {
         "CPF": "***.905.654-**",
@@ -15795,6 +15930,15 @@
         "Nome": "EDNEIA CALIMAN",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "2025NE000632"
+      }
+    },
+    {
+      "contrato_id": "729017",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000635"
       }
     },
     {
