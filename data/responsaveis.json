@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-24T07:39:43.320467",
-  "total_registros": 2143,
+  "ultima_atualizacao": "2025-12-25T07:38:58.221137",
+  "total_registros": 2148,
   "dados": [
     {
       "contrato_id": "121472",
@@ -396,6 +396,33 @@
         "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
         "Tipo": "Responsável no Setor de Contratos",
         "Número Contrato": "2025NE000646"
+      }
+    },
+    {
+      "contrato_id": "765214",
+      "dados": {
+        "CPF": "***.677.011-**",
+        "Nome": "RANI DE FREITAS VIEIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000578"
+      }
+    },
+    {
+      "contrato_id": "765214",
+      "dados": {
+        "CPF": "***.244.899-**",
+        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000578"
+      }
+    },
+    {
+      "contrato_id": "765214",
+      "dados": {
+        "CPF": "***.809.164-**",
+        "Nome": "RODRIGO PEREIRA CÂMARA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000578"
       }
     },
     {
@@ -3267,6 +3294,15 @@
         "Nome": "MICHAEL LAIA FERREIRA",
         "Tipo": "Fiscal Titular",
         "Número Contrato": "09021/2021"
+      }
+    },
+    {
+      "contrato_id": "175550",
+      "dados": {
+        "CPF": "***.651.147-**",
+        "Nome": "AMANDA WERMELINGER PINTO LIMA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05041/2022"
       }
     },
     {
@@ -6570,15 +6606,6 @@
         "Nome": "NATALIE FERNANDA FERNANDES",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "05009/2025"
-      }
-    },
-    {
-      "contrato_id": "175550",
-      "dados": {
-        "CPF": "***.651.147-**",
-        "Nome": "AMANDA WERMELINGER PINTO LIMA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "05041/2022"
       }
     },
     {
@@ -11388,6 +11415,15 @@
       }
     },
     {
+      "contrato_id": "159010",
+      "dados": {
+        "CPF": "***.613.746-**",
+        "Nome": "JOANA DUARTE OURO ALVES",
+        "Tipo": "Gestor Substituto",
+        "Número Contrato": "09031/2022"
+      }
+    },
+    {
       "contrato_id": "15268",
       "dados": {
         "CPF": "***.248.978-**",
@@ -11842,6 +11878,15 @@
       "dados": {
         "CPF": "***.905.654-**",
         "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000606"
+      }
+    },
+    {
+      "contrato_id": "715674",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000606"
       }
