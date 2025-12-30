@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-29T07:42:31.915045",
-  "total_registros": 2157,
+  "ultima_atualizacao": "2025-12-30T07:39:47.801941",
+  "total_registros": 2155,
   "dados": [
     {
       "contrato_id": "121472",
@@ -13881,33 +13881,6 @@
       }
     },
     {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.809.164-**",
-        "Nome": "RODRIGO PEREIRA CÂMARA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.244.899-**",
-        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.677.011-**",
-        "Nome": "RANI DE FREITAS VIEIRA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
       "contrato_id": "762483",
       "dados": {
         "CPF": "***.486.387-**",
@@ -14607,6 +14580,33 @@
         "Nome": "ALEXANDRE MACIEL DA SILVA",
         "Tipo": "Responsável Unidade Requisitante",
         "Número Contrato": "2025NE000753"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.809.164-**",
+        "Nome": "RODRIGO PEREIRA CÂMARA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.244.899-**",
+        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.677.011-**",
+        "Nome": "RANI DE FREITAS VIEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09036/2023"
       }
     },
     {
@@ -15582,6 +15582,15 @@
       }
     },
     {
+      "contrato_id": "768081",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000770"
+      }
+    },
+    {
       "contrato_id": "48162",
       "dados": {
         "CPF": "***.248.978-**",
@@ -15870,6 +15879,24 @@
       }
     },
     {
+      "contrato_id": "766647",
+      "dados": {
+        "CPF": "***.651.147-**",
+        "Nome": "AMANDA WERMELINGER PINTO LIMA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05014/2025"
+      }
+    },
+    {
+      "contrato_id": "766647",
+      "dados": {
+        "CPF": "***.207.107-**",
+        "Nome": "RONAN MAGALHÃES AVILA",
+        "Tipo": "Gestor Substituto",
+        "Número Contrato": "05014/2025"
+      }
+    },
+    {
       "contrato_id": "729020",
       "dados": {
         "CPF": "***.905.654-**",
@@ -16088,18 +16115,9 @@
     {
       "contrato_id": "765936",
       "dados": {
-        "CPF": "***.959.447-**",
-        "Nome": "JEAN DA CRUZ LOPES",
-        "Tipo": "Fiscal Requisitante",
-        "Número Contrato": "09050/2025"
-      }
-    },
-    {
-      "contrato_id": "765936",
-      "dados": {
-        "CPF": "***.415.617-**",
-        "Nome": "ELISABETH MACHADO LOURENÇO",
-        "Tipo": "Fiscal Técnico",
+        "CPF": "***.773.717-**",
+        "Nome": "MARCELO PAIVA DE CASTILHO  CARNEIRO",
+        "Tipo": "Gestor",
         "Número Contrato": "09050/2025"
       }
     },
@@ -16108,16 +16126,34 @@
       "dados": {
         "CPF": "***.622.527-**",
         "Nome": "PRISCILA RAMOS BARRETO",
-        "Tipo": "Fiscal Administrativo",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09050/2025"
       }
     },
     {
       "contrato_id": "765936",
       "dados": {
-        "CPF": "***.773.717-**",
-        "Nome": "MARCELO PAIVA DE CASTILHO  CARNEIRO",
-        "Tipo": "Gestor",
+        "CPF": "***.287.934-**",
+        "Nome": "DANIEL BRITO DE ARAUJO",
+        "Tipo": "Gestor Substituto",
+        "Número Contrato": "09050/2025"
+      }
+    },
+    {
+      "contrato_id": "765936",
+      "dados": {
+        "CPF": "***.415.617-**",
+        "Nome": "ELISABETH MACHADO LOURENÇO",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "09050/2025"
+      }
+    },
+    {
+      "contrato_id": "765936",
+      "dados": {
+        "CPF": "***.959.447-**",
+        "Nome": "JEAN DA CRUZ LOPES",
+        "Tipo": "Fiscal Requisitante",
         "Número Contrato": "09050/2025"
       }
     },
@@ -18234,60 +18270,6 @@
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09046/2021"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "CPF": "***.413.288-**",
-        "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
-        "Tipo": "Responsável Unidade Requisitante",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "CPF": "***.155.097-**",
-        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "CPF": "***.352.637-**",
-        "Nome": "VIVIAN WAINER DA SILVA BUENO",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "CPF": "***.284.527-**",
-        "Nome": "JOSÉ ANTONIO RODRIGUES",
-        "Tipo": "Gestor",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "CPF": "***.607.657-**",
-        "Nome": "GUSTAVO DA SILVA NASCIMENTO",
-        "Tipo": "Gestor Substituto",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "CPF": "***.516.487-**",
-        "Nome": "RONALDO MEDEIROS DE BAKKER",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "09064/2019"
       }
     },
     {

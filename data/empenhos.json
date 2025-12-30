@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-29T07:42:31.936023",
-  "total_registros": 1951,
+  "ultima_atualizacao": "2025-12-30T07:39:47.823636",
+  "total_registros": 1939,
   "dados": [
     {
       "contrato_id": "121472",
@@ -22773,96 +22773,6 @@
       }
     },
     {
-      "contrato_id": "243362",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000777",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "449051 - OBRAS E INSTALACOES",
-        "Emp.": "124.896,40",
-        "A liq.": "124.896,40",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000599",
-        "PI": "00000008334 - DESCENTRALIZACAO DE CREDITOS",
-        "ND": "449051 - OBRAS E INSTALACOES",
-        "Emp.": "274.507,13",
-        "A liq.": "240.388,79",
-        "Liquid.": "0,00",
-        "Pg": "34.118,34",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000788",
-        "PI": "00000008757 - OBRAS DE DRENAGEM/REVITALIZACAO ESTACIONAMENT",
-        "ND": "449051 - OBRAS E INSTALACOES",
-        "Emp.": "2.800.000,00",
-        "A liq.": "2.800.000,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "2.800.000,00",
-        "RP A Liq.": "756.075,78",
-        "RP Liq.": "756.075,78",
-        "RP Pg": "2.043.924,22",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000825",
-        "PI": "00000008757 - OBRAS DE DRENAGEM/REVITALIZACAO ESTACIONAMENT",
-        "ND": "449051 - OBRAS E INSTALACOES",
-        "Emp.": "1.336.000,00",
-        "A liq.": "1.336.000,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "1.336.000,00",
-        "RP A Liq.": "1.336.000,00",
-        "RP Liq.": "1.336.000,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000621",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "449051 - OBRAS E INSTALACOES",
-        "Emp.": "4.137,23",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "4.137,23",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
       "contrato_id": "762483",
       "dados": {
         "UG": "323031",
@@ -23202,6 +23112,96 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "2025NE000753"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000777",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "449051 - OBRAS E INSTALACOES",
+        "Emp.": "124.896,40",
+        "A liq.": "124.896,40",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000599",
+        "PI": "00000008334 - DESCENTRALIZACAO DE CREDITOS",
+        "ND": "449051 - OBRAS E INSTALACOES",
+        "Emp.": "274.507,13",
+        "A liq.": "240.388,79",
+        "Liquid.": "0,00",
+        "Pg": "34.118,34",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "UG": "323031",
+        "Número": "2023NE000788",
+        "PI": "00000008757 - OBRAS DE DRENAGEM/REVITALIZACAO ESTACIONAMENT",
+        "ND": "449051 - OBRAS E INSTALACOES",
+        "Emp.": "2.800.000,00",
+        "A liq.": "2.800.000,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "2.800.000,00",
+        "RP A Liq.": "756.075,78",
+        "RP Liq.": "756.075,78",
+        "RP Pg": "2.043.924,22",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "UG": "323031",
+        "Número": "2023NE000825",
+        "PI": "00000008757 - OBRAS DE DRENAGEM/REVITALIZACAO ESTACIONAMENT",
+        "ND": "449051 - OBRAS E INSTALACOES",
+        "Emp.": "1.336.000,00",
+        "A liq.": "1.336.000,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "1.336.000,00",
+        "RP A Liq.": "1.336.000,00",
+        "RP Liq.": "1.336.000,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000621",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "449051 - OBRAS E INSTALACOES",
+        "Emp.": "4.137,23",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "4.137,23",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09036/2023"
       }
     },
     {
@@ -24195,6 +24195,24 @@
       }
     },
     {
+      "contrato_id": "768081",
+      "dados": {
+        "UG": "",
+        "Número": "",
+        "PI": "-",
+        "ND": "-",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000770"
+      }
+    },
+    {
       "contrato_id": "243638",
       "dados": {
         "UG": "323031",
@@ -24727,6 +24745,24 @@
         "A liq.": "0,00",
         "Liquid.": "0,00",
         "Pg": "62.824,30",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000478"
+      }
+    },
+    {
+      "contrato_id": "639744",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000798",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
@@ -32130,258 +32166,6 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09046/2021"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "UG": "323031",
-        "Número": "2021NE000186",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "UG": "323031",
-        "Número": "2021NE000220",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339030 - MATERIAL DE CONSUMO",
-        "Emp.": "5.009,94",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "UG": "323031",
-        "Número": "2019NE801416",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339030 - MATERIAL DE CONSUMO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "UG": "323031",
-        "Número": "2019NE801417",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "UG": "323031",
-        "Número": "2020NE800861",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339030 - MATERIAL DE CONSUMO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "UG": "323031",
-        "Número": "2020NE800296",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339030 - MATERIAL DE CONSUMO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "UG": "323031",
-        "Número": "2020NE800298",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "UG": "323031",
-        "Número": "2020NE800862",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000269",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "34.195,88",
-        "A liq.": "7.979,93",
-        "Liquid.": "0,00",
-        "Pg": "26.215,95",
-        "RP Inscr.": "7.979,93",
-        "RP A Liq.": "238,19",
-        "RP Liq.": "238,19",
-        "RP Pg": "7.741,74",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "UG": "323031",
-        "Número": "2022NE000754",
-        "PI": "-8 -",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "24.042,70",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "4.533,68",
-        "RP Inscr.": "4.367,68",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "4.367,68",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000657",
-        "PI": "-8 -",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "7.646,41",
-        "A liq.": "1.776,22",
-        "Liquid.": "0,00",
-        "Pg": "5.870,19",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000373",
-        "PI": "-",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "27.780,45",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "27.780,45",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "UG": "323031",
-        "Número": "2021NE000221",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "39.144,07",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "27.709,19",
-        "RP Inscr.": "3.983,68",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "3.983,68",
-        "Número Contrato": "09064/2019"
-      }
-    },
-    {
-      "contrato_id": "48351",
-      "dados": {
-        "UG": "323031",
-        "Número": "2022NE000245",
-        "PI": "-8 -",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "20.000,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "19.988,82",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09064/2019"
       }
     },
     {
