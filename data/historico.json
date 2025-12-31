@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-30T07:39:47.775681",
-  "total_registros": 1361,
+  "ultima_atualizacao": "2025-12-31T07:39:50.977215",
+  "total_registros": 1363,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1555,7 +1555,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "30/12/2025",
+        "Data Fim": "31/12/2025",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -8560,7 +8560,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "30/12/2025",
+        "Data Fim": "31/12/2025",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -9865,7 +9865,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "30/12/2025",
+        "Data Fim": "31/12/2025",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -15333,6 +15333,21 @@
       }
     },
     {
+      "contrato_id": "768991",
+      "dados": {
+        "Data Assinatura": "29/12/2025",
+        "Número": "09051/2025",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09051/2025 DE ACORDO COM PROCESSO NÚMERO: 48610224156202599",
+        "Data Início": "29/12/2025",
+        "Data Fim": "29/12/2026",
+        "Vlr. Global": "65.237,90",
+        "Parcelas": "1",
+        "Vlr. Parcela": "65.237,90",
+        "Número Contrato": "09051/2025"
+      }
+    },
+    {
       "contrato_id": "188204",
       "dados": {
         "Data Assinatura": "31/03/2023",
@@ -15633,6 +15648,21 @@
       }
     },
     {
+      "contrato_id": "769671",
+      "dados": {
+        "Data Assinatura": "05/09/2025",
+        "Número": "2025NE000541",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000541 DE ACORDO COM PROCESSO NÚMERO: 48610.225762/2021-06",
+        "Data Início": "05/09/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "36.346,54",
+        "Parcelas": "1",
+        "Vlr. Parcela": "36.346,54",
+        "Número Contrato": "2025NE000541"
+      }
+    },
+    {
       "contrato_id": "130072",
       "dados": {
         "Data Assinatura": "29/12/2021",
@@ -15790,7 +15820,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "30/12/2025",
+        "Data Fim": "31/12/2025",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16105,7 +16135,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "30/12/2025",
+        "Data Fim": "31/12/2025",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16240,7 +16270,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "30/12/2025",
+        "Data Fim": "31/12/2025",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
