@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2025-12-31T07:39:50.977215",
-  "total_registros": 1363,
+  "ultima_atualizacao": "2026-01-01T07:39:44.812016",
+  "total_registros": 1364,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1555,7 +1555,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "31/12/2025",
+        "Data Fim": "01/01/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -2685,36 +2685,6 @@
         "Parcelas": "12",
         "Vlr. Parcela": "25.417,87",
         "Número Contrato": "09021/2021"
-      }
-    },
-    {
-      "contrato_id": "175550",
-      "dados": {
-        "Data Assinatura": "12/12/2022",
-        "Número": "05041/2022",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 05041/2022 DE ACORDO COM PROCESSO NÚMERO: 48610.211096/2022-00",
-        "Data Início": "27/12/2022",
-        "Data Fim": "27/12/2025",
-        "Vlr. Global": "1.407.934,70",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.407.934,70",
-        "Número Contrato": "05041/2022"
-      }
-    },
-    {
-      "contrato_id": "175550",
-      "dados": {
-        "Data Assinatura": "19/12/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO, CORRESPONDENTE AO PERÍODO COMPREENDIDO ENTRE 28/12/2025 E 28/12/2027, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº. 8.666/1993; E\r\nREAJUSTAR O VALOR DO CONTRATO Nº 5.041/22 COM BASE NO ÍNDICE DE CUSTO DE TECNOLOGIA DA INFORMAÇÃO (ICTI), APURADO PELO INSTITUTO DE PESQUISA ECONÔMICA APLICADA (IPEA), ACUMULADO NO PERÍODO DE JULHO/22 A JUNHO/25, CONFORME PREVISTO NO ITEM 11.1 DO TERMO DE REFERÊNCIA (SEI Nº 2479528).",
-        "Data Início": "27/12/2025",
-        "Data Fim": "27/12/2027",
-        "Vlr. Global": "881.976,24",
-        "Parcelas": "1",
-        "Vlr. Parcela": "881.976,24",
-        "Número Contrato": "05041/2022"
       }
     },
     {
@@ -8560,7 +8530,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "31/12/2025",
+        "Data Fim": "01/01/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -9865,7 +9835,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "31/12/2025",
+        "Data Fim": "01/01/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -13683,6 +13653,51 @@
       }
     },
     {
+      "contrato_id": "175550",
+      "dados": {
+        "Data Assinatura": "12/12/2022",
+        "Número": "05041/2022",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 05041/2022 DE ACORDO COM PROCESSO NÚMERO: 48610.211096/2022-00",
+        "Data Início": "27/12/2022",
+        "Data Fim": "27/12/2025",
+        "Vlr. Global": "1.407.934,70",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.407.934,70",
+        "Número Contrato": "05041/2022"
+      }
+    },
+    {
+      "contrato_id": "175550",
+      "dados": {
+        "Data Assinatura": "19/12/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO, CORRESPONDENTE AO PERÍODO COMPREENDIDO ENTRE 28/12/2025 E 28/12/2027, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº. 8.666/1993; E\r\nREAJUSTAR O VALOR DO CONTRATO Nº 5.041/22 COM BASE NO ÍNDICE DE CUSTO DE TECNOLOGIA DA INFORMAÇÃO (ICTI), APURADO PELO INSTITUTO DE PESQUISA ECONÔMICA APLICADA (IPEA), ACUMULADO NO PERÍODO DE JULHO/22 A JUNHO/25, CONFORME PREVISTO NO ITEM 11.1 DO TERMO DE REFERÊNCIA (SEI Nº 2479528).",
+        "Data Início": "27/12/2025",
+        "Data Fim": "27/12/2027",
+        "Vlr. Global": "881.976,24",
+        "Parcelas": "1",
+        "Vlr. Parcela": "881.976,24",
+        "Número Contrato": "05041/2022"
+      }
+    },
+    {
+      "contrato_id": "175550",
+      "dados": {
+        "Data Assinatura": "26/12/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "Retificar o item 2.1 do Termo Aditivo nº 01 ao Contrato nº 5.041/22-ANP-211.096 (SEI nº 5561949), com a finalidade de sanar erro material identificado na indicação da vigência contratual, passando o referido item a vigorar com a seguinte redação:\r\n\r\n \r\n\r\nOnde se lê:\r\n\r\n\"2.1. Prorrogar a vigência do contrato, correspondente ao período compreendido entre 28/12/2025 e 28/12/2027, com fundamento no artigo 57, inciso II, da Lei nº. 8.666/1993;\"\r\n\r\n \r\n\r\n \r\n\r\nLeia-se:\r\n\r\n\"2.1. Prorrogar a vigência do contrato, correspondente ao período compreendido entre 27/12/2025 e 27/12/2027, com fundamento no artigo 57, inciso II, da Lei nº. 8.666/1993;\"",
+        "Data Início": "27/12/2022",
+        "Data Fim": "27/12/2027",
+        "Vlr. Global": "881.976,24",
+        "Parcelas": "1",
+        "Vlr. Parcela": "881.976,24",
+        "Número Contrato": "05041/2022"
+      }
+    },
+    {
       "contrato_id": "160742",
       "dados": {
         "Data Assinatura": "09/09/2022",
@@ -15820,7 +15835,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "31/12/2025",
+        "Data Fim": "01/01/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16135,7 +16150,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "31/12/2025",
+        "Data Fim": "01/01/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16270,7 +16285,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "31/12/2025",
+        "Data Fim": "01/01/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",

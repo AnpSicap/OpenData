@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2025-12-31T07:39:51.002905",
+  "ultima_atualizacao": "2026-01-01T07:39:44.838037",
   "total_registros": 2155,
   "dados": [
     {
@@ -3294,15 +3294,6 @@
         "Nome": "MICHAEL LAIA FERREIRA",
         "Tipo": "Fiscal Titular",
         "Número Contrato": "09021/2021"
-      }
-    },
-    {
-      "contrato_id": "175550",
-      "dados": {
-        "CPF": "***.651.147-**",
-        "Nome": "AMANDA WERMELINGER PINTO LIMA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "05041/2022"
       }
     },
     {
@@ -13221,6 +13212,15 @@
         "Nome": "RAFAELA TAVARES MARQUES DA SILVA",
         "Tipo": "Responsável Unidade Requisitante",
         "Número Contrato": "09027/2020"
+      }
+    },
+    {
+      "contrato_id": "175550",
+      "dados": {
+        "CPF": "***.651.147-**",
+        "Nome": "AMANDA WERMELINGER PINTO LIMA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05041/2022"
       }
     },
     {
