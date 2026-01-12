@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-01-09T07:42:55.940798",
+  "ultima_atualizacao": "2026-01-12T07:44:44.190686",
   "total_registros": 2185,
   "dados": [
     {
@@ -423,24 +423,6 @@
         "Nome": "RODRIGO PEREIRA CÂMARA",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000578"
-      }
-    },
-    {
-      "contrato_id": "121580",
-      "dados": {
-        "CPF": "***.421.287-**",
-        "Nome": "ARNALDO SHIOJI FERRADOSA ARCOVERDE",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "01025/2021"
-      }
-    },
-    {
-      "contrato_id": "121580",
-      "dados": {
-        "CPF": "***.565.627-**",
-        "Nome": "MERCEDES SANTANA DA SILVA",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "01025/2021"
       }
     },
     {
@@ -3843,6 +3825,24 @@
         "Nome": "JOSÉ ESMERALDO BARRETO NETO",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09029/2025"
+      }
+    },
+    {
+      "contrato_id": "121580",
+      "dados": {
+        "CPF": "***.421.287-**",
+        "Nome": "ARNALDO SHIOJI FERRADOSA ARCOVERDE",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01025/2021"
+      }
+    },
+    {
+      "contrato_id": "121580",
+      "dados": {
+        "CPF": "***.565.627-**",
+        "Nome": "MERCEDES SANTANA DA SILVA",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "01025/2021"
       }
     },
     {
