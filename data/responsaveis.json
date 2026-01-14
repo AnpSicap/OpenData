@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-01-13T07:41:12.995721",
-  "total_registros": 2185,
+  "ultima_atualizacao": "2026-01-14T07:42:37.438455",
+  "total_registros": 2186,
   "dados": [
     {
       "contrato_id": "121472",
@@ -14058,6 +14058,15 @@
         "Nome": "CECILIA VARELA",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000688"
+      }
+    },
+    {
+      "contrato_id": "735736",
+      "dados": {
+        "CPF": "***.174.041-**",
+        "Nome": "ANDREA CAMBRAIA VIDAL",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000689"
       }
     },
     {
