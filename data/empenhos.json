@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-01-14T07:42:37.459407",
-  "total_registros": 1993,
+  "ultima_atualizacao": "2026-01-15T07:41:55.327765",
+  "total_registros": 1996,
   "dados": [
     {
       "contrato_id": "121472",
@@ -16257,6 +16257,24 @@
       }
     },
     {
+      "contrato_id": "781669",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000778",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000778"
+      }
+    },
+    {
       "contrato_id": "11385",
       "dados": {
         "UG": "323031",
@@ -17784,6 +17802,24 @@
         "RP Liq.": "309.774,97",
         "RP Pg": "163.875,14",
         "Número Contrato": "01029/2021"
+      }
+    },
+    {
+      "contrato_id": "119222",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000073",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "01024/2021"
       }
     },
     {
@@ -23994,6 +24030,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "2025NE000595"
+      }
+    },
+    {
+      "contrato_id": "782164",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000782",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000782"
       }
     },
     {
