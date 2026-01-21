@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-01-20T07:45:08.085508",
-  "total_registros": 2245,
+  "ultima_atualizacao": "2026-01-21T07:46:04.065145",
+  "total_registros": 2247,
   "dados": [
     {
       "contrato_id": "121472",
@@ -17010,6 +17010,24 @@
         "Nome": "ANDREA CAMBRAIA VIDAL",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "00015/2022"
+      }
+    },
+    {
+      "contrato_id": "786567",
+      "dados": {
+        "CPF": "***.174.041-**",
+        "Nome": "ANDREA CAMBRAIA VIDAL",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000703"
+      }
+    },
+    {
+      "contrato_id": "786571",
+      "dados": {
+        "CPF": "***.174.041-**",
+        "Nome": "ANDREA CAMBRAIA VIDAL",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000702"
       }
     },
     {
