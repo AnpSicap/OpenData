@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-01-21T07:46:04.065145",
-  "total_registros": 2247,
+  "ultima_atualizacao": "2026-01-22T07:44:08.803978",
+  "total_registros": 2248,
   "dados": [
     {
       "contrato_id": "121472",
@@ -4851,60 +4851,6 @@
         "Nome": "SAHID DE OLIVEIRA KIK",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "04011/2021"
-      }
-    },
-    {
-      "contrato_id": "206402",
-      "dados": {
-        "CPF": "***.697.927-**",
-        "Nome": "FERNANDA SEIXAS DE ABREU GOMES",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09016/2023"
-      }
-    },
-    {
-      "contrato_id": "206402",
-      "dados": {
-        "CPF": "***.441.966-**",
-        "Nome": "ANDRIA DE ALMEIDA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09016/2023"
-      }
-    },
-    {
-      "contrato_id": "206402",
-      "dados": {
-        "CPF": "***.654.897-**",
-        "Nome": "GUALTER FERNANDO LEMOS DO AMARAL",
-        "Tipo": "Gestor",
-        "Número Contrato": "09016/2023"
-      }
-    },
-    {
-      "contrato_id": "206402",
-      "dados": {
-        "CPF": "***.896.011-**",
-        "Nome": "EDUARDO ERISTÔNIO RAMOS DE SOUSA",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09016/2023"
-      }
-    },
-    {
-      "contrato_id": "206402",
-      "dados": {
-        "CPF": "***.750.188-**",
-        "Nome": "FELIPE BOTTAS DE OLIVEIRA E SOUZA",
-        "Tipo": "Gestor",
-        "Número Contrato": "09016/2023"
-      }
-    },
-    {
-      "contrato_id": "206402",
-      "dados": {
-        "CPF": "***.006.437-**",
-        "Nome": "MONICA MARIZ DE CARVALHO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09016/2023"
       }
     },
     {
@@ -16743,6 +16689,15 @@
       }
     },
     {
+      "contrato_id": "729019",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000633"
+      }
+    },
+    {
       "contrato_id": "729018",
       "dados": {
         "CPF": "***.905.654-**",
@@ -17001,6 +16956,60 @@
         "Nome": "NATALIE FERNANDA FERNANDES",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09053/2021"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "CPF": "***.697.927-**",
+        "Nome": "FERNANDA SEIXAS DE ABREU GOMES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "CPF": "***.441.966-**",
+        "Nome": "ANDRIA DE ALMEIDA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "CPF": "***.654.897-**",
+        "Nome": "GUALTER FERNANDO LEMOS DO AMARAL",
+        "Tipo": "Gestor",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "CPF": "***.896.011-**",
+        "Nome": "EDUARDO ERISTÔNIO RAMOS DE SOUSA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "CPF": "***.750.188-**",
+        "Nome": "FELIPE BOTTAS DE OLIVEIRA E SOUZA",
+        "Tipo": "Gestor",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "CPF": "***.006.437-**",
+        "Nome": "MONICA MARIZ DE CARVALHO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09016/2023"
       }
     },
     {

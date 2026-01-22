@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-01-21T07:46:04.039034",
-  "total_registros": 1384,
+  "ultima_atualizacao": "2026-01-22T07:44:08.778362",
+  "total_registros": 1385,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1390,7 +1390,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "21/01/2026",
+        "Data Fim": "22/01/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -5118,66 +5118,6 @@
       }
     },
     {
-      "contrato_id": "206402",
-      "dados": {
-        "Data Assinatura": "08/08/2023",
-        "Número": "09016/2023",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09016/2023 DE ACORDO COM PROCESSO NÚMERO: 48600.200006/2023-47",
-        "Data Início": "09/08/2023",
-        "Data Fim": "09/02/2026",
-        "Vlr. Global": "6.844.757,66",
-        "Parcelas": "13",
-        "Vlr. Parcela": "526.519,82",
-        "Número Contrato": "09016/2023"
-      }
-    },
-    {
-      "contrato_id": "206402",
-      "dados": {
-        "Data Assinatura": "05/06/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "PROMOVER A REPACTUAÇÃO DO CONTRATO Nº 9.016/2023 EM 0,4896% , COM BASE NA CONVENÇÃO COLETIVA DE TRABALHO (CCT), REGISTRADA NO MINISTÉRIO DO TRABALHO E EMPREGO (MTE) SOB O REGISTRO DF000005/2024-SIS/DF, QUE DEFINIU O PERCENTUAL DE REAJUSTES DOS SALÁRIOS E DEMAIS BENEFÍCIOS A SEREM CONCEDIDOS À CATEGORIA PROFISSIONAL ENVOLVIDA NA CONTRATAÇÃO, TENDO SEUS EFEITOS FINANCEIROS RETROATIVOS A 01/01/2024, COM FUNDAMENTO NO DISPOSTO NA PLANILHA DE DETALHAMENTO DE VALORES (SEI N.º 3989612) E NA NOTA TÉCNICA Nº 14/2024/SGP-CAP/SGP/ANP-RJ (SEI Nº 3961525).",
-        "Data Início": "09/08/2023",
-        "Data Fim": "09/02/2026",
-        "Vlr. Global": "15.114.918,57",
-        "Parcelas": "1",
-        "Vlr. Parcela": "15.114.918,57",
-        "Número Contrato": "09016/2023"
-      }
-    },
-    {
-      "contrato_id": "206402",
-      "dados": {
-        "Data Assinatura": "29/01/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "PROMOVER A REPACTUAÇÃO DO CONTRATO Nº 9.016/2023 EM 3,1330% , COM BASE NA CONVENÇÃO COLETIVA DE TRABALHO CCT/2023/2024 - MTE Nº DF000667/2024-SITIMMME, QUE DEFINIU O PERCENTUAL DE REAJUSTES DOS SALÁRIOS E DEMAIS BENEFÍCIOS A SEREM CONCEDIDOS À CATEGORIA PROFISSIONAL ENVOLVIDA NA CONTRATAÇÃO, COM FUNDAMENTO NO DISPOSTO NA PLANILHA DE DETALHAMENTO DE VALORES (SEI N.º 4650274, 4650281) E NA NOTA TÉCNICA Nº 8/2025/SGP-CAP/SGP/ANP-RJ (SEI Nº 4650293).",
-        "Data Início": "09/08/2023",
-        "Data Fim": "09/02/2026",
-        "Vlr. Global": "15.588.466,65",
-        "Parcelas": "1",
-        "Vlr. Parcela": "15.588.466,65",
-        "Número Contrato": "09016/2023"
-      }
-    },
-    {
-      "contrato_id": "206402",
-      "dados": {
-        "Data Assinatura": "07/04/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "O PRESENTE TERMO ADITIVO TEM POR OBJETO REDUZIR A JORNADA DE TRABALHO DE 44 HORAS PARA 40 HORAS SEMANAIS DOS SEGUINTES SERVIÇOS CONTÍNUOS, OBJETO DO CONTRATO Nº 9.16/2023, NA FORMA DO ART. 4º DO DECRETO Nº 12.174, DE 11 DE SETEMBRO DE 2024, E DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 5 DE DEZEMBRO DE 2024; A REDUÇÃO SE APLICA A TODOS OS TRABALHADORES QUE PRESTAREM OS SERVIÇOS ACIMA INDICADOS NO ÂMBITO DO CONTRATO Nº 9.16/23 (ART. 2º, §2º, DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 2024).",
-        "Data Início": "07/04/2025",
-        "Data Fim": "09/02/2026",
-        "Vlr. Global": "526.519,82",
-        "Parcelas": "1",
-        "Vlr. Parcela": "526.519,82",
-        "Número Contrato": "09016/2023"
-      }
-    },
-    {
       "contrato_id": "115396",
       "dados": {
         "Data Assinatura": "16/09/2021",
@@ -8215,7 +8155,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "21/01/2026",
+        "Data Fim": "22/01/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -9475,7 +9415,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "21/01/2026",
+        "Data Fim": "22/01/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -16068,6 +16008,81 @@
       }
     },
     {
+      "contrato_id": "206402",
+      "dados": {
+        "Data Assinatura": "08/08/2023",
+        "Número": "09016/2023",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09016/2023 DE ACORDO COM PROCESSO NÚMERO: 48600.200006/2023-47",
+        "Data Início": "09/08/2023",
+        "Data Fim": "09/02/2026",
+        "Vlr. Global": "6.844.757,66",
+        "Parcelas": "13",
+        "Vlr. Parcela": "526.519,82",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "Data Assinatura": "05/06/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "PROMOVER A REPACTUAÇÃO DO CONTRATO Nº 9.016/2023 EM 0,4896% , COM BASE NA CONVENÇÃO COLETIVA DE TRABALHO (CCT), REGISTRADA NO MINISTÉRIO DO TRABALHO E EMPREGO (MTE) SOB O REGISTRO DF000005/2024-SIS/DF, QUE DEFINIU O PERCENTUAL DE REAJUSTES DOS SALÁRIOS E DEMAIS BENEFÍCIOS A SEREM CONCEDIDOS À CATEGORIA PROFISSIONAL ENVOLVIDA NA CONTRATAÇÃO, TENDO SEUS EFEITOS FINANCEIROS RETROATIVOS A 01/01/2024, COM FUNDAMENTO NO DISPOSTO NA PLANILHA DE DETALHAMENTO DE VALORES (SEI N.º 3989612) E NA NOTA TÉCNICA Nº 14/2024/SGP-CAP/SGP/ANP-RJ (SEI Nº 3961525).",
+        "Data Início": "09/08/2023",
+        "Data Fim": "09/02/2026",
+        "Vlr. Global": "15.114.918,57",
+        "Parcelas": "1",
+        "Vlr. Parcela": "15.114.918,57",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "Data Assinatura": "29/01/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "PROMOVER A REPACTUAÇÃO DO CONTRATO Nº 9.016/2023 EM 3,1330% , COM BASE NA CONVENÇÃO COLETIVA DE TRABALHO CCT/2023/2024 - MTE Nº DF000667/2024-SITIMMME, QUE DEFINIU O PERCENTUAL DE REAJUSTES DOS SALÁRIOS E DEMAIS BENEFÍCIOS A SEREM CONCEDIDOS À CATEGORIA PROFISSIONAL ENVOLVIDA NA CONTRATAÇÃO, COM FUNDAMENTO NO DISPOSTO NA PLANILHA DE DETALHAMENTO DE VALORES (SEI N.º 4650274, 4650281) E NA NOTA TÉCNICA Nº 8/2025/SGP-CAP/SGP/ANP-RJ (SEI Nº 4650293).",
+        "Data Início": "09/08/2023",
+        "Data Fim": "09/02/2026",
+        "Vlr. Global": "15.588.466,65",
+        "Parcelas": "1",
+        "Vlr. Parcela": "15.588.466,65",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "Data Assinatura": "07/04/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "O PRESENTE TERMO ADITIVO TEM POR OBJETO REDUZIR A JORNADA DE TRABALHO DE 44 HORAS PARA 40 HORAS SEMANAIS DOS SEGUINTES SERVIÇOS CONTÍNUOS, OBJETO DO CONTRATO Nº 9.16/2023, NA FORMA DO ART. 4º DO DECRETO Nº 12.174, DE 11 DE SETEMBRO DE 2024, E DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 5 DE DEZEMBRO DE 2024; A REDUÇÃO SE APLICA A TODOS OS TRABALHADORES QUE PRESTAREM OS SERVIÇOS ACIMA INDICADOS NO ÂMBITO DO CONTRATO Nº 9.16/23 (ART. 2º, §2º, DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 2024).",
+        "Data Início": "07/04/2025",
+        "Data Fim": "09/02/2026",
+        "Vlr. Global": "526.519,82",
+        "Parcelas": "1",
+        "Vlr. Parcela": "526.519,82",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "Data Assinatura": "11/12/2025",
+        "Número": "00002/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1. REPACTUAÇÃO DOS VALORES DO CONTRATO EM DECORRÊNCIA DOS AJUSTES DOS VALORES RESULTANTES DA CONVENÇÕES COLETIVAS DE TRABALHO DOS PROFISSIONAIS ENVOLVIDOS NA CONTRATAÇÃO, COM IMPACTOS FINANCEIROS RETROAGINDO À 01/01/2025, TENDO EM VISTA O DISPOSTO NAS REFERIDAS CCTS, E NA NOTA TÉCNICA Nº 65/2025/SGP-CAP/SGP/ANP-RJ (SEI 5249848).\r\n2. REVISÃO CONTRATUAL PARA PROMOVER O REEQUILÍBRIO ECONÔMICO-FINANCEIRO AO CONTRATO, EM RAZÃO DA REONERAÇÃO GRADUAL DAS PLANILHAS DE CUSTOS FORMAÇÃO DE PREÇOS, A PARTIR DE 01/01/2025, FUNDAMENTADA NA LEI Nº 14.973.24 (INSS), QUE ALTERA GRADUALMENTE OS PERCENTUAIS DE INSS E CPRB DAS RESPECTIVAS PLANILHAS, DE ACORDO COM O CONTIDO NA NOTA TÉCNICA SUPRACITADA.",
+        "Data Início": "11/12/2025",
+        "Data Fim": "09/02/2026",
+        "Vlr. Global": "15.820.228,55",
+        "Parcelas": "30",
+        "Vlr. Parcela": "527.340,95",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
       "contrato_id": "167155",
       "dados": {
         "Data Assinatura": "03/11/2022",
@@ -16120,7 +16135,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "21/01/2026",
+        "Data Fim": "22/01/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16435,7 +16450,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "21/01/2026",
+        "Data Fim": "22/01/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16570,7 +16585,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "21/01/2026",
+        "Data Fim": "22/01/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
