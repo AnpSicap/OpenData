@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-01-22T07:44:08.803978",
+  "ultima_atualizacao": "2026-01-23T07:42:17.665354",
   "total_registros": 2248,
   "dados": [
     {
@@ -1548,42 +1548,6 @@
         "Nome": "RICARDO RODRIGUES MONTEIRO",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2025NE000188"
-      }
-    },
-    {
-      "contrato_id": "244752",
-      "dados": {
-        "CPF": "***.921.555-**",
-        "Nome": "VANJOALDO DOS REIS LOPES NETO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09010/2024"
-      }
-    },
-    {
-      "contrato_id": "244752",
-      "dados": {
-        "CPF": "***.813.875-**",
-        "Nome": "ADRIANA NASCIMENTO SOUZA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09010/2024"
-      }
-    },
-    {
-      "contrato_id": "244752",
-      "dados": {
-        "CPF": "***.800.535-**",
-        "Nome": "MILENA NASCIMENTO SALES",
-        "Tipo": "Gestor",
-        "Número Contrato": "09010/2024"
-      }
-    },
-    {
-      "contrato_id": "244752",
-      "dados": {
-        "CPF": "***.326.385-**",
-        "Nome": "VLADIMIR SOUSA COSTA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09010/2024"
       }
     },
     {
@@ -3891,33 +3855,6 @@
       }
     },
     {
-      "contrato_id": "119225",
-      "dados": {
-        "CPF": "***.371.887-**",
-        "Nome": "EDUARDO DOS SANTOS BARROSO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "01026/2021"
-      }
-    },
-    {
-      "contrato_id": "119225",
-      "dados": {
-        "CPF": "***.131.887-**",
-        "Nome": "BRUNO PEREIRA NASCIMENTO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "01026/2021"
-      }
-    },
-    {
-      "contrato_id": "119225",
-      "dados": {
-        "CPF": "***.565.627-**",
-        "Nome": "MERCEDES SANTANA DA SILVA",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "01026/2021"
-      }
-    },
-    {
       "contrato_id": "419953",
       "dados": {
         "CPF": "***.330.607-**",
@@ -3951,33 +3888,6 @@
         "Nome": "MERCEDES SANTANA DA SILVA",
         "Tipo": "Fiscal Substituto",
         "Número Contrato": "01008/2022"
-      }
-    },
-    {
-      "contrato_id": "123132",
-      "dados": {
-        "CPF": "***.131.887-**",
-        "Nome": "BRUNO PEREIRA NASCIMENTO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "01027/2021"
-      }
-    },
-    {
-      "contrato_id": "123132",
-      "dados": {
-        "CPF": "***.421.287-**",
-        "Nome": "ARNALDO SHIOJI FERRADOSA ARCOVERDE",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "01027/2021"
-      }
-    },
-    {
-      "contrato_id": "123132",
-      "dados": {
-        "CPF": "***.565.627-**",
-        "Nome": "MERCEDES SANTANA DA SILVA",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "01027/2021"
       }
     },
     {
@@ -10434,6 +10344,33 @@
       }
     },
     {
+      "contrato_id": "119225",
+      "dados": {
+        "CPF": "***.371.887-**",
+        "Nome": "EDUARDO DOS SANTOS BARROSO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "01026/2021"
+      }
+    },
+    {
+      "contrato_id": "119225",
+      "dados": {
+        "CPF": "***.131.887-**",
+        "Nome": "BRUNO PEREIRA NASCIMENTO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01026/2021"
+      }
+    },
+    {
+      "contrato_id": "119225",
+      "dados": {
+        "CPF": "***.565.627-**",
+        "Nome": "MERCEDES SANTANA DA SILVA",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "01026/2021"
+      }
+    },
+    {
       "contrato_id": "140925",
       "dados": {
         "CPF": "***.248.978-**",
@@ -13719,6 +13656,33 @@
       }
     },
     {
+      "contrato_id": "123132",
+      "dados": {
+        "CPF": "***.131.887-**",
+        "Nome": "BRUNO PEREIRA NASCIMENTO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "01027/2021"
+      }
+    },
+    {
+      "contrato_id": "123132",
+      "dados": {
+        "CPF": "***.421.287-**",
+        "Nome": "ARNALDO SHIOJI FERRADOSA ARCOVERDE",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01027/2021"
+      }
+    },
+    {
+      "contrato_id": "123132",
+      "dados": {
+        "CPF": "***.565.627-**",
+        "Nome": "MERCEDES SANTANA DA SILVA",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "01027/2021"
+      }
+    },
+    {
       "contrato_id": "758237",
       "dados": {
         "CPF": "***.155.097-**",
@@ -15039,6 +15003,42 @@
         "Nome": "ALEXANDRE MACIEL DA SILVA",
         "Tipo": "Responsável Unidade Requisitante",
         "Número Contrato": "05020/2025"
+      }
+    },
+    {
+      "contrato_id": "244752",
+      "dados": {
+        "CPF": "***.921.555-**",
+        "Nome": "VANJOALDO DOS REIS LOPES NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09010/2024"
+      }
+    },
+    {
+      "contrato_id": "244752",
+      "dados": {
+        "CPF": "***.813.875-**",
+        "Nome": "ADRIANA NASCIMENTO SOUZA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09010/2024"
+      }
+    },
+    {
+      "contrato_id": "244752",
+      "dados": {
+        "CPF": "***.800.535-**",
+        "Nome": "MILENA NASCIMENTO SALES",
+        "Tipo": "Gestor",
+        "Número Contrato": "09010/2024"
+      }
+    },
+    {
+      "contrato_id": "244752",
+      "dados": {
+        "CPF": "***.326.385-**",
+        "Nome": "VLADIMIR SOUSA COSTA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09010/2024"
       }
     },
     {
