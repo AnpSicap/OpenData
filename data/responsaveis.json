@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-01-26T07:44:49.112265",
-  "total_registros": 2250,
+  "ultima_atualizacao": "2026-01-27T07:45:03.412849",
+  "total_registros": 2256,
   "dados": [
     {
       "contrato_id": "121472",
@@ -4044,6 +4044,33 @@
       }
     },
     {
+      "contrato_id": "792771",
+      "dados": {
+        "CPF": "***.677.011-**",
+        "Nome": "RANI DE FREITAS VIEIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000794"
+      }
+    },
+    {
+      "contrato_id": "792771",
+      "dados": {
+        "CPF": "***.244.899-**",
+        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000794"
+      }
+    },
+    {
+      "contrato_id": "792771",
+      "dados": {
+        "CPF": "***.809.164-**",
+        "Nome": "RODRIGO PEREIRA CÂMARA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000794"
+      }
+    },
+    {
       "contrato_id": "603574",
       "dados": {
         "CPF": "***.896.037-**",
@@ -4293,6 +4320,33 @@
         "Nome": "SAHID DE OLIVEIRA KIK",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "05016/2025"
+      }
+    },
+    {
+      "contrato_id": "792752",
+      "dados": {
+        "CPF": "***.677.011-**",
+        "Nome": "RANI DE FREITAS VIEIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000793"
+      }
+    },
+    {
+      "contrato_id": "792752",
+      "dados": {
+        "CPF": "***.244.899-**",
+        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000793"
+      }
+    },
+    {
+      "contrato_id": "792752",
+      "dados": {
+        "CPF": "***.809.164-**",
+        "Nome": "RODRIGO PEREIRA CÂMARA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000793"
       }
     },
     {
@@ -14351,15 +14405,6 @@
     {
       "contrato_id": "782663",
       "dados": {
-        "CPF": "***.352.637-**",
-        "Nome": "VIVIAN WAINER DA SILVA BUENO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "2025NE000795"
-      }
-    },
-    {
-      "contrato_id": "782663",
-      "dados": {
         "CPF": "***.874.647-**",
         "Nome": "SORAYA XAVIER FRANCO",
         "Tipo": "Gestor",
@@ -14390,6 +14435,15 @@
         "CPF": "***.750.117-**",
         "Nome": "ALEXANDRE MACIEL DA SILVA",
         "Tipo": "Responsável Unidade Requisitante",
+        "Número Contrato": "2025NE000795"
+      }
+    },
+    {
+      "contrato_id": "782663",
+      "dados": {
+        "CPF": "***.352.637-**",
+        "Nome": "VIVIAN WAINER DA SILVA BUENO",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000795"
       }
     },
