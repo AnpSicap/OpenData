@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-01-27T07:45:03.434007",
-  "total_registros": 2013,
+  "ultima_atualizacao": "2026-01-28T07:43:33.476187",
+  "total_registros": 2018,
   "dados": [
     {
       "contrato_id": "121472",
@@ -2911,6 +2911,24 @@
         "A liq.": "0,00",
         "Liquid.": "0,00",
         "Pg": "67.458,91",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04036/2024"
+      }
+    },
+    {
+      "contrato_id": "438978",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000130",
+        "PI": "-",
+        "ND": "339037 - LOCACAO DE MAO-DE-OBRA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
@@ -10911,6 +10929,24 @@
       }
     },
     {
+      "contrato_id": "112672",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000140",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "05002/2021"
+      }
+    },
+    {
       "contrato_id": "174683",
       "dados": {
         "UG": "323031",
@@ -12343,6 +12379,24 @@
         "A liq.": "0,00",
         "Liquid.": "0,00",
         "Pg": "10.075,21",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000139",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
@@ -28443,6 +28497,24 @@
       }
     },
     {
+      "contrato_id": "206402",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000127",
+        "PI": "-",
+        "ND": "339037 - LOCACAO DE MAO-DE-OBRA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
       "contrato_id": "167155",
       "dados": {
         "UG": "",
@@ -29456,6 +29528,24 @@
         "UG": "323031",
         "Número": "2025NE000704",
         "PI": "-8 - SEM INFORMACAO",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09039/2022"
+      }
+    },
+    {
+      "contrato_id": "168205",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000141",
+        "PI": "-",
         "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
         "Emp.": "0,00",
         "A liq.": "0,00",
