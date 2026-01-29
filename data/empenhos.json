@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-01-28T07:43:33.476187",
-  "total_registros": 2018,
+  "ultima_atualizacao": "2026-01-29T07:55:14.120870",
+  "total_registros": 2020,
   "dados": [
     {
       "contrato_id": "121472",
@@ -3186,6 +3186,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "2022NE000300"
+      }
+    },
+    {
+      "contrato_id": "277444",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000123",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339092 - DESPESAS DE EXERCICIOS ANTERIORES",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "01026/2024"
       }
     },
     {
@@ -12222,6 +12240,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09041/2024"
+      }
+    },
+    {
+      "contrato_id": "472286",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000142",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09046/2024"
       }
     },
     {
