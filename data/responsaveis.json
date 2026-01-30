@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-01-29T07:55:14.098780",
-  "total_registros": 2256,
+  "ultima_atualizacao": "2026-01-30T07:55:59.412972",
+  "total_registros": 2257,
   "dados": [
     {
       "contrato_id": "121472",
@@ -12563,6 +12563,15 @@
         "CPF": "***.905.654-**",
         "Nome": "BRUNO SALES BERNARDO",
         "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000610"
+      }
+    },
+    {
+      "contrato_id": "715899",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2025NE000610"
       }
     },

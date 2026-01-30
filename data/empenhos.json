@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-01-29T07:55:14.120870",
-  "total_registros": 2020,
+  "ultima_atualizacao": "2026-01-30T07:55:59.435145",
+  "total_registros": 2023,
   "dados": [
     {
       "contrato_id": "121472",
@@ -8859,6 +8859,24 @@
       }
     },
     {
+      "contrato_id": "116021",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000149",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "08020/2021"
+      }
+    },
+    {
       "contrato_id": "100983",
       "dados": {
         "UG": "323031",
@@ -11088,6 +11106,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09049/2022"
+      }
+    },
+    {
+      "contrato_id": "170262",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000147",
+        "PI": "-",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09046/2022"
       }
     },
     {
@@ -25362,6 +25398,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "2025NE000622"
+      }
+    },
+    {
+      "contrato_id": "639744",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000148",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000478"
       }
     },
     {
