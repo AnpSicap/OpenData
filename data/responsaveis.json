@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-02-02T08:06:03.219191",
+  "ultima_atualizacao": "2026-02-03T07:58:25.636635",
   "total_registros": 2257,
   "dados": [
     {
@@ -1710,51 +1710,6 @@
         "Nome": "FABIANO SOUZA SILVA",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "09009/2019"
-      }
-    },
-    {
-      "contrato_id": "119486",
-      "dados": {
-        "CPF": "***.661.947-**",
-        "Nome": "NATALIE FERNANDA FERNANDES SOARES",
-        "Tipo": "Fiscal Requisitante",
-        "Número Contrato": "09031/2021"
-      }
-    },
-    {
-      "contrato_id": "119486",
-      "dados": {
-        "CPF": "***.896.037-**",
-        "Nome": "SAHID DE OLIVEIRA KIK",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09031/2021"
-      }
-    },
-    {
-      "contrato_id": "119486",
-      "dados": {
-        "CPF": "***.476.213-**",
-        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09031/2021"
-      }
-    },
-    {
-      "contrato_id": "119486",
-      "dados": {
-        "CPF": "***.163.777-**",
-        "Nome": "ALISSON CHRISTI VIEIRA ROCHA",
-        "Tipo": "Fiscal Requisitante",
-        "Número Contrato": "09031/2021"
-      }
-    },
-    {
-      "contrato_id": "119486",
-      "dados": {
-        "CPF": "***.896.037-**",
-        "Nome": "SAHID DE OLIVEIRA KIK",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09031/2021"
       }
     },
     {
@@ -6093,33 +6048,6 @@
         "Nome": "SAHID DE OLIVEIRA KIK",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "05016/2019"
-      }
-    },
-    {
-      "contrato_id": "175110",
-      "dados": {
-        "CPF": "***.474.226-**",
-        "Nome": "IVANDRO SANT'ANA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "05037/2022"
-      }
-    },
-    {
-      "contrato_id": "175110",
-      "dados": {
-        "CPF": "***.562.837-**",
-        "Nome": "RICARDO RODRIGUES MONTEIRO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "05037/2022"
-      }
-    },
-    {
-      "contrato_id": "175110",
-      "dados": {
-        "CPF": "***.217.117-**",
-        "Nome": "LEANDRO GUEDES DA FONSECA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "05037/2022"
       }
     },
     {
@@ -17391,6 +17319,33 @@
       }
     },
     {
+      "contrato_id": "175110",
+      "dados": {
+        "CPF": "***.474.226-**",
+        "Nome": "IVANDRO SANT'ANA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05037/2022"
+      }
+    },
+    {
+      "contrato_id": "175110",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05037/2022"
+      }
+    },
+    {
+      "contrato_id": "175110",
+      "dados": {
+        "CPF": "***.217.117-**",
+        "Nome": "LEANDRO GUEDES DA FONSECA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05037/2022"
+      }
+    },
+    {
       "contrato_id": "10971",
       "dados": {
         "CPF": "***.248.978-**",
@@ -17892,6 +17847,51 @@
         "Nome": "JOSÉ ESMERALDO BARRETO NETO",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2024NE000803"
+      }
+    },
+    {
+      "contrato_id": "119486",
+      "dados": {
+        "CPF": "***.661.947-**",
+        "Nome": "NATALIE FERNANDA FERNANDES SOARES",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "09031/2021"
+      }
+    },
+    {
+      "contrato_id": "119486",
+      "dados": {
+        "CPF": "***.896.037-**",
+        "Nome": "SAHID DE OLIVEIRA KIK",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09031/2021"
+      }
+    },
+    {
+      "contrato_id": "119486",
+      "dados": {
+        "CPF": "***.476.213-**",
+        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09031/2021"
+      }
+    },
+    {
+      "contrato_id": "119486",
+      "dados": {
+        "CPF": "***.163.777-**",
+        "Nome": "ALISSON CHRISTI VIEIRA ROCHA",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "09031/2021"
+      }
+    },
+    {
+      "contrato_id": "119486",
+      "dados": {
+        "CPF": "***.896.037-**",
+        "Nome": "SAHID DE OLIVEIRA KIK",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09031/2021"
       }
     },
     {
