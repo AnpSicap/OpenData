@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-02-05T08:04:54.283659",
-  "total_registros": 2032,
+  "ultima_atualizacao": "2026-02-06T08:02:42.548864",
+  "total_registros": 2033,
   "dados": [
     {
       "contrato_id": "121472",
@@ -9867,96 +9867,6 @@
       }
     },
     {
-      "contrato_id": "223442",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000172",
-        "PI": "-",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "14.398,87",
-        "A liq.": "1.816,65",
-        "Liquid.": "0,00",
-        "Pg": "12.582,22",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2023"
-      }
-    },
-    {
-      "contrato_id": "223442",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000719",
-        "PI": "-8 -",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "11.749,98",
-        "A liq.": "7.833,32",
-        "Liquid.": "0,00",
-        "Pg": "3.916,66",
-        "RP Inscr.": "7.833,32",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "7.833,32",
-        "Número Contrato": "09029/2023"
-      }
-    },
-    {
-      "contrato_id": "223442",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000336",
-        "PI": "-",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "11.749,98",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "11.749,98",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2023"
-      }
-    },
-    {
-      "contrato_id": "223442",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000450",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "21.362,12",
-        "A liq.": "7.345,09",
-        "Liquid.": "0,00",
-        "Pg": "14.017,03",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2023"
-      }
-    },
-    {
-      "contrato_id": "223442",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000505",
-        "PI": "-8 -",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "30.784,40",
-        "A liq.": "3.973,33",
-        "Liquid.": "0,00",
-        "Pg": "26.811,07",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09029/2023"
-      }
-    },
-    {
       "contrato_id": "32159",
       "dados": {
         "UG": "323031",
@@ -12009,60 +11919,6 @@
       }
     },
     {
-      "contrato_id": "472286",
-      "dados": {
-        "UG": "323031",
-        "Número": "2026NE000142",
-        "PI": "-",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "25.752,55",
-        "A liq.": "13.110,58",
-        "Liquid.": "1.653,98",
-        "Pg": "10.987,99",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09046/2024"
-      }
-    },
-    {
-      "contrato_id": "472286",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000798",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "138,09",
-        "A liq.": "138,09",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09046/2024"
-      }
-    },
-    {
-      "contrato_id": "472286",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000408",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "179.158,00",
-        "A liq.": "23.505,77",
-        "Liquid.": "29.854,22",
-        "Pg": "125.798,01",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09046/2024"
-      }
-    },
-    {
       "contrato_id": "472276",
       "dados": {
         "UG": "323031",
@@ -12091,6 +11947,24 @@
         "A liq.": "18.494,33",
         "Liquid.": "0,00",
         "Pg": "10.959,67",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09045/2024"
+      }
+    },
+    {
+      "contrato_id": "472276",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000167",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
@@ -19602,78 +19476,6 @@
         "RP Liq.": "0,00",
         "RP Pg": "145.147,80",
         "Número Contrato": "05010/2018"
-      }
-    },
-    {
-      "contrato_id": "163106",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000194",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "81.999,96",
-        "A liq.": "7.972,22",
-        "Liquid.": "0,00",
-        "Pg": "74.027,74",
-        "RP Inscr.": "7.972,22",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "7.972,22",
-        "Número Contrato": "09036/2022"
-      }
-    },
-    {
-      "contrato_id": "163106",
-      "dados": {
-        "UG": "323031",
-        "Número": "2026NE000150",
-        "PI": "-",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "734,03",
-        "A liq.": "734,03",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09036/2022"
-      }
-    },
-    {
-      "contrato_id": "163106",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000227",
-        "PI": "-",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "59.161,27",
-        "A liq.": "3.647,52",
-        "Liquid.": "380,66",
-        "Pg": "55.133,09",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09036/2022"
-      }
-    },
-    {
-      "contrato_id": "163106",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000476",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "28.492,65",
-        "A liq.": "3.674,59",
-        "Liquid.": "848,03",
-        "Pg": "23.970,03",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09036/2022"
       }
     },
     {
@@ -30981,6 +30783,78 @@
       }
     },
     {
+      "contrato_id": "163106",
+      "dados": {
+        "UG": "323031",
+        "Número": "2023NE000194",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "81.999,96",
+        "A liq.": "7.972,22",
+        "Liquid.": "0,00",
+        "Pg": "74.027,74",
+        "RP Inscr.": "7.972,22",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "7.972,22",
+        "Número Contrato": "09036/2022"
+      }
+    },
+    {
+      "contrato_id": "163106",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000150",
+        "PI": "-",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "734,03",
+        "A liq.": "734,03",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09036/2022"
+      }
+    },
+    {
+      "contrato_id": "163106",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000227",
+        "PI": "-",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "59.161,27",
+        "A liq.": "3.647,52",
+        "Liquid.": "380,66",
+        "Pg": "55.133,09",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09036/2022"
+      }
+    },
+    {
+      "contrato_id": "163106",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000476",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "28.492,65",
+        "A liq.": "3.674,59",
+        "Liquid.": "848,03",
+        "Pg": "23.970,03",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09036/2022"
+      }
+    },
+    {
       "contrato_id": "15311",
       "dados": {
         "UG": "323031",
@@ -36486,6 +36360,150 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "08012/2019"
+      }
+    },
+    {
+      "contrato_id": "223442",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000172",
+        "PI": "-",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "14.398,87",
+        "A liq.": "1.816,65",
+        "Liquid.": "0,00",
+        "Pg": "12.582,22",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2023"
+      }
+    },
+    {
+      "contrato_id": "223442",
+      "dados": {
+        "UG": "323031",
+        "Número": "2023NE000719",
+        "PI": "-8 -",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "11.749,98",
+        "A liq.": "7.833,32",
+        "Liquid.": "0,00",
+        "Pg": "3.916,66",
+        "RP Inscr.": "7.833,32",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "7.833,32",
+        "Número Contrato": "09029/2023"
+      }
+    },
+    {
+      "contrato_id": "223442",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000336",
+        "PI": "-",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "11.749,98",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "11.749,98",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2023"
+      }
+    },
+    {
+      "contrato_id": "223442",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000450",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "21.362,12",
+        "A liq.": "7.345,09",
+        "Liquid.": "0,00",
+        "Pg": "14.017,03",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2023"
+      }
+    },
+    {
+      "contrato_id": "223442",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000505",
+        "PI": "-8 -",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "30.784,40",
+        "A liq.": "3.973,33",
+        "Liquid.": "0,00",
+        "Pg": "26.811,07",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09029/2023"
+      }
+    },
+    {
+      "contrato_id": "472286",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000142",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "25.752,55",
+        "A liq.": "13.110,58",
+        "Liquid.": "1.653,98",
+        "Pg": "10.987,99",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09046/2024"
+      }
+    },
+    {
+      "contrato_id": "472286",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000798",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "138,09",
+        "A liq.": "138,09",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09046/2024"
+      }
+    },
+    {
+      "contrato_id": "472286",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000408",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "179.158,00",
+        "A liq.": "23.505,77",
+        "Liquid.": "29.854,22",
+        "Pg": "125.798,01",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09046/2024"
       }
     },
     {

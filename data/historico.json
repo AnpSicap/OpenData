@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-02-05T08:04:54.234468",
-  "total_registros": 1402,
+  "ultima_atualizacao": "2026-02-06T08:02:42.500384",
+  "total_registros": 1403,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1225,7 +1225,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "05/02/2026",
+        "Data Fim": "06/02/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -6408,36 +6408,6 @@
       }
     },
     {
-      "contrato_id": "223442",
-      "dados": {
-        "Data Assinatura": "25/10/2023",
-        "Número": "09029/2023",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09029/2023 DE ACORDO COM PROCESSO NÚMERO: 48610.204759/2023-11",
-        "Data Início": "25/10/2023",
-        "Data Fim": "25/10/2024",
-        "Vlr. Global": "46.999,92",
-        "Parcelas": "1",
-        "Vlr. Parcela": "46.999,92",
-        "Número Contrato": "09029/2023"
-      }
-    },
-    {
-      "contrato_id": "223442",
-      "dados": {
-        "Data Assinatura": "05/09/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 25/10/2024 E 25/10/2025, COM FUNDAMENTO NO ARTIGO 107 DA LEI N° 14.133, DE 2021.\r\n\r\n \r\n\r\n2.2. ALTERAR QUANTITATIVAMENTE O OBJETO CONTRATUAL, MEDIANTE A SUPRESSÃO 4 LICENÇAS SAN (ITEM 2) E 32 TRANSCEIVERS FIBRE CHANNEL (ITEM 6), DO ESCRITÓRIO DA ANP EM BRASÍLIA-DF, ENSEJANDO UMA REDUÇÃO DE APROXIMADAMENTE 15,46% DO VALOR ORIGINAL DA AVENÇA, EQUIVALENTE A UM MONTANTE ANUAL DE R$ 7.266,64 (SETE MIL DUZENTOS E SESSENTA E SEIS REAIS E SESSENTA E QUATRO CENTAVOS), COM FUNDAMENTO NO ARTIGO 124, INCISO I, \"B\", DA LEI 14.133/2021.\r\n\r\n\r\n2.3 ALTERAR QUALITATIVAMENTE O O OBJETO CONTRATUAL, MEDIANTE A MUDANÇA DO LOCAL DE PRESTAÇÃO DE SERVIÇO, COM O REMANEJAMENTO DE EQUIPAMENTOS, EM DECORRÊNCIA DA DESMOBILIZAÇÃO DA SALA COFRE DE BRASÍLIA. OS EQUIPAMENTOS A SEREM APROVEITADOS SERÃO REMANEJADOS DO ESCRITÓRIO SEDE EM BRASÍLIA PARA O ESCRITÓRIO URCA (BDEP) NO RIO DE JANEIRO, COM FUNDAMENTO NO ARTIGO 124, INCISO I, \"A\", DA LEI 14.133/2021, E NA FORMA DISPOSTA NA NOTA TÉCNICA   45/2024/STI-CONT/STI/ANP-RJ ( SEI 4047229),\r\n2.4 2.4 PROMOVER A ALTERAÇÃO DA NATUREZA DA NATUREZA JURÍDICA DA CONTRATADA QUE PASSA DE LINK INFORMÁTICA EIRELI,  PARA LINK INFORMÁTICA LTDA., EM ATENDIMENTO AO DISPOSTO  ART. 41 DA LEI 14.195/20211.",
-        "Data Início": "25/10/2024",
-        "Data Fim": "25/10/2025",
-        "Vlr. Global": "39.733,28",
-        "Parcelas": "1",
-        "Vlr. Parcela": "39.733,28",
-        "Número Contrato": "09029/2023"
-      }
-    },
-    {
       "contrato_id": "32159",
       "dados": {
         "Data Assinatura": "08/08/2018",
@@ -7338,21 +7308,6 @@
       }
     },
     {
-      "contrato_id": "472286",
-      "dados": {
-        "Data Assinatura": "04/02/2025",
-        "Número": "09046/2024",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09046/2024 DE ACORDO COM PROCESSO NÚMERO: 48610201554202456",
-        "Data Início": "10/03/2025",
-        "Data Fim": "10/03/2027",
-        "Vlr. Global": "618.061,20",
-        "Parcelas": "24",
-        "Vlr. Parcela": "25.752,55",
-        "Número Contrato": "09046/2024"
-      }
-    },
-    {
       "contrato_id": "472276",
       "dados": {
         "Data Assinatura": "10/02/2025",
@@ -7780,7 +7735,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "05/02/2026",
+        "Data Fim": "06/02/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -9040,7 +8995,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "05/02/2026",
+        "Data Fim": "06/02/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -11940,81 +11895,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "1.214.740,84",
         "Número Contrato": "05010/2018"
-      }
-    },
-    {
-      "contrato_id": "163106",
-      "dados": {
-        "Data Assinatura": "30/09/2022",
-        "Número": "09036/2022",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09036/2022 DE ACORDO COM PROCESSO NÚMERO: 48610.203959/2022-67",
-        "Data Início": "04/10/2022",
-        "Data Fim": "04/10/2023",
-        "Vlr. Global": "81.999,96",
-        "Parcelas": "1",
-        "Vlr. Parcela": "81.999,96",
-        "Número Contrato": "09036/2022"
-      }
-    },
-    {
-      "contrato_id": "163106",
-      "dados": {
-        "Data Assinatura": "22/05/2023",
-        "Número": "00001/2023",
-        "Tipo": "Termo Aditivo",
-        "Observação": "2.1 PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE  04/10/2023 E  04/10/2024, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93;\r\n\r\n2.2 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O REAJUSTE CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SEXTA DO CONTRATO.",
-        "Data Início": "04/10/2023",
-        "Data Fim": "04/10/2024",
-        "Vlr. Global": "81.999,96",
-        "Parcelas": "1",
-        "Vlr. Parcela": "81.999,96",
-        "Número Contrato": "09036/2022"
-      }
-    },
-    {
-      "contrato_id": "163106",
-      "dados": {
-        "Data Assinatura": "16/05/2024",
-        "Número": "00002/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PROMOVER ALTERAÇÃO QUANTITATIVA NO CONTRATO, MEDIANTE A SUPRESSÃO DE TODOS OS 41 (QUARENTA E UM) EQUIPAMENTOS DO ESCRITÓRIO SEDE DA ANP EM BRASÍLIA, CORRESPONDENDO A UMA REDUÇÃO DE 41,05% DO VALOR ORIGINAL ATUALIZADO DO CONTRATO, COM FUNDAMENTO NO ARTIGO 65, §2º, INCISO II, DA LEI N° 8.666/93.",
-        "Data Início": "06/06/2024",
-        "Data Fim": "04/10/2024",
-        "Vlr. Global": "48.338,16",
-        "Parcelas": "1",
-        "Vlr. Parcela": "48.338,16",
-        "Número Contrato": "09036/2022"
-      }
-    },
-    {
-      "contrato_id": "163106",
-      "dados": {
-        "Data Assinatura": "24/09/2024",
-        "Número": "00003/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/10/2024 E 04/10/2025, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93.",
-        "Data Início": "04/10/2024",
-        "Data Fim": "04/10/2025",
-        "Vlr. Global": "48.338,16",
-        "Parcelas": "1",
-        "Vlr. Parcela": "48.338,16",
-        "Número Contrato": "09036/2022"
-      }
-    },
-    {
-      "contrato_id": "163106",
-      "dados": {
-        "Data Assinatura": "03/10/2025",
-        "Número": "00004/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/10/2025 E 04/10/2026, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8666/93;\r\n\r\n2.2. REGISTRAR A SUSPENSÃO DO CONTRATO POR 34 (TRINTA E QUATRO) DIAS, DE 01/08/2025 A 03/09/2025, FORMALIZADA POR MEIO DA NOTA TÉCNICA 75/2025/STI-CONT/STI/ANP-RJ (SEI 5246189), DO OFÍCIO Nº 60/2025/STI-CONT/STI/ANP-RJ (SEI 5238973) E DO OFÍCIO Nº 46/2025/STI-CONT/STI/ANP-RJ (SEI 5148510),NOS TERMOS DO ART. 78, INC. XIV, DA LEI N. 8.666/96, SEM PREJUÍZO DA POSSIBILIDADE DE INTERRUPÇÃO DA SUSPENSÃO, COM A RETOMADA ANTECIPADA DA CONTINUIDADE DA PRESTAÇÃO DO SERVIÇO POR ORDEM ESCRITA DA ADMINISTRAÇÃO, ACOMPANHADA DE COMPROVANTE DE CIÊNCIA DA CONTRATADA, DEVIDAMENTE JUSTIFICADA E DOCUMENTADA NOS AUTOS;\r\n\r\n2.2.1 COM A SUSPENSÃO SUPRACITADA, REGISTRA-SE A READEQUAÇÃO DO NOVO PERÍODO DA VIGÊNCIA CONTRATUAL, QUE SERIA DE 04/10/2024 A 04/10/2025, PASSA A SER DE 04/10/2024 A 31/07/2025 E DE 04/09/2025 A 07/11/2025, COM BASE NO ARTIGO 79, §5º, DA LEI 8.666/93, MANTENDO O PERÍODO DO CONTRATO ORIGINAL DA CONTRATAÇÃO;\r\n\r\n2.2.2 COM A PRORROGAÇÃO POR MAIS 12 (DOZE) MESES, MENCIONADA NA CLÁUSULA 2.1 ACIMA, O NOVO PERÍODO DE VIGÊNCIA CONTRATUAL PASSA A SER DE 07/11/2025 A 07/11/2026.\r\n\r\n \r\n\r\n2.3 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O REAJUSTE CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SEXTA DO CONTRATO, QUE REMETE AO ITEM 11 DO TERMO DE REFERÊNCIA.\r\n\r\n \r\n\r\n2.4 REGISTRAR A ALTERAÇÃO DA RAZÃO SOCIAL DA CONTRATADA, QUE PASSA DE UNITECH RIO COMÉRCIO E SERVIÇOS LTDA PARA PARK PLACE TECHNOLOGIES BRAZIL LTDA, NA FORMA CONSIGNADA CONSIGNADA NA 30ª ALTERAÇÃO E CONSOLIDAÇÃO DO CONTRATO SOCIAL DA CONTRATADA (SEI 4903057), MANTIDOS O ENDEREÇO E CNPJ ATUAIS.",
-        "Data Início": "04/10/2025",
-        "Data Fim": "07/11/2026",
-        "Vlr. Global": "52.903,43",
-        "Parcelas": "1",
-        "Vlr. Parcela": "52.903,43",
-        "Número Contrato": "09036/2022"
       }
     },
     {
@@ -16120,7 +16000,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "05/02/2026",
+        "Data Fim": "06/02/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16525,7 +16405,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "05/02/2026",
+        "Data Fim": "06/02/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16675,7 +16555,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "05/02/2026",
+        "Data Fim": "06/02/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -17760,6 +17640,81 @@
         "Parcelas": "1",
         "Vlr. Parcela": "0,00",
         "Número Contrato": "09010/2017"
+      }
+    },
+    {
+      "contrato_id": "163106",
+      "dados": {
+        "Data Assinatura": "30/09/2022",
+        "Número": "09036/2022",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09036/2022 DE ACORDO COM PROCESSO NÚMERO: 48610.203959/2022-67",
+        "Data Início": "04/10/2022",
+        "Data Fim": "04/10/2023",
+        "Vlr. Global": "81.999,96",
+        "Parcelas": "1",
+        "Vlr. Parcela": "81.999,96",
+        "Número Contrato": "09036/2022"
+      }
+    },
+    {
+      "contrato_id": "163106",
+      "dados": {
+        "Data Assinatura": "22/05/2023",
+        "Número": "00001/2023",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1 PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE  04/10/2023 E  04/10/2024, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93;\r\n\r\n2.2 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O REAJUSTE CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "04/10/2023",
+        "Data Fim": "04/10/2024",
+        "Vlr. Global": "81.999,96",
+        "Parcelas": "1",
+        "Vlr. Parcela": "81.999,96",
+        "Número Contrato": "09036/2022"
+      }
+    },
+    {
+      "contrato_id": "163106",
+      "dados": {
+        "Data Assinatura": "16/05/2024",
+        "Número": "00002/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PROMOVER ALTERAÇÃO QUANTITATIVA NO CONTRATO, MEDIANTE A SUPRESSÃO DE TODOS OS 41 (QUARENTA E UM) EQUIPAMENTOS DO ESCRITÓRIO SEDE DA ANP EM BRASÍLIA, CORRESPONDENDO A UMA REDUÇÃO DE 41,05% DO VALOR ORIGINAL ATUALIZADO DO CONTRATO, COM FUNDAMENTO NO ARTIGO 65, §2º, INCISO II, DA LEI N° 8.666/93.",
+        "Data Início": "06/06/2024",
+        "Data Fim": "04/10/2024",
+        "Vlr. Global": "48.338,16",
+        "Parcelas": "1",
+        "Vlr. Parcela": "48.338,16",
+        "Número Contrato": "09036/2022"
+      }
+    },
+    {
+      "contrato_id": "163106",
+      "dados": {
+        "Data Assinatura": "24/09/2024",
+        "Número": "00003/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/10/2024 E 04/10/2025, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93.",
+        "Data Início": "04/10/2024",
+        "Data Fim": "07/11/2025",
+        "Vlr. Global": "48.338,16",
+        "Parcelas": "1",
+        "Vlr. Parcela": "48.338,16",
+        "Número Contrato": "09036/2022"
+      }
+    },
+    {
+      "contrato_id": "163106",
+      "dados": {
+        "Data Assinatura": "03/10/2025",
+        "Número": "00004/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/10/2025 E 04/10/2026, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8666/93;\r\n\r\n2.2. REGISTRAR A SUSPENSÃO DO CONTRATO POR 34 (TRINTA E QUATRO) DIAS, DE 01/08/2025 A 03/09/2025, FORMALIZADA POR MEIO DA NOTA TÉCNICA 75/2025/STI-CONT/STI/ANP-RJ (SEI 5246189), DO OFÍCIO Nº 60/2025/STI-CONT/STI/ANP-RJ (SEI 5238973) E DO OFÍCIO Nº 46/2025/STI-CONT/STI/ANP-RJ (SEI 5148510),NOS TERMOS DO ART. 78, INC. XIV, DA LEI N. 8.666/96, SEM PREJUÍZO DA POSSIBILIDADE DE INTERRUPÇÃO DA SUSPENSÃO, COM A RETOMADA ANTECIPADA DA CONTINUIDADE DA PRESTAÇÃO DO SERVIÇO POR ORDEM ESCRITA DA ADMINISTRAÇÃO, ACOMPANHADA DE COMPROVANTE DE CIÊNCIA DA CONTRATADA, DEVIDAMENTE JUSTIFICADA E DOCUMENTADA NOS AUTOS;\r\n\r\n2.2.1 COM A SUSPENSÃO SUPRACITADA, REGISTRA-SE A READEQUAÇÃO DO NOVO PERÍODO DA VIGÊNCIA CONTRATUAL, QUE SERIA DE 04/10/2024 A 04/10/2025, PASSA A SER DE 04/10/2024 A 31/07/2025 E DE 04/09/2025 A 07/11/2025, COM BASE NO ARTIGO 79, §5º, DA LEI 8.666/93, MANTENDO O PERÍODO DO CONTRATO ORIGINAL DA CONTRATAÇÃO;\r\n\r\n2.2.2 COM A PRORROGAÇÃO POR MAIS 12 (DOZE) MESES, MENCIONADA NA CLÁUSULA 2.1 ACIMA, O NOVO PERÍODO DE VIGÊNCIA CONTRATUAL PASSA A SER DE 07/11/2025 A 07/11/2026.\r\n\r\n \r\n\r\n2.3 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O REAJUSTE CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SEXTA DO CONTRATO, QUE REMETE AO ITEM 11 DO TERMO DE REFERÊNCIA.\r\n\r\n \r\n\r\n2.4 REGISTRAR A ALTERAÇÃO DA RAZÃO SOCIAL DA CONTRATADA, QUE PASSA DE UNITECH RIO COMÉRCIO E SERVIÇOS LTDA PARA PARK PLACE TECHNOLOGIES BRAZIL LTDA, NA FORMA CONSIGNADA CONSIGNADA NA 30ª ALTERAÇÃO E CONSOLIDAÇÃO DO CONTRATO SOCIAL DA CONTRATADA (SEI 4903057), MANTIDOS O ENDEREÇO E CNPJ ATUAIS.",
+        "Data Início": "07/11/2025",
+        "Data Fim": "07/11/2026",
+        "Vlr. Global": "52.903,43",
+        "Parcelas": "12",
+        "Vlr. Parcela": "4.408,62",
+        "Número Contrato": "09036/2022"
       }
     },
     {
@@ -20970,6 +20925,66 @@
         "Parcelas": "36",
         "Vlr. Parcela": "10.674,27",
         "Número Contrato": "08012/2019"
+      }
+    },
+    {
+      "contrato_id": "223442",
+      "dados": {
+        "Data Assinatura": "25/10/2023",
+        "Número": "09029/2023",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09029/2023 DE ACORDO COM PROCESSO NÚMERO: 48610.204759/2023-11",
+        "Data Início": "25/10/2023",
+        "Data Fim": "25/10/2024",
+        "Vlr. Global": "46.999,92",
+        "Parcelas": "1",
+        "Vlr. Parcela": "46.999,92",
+        "Número Contrato": "09029/2023"
+      }
+    },
+    {
+      "contrato_id": "223442",
+      "dados": {
+        "Data Assinatura": "05/09/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 25/10/2024 E 25/10/2025, COM FUNDAMENTO NO ARTIGO 107 DA LEI N° 14.133, DE 2021.\r\n\r\n \r\n\r\n2.2. ALTERAR QUANTITATIVAMENTE O OBJETO CONTRATUAL, MEDIANTE A SUPRESSÃO 4 LICENÇAS SAN (ITEM 2) E 32 TRANSCEIVERS FIBRE CHANNEL (ITEM 6), DO ESCRITÓRIO DA ANP EM BRASÍLIA-DF, ENSEJANDO UMA REDUÇÃO DE APROXIMADAMENTE 15,46% DO VALOR ORIGINAL DA AVENÇA, EQUIVALENTE A UM MONTANTE ANUAL DE R$ 7.266,64 (SETE MIL DUZENTOS E SESSENTA E SEIS REAIS E SESSENTA E QUATRO CENTAVOS), COM FUNDAMENTO NO ARTIGO 124, INCISO I, \"B\", DA LEI 14.133/2021.\r\n\r\n\r\n2.3 ALTERAR QUALITATIVAMENTE O O OBJETO CONTRATUAL, MEDIANTE A MUDANÇA DO LOCAL DE PRESTAÇÃO DE SERVIÇO, COM O REMANEJAMENTO DE EQUIPAMENTOS, EM DECORRÊNCIA DA DESMOBILIZAÇÃO DA SALA COFRE DE BRASÍLIA. OS EQUIPAMENTOS A SEREM APROVEITADOS SERÃO REMANEJADOS DO ESCRITÓRIO SEDE EM BRASÍLIA PARA O ESCRITÓRIO URCA (BDEP) NO RIO DE JANEIRO, COM FUNDAMENTO NO ARTIGO 124, INCISO I, \"A\", DA LEI 14.133/2021, E NA FORMA DISPOSTA NA NOTA TÉCNICA   45/2024/STI-CONT/STI/ANP-RJ ( SEI 4047229),\r\n2.4 2.4 PROMOVER A ALTERAÇÃO DA NATUREZA DA NATUREZA JURÍDICA DA CONTRATADA QUE PASSA DE LINK INFORMÁTICA EIRELI,  PARA LINK INFORMÁTICA LTDA., EM ATENDIMENTO AO DISPOSTO  ART. 41 DA LEI 14.195/20211.",
+        "Data Início": "25/10/2024",
+        "Data Fim": "23/01/2026",
+        "Vlr. Global": "39.733,28",
+        "Parcelas": "1",
+        "Vlr. Parcela": "39.733,28",
+        "Número Contrato": "09029/2023"
+      }
+    },
+    {
+      "contrato_id": "223442",
+      "dados": {
+        "Data Assinatura": "24/10/2025",
+        "Número": "00002/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1 PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 25/10/2025 E 25/10/2026, COM FUNDAMENTO NO ARTIGO 107 DA LEI N° 14.133, DE 2021.\r\n2.2 REGISTRAR A SUSPENSÃO DO CONTRATO POR 90 (NOVENTA) DIAS, A CONTAR DE 01/08/2025, CONFORME O DISPOSTO NO OFÍCIO Nº 48/2025/STI-CONT/STI/ANP-RJ (5148940), NOS TERMOS DO ART. 104, DA LEI N. 14.133/21, SEM PREJUÍZO DA POSSIBILIDADE DE INTERRUPÇÃO DA SUSPENSÃO, COM A RETOMADA ANTECIPADA DA CONTINUIDADE DA PRESTAÇÃO DO SERVIÇO POR ORDEM ESCRITA DA ADMINISTRAÇÃO, ACOMPANHADA DE COMPROVANTE DE CIÊNCIA DA CONTRATADA, DEVIDAMENTE JUSTIFICADA E DOCUMENTADA NOS AUTOS.\r\n2.2.1  COM A SUSPENSÃO SUPRACITADA, REGISTRA-SE A READEQUAÇÃO DO NOVO PERÍODO DA VIGÊNCIA CONTRATUAL ATUAL, QUE SERIA DE 25/10/2024 A 25/10/2025, PASSA A SER DE 25/10/2024 A 31/07/2025 E 30/10/2025 A 23/01/2026, COM BASE NO ARTIGO 115, §5º, DA LEI N. 14.133/21, MANTENDO O PERÍODO DO CONTRATO ORIGINAL DA CONTRATAÇÃO.\r\n2.2.2. COM A PRORROGAÇÃO POR MAIS 12 (DOZE) MESES, ACIMA MENCIONADA, O NOVO PERÍODO DE VIGÊNCIA CONTRATUAL, APÓS A ASSINATURA DO PRESENTE ADITIVO, PASSA A SER DE 23/01/2026 A 23/01/2027.",
+        "Data Início": "23/01/2026",
+        "Data Fim": "23/01/2027",
+        "Vlr. Global": "49.666,62",
+        "Parcelas": "15",
+        "Vlr. Parcela": "3.311,11",
+        "Número Contrato": "09029/2023"
+      }
+    },
+    {
+      "contrato_id": "472286",
+      "dados": {
+        "Data Assinatura": "04/02/2025",
+        "Número": "09046/2024",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09046/2024 DE ACORDO COM PROCESSO NÚMERO: 48610201554202456",
+        "Data Início": "10/03/2025",
+        "Data Fim": "10/03/2027",
+        "Vlr. Global": "618.061,20",
+        "Parcelas": "24",
+        "Vlr. Parcela": "25.752,55",
+        "Número Contrato": "09046/2024"
       }
     },
     {
