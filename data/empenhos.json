@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-02-09T08:12:01.324145",
-  "total_registros": 2033,
+  "ultima_atualizacao": "2026-02-10T08:12:35.688377",
+  "total_registros": 2036,
   "dados": [
     {
       "contrato_id": "121472",
@@ -12945,6 +12945,24 @@
       }
     },
     {
+      "contrato_id": "342599",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000170",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09039/2024"
+      }
+    },
+    {
       "contrato_id": "166000",
       "dados": {
         "UG": "",
@@ -18103,6 +18121,24 @@
         "A liq.": "28.016,96",
         "Liquid.": "12.231,73",
         "Pg": "827.812,13",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09042/2024"
+      }
+    },
+    {
+      "contrato_id": "411245",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000168",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
@@ -24686,6 +24722,24 @@
         "UG": "323031",
         "Número": "2024NE000786",
         "PI": "-8 - SEM INFORMACAO",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09043/2024"
+      }
+    },
+    {
+      "contrato_id": "358892",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000169",
+        "PI": "-",
         "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
         "Emp.": "0,00",
         "A liq.": "0,00",
