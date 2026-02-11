@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-02-10T08:12:35.666392",
-  "total_registros": 2261,
+  "ultima_atualizacao": "2026-02-11T08:10:14.391738",
+  "total_registros": 2263,
   "dados": [
     {
       "contrato_id": "121472",
@@ -13152,6 +13152,15 @@
       }
     },
     {
+      "contrato_id": "745252",
+      "dados": {
+        "CPF": "***.330.087-**",
+        "Nome": "ANA LUCIA BRANT FERREIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09043/2025"
+      }
+    },
+    {
       "contrato_id": "771448",
       "dados": {
         "CPF": "***.486.387-**",
@@ -16136,6 +16145,15 @@
         "CPF": "***.009.017-**",
         "Nome": "HENRIQUE LAGUARDIA HERINGER FARIA",
         "Tipo": "Fiscal Setorial Substituto",
+        "Número Contrato": "09043/2024"
+      }
+    },
+    {
+      "contrato_id": "358892",
+      "dados": {
+        "CPF": "***.330.087-**",
+        "Nome": "ANA LUCIA BRANT FERREIRA",
+        "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09043/2024"
       }
     },

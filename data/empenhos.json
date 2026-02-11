@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-02-10T08:12:35.688377",
-  "total_registros": 2036,
+  "ultima_atualizacao": "2026-02-11T08:10:14.413795",
+  "total_registros": 2041,
   "dados": [
     {
       "contrato_id": "121472",
@@ -3109,6 +3109,24 @@
         "A liq.": "0,00",
         "Liquid.": "0,00",
         "Pg": "39.612,19",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "01026/2024"
+      }
+    },
+    {
+      "contrato_id": "277444",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000175",
+        "PI": "-",
+        "ND": "339035 - SERVICOS DE CONSULTORIA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
@@ -19050,6 +19068,42 @@
       "contrato_id": "253364",
       "dados": {
         "UG": "323031",
+        "Número": "2026NE000171",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "05020/2023"
+      }
+    },
+    {
+      "contrato_id": "253364",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000172",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "05020/2023"
+      }
+    },
+    {
+      "contrato_id": "253364",
+      "dados": {
+        "UG": "323031",
         "Número": "2024NE000385",
         "PI": "-8 - SEM INFORMACAO",
         "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
@@ -22539,6 +22593,24 @@
       }
     },
     {
+      "contrato_id": "776398",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000174",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "05020/2025"
+      }
+    },
+    {
       "contrato_id": "244752",
       "dados": {
         "UG": "323031",
@@ -24192,6 +24264,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09047/2025"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000173",
+        "PI": "-",
+        "ND": "339037 - LOCACAO DE MAO-DE-OBRA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09012/2023"
       }
     },
     {
