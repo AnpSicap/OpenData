@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-02-13T08:06:06.965613",
-  "total_registros": 2273,
+  "ultima_atualizacao": "2026-02-16T08:09:54.168108",
+  "total_registros": 2294,
   "dados": [
     {
       "contrato_id": "121472",
@@ -678,6 +678,15 @@
       }
     },
     {
+      "contrato_id": "100450",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01003/2021"
+      }
+    },
+    {
       "contrato_id": "559782",
       "dados": {
         "CPF": "***.330.607-**",
@@ -763,6 +772,15 @@
       "dados": {
         "CPF": "***.896.011-**",
         "Nome": "EDUARDO ERISTÔNIO RAMOS DE SOUSA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09034/2024"
+      }
+    },
+    {
+      "contrato_id": "320723",
+      "dados": {
+        "CPF": "***.930.317-**",
+        "Nome": "JOSE MONTEIRO DE OLIVEIRA",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09034/2024"
       }
@@ -2010,6 +2028,15 @@
       }
     },
     {
+      "contrato_id": "175165",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01034/2022"
+      }
+    },
+    {
       "contrato_id": "492242",
       "dados": {
         "CPF": "***.415.617-**",
@@ -2042,6 +2069,15 @@
         "CPF": "***.421.287-**",
         "Nome": "ARNALDO SHIOJI FERRADOSA ARCOVERDE",
         "Tipo": "Fiscal Substituto",
+        "Número Contrato": "01007/2022"
+      }
+    },
+    {
+      "contrato_id": "143932",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "01007/2022"
       }
     },
@@ -3513,6 +3549,15 @@
       }
     },
     {
+      "contrato_id": "121580",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01025/2021"
+      }
+    },
+    {
       "contrato_id": "221543",
       "dados": {
         "CPF": "***.327.947-**",
@@ -3590,6 +3635,15 @@
         "CPF": "***.565.627-**",
         "Nome": "MERCEDES SANTANA DA SILVA",
         "Tipo": "Fiscal Substituto",
+        "Número Contrato": "01008/2022"
+      }
+    },
+    {
+      "contrato_id": "144949",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "01008/2022"
       }
     },
@@ -3972,6 +4026,15 @@
       }
     },
     {
+      "contrato_id": "259191",
+      "dados": {
+        "CPF": "***.930.317-**",
+        "Nome": "JOSE MONTEIRO DE OLIVEIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09021/2024"
+      }
+    },
+    {
       "contrato_id": "108510",
       "dados": {
         "CPF": "***.025.391-**",
@@ -4121,6 +4184,15 @@
         "CPF": "***.565.627-**",
         "Nome": "MERCEDES SANTANA DA SILVA",
         "Tipo": "Fiscal Substituto",
+        "Número Contrato": "01020/2022"
+      }
+    },
+    {
+      "contrato_id": "157486",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "01020/2022"
       }
     },
@@ -4800,6 +4872,15 @@
       }
     },
     {
+      "contrato_id": "143084",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01006/2022"
+      }
+    },
+    {
       "contrato_id": "472291",
       "dados": {
         "CPF": "***.156.568-**",
@@ -5012,6 +5093,15 @@
         "CPF": "***.565.627-**",
         "Nome": "MERCEDES SANTANA DA SILVA",
         "Tipo": "Fiscal Substituto",
+        "Número Contrato": "01005/2023"
+      }
+    },
+    {
+      "contrato_id": "183302",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "01005/2023"
       }
     },
@@ -8049,6 +8139,15 @@
       }
     },
     {
+      "contrato_id": "161456",
+      "dados": {
+        "CPF": "***.930.317-**",
+        "Nome": "JOSE MONTEIRO DE OLIVEIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09033/2022"
+      }
+    },
+    {
       "contrato_id": "47479",
       "dados": {
         "CPF": "***.248.978-**",
@@ -10056,6 +10155,15 @@
       }
     },
     {
+      "contrato_id": "119225",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01026/2021"
+      }
+    },
+    {
       "contrato_id": "140925",
       "dados": {
         "CPF": "***.248.978-**",
@@ -10412,6 +10520,15 @@
         "CPF": "***.565.627-**",
         "Nome": "MERCEDES SANTANA DA SILVA",
         "Tipo": "Fiscal Substituto",
+        "Número Contrato": "01029/2021"
+      }
+    },
+    {
+      "contrato_id": "121587",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "01029/2021"
       }
     },
@@ -11347,6 +11464,15 @@
       "dados": {
         "CPF": "***.006.437-**",
         "Nome": "MONICA MARIZ DE CARVALHO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09010/2023"
+      }
+    },
+    {
+      "contrato_id": "194278",
+      "dados": {
+        "CPF": "***.930.317-**",
+        "Nome": "JOSE MONTEIRO DE OLIVEIRA",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09010/2023"
       }
@@ -13278,6 +13404,15 @@
       }
     },
     {
+      "contrato_id": "123132",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01027/2021"
+      }
+    },
+    {
       "contrato_id": "758237",
       "dados": {
         "CPF": "***.155.097-**",
@@ -14837,9 +14972,27 @@
     {
       "contrato_id": "119222",
       "dados": {
+        "CPF": "***.371.887-**",
+        "Nome": "EDUARDO DOS SANTOS BARROSO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01024/2021"
+      }
+    },
+    {
+      "contrato_id": "119222",
+      "dados": {
         "CPF": "***.565.627-**",
         "Nome": "MERCEDES SANTANA DA SILVA",
         "Tipo": "Fiscal Substituto",
+        "Número Contrato": "01024/2021"
+      }
+    },
+    {
+      "contrato_id": "119222",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "01024/2021"
       }
     },
@@ -15609,6 +15762,15 @@
       }
     },
     {
+      "contrato_id": "119226",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01028/2021"
+      }
+    },
+    {
       "contrato_id": "748600",
       "dados": {
         "CPF": "***.562.837-**",
@@ -15928,6 +16090,15 @@
       "dados": {
         "CPF": "***.006.437-**",
         "Nome": "MONICA MARIZ DE CARVALHO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "CPF": "***.930.317-**",
+        "Nome": "JOSE MONTEIRO DE OLIVEIRA",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09012/2023"
       }
@@ -16815,6 +16986,15 @@
       }
     },
     {
+      "contrato_id": "206402",
+      "dados": {
+        "CPF": "***.930.317-**",
+        "Nome": "JOSE MONTEIRO DE OLIVEIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
       "contrato_id": "167155",
       "dados": {
         "CPF": "***.174.041-**",
@@ -17503,6 +17683,15 @@
       "dados": {
         "CPF": "***.006.437-**",
         "Nome": "MONICA MARIZ DE CARVALHO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "04036/2024"
+      }
+    },
+    {
+      "contrato_id": "438978",
+      "dados": {
+        "CPF": "***.930.317-**",
+        "Nome": "JOSE MONTEIRO DE OLIVEIRA",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "04036/2024"
       }
