@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-02-19T08:04:17.229706",
-  "total_registros": 2294,
+  "ultima_atualizacao": "2026-02-20T08:03:49.419994",
+  "total_registros": 2316,
   "dados": [
     {
       "contrato_id": "121472",
@@ -11721,6 +11721,42 @@
       }
     },
     {
+      "contrato_id": "723974",
+      "dados": {
+        "CPF": "***.813.875-**",
+        "Nome": "ADRIANA NASCIMENTO SOUZA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "90015/2025"
+      }
+    },
+    {
+      "contrato_id": "723974",
+      "dados": {
+        "CPF": "***.921.555-**",
+        "Nome": "VANJOALDO DOS REIS LOPES NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "90015/2025"
+      }
+    },
+    {
+      "contrato_id": "723974",
+      "dados": {
+        "CPF": "***.731.796-**",
+        "Nome": "ROBERTO MOREIRA CALDEIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "90015/2025"
+      }
+    },
+    {
+      "contrato_id": "723974",
+      "dados": {
+        "CPF": "***.800.535-**",
+        "Nome": "MILENA NASCIMENTO SALES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "90015/2025"
+      }
+    },
+    {
       "contrato_id": "699712",
       "dados": {
         "CPF": "***.763.531-**",
@@ -15888,6 +15924,78 @@
       }
     },
     {
+      "contrato_id": "764364",
+      "dados": {
+        "CPF": "***.921.555-**",
+        "Nome": "VANJOALDO DOS REIS LOPES NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09044/2025"
+      }
+    },
+    {
+      "contrato_id": "764364",
+      "dados": {
+        "CPF": "***.813.875-**",
+        "Nome": "ADRIANA NASCIMENTO SOUZA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09044/2025"
+      }
+    },
+    {
+      "contrato_id": "764364",
+      "dados": {
+        "CPF": "***.731.796-**",
+        "Nome": "ROBERTO MOREIRA CALDEIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09044/2025"
+      }
+    },
+    {
+      "contrato_id": "764364",
+      "dados": {
+        "CPF": "***.800.535-**",
+        "Nome": "MILENA NASCIMENTO SALES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09044/2025"
+      }
+    },
+    {
+      "contrato_id": "764372",
+      "dados": {
+        "CPF": "***.813.875-**",
+        "Nome": "ADRIANA NASCIMENTO SOUZA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09045/2025"
+      }
+    },
+    {
+      "contrato_id": "764372",
+      "dados": {
+        "CPF": "***.921.555-**",
+        "Nome": "VANJOALDO DOS REIS LOPES NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09045/2025"
+      }
+    },
+    {
+      "contrato_id": "764372",
+      "dados": {
+        "CPF": "***.731.796-**",
+        "Nome": "ROBERTO MOREIRA CALDEIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09045/2025"
+      }
+    },
+    {
+      "contrato_id": "764372",
+      "dados": {
+        "CPF": "***.800.535-**",
+        "Nome": "MILENA NASCIMENTO SALES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09045/2025"
+      }
+    },
+    {
       "contrato_id": "170776",
       "dados": {
         "CPF": "***.959.447-**",
@@ -16011,6 +16119,78 @@
         "Nome": "SORAYA XAVIER FRANCO",
         "Tipo": "Gestor",
         "Número Contrato": "09004/2025"
+      }
+    },
+    {
+      "contrato_id": "764382",
+      "dados": {
+        "CPF": "***.813.875-**",
+        "Nome": "ADRIANA NASCIMENTO SOUZA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09046/2025"
+      }
+    },
+    {
+      "contrato_id": "764382",
+      "dados": {
+        "CPF": "***.921.555-**",
+        "Nome": "VANJOALDO DOS REIS LOPES NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09046/2025"
+      }
+    },
+    {
+      "contrato_id": "764382",
+      "dados": {
+        "CPF": "***.731.796-**",
+        "Nome": "ROBERTO MOREIRA CALDEIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09046/2025"
+      }
+    },
+    {
+      "contrato_id": "764382",
+      "dados": {
+        "CPF": "***.800.535-**",
+        "Nome": "MILENA NASCIMENTO SALES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09046/2025"
+      }
+    },
+    {
+      "contrato_id": "764387",
+      "dados": {
+        "CPF": "***.813.875-**",
+        "Nome": "ADRIANA NASCIMENTO SOUZA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09047/2025"
+      }
+    },
+    {
+      "contrato_id": "764387",
+      "dados": {
+        "CPF": "***.921.555-**",
+        "Nome": "VANJOALDO DOS REIS LOPES NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09047/2025"
+      }
+    },
+    {
+      "contrato_id": "764387",
+      "dados": {
+        "CPF": "***.731.796-**",
+        "Nome": "ROBERTO MOREIRA CALDEIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09047/2025"
+      }
+    },
+    {
+      "contrato_id": "764387",
+      "dados": {
+        "CPF": "***.800.535-**",
+        "Nome": "MILENA NASCIMENTO SALES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09047/2025"
       }
     },
     {
@@ -16605,6 +16785,24 @@
         "Nome": "RONAN MAGALHÃES AVILA",
         "Tipo": "Gestor Substituto",
         "Número Contrato": "05014/2025"
+      }
+    },
+    {
+      "contrato_id": "811014",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000163"
+      }
+    },
+    {
+      "contrato_id": "811014",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000163"
       }
     },
     {
