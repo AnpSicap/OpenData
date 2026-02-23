@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-02-20T08:03:49.419994",
-  "total_registros": 2316,
+  "ultima_atualizacao": "2026-02-23T08:10:03.384127",
+  "total_registros": 2320,
   "dados": [
     {
       "contrato_id": "121472",
@@ -2178,150 +2178,6 @@
         "Nome": "JOSÉ ESMERALDO BARRETO NETO",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09090/2016"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.009.017-**",
-        "Nome": "HENRIQUE LAGUARDIA HERINGER FARIA",
-        "Tipo": "Fiscal Setorial Substituto",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.612.598-**",
-        "Nome": "MATEUS COGO MARQUES",
-        "Tipo": "Fiscal Setorial",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.486.236-**",
-        "Nome": "EDER MARCIO SILVA DE OLIVEIRA",
-        "Tipo": "Fiscal Setorial",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.859.786-**",
-        "Nome": "THIAGO AUGUSTO DE FARIA MAGALHAES",
-        "Tipo": "Fiscal Setorial Substituto",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.977.262-**",
-        "Nome": "HELIVANDA CAVALCANTE DE SOUZA PAULINO",
-        "Tipo": "Fiscal Setorial Substituto",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.168.342-**",
-        "Nome": "LEONIDAS ARAÚJO VILHENA",
-        "Tipo": "Fiscal Setorial",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.330.087-**",
-        "Nome": "ANA LUCIA BRANT FERREIRA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.907.278-**",
-        "Nome": "WILSON LEONARDO RIBERO ESTEVES",
-        "Tipo": "Fiscal Setorial",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.404.477-**",
-        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.108.208-**",
-        "Nome": "SERGIO HENRIQUE SOUSA ALMEIDA",
-        "Tipo": "Fiscal Setorial Substituto",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.921.555-**",
-        "Nome": "VANJOALDO DOS REIS LOPES NETO",
-        "Tipo": "Fiscal Setorial Substituto",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.096.105-**",
-        "Nome": "PAULO ROBERTO CORREIA FRAGA",
-        "Tipo": "Fiscal Setorial",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.155.520-**",
-        "Nome": "ALEXANDER TOSO PAESE",
-        "Tipo": "Fiscal Setorial Substituto",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.800.535-**",
-        "Nome": "MILENA NASCIMENTO SALES",
-        "Tipo": "Fiscal Setorial",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.763.791-**",
-        "Nome": "OTTOMAR LUSTOSA MASCARENHAS",
-        "Tipo": "Fiscal Setorial",
-        "Número Contrato": "09008/2025"
-      }
-    },
-    {
-      "contrato_id": "522845",
-      "dados": {
-        "CPF": "***.275.691-**",
-        "Nome": "THIAGO ROCHA LADEIRA",
-        "Tipo": "Fiscal Setorial Substituto",
-        "Número Contrato": "09008/2025"
       }
     },
     {
@@ -19002,6 +18858,150 @@
       }
     },
     {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.009.017-**",
+        "Nome": "HENRIQUE LAGUARDIA HERINGER FARIA",
+        "Tipo": "Fiscal Setorial Substituto",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.612.598-**",
+        "Nome": "MATEUS COGO MARQUES",
+        "Tipo": "Fiscal Setorial",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.486.236-**",
+        "Nome": "EDER MARCIO SILVA DE OLIVEIRA",
+        "Tipo": "Fiscal Setorial",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.859.786-**",
+        "Nome": "THIAGO AUGUSTO DE FARIA MAGALHAES",
+        "Tipo": "Fiscal Setorial Substituto",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.977.262-**",
+        "Nome": "HELIVANDA CAVALCANTE DE SOUZA PAULINO",
+        "Tipo": "Fiscal Setorial Substituto",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.168.342-**",
+        "Nome": "LEONIDAS ARAÚJO VILHENA",
+        "Tipo": "Fiscal Setorial",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.330.087-**",
+        "Nome": "ANA LUCIA BRANT FERREIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.907.278-**",
+        "Nome": "WILSON LEONARDO RIBERO ESTEVES",
+        "Tipo": "Fiscal Setorial",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.404.477-**",
+        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.108.208-**",
+        "Nome": "SERGIO HENRIQUE SOUSA ALMEIDA",
+        "Tipo": "Fiscal Setorial Substituto",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.921.555-**",
+        "Nome": "VANJOALDO DOS REIS LOPES NETO",
+        "Tipo": "Fiscal Setorial Substituto",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.096.105-**",
+        "Nome": "PAULO ROBERTO CORREIA FRAGA",
+        "Tipo": "Fiscal Setorial",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.155.520-**",
+        "Nome": "ALEXANDER TOSO PAESE",
+        "Tipo": "Fiscal Setorial Substituto",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.800.535-**",
+        "Nome": "MILENA NASCIMENTO SALES",
+        "Tipo": "Fiscal Setorial",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.763.791-**",
+        "Nome": "OTTOMAR LUSTOSA MASCARENHAS",
+        "Tipo": "Fiscal Setorial",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
+      "contrato_id": "522845",
+      "dados": {
+        "CPF": "***.275.691-**",
+        "Nome": "THIAGO ROCHA LADEIRA",
+        "Tipo": "Fiscal Setorial Substituto",
+        "Número Contrato": "09008/2025"
+      }
+    },
+    {
       "contrato_id": "48163",
       "dados": {
         "CPF": "***.248.978-**",
@@ -20628,6 +20628,42 @@
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "08012/2019"
+      }
+    },
+    {
+      "contrato_id": "813077",
+      "dados": {
+        "CPF": "***.826.884-**",
+        "Nome": "NATALIE FERNANDA FERNANDES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2025NE000766"
+      }
+    },
+    {
+      "contrato_id": "813077",
+      "dados": {
+        "CPF": "***.327.947-**",
+        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "2025NE000766"
+      }
+    },
+    {
+      "contrato_id": "813077",
+      "dados": {
+        "CPF": "***.984.147-**",
+        "Nome": "JACSON DAMASCENO NUNES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000766"
+      }
+    },
+    {
+      "contrato_id": "813077",
+      "dados": {
+        "CPF": "***.163.777-**",
+        "Nome": "ALISSON CHRISTI VIEIRA ROCHA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2025NE000766"
       }
     },
     {
