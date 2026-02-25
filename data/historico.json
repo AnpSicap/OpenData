@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-02-24T08:07:10.494153",
+  "ultima_atualizacao": "2026-02-25T08:07:14.455842",
   "total_registros": 1415,
   "dados": [
     {
@@ -1195,7 +1195,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "24/02/2026",
+        "Data Fim": "25/02/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -7645,7 +7645,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "24/02/2026",
+        "Data Fim": "25/02/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8905,7 +8905,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "24/02/2026",
+        "Data Fim": "25/02/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -15108,6 +15108,51 @@
       }
     },
     {
+      "contrato_id": "245117",
+      "dados": {
+        "Data Assinatura": "21/02/2024",
+        "Número": "09014/2024",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09014/2024 DE ACORDO COM PROCESSO NÚMERO: 48600.201951/2022-85",
+        "Data Início": "21/02/2024",
+        "Data Fim": "21/02/2025",
+        "Vlr. Global": "744.448,28",
+        "Parcelas": "13",
+        "Vlr. Parcela": "57.265,25",
+        "Número Contrato": "09014/2024"
+      }
+    },
+    {
+      "contrato_id": "245117",
+      "dados": {
+        "Data Assinatura": "21/02/2025",
+        "Número": "00001/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR ATÉ 12 (DOZE) MESES, CONTADOS DE 21/02/2025 A 21/02/2026, COM FUNDAMENTO NO ARTIGO 107, DA LEI Nº 14.133/2021.\r\n\r\nREAJUSTAR EM, APROXIMADAMENTE, 3,88%, O CONTRATO ORIGINAL, EM RAZÃO DE VARIAÇÃO DO IPCA/IBGE ACUMULADO NO PERÍODO DE JANEIRO/2024 A OUTUBRO/2024, TENDO SEUS EFEITOS FINANCEIROS A PARTIR DE 25/01/2025.",
+        "Data Início": "21/02/2025",
+        "Data Fim": "21/02/2026",
+        "Vlr. Global": "773.332,87",
+        "Parcelas": "1",
+        "Vlr. Parcela": "773.332,87",
+        "Número Contrato": "09014/2024"
+      }
+    },
+    {
+      "contrato_id": "245117",
+      "dados": {
+        "Data Assinatura": "20/02/2026",
+        "Número": "00002/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR ATÉ 12 (DOZE) MESES, CONTADOS DE 21/02/2026 A 21/02/2027, COM FUNDAMENTO NO ARTIGO 107, DA LEI Nº 14.133/2021; E REAJUSTAR EM, APROXIMADAMENTE, 4,68%, O CONTRATO ORIGINAL, EM RAZÃO DE VARIAÇÃO DO IPCA/IBGE ACUMULADO NO PERÍODO DE NOVEMBRO/2024 A OUTUBRO/2025, TENDO SEUS EFEITOS FINANCEIROS A PARTIR DE 21/02/2026.",
+        "Data Início": "21/02/2026",
+        "Data Fim": "21/02/2027",
+        "Vlr. Global": "822.305,18",
+        "Parcelas": "1",
+        "Vlr. Parcela": "822.305,18",
+        "Número Contrato": "09014/2024"
+      }
+    },
+    {
       "contrato_id": "48162",
       "dados": {
         "Data Assinatura": "26/03/2019",
@@ -15783,51 +15828,6 @@
       }
     },
     {
-      "contrato_id": "245117",
-      "dados": {
-        "Data Assinatura": "21/02/2024",
-        "Número": "09014/2024",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09014/2024 DE ACORDO COM PROCESSO NÚMERO: 48600.201951/2022-85",
-        "Data Início": "21/02/2024",
-        "Data Fim": "21/02/2025",
-        "Vlr. Global": "744.448,28",
-        "Parcelas": "13",
-        "Vlr. Parcela": "57.265,25",
-        "Número Contrato": "09014/2024"
-      }
-    },
-    {
-      "contrato_id": "245117",
-      "dados": {
-        "Data Assinatura": "21/02/2025",
-        "Número": "00001/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR ATÉ 12 (DOZE) MESES, CONTADOS DE 21/02/2025 A 21/02/2026, COM FUNDAMENTO NO ARTIGO 107, DA LEI Nº 14.133/2021.\r\n\r\nREAJUSTAR EM, APROXIMADAMENTE, 3,88%, O CONTRATO ORIGINAL, EM RAZÃO DE VARIAÇÃO DO IPCA/IBGE ACUMULADO NO PERÍODO DE JANEIRO/2024 A OUTUBRO/2024, TENDO SEUS EFEITOS FINANCEIROS A PARTIR DE 25/01/2025.",
-        "Data Início": "21/02/2025",
-        "Data Fim": "21/02/2026",
-        "Vlr. Global": "773.332,87",
-        "Parcelas": "1",
-        "Vlr. Parcela": "773.332,87",
-        "Número Contrato": "09014/2024"
-      }
-    },
-    {
-      "contrato_id": "245117",
-      "dados": {
-        "Data Assinatura": "20/02/2026",
-        "Número": "00002/2026",
-        "Tipo": "Termo Aditivo",
-        "Observação": "1.1 PRORROGAR A VIGÊNCIA DO CONTRATO POR ATÉ 12 (DOZE) MESES, CONTADOS DE 21/02/2026 A 21/02/2027, COM FUNDAMENTO NO ARTIGO 107, DA LEI Nº 14.133/2021.\r\n1.2 REAJUSTAR EM, APROXIMADAMENTE, 4,68%, O CONTRATO ORIGINAL, EM RAZÃO DE VARIAÇÃO DO IPCA/IBGE ACUMULADO NO PERÍODO DE NOVEMBRO/2024 A OUTUBRO/2025, TENDO SEUS EFEITOS FINANCEIROS A PARTIR DE 21/02/2026.",
-        "Data Início": "21/02/2026",
-        "Data Fim": "21/02/2027",
-        "Vlr. Global": "822.305,18",
-        "Parcelas": "1",
-        "Vlr. Parcela": "822.305,18",
-        "Número Contrato": "09014/2024"
-      }
-    },
-    {
       "contrato_id": "206402",
       "dados": {
         "Data Assinatura": "08/08/2023",
@@ -16120,7 +16120,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "24/02/2026",
+        "Data Fim": "25/02/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16525,7 +16525,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "24/02/2026",
+        "Data Fim": "25/02/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16675,7 +16675,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "24/02/2026",
+        "Data Fim": "25/02/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",

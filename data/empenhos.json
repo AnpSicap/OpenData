@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-02-24T08:07:10.544588",
-  "total_registros": 2064,
+  "ultima_atualizacao": "2026-02-25T08:07:14.508154",
+  "total_registros": 2066,
   "dados": [
     {
       "contrato_id": "121472",
@@ -14115,6 +14115,24 @@
       }
     },
     {
+      "contrato_id": "161456",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000201",
+        "PI": "-",
+        "ND": "339037 - LOCACAO DE MAO-DE-OBRA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09033/2022"
+      }
+    },
+    {
       "contrato_id": "47479",
       "dados": {
         "UG": "323031",
@@ -21405,6 +21423,24 @@
       }
     },
     {
+      "contrato_id": "160742",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000203",
+        "PI": "-",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09032/2022"
+      }
+    },
+    {
       "contrato_id": "735307",
       "dados": {
         "UG": "323031",
@@ -24606,6 +24642,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "2024NE000095"
+      }
+    },
+    {
+      "contrato_id": "245117",
+      "dados": {
+        "UG": "",
+        "Número": "",
+        "PI": "-",
+        "ND": "-",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09014/2024"
       }
     },
     {
@@ -28368,24 +28422,6 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09015/2024"
-      }
-    },
-    {
-      "contrato_id": "245117",
-      "dados": {
-        "UG": "",
-        "Número": "",
-        "PI": "-",
-        "ND": "-",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09014/2024"
       }
     },
     {
