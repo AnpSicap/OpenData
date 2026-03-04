@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-03-03T07:58:49.684833",
-  "total_registros": 2080,
+  "ultima_atualizacao": "2026-03-04T07:53:23.774606",
+  "total_registros": 2083,
   "dados": [
     {
       "contrato_id": "121472",
@@ -19443,6 +19443,24 @@
       }
     },
     {
+      "contrato_id": "723974",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000223",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "90015/2025"
+      }
+    },
+    {
       "contrato_id": "146038",
       "dados": {
         "UG": "",
@@ -24642,6 +24660,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09014/2024"
+      }
+    },
+    {
+      "contrato_id": "822105",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000673",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "904,40",
+        "A liq.": "904,40",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2025NE000673"
       }
     },
     {
@@ -30937,6 +30973,24 @@
         "A liq.": "5.900,00",
         "Liquid.": "0,00",
         "Pg": "26.925,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09031/2021"
+      }
+    },
+    {
+      "contrato_id": "119486",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000222",
+        "PI": "-",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
