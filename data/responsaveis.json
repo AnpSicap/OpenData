@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-03-04T07:53:23.751918",
-  "total_registros": 2339,
+  "ultima_atualizacao": "2026-03-05T07:58:30.094080",
+  "total_registros": 2347,
   "dados": [
     {
       "contrato_id": "121472",
@@ -13179,6 +13179,24 @@
       }
     },
     {
+      "contrato_id": "745252",
+      "dados": {
+        "CPF": "***.404.477-**",
+        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09043/2025"
+      }
+    },
+    {
+      "contrato_id": "745252",
+      "dados": {
+        "CPF": "***.767.959-**",
+        "Nome": "PATRICK MOREIRA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09043/2025"
+      }
+    },
+    {
       "contrato_id": "771448",
       "dados": {
         "CPF": "***.486.387-**",
@@ -16959,6 +16977,33 @@
       }
     },
     {
+      "contrato_id": "822218",
+      "dados": {
+        "CPF": "***.330.087-**",
+        "Nome": "ANA LUCIA BRANT FERREIRA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2025NE000796"
+      }
+    },
+    {
+      "contrato_id": "822218",
+      "dados": {
+        "CPF": "***.404.477-**",
+        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2025NE000796"
+      }
+    },
+    {
+      "contrato_id": "822218",
+      "dados": {
+        "CPF": "***.767.959-**",
+        "Nome": "PATRICK MOREIRA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2025NE000796"
+      }
+    },
+    {
       "contrato_id": "206402",
       "dados": {
         "CPF": "***.697.927-**",
@@ -17271,6 +17316,33 @@
         "Nome": "SERGIO ALONSO TRIGO",
         "Tipo": "Gestor",
         "Número Contrato": "05055/2019"
+      }
+    },
+    {
+      "contrato_id": "822105",
+      "dados": {
+        "CPF": "***.330.087-**",
+        "Nome": "ANA LUCIA BRANT FERREIRA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2025NE000673"
+      }
+    },
+    {
+      "contrato_id": "822105",
+      "dados": {
+        "CPF": "***.404.477-**",
+        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2025NE000673"
+      }
+    },
+    {
+      "contrato_id": "822105",
+      "dados": {
+        "CPF": "***.767.959-**",
+        "Nome": "PATRICK MOREIRA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2025NE000673"
       }
     },
     {
