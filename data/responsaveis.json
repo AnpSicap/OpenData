@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-03-06T07:54:48.775556",
-  "total_registros": 2357,
+  "ultima_atualizacao": "2026-03-09T08:05:01.159724",
+  "total_registros": 2359,
   "dados": [
     {
       "contrato_id": "121472",
@@ -6008,9 +6008,9 @@
     {
       "contrato_id": "174683",
       "dados": {
-        "CPF": "***.792.977-**",
-        "Nome": "ALESSANDRA DA SILVA GOMES",
-        "Tipo": "Fiscal Administrativo Substituto",
+        "CPF": "***.897.637-**",
+        "Nome": "MARIA CRISTINA FALCÃO DE ALMEIDA E SILVA",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "09049/2022"
       }
     },
@@ -6019,6 +6019,15 @@
       "dados": {
         "CPF": "***.549.427-**",
         "Nome": "ANKE CORDEIRO MORAES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09049/2022"
+      }
+    },
+    {
+      "contrato_id": "174683",
+      "dados": {
+        "CPF": "***.330.017-**",
+        "Nome": "MINA SAITO",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09049/2022"
       }
@@ -6035,18 +6044,18 @@
     {
       "contrato_id": "174683",
       "dados": {
-        "CPF": "***.897.637-**",
-        "Nome": "MARIA CRISTINA FALCÃO DE ALMEIDA E SILVA",
-        "Tipo": "Fiscal Técnico",
+        "CPF": "***.428.127-**",
+        "Nome": "CLÁUDIO EDUARDO LOBATO DE ABREU ROCHA",
+        "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09049/2022"
       }
     },
     {
       "contrato_id": "174683",
       "dados": {
-        "CPF": "***.428.127-**",
-        "Nome": "CLÁUDIO EDUARDO LOBATO DE ABREU ROCHA",
-        "Tipo": "Fiscal Técnico Substituto",
+        "CPF": "***.792.977-**",
+        "Nome": "ALESSANDRA DA SILVA GOMES",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09049/2022"
       }
     },
@@ -17271,6 +17280,15 @@
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "09038/2023"
+      }
+    },
+    {
+      "contrato_id": "825910",
+      "dados": {
+        "CPF": "***.330.607-**",
+        "Nome": "ADEMAR FIGUEIREDO DOS SANTOS",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2026NE000166"
       }
     },
     {
