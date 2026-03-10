@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-03-09T08:05:01.182578",
-  "total_registros": 2106,
+  "ultima_atualizacao": "2026-03-10T07:57:02.983828",
+  "total_registros": 2107,
   "dados": [
     {
       "contrato_id": "121472",
@@ -13351,6 +13351,24 @@
         "A liq.": "0,00",
         "Liquid.": "0,00",
         "Pg": "239.313,48",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09017/2023"
+      }
+    },
+    {
+      "contrato_id": "210010",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000246",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",

@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-03-09T08:05:01.159724",
+  "ultima_atualizacao": "2026-03-10T07:57:02.960430",
   "total_registros": 2359,
   "dados": [
     {
@@ -7655,15 +7655,6 @@
     {
       "contrato_id": "657959",
       "dados": {
-        "CPF": "***.529.093-**",
-        "Nome": "MARIO DOS SANTOS FERNANDES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09024/2025"
-      }
-    },
-    {
-      "contrato_id": "657959",
-      "dados": {
         "CPF": "***.874.647-**",
         "Nome": "SORAYA XAVIER FRANCO",
         "Tipo": "Gestor",
@@ -7730,6 +7721,15 @@
         "CPF": "***.750.117-**",
         "Nome": "ALEXANDRE MACIEL DA SILVA",
         "Tipo": "Responsável Unidade Requisitante",
+        "Número Contrato": "09024/2025"
+      }
+    },
+    {
+      "contrato_id": "657959",
+      "dados": {
+        "CPF": "***.529.093-**",
+        "Nome": "MARIO DOS SANTOS FERNANDES",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "09024/2025"
       }
     },
@@ -8690,15 +8690,6 @@
     {
       "contrato_id": "757947",
       "dados": {
-        "CPF": "***.529.093-**",
-        "Nome": "MARIO DOS SANTOS FERNANDES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "2025NE000691"
-      }
-    },
-    {
-      "contrato_id": "757947",
-      "dados": {
         "CPF": "***.486.387-**",
         "Nome": "CLAUDIA VALERIA RIBEIRO MORANDE",
         "Tipo": "Fiscal Técnico Substituto",
@@ -8747,6 +8738,15 @@
         "CPF": "***.874.647-**",
         "Nome": "SORAYA XAVIER FRANCO",
         "Tipo": "Gestor",
+        "Número Contrato": "2025NE000691"
+      }
+    },
+    {
+      "contrato_id": "757947",
+      "dados": {
+        "CPF": "***.529.093-**",
+        "Nome": "MARIO DOS SANTOS FERNANDES",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "2025NE000691"
       }
     },
@@ -11453,15 +11453,6 @@
     {
       "contrato_id": "758185",
       "dados": {
-        "CPF": "***.529.093-**",
-        "Nome": "MARIO DOS SANTOS FERNANDES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "2025NE000693"
-      }
-    },
-    {
-      "contrato_id": "758185",
-      "dados": {
         "CPF": "***.486.387-**",
         "Nome": "CLAUDIA VALERIA RIBEIRO MORANDE",
         "Tipo": "Fiscal Técnico Substituto",
@@ -11537,6 +11528,15 @@
         "CPF": "***.352.637-**",
         "Nome": "VIVIAN WAINER DA SILVA BUENO",
         "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000693"
+      }
+    },
+    {
+      "contrato_id": "758185",
+      "dados": {
+        "CPF": "***.529.093-**",
+        "Nome": "MARIO DOS SANTOS FERNANDES",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "2025NE000693"
       }
     },
@@ -12101,15 +12101,6 @@
     {
       "contrato_id": "753869",
       "dados": {
-        "CPF": "***.529.093-**",
-        "Nome": "MARIO DOS SANTOS FERNANDES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "2025NE000690"
-      }
-    },
-    {
-      "contrato_id": "753869",
-      "dados": {
         "CPF": "***.486.387-**",
         "Nome": "CLAUDIA VALERIA RIBEIRO MORANDE",
         "Tipo": "Fiscal Técnico Substituto",
@@ -12131,6 +12122,15 @@
         "CPF": "***.893.147-**",
         "Nome": "THIAGO MARIANO DE SOUZA",
         "Tipo": "Gestor Substituto",
+        "Número Contrato": "2025NE000690"
+      }
+    },
+    {
+      "contrato_id": "753869",
+      "dados": {
+        "CPF": "***.529.093-**",
+        "Nome": "MARIO DOS SANTOS FERNANDES",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "2025NE000690"
       }
     },
@@ -12974,15 +12974,6 @@
     {
       "contrato_id": "758212",
       "dados": {
-        "CPF": "***.529.093-**",
-        "Nome": "MARIO DOS SANTOS FERNANDES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "2025NE000694"
-      }
-    },
-    {
-      "contrato_id": "758212",
-      "dados": {
         "CPF": "***.486.387-**",
         "Nome": "CLAUDIA VALERIA RIBEIRO MORANDE",
         "Tipo": "Fiscal Técnico Substituto",
@@ -13022,6 +13013,15 @@
         "CPF": "***.750.117-**",
         "Nome": "ALEXANDRE MACIEL DA SILVA",
         "Tipo": "Responsável Unidade Requisitante",
+        "Número Contrato": "2025NE000694"
+      }
+    },
+    {
+      "contrato_id": "758212",
+      "dados": {
+        "CPF": "***.529.093-**",
+        "Nome": "MARIO DOS SANTOS FERNANDES",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "2025NE000694"
       }
     },
@@ -13370,15 +13370,6 @@
     {
       "contrato_id": "758237",
       "dados": {
-        "CPF": "***.529.093-**",
-        "Nome": "MARIO DOS SANTOS FERNANDES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "2025NE000695"
-      }
-    },
-    {
-      "contrato_id": "758237",
-      "dados": {
         "CPF": "***.486.387-**",
         "Nome": "CLAUDIA VALERIA RIBEIRO MORANDE",
         "Tipo": "Fiscal Técnico Substituto",
@@ -13418,6 +13409,15 @@
         "CPF": "***.750.117-**",
         "Nome": "ALEXANDRE MACIEL DA SILVA",
         "Tipo": "Responsável Unidade Requisitante",
+        "Número Contrato": "2025NE000695"
+      }
+    },
+    {
+      "contrato_id": "758237",
+      "dados": {
+        "CPF": "***.529.093-**",
+        "Nome": "MARIO DOS SANTOS FERNANDES",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "2025NE000695"
       }
     },
@@ -13487,15 +13487,6 @@
     {
       "contrato_id": "758056",
       "dados": {
-        "CPF": "***.529.093-**",
-        "Nome": "MARIO DOS SANTOS FERNANDES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "2025NE000692"
-      }
-    },
-    {
-      "contrato_id": "758056",
-      "dados": {
         "CPF": "***.486.387-**",
         "Nome": "CLAUDIA VALERIA RIBEIRO MORANDE",
         "Tipo": "Fiscal Técnico Substituto",
@@ -13553,6 +13544,15 @@
         "CPF": "***.874.647-**",
         "Nome": "SORAYA XAVIER FRANCO",
         "Tipo": "Gestor",
+        "Número Contrato": "2025NE000692"
+      }
+    },
+    {
+      "contrato_id": "758056",
+      "dados": {
+        "CPF": "***.529.093-**",
+        "Nome": "MARIO DOS SANTOS FERNANDES",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "2025NE000692"
       }
     },
