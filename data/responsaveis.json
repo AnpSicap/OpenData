@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-03-10T07:57:02.960430",
-  "total_registros": 2359,
+  "ultima_atualizacao": "2026-03-11T08:00:04.918384",
+  "total_registros": 2369,
   "dados": [
     {
       "contrato_id": "121472",
@@ -11118,6 +11118,15 @@
       }
     },
     {
+      "contrato_id": "715666",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000605"
+      }
+    },
+    {
       "contrato_id": "15627",
       "dados": {
         "CPF": "***.823.874-**",
@@ -11842,6 +11851,15 @@
       "dados": {
         "CPF": "***.905.654-**",
         "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000607"
+      }
+    },
+    {
+      "contrato_id": "715850",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000607"
       }
@@ -17199,6 +17217,78 @@
         "Nome": "EDER MARCIO SILVA DE OLIVEIRA",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "2025NE000135"
+      }
+    },
+    {
+      "contrato_id": "828422",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000160"
+      }
+    },
+    {
+      "contrato_id": "828422",
+      "dados": {
+        "CPF": "***.750.044-**",
+        "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000160"
+      }
+    },
+    {
+      "contrato_id": "828422",
+      "dados": {
+        "CPF": "***.061.821-**",
+        "Nome": "EDNEIA CALIMAN",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000160"
+      }
+    },
+    {
+      "contrato_id": "828422",
+      "dados": {
+        "CPF": "***.320.476-**",
+        "Nome": "MARISTELA LOPES SILVA MELO",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2026NE000160"
+      }
+    },
+    {
+      "contrato_id": "828447",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000162"
+      }
+    },
+    {
+      "contrato_id": "828447",
+      "dados": {
+        "CPF": "***.750.044-**",
+        "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000162"
+      }
+    },
+    {
+      "contrato_id": "828447",
+      "dados": {
+        "CPF": "***.061.821-**",
+        "Nome": "EDNEIA CALIMAN",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000162"
+      }
+    },
+    {
+      "contrato_id": "828447",
+      "dados": {
+        "CPF": "***.320.476-**",
+        "Nome": "MARISTELA LOPES SILVA MELO",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2026NE000162"
       }
     },
     {

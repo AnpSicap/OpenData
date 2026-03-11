@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-03-10T07:57:02.983828",
-  "total_registros": 2107,
+  "ultima_atualizacao": "2026-03-11T08:00:04.943185",
+  "total_registros": 2109,
   "dados": [
     {
       "contrato_id": "121472",
@@ -29304,6 +29304,42 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "2025NE000135"
+      }
+    },
+    {
+      "contrato_id": "828422",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000160",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "2.600,68",
+        "A liq.": "2.600,68",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2026NE000160"
+      }
+    },
+    {
+      "contrato_id": "828447",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000162",
+        "PI": "-",
+        "ND": "339030 - MATERIAL DE CONSUMO",
+        "Emp.": "7.846,38",
+        "A liq.": "7.846,38",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2026NE000162"
       }
     },
     {
