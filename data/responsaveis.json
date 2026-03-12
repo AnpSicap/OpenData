@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-03-11T08:00:04.918384",
+  "ultima_atualizacao": "2026-03-12T08:02:33.534491",
   "total_registros": 2369,
   "dados": [
     {
@@ -2034,42 +2034,6 @@
         "Nome": "ELISABETH MACHADO LOURENÇO",
         "Tipo": "Fiscal Setorial",
         "Número Contrato": "2024NE000804"
-      }
-    },
-    {
-      "contrato_id": "143932",
-      "dados": {
-        "CPF": "***.565.627-**",
-        "Nome": "MERCEDES SANTANA DA SILVA",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "01007/2022"
-      }
-    },
-    {
-      "contrato_id": "143932",
-      "dados": {
-        "CPF": "***.371.887-**",
-        "Nome": "EDUARDO DOS SANTOS BARROSO",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "01007/2022"
-      }
-    },
-    {
-      "contrato_id": "143932",
-      "dados": {
-        "CPF": "***.421.287-**",
-        "Nome": "ARNALDO SHIOJI FERRADOSA ARCOVERDE",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "01007/2022"
-      }
-    },
-    {
-      "contrato_id": "143932",
-      "dados": {
-        "CPF": "***.452.547-**",
-        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "01007/2022"
       }
     },
     {
@@ -5907,69 +5871,6 @@
       }
     },
     {
-      "contrato_id": "247381",
-      "dados": {
-        "CPF": "***.470.941-**",
-        "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "09006/2024"
-      }
-    },
-    {
-      "contrato_id": "247381",
-      "dados": {
-        "CPF": "***.928.441-**",
-        "Nome": "CRISTIANE BRITO COSTA",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "09006/2024"
-      }
-    },
-    {
-      "contrato_id": "247381",
-      "dados": {
-        "CPF": "***.905.654-**",
-        "Nome": "BRUNO SALES BERNARDO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09006/2024"
-      }
-    },
-    {
-      "contrato_id": "247381",
-      "dados": {
-        "CPF": "***.137.741-**",
-        "Nome": "FILLIPE AUGUSTO DA COSTA GARCIA",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09006/2024"
-      }
-    },
-    {
-      "contrato_id": "247381",
-      "dados": {
-        "CPF": "***.647.246-**",
-        "Nome": "LARISSA NOEMI SILVA FREITAS",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "09006/2024"
-      }
-    },
-    {
-      "contrato_id": "247381",
-      "dados": {
-        "CPF": "***.566.343-**",
-        "Nome": "JULIANA PETRONILLIO HERNANDES",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09006/2024"
-      }
-    },
-    {
-      "contrato_id": "247381",
-      "dados": {
-        "CPF": "***.025.391-**",
-        "Nome": "CECILIA VARELA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09006/2024"
-      }
-    },
-    {
       "contrato_id": "112672",
       "dados": {
         "CPF": "***.905.654-**",
@@ -6177,60 +6078,6 @@
       }
     },
     {
-      "contrato_id": "247369",
-      "dados": {
-        "CPF": "***.470.941-**",
-        "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "09002/2024"
-      }
-    },
-    {
-      "contrato_id": "247369",
-      "dados": {
-        "CPF": "***.928.441-**",
-        "Nome": "CRISTIANE BRITO COSTA",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "09002/2024"
-      }
-    },
-    {
-      "contrato_id": "247369",
-      "dados": {
-        "CPF": "***.905.654-**",
-        "Nome": "BRUNO SALES BERNARDO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09002/2024"
-      }
-    },
-    {
-      "contrato_id": "247369",
-      "dados": {
-        "CPF": "***.137.741-**",
-        "Nome": "FILLIPE AUGUSTO DA COSTA GARCIA",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09002/2024"
-      }
-    },
-    {
-      "contrato_id": "247369",
-      "dados": {
-        "CPF": "***.647.246-**",
-        "Nome": "LARISSA NOEMI SILVA FREITAS",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "09002/2024"
-      }
-    },
-    {
-      "contrato_id": "247369",
-      "dados": {
-        "CPF": "***.025.391-**",
-        "Nome": "CECILIA VARELA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09002/2024"
-      }
-    },
-    {
       "contrato_id": "247374",
       "dados": {
         "CPF": "***.470.941-**",
@@ -6282,60 +6129,6 @@
         "Nome": "ANDREA CAMBRAIA VIDAL",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09003/2024"
-      }
-    },
-    {
-      "contrato_id": "247375",
-      "dados": {
-        "CPF": "***.470.941-**",
-        "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "09004/2024"
-      }
-    },
-    {
-      "contrato_id": "247375",
-      "dados": {
-        "CPF": "***.928.441-**",
-        "Nome": "CRISTIANE BRITO COSTA",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "09004/2024"
-      }
-    },
-    {
-      "contrato_id": "247375",
-      "dados": {
-        "CPF": "***.566.343-**",
-        "Nome": "JULIANA PETRONILLIO HERNANDES",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09004/2024"
-      }
-    },
-    {
-      "contrato_id": "247375",
-      "dados": {
-        "CPF": "***.905.654-**",
-        "Nome": "BRUNO SALES BERNARDO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09004/2024"
-      }
-    },
-    {
-      "contrato_id": "247375",
-      "dados": {
-        "CPF": "***.137.741-**",
-        "Nome": "FILLIPE AUGUSTO DA COSTA GARCIA",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09004/2024"
-      }
-    },
-    {
-      "contrato_id": "247375",
-      "dados": {
-        "CPF": "***.647.246-**",
-        "Nome": "LARISSA NOEMI SILVA FREITAS",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "09004/2024"
       }
     },
     {
@@ -6471,78 +6264,6 @@
         "Nome": "CECILIA VARELA",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09026/2020"
-      }
-    },
-    {
-      "contrato_id": "247388",
-      "dados": {
-        "CPF": "***.470.941-**",
-        "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "09009/2024"
-      }
-    },
-    {
-      "contrato_id": "247388",
-      "dados": {
-        "CPF": "***.928.441-**",
-        "Nome": "CRISTIANE BRITO COSTA",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "09009/2024"
-      }
-    },
-    {
-      "contrato_id": "247388",
-      "dados": {
-        "CPF": "***.566.343-**",
-        "Nome": "JULIANA PETRONILLIO HERNANDES",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09009/2024"
-      }
-    },
-    {
-      "contrato_id": "247388",
-      "dados": {
-        "CPF": "***.905.654-**",
-        "Nome": "BRUNO SALES BERNARDO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09009/2024"
-      }
-    },
-    {
-      "contrato_id": "247388",
-      "dados": {
-        "CPF": "***.137.741-**",
-        "Nome": "FILLIPE AUGUSTO DA COSTA GARCIA",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09009/2024"
-      }
-    },
-    {
-      "contrato_id": "247388",
-      "dados": {
-        "CPF": "***.647.246-**",
-        "Nome": "LARISSA NOEMI SILVA FREITAS",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "09009/2024"
-      }
-    },
-    {
-      "contrato_id": "247388",
-      "dados": {
-        "CPF": "***.750.044-**",
-        "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09009/2024"
-      }
-    },
-    {
-      "contrato_id": "247388",
-      "dados": {
-        "CPF": "***.025.391-**",
-        "Nome": "CECILIA VARELA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09009/2024"
       }
     },
     {
@@ -17013,6 +16734,42 @@
       }
     },
     {
+      "contrato_id": "143932",
+      "dados": {
+        "CPF": "***.565.627-**",
+        "Nome": "MERCEDES SANTANA DA SILVA",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "01007/2022"
+      }
+    },
+    {
+      "contrato_id": "143932",
+      "dados": {
+        "CPF": "***.371.887-**",
+        "Nome": "EDUARDO DOS SANTOS BARROSO",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "01007/2022"
+      }
+    },
+    {
+      "contrato_id": "143932",
+      "dados": {
+        "CPF": "***.421.287-**",
+        "Nome": "ARNALDO SHIOJI FERRADOSA ARCOVERDE",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "01007/2022"
+      }
+    },
+    {
+      "contrato_id": "143932",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01007/2022"
+      }
+    },
+    {
       "contrato_id": "253364",
       "dados": {
         "CPF": "***.025.391-**",
@@ -17193,6 +16950,78 @@
       }
     },
     {
+      "contrato_id": "247388",
+      "dados": {
+        "CPF": "***.470.941-**",
+        "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "09009/2024"
+      }
+    },
+    {
+      "contrato_id": "247388",
+      "dados": {
+        "CPF": "***.928.441-**",
+        "Nome": "CRISTIANE BRITO COSTA",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "09009/2024"
+      }
+    },
+    {
+      "contrato_id": "247388",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09009/2024"
+      }
+    },
+    {
+      "contrato_id": "247388",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09009/2024"
+      }
+    },
+    {
+      "contrato_id": "247388",
+      "dados": {
+        "CPF": "***.137.741-**",
+        "Nome": "FILLIPE AUGUSTO DA COSTA GARCIA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09009/2024"
+      }
+    },
+    {
+      "contrato_id": "247388",
+      "dados": {
+        "CPF": "***.647.246-**",
+        "Nome": "LARISSA NOEMI SILVA FREITAS",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09009/2024"
+      }
+    },
+    {
+      "contrato_id": "247388",
+      "dados": {
+        "CPF": "***.750.044-**",
+        "Nome": "SILVIO FRANK BARBOSA RODRIGUES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09009/2024"
+      }
+    },
+    {
+      "contrato_id": "247388",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09009/2024"
+      }
+    },
+    {
       "contrato_id": "431901",
       "dados": {
         "CPF": "***.731.796-**",
@@ -17217,6 +17046,60 @@
         "Nome": "EDER MARCIO SILVA DE OLIVEIRA",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "2025NE000135"
+      }
+    },
+    {
+      "contrato_id": "247369",
+      "dados": {
+        "CPF": "***.470.941-**",
+        "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "09002/2024"
+      }
+    },
+    {
+      "contrato_id": "247369",
+      "dados": {
+        "CPF": "***.928.441-**",
+        "Nome": "CRISTIANE BRITO COSTA",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "09002/2024"
+      }
+    },
+    {
+      "contrato_id": "247369",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09002/2024"
+      }
+    },
+    {
+      "contrato_id": "247369",
+      "dados": {
+        "CPF": "***.137.741-**",
+        "Nome": "FILLIPE AUGUSTO DA COSTA GARCIA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09002/2024"
+      }
+    },
+    {
+      "contrato_id": "247369",
+      "dados": {
+        "CPF": "***.647.246-**",
+        "Nome": "LARISSA NOEMI SILVA FREITAS",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09002/2024"
+      }
+    },
+    {
+      "contrato_id": "247369",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09002/2024"
       }
     },
     {
@@ -17382,6 +17265,60 @@
       }
     },
     {
+      "contrato_id": "247375",
+      "dados": {
+        "CPF": "***.470.941-**",
+        "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "09004/2024"
+      }
+    },
+    {
+      "contrato_id": "247375",
+      "dados": {
+        "CPF": "***.928.441-**",
+        "Nome": "CRISTIANE BRITO COSTA",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "09004/2024"
+      }
+    },
+    {
+      "contrato_id": "247375",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09004/2024"
+      }
+    },
+    {
+      "contrato_id": "247375",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09004/2024"
+      }
+    },
+    {
+      "contrato_id": "247375",
+      "dados": {
+        "CPF": "***.137.741-**",
+        "Nome": "FILLIPE AUGUSTO DA COSTA GARCIA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09004/2024"
+      }
+    },
+    {
+      "contrato_id": "247375",
+      "dados": {
+        "CPF": "***.647.246-**",
+        "Nome": "LARISSA NOEMI SILVA FREITAS",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09004/2024"
+      }
+    },
+    {
       "contrato_id": "824781",
       "dados": {
         "CPF": "***.486.387-**",
@@ -17469,6 +17406,69 @@
         "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
         "Tipo": "Responsável no Setor de Contratos",
         "Número Contrato": "2025NE000724"
+      }
+    },
+    {
+      "contrato_id": "247381",
+      "dados": {
+        "CPF": "***.470.941-**",
+        "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "09006/2024"
+      }
+    },
+    {
+      "contrato_id": "247381",
+      "dados": {
+        "CPF": "***.928.441-**",
+        "Nome": "CRISTIANE BRITO COSTA",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "09006/2024"
+      }
+    },
+    {
+      "contrato_id": "247381",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09006/2024"
+      }
+    },
+    {
+      "contrato_id": "247381",
+      "dados": {
+        "CPF": "***.137.741-**",
+        "Nome": "FILLIPE AUGUSTO DA COSTA GARCIA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09006/2024"
+      }
+    },
+    {
+      "contrato_id": "247381",
+      "dados": {
+        "CPF": "***.647.246-**",
+        "Nome": "LARISSA NOEMI SILVA FREITAS",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09006/2024"
+      }
+    },
+    {
+      "contrato_id": "247381",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09006/2024"
+      }
+    },
+    {
+      "contrato_id": "247381",
+      "dados": {
+        "CPF": "***.025.391-**",
+        "Nome": "CECILIA VARELA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09006/2024"
       }
     },
     {
