@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-03-12T08:02:33.534491",
+  "ultima_atualizacao": "2026-03-13T08:01:29.321558",
   "total_registros": 2369,
   "dados": [
     {
@@ -702,6 +702,33 @@
         "Nome": "CLAUDIA VALERIA RIBEIRO MORANDE",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "2025NE000276"
+      }
+    },
+    {
+      "contrato_id": "129118",
+      "dados": {
+        "CPF": "***.959.447-**",
+        "Nome": "JEAN DA CRUZ LOPES",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "09038/2021"
+      }
+    },
+    {
+      "contrato_id": "129118",
+      "dados": {
+        "CPF": "***.415.617-**",
+        "Nome": "ELISABETH MACHADO LOURENÇO",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "09038/2021"
+      }
+    },
+    {
+      "contrato_id": "129118",
+      "dados": {
+        "CPF": "***.622.527-**",
+        "Nome": "PRISCILA RAMOS BARRETO",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "09038/2021"
       }
     },
     {
@@ -3420,42 +3447,6 @@
         "Nome": "ADEMAR FIGUEIREDO DOS SANTOS",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "2024NE000719"
-      }
-    },
-    {
-      "contrato_id": "144949",
-      "dados": {
-        "CPF": "***.371.887-**",
-        "Nome": "EDUARDO DOS SANTOS BARROSO",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "01008/2022"
-      }
-    },
-    {
-      "contrato_id": "144949",
-      "dados": {
-        "CPF": "***.421.287-**",
-        "Nome": "ARNALDO SHIOJI FERRADOSA ARCOVERDE",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "01008/2022"
-      }
-    },
-    {
-      "contrato_id": "144949",
-      "dados": {
-        "CPF": "***.565.627-**",
-        "Nome": "MERCEDES SANTANA DA SILVA",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "01008/2022"
-      }
-    },
-    {
-      "contrato_id": "144949",
-      "dados": {
-        "CPF": "***.452.547-**",
-        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "01008/2022"
       }
     },
     {
@@ -14547,33 +14538,6 @@
       }
     },
     {
-      "contrato_id": "129118",
-      "dados": {
-        "CPF": "***.959.447-**",
-        "Nome": "JEAN DA CRUZ LOPES",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "09038/2021"
-      }
-    },
-    {
-      "contrato_id": "129118",
-      "dados": {
-        "CPF": "***.415.617-**",
-        "Nome": "ELISABETH MACHADO LOURENÇO",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "09038/2021"
-      }
-    },
-    {
-      "contrato_id": "129118",
-      "dados": {
-        "CPF": "***.622.527-**",
-        "Nome": "PRISCILA RAMOS BARRETO",
-        "Tipo": "Fiscal Requisitante",
-        "Número Contrato": "09038/2021"
-      }
-    },
-    {
       "contrato_id": "760150",
       "dados": {
         "CPF": "***.456.917-**",
@@ -17469,6 +17433,42 @@
         "Nome": "CECILIA VARELA",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09006/2024"
+      }
+    },
+    {
+      "contrato_id": "144949",
+      "dados": {
+        "CPF": "***.371.887-**",
+        "Nome": "EDUARDO DOS SANTOS BARROSO",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "01008/2022"
+      }
+    },
+    {
+      "contrato_id": "144949",
+      "dados": {
+        "CPF": "***.421.287-**",
+        "Nome": "ARNALDO SHIOJI FERRADOSA ARCOVERDE",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "01008/2022"
+      }
+    },
+    {
+      "contrato_id": "144949",
+      "dados": {
+        "CPF": "***.565.627-**",
+        "Nome": "MERCEDES SANTANA DA SILVA",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "01008/2022"
+      }
+    },
+    {
+      "contrato_id": "144949",
+      "dados": {
+        "CPF": "***.452.547-**",
+        "Nome": "DANIEL GASPAR PARENTE TEIXEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01008/2022"
       }
     },
     {
