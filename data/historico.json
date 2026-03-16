@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-03-13T08:01:29.293880",
-  "total_registros": 1434,
+  "ultima_atualizacao": "2026-03-16T08:23:26.700808",
+  "total_registros": 1435,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1315,7 +1315,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "13/03/2026",
+        "Data Fim": "16/03/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -6798,36 +6798,6 @@
       }
     },
     {
-      "contrato_id": "247384",
-      "dados": {
-        "Data Assinatura": "25/01/2024",
-        "Número": "09007/2024",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09007/2024 DE ACORDO COM PROCESSO NÚMERO: 48600.203008/2023-98",
-        "Data Início": "25/01/2024",
-        "Data Fim": "25/01/2025",
-        "Vlr. Global": "460.709,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "460.709,00",
-        "Número Contrato": "09007/2024"
-      }
-    },
-    {
-      "contrato_id": "247384",
-      "dados": {
-        "Data Assinatura": "23/01/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 48 (QUARENTA E OITO) MESES, COMPREENDENDO O PERÍODO DE 25/01/2025 A 25/01/2029, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93; REAJUSTAR EM, APROXIMADAMENTE, 3,88% APENAS PARA O SERVIÇO DE MANUTENÇÃO PREVENTIVA, ITEM 20 DO CONTRATO ORIGINAL, EM RAZÃO DE VARIAÇÃO DO IPCA/IBGE ACUMULADO NO PERÍODO DE JANEIRO/2024 A OUTUBRO/2024, TENDO SEUS EFEITOS FINANCEIROS A PARTIR DE 25/01/2025.",
-        "Data Início": "25/01/2025",
-        "Data Fim": "25/01/2029",
-        "Vlr. Global": "38.706,05",
-        "Parcelas": "1",
-        "Vlr. Parcela": "38.706,05",
-        "Número Contrato": "09007/2024"
-      }
-    },
-    {
       "contrato_id": "247386",
       "dados": {
         "Data Assinatura": "25/01/2024",
@@ -7390,7 +7360,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "13/03/2026",
+        "Data Fim": "16/03/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8650,7 +8620,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "13/03/2026",
+        "Data Fim": "16/03/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -16000,7 +15970,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "13/03/2026",
+        "Data Fim": "16/03/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16638,6 +16608,51 @@
       }
     },
     {
+      "contrato_id": "247384",
+      "dados": {
+        "Data Assinatura": "25/01/2024",
+        "Número": "09007/2024",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09007/2024 DE ACORDO COM PROCESSO NÚMERO: 48600.203008/2023-98",
+        "Data Início": "25/01/2024",
+        "Data Fim": "25/01/2025",
+        "Vlr. Global": "460.709,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "460.709,00",
+        "Número Contrato": "09007/2024"
+      }
+    },
+    {
+      "contrato_id": "247384",
+      "dados": {
+        "Data Assinatura": "23/01/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 48 (QUARENTA E OITO) MESES, COMPREENDENDO O PERÍODO DE 25/01/2025 A 25/01/2029, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93; REAJUSTAR EM, APROXIMADAMENTE, 3,88% APENAS PARA O SERVIÇO DE MANUTENÇÃO PREVENTIVA, ITEM 20 DO CONTRATO ORIGINAL, EM RAZÃO DE VARIAÇÃO DO IPCA/IBGE ACUMULADO NO PERÍODO DE JANEIRO/2024 A OUTUBRO/2024, TENDO SEUS EFEITOS FINANCEIROS A PARTIR DE 25/01/2025.",
+        "Data Início": "25/01/2025",
+        "Data Fim": "25/01/2029",
+        "Vlr. Global": "462.172,10",
+        "Parcelas": "1",
+        "Vlr. Parcela": "462.172,10",
+        "Número Contrato": "09007/2024"
+      }
+    },
+    {
+      "contrato_id": "247384",
+      "dados": {
+        "Data Assinatura": "13/03/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "1.1. RETIFICAR O ERRO MATERIAL IDENTIFICADO NO VALOR GLOBAL CONSTANTE DA CLÁUSULA TERCEIRA DO TERMO ADITIVO Nº 01 (SEI Nº 4662367) AO CONTRATO Nº 9.007/2024, UMA VEZ QUE, NA ELABORAÇÃO DO REFERIDO TERMO, FOI CONSIDERADO, DE FORMA INCORRETA, APENAS O SOMATÓRIO DOS VALORES DOS ITENS REAJUSTADOS ACRESCIDO DO MONTANTE DE R$ 460.709,00 (QUATROCENTOS E SESSENTA MIL SETECENTOS E NOVE REAIS), RESULTANDO NO VALOR TOTAL DE R$ 499.415,05 (QUATROCENTOS E NOVENTA E NOVE MIL QUATROCENTOS E QUINZE REAIS E CINCO CENTAVOS). O VALOR GLOBAL CORRETO, CONTUDO, DEVERIA CORRESPONDER À SOMA DOS VALORES DOS ITENS NÃO REAJUSTADOS COM OS VALORES DOS ITENS REAJUSTADOS, TOTALIZANDO R$ 462.172,10 (QUATROCENTOS E SESSENTA E DOIS MIL CENTO E SETENTA E DOIS REAIS E DEZ CENTAVOS). DESTA FORMA, VISANDO CORRIGIR O RESPECTIVO MONTANTE, SEGUE A PRESENTE RETIFICAÇÃO: \r\n\r\nONDE SE LÊ:\r\n\r\n\"COM A ALTERAÇÃO SUPRACITADA, O VALOR ANUAL DESTE TERMO ADITIVO É DE R$ 38.706,05 (TRINTA E OITO MIL SETECENTOS E SEIS REAIS E CINCO CENTAVOS), PERFAZENDO O VALOR TOTAL DO CONTRATO DE R$ 499.415,05 (QUATROCENTOS E NOVENTA E NOVE MIL QUATROCENTOS E QUINZE REAIS E CINCO CENTAVOS).\" \r\n\r\nLEIA-SE:\r\n\r\n\"COM A ALTERAÇÃO SUPRACITADA, O VALOR GLOBAL DO PRESENTE TERMO ADITIVO PASSA DE R$ 460.709,00 (QUATROCENTOS E SESSENTA MIL SETECENTOS E NOVE REAIS), PARA R$ 462.172,10 (QUATROCENTOS E SESSENTA E DOIS MIL CENTO E SETENTA E DOIS REAIS E DEZ CENTAVOS), PARA O PERÍODO PREVISTO NA SUBCLÁUSULA 2.1 DO TERMO ADITIVO SUPRACITADO.\"\r\n\r\n1.2. REAJUSTAR O VALOR DO CONTRATO Nº 9.007/24, REFERENTE AO ITEM 20, EM 4,46%, CONFORME APURAÇÃO CONSTANTE DA NOTA TÉCNICA Nº 41/2025/SBQ-CPT-CLI/SBQ/ANP-DF (SEI Nº 5376422), COM BASE NA VARIAÇÃO ACUMULADA DO IPCA/IBGE NOS ÚLTIMOS 12 (DOZE) MESES, CONTADOS A PARTIR DO PRIMEIRO REAJUSTE CONTRATUAL, OCORRIDO EM JANEIRO DE 2025, CONFORME TABELA DEMONSTRATIVA CONSTANTE DO DOCUMENTO SEI Nº 5376840  E NOS TERMOS DO ITEM 13.2 DO TERMO DE REFERÊNCIA.",
+        "Data Início": "25/01/2024",
+        "Data Fim": "25/01/2029",
+        "Vlr. Global": "463.919,15",
+        "Parcelas": "1",
+        "Vlr. Parcela": "463.919,15",
+        "Número Contrato": "09007/2024"
+      }
+    },
+    {
       "contrato_id": "103185",
       "dados": {
         "Data Assinatura": "23/03/2021",
@@ -16795,7 +16810,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "13/03/2026",
+        "Data Fim": "16/03/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16945,7 +16960,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "13/03/2026",
+        "Data Fim": "16/03/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
