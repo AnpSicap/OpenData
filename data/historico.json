@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-03-16T08:23:26.700808",
-  "total_registros": 1435,
+  "ultima_atualizacao": "2026-03-17T08:08:48.105147",
+  "total_registros": 1436,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1315,7 +1315,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "16/03/2026",
+        "Data Fim": "17/03/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -1815,66 +1815,6 @@
         "Parcelas": "60",
         "Vlr. Parcela": "887,00",
         "Número Contrato": "09026/2023"
-      }
-    },
-    {
-      "contrato_id": "262779",
-      "dados": {
-        "Data Assinatura": "15/04/2024",
-        "Número": "05001/2023",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 05001/2023 DE ACORDO COM PROCESSO NÚMERO: 48610.212539/2022-71",
-        "Data Início": "20/04/2024",
-        "Data Fim": "20/04/2025",
-        "Vlr. Global": "1.018.471,84",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.018.471,84",
-        "Número Contrato": "05001/2023"
-      }
-    },
-    {
-      "contrato_id": "262779",
-      "dados": {
-        "Data Assinatura": "13/09/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "2.1 ALTERAR QUANTITATIVAMENTE O CONTRATO, MEDIANTE SUPRESSÃO DE 04 LICENÇAS \"ORACLE DATABASE ENTERPRISE EDITION - PROCESSOR PERPETUAL\" E DAS 08 LICENÇAS \"ORACLE REAL APPLICATION CLUSTERS - PROCESSOR PERPETUAL\", A PARTIR DA ASSINATURA DO PRESENTE ADITIVO, VISANDO ADEQUAÇÃO AO ORÇAMENTO MAIS RESTRITO, EM RAZÃO DA PORTARIA GM/MPO Nº 63/2024, NA FORMA DISPOSTA NA NOTA TÉCNICA N.º 63/2024/STI-CONT/STI/ANP-RJ (SEI 4163549), OFÍCIO N.º 75/2024/STI-CONT/STI/ANP-RJ (SEI 4167812). \r\n\r\n \r\n\r\n2.2 ATUALIZAR OS  PREÇOS DOS ITENS REMANESCENTES DECORRENTE  DA POLÍTICA DE SUPORTE TÉCNICO A SOFTWARE DA CONTRATADA PREVISTA NO ANEXO I DO TERMO DE REFERÊNCIA (DOCUMENTO SEI  3833085), QUE FUNDAMENTA A \"FIXAÇÃO DE PREÇOS APÓS A REDUÇÃO DAS LICENÇAS OU DO NÍVEL DE SERVIÇO\". O DETALHAMENTO DOS NOVOS VALORES CONSTAM DA DA PLANILHA  (SEI 4164838).",
-        "Data Início": "13/09/2024",
-        "Data Fim": "20/04/2025",
-        "Vlr. Global": "778.876,91",
-        "Parcelas": "1",
-        "Vlr. Parcela": "778.876,91",
-        "Número Contrato": "05001/2023"
-      }
-    },
-    {
-      "contrato_id": "262779",
-      "dados": {
-        "Data Assinatura": "28/02/2025",
-        "Número": "00002/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 20/04/2025 A 20/04/2026, MANTIDOS OS MOLDES ORIGINAIS, COM FUNDAMENTO NO ARTIGO 107 DA LEI Nº 14.133, DE 2021, COMBINADO COM A CLÁUSULA 2 DO CONTRATO.\r\n\r\n \r\n\r\n2.2 ASSEGURAR À CONTRATADA O DIREITO DE POSTERIORMENTE PLEITEAR A REAJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO  DISPONHA DOS VALORES  A SEREM REAJUSTADOS.",
-        "Data Início": "20/04/2025",
-        "Data Fim": "20/04/2026",
-        "Vlr. Global": "778.876,91",
-        "Parcelas": "1",
-        "Vlr. Parcela": "778.876,91",
-        "Número Contrato": "05001/2023"
-      }
-    },
-    {
-      "contrato_id": "262779",
-      "dados": {
-        "Data Assinatura": "25/07/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR DO CONTRATO EM 7,10% COM BASE NO ICTI ACUMULADO DE FEVEREIRO/24 A JANEIRO/25, COM EFEITOS FINANCEIROS RETROATIVOS A 08/01/2025.",
-        "Data Início": "20/04/2024",
-        "Data Fim": "20/04/2026",
-        "Vlr. Global": "834.177,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "834.177,00",
-        "Número Contrato": "05001/2023"
       }
     },
     {
@@ -7360,7 +7300,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "16/03/2026",
+        "Data Fim": "17/03/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8620,7 +8560,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "16/03/2026",
+        "Data Fim": "17/03/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -13323,6 +13263,81 @@
       }
     },
     {
+      "contrato_id": "262779",
+      "dados": {
+        "Data Assinatura": "15/04/2024",
+        "Número": "05001/2023",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 05001/2023 DE ACORDO COM PROCESSO NÚMERO: 48610.212539/2022-71",
+        "Data Início": "20/04/2024",
+        "Data Fim": "20/04/2025",
+        "Vlr. Global": "1.018.471,84",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.018.471,84",
+        "Número Contrato": "05001/2023"
+      }
+    },
+    {
+      "contrato_id": "262779",
+      "dados": {
+        "Data Assinatura": "13/09/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1 ALTERAR QUANTITATIVAMENTE O CONTRATO, MEDIANTE SUPRESSÃO DE 04 LICENÇAS \"ORACLE DATABASE ENTERPRISE EDITION - PROCESSOR PERPETUAL\" E DAS 08 LICENÇAS \"ORACLE REAL APPLICATION CLUSTERS - PROCESSOR PERPETUAL\", A PARTIR DA ASSINATURA DO PRESENTE ADITIVO, VISANDO ADEQUAÇÃO AO ORÇAMENTO MAIS RESTRITO, EM RAZÃO DA PORTARIA GM/MPO Nº 63/2024, NA FORMA DISPOSTA NA NOTA TÉCNICA N.º 63/2024/STI-CONT/STI/ANP-RJ (SEI 4163549), OFÍCIO N.º 75/2024/STI-CONT/STI/ANP-RJ (SEI 4167812). \r\n\r\n \r\n\r\n2.2 ATUALIZAR OS  PREÇOS DOS ITENS REMANESCENTES DECORRENTE  DA POLÍTICA DE SUPORTE TÉCNICO A SOFTWARE DA CONTRATADA PREVISTA NO ANEXO I DO TERMO DE REFERÊNCIA (DOCUMENTO SEI  3833085), QUE FUNDAMENTA A \"FIXAÇÃO DE PREÇOS APÓS A REDUÇÃO DAS LICENÇAS OU DO NÍVEL DE SERVIÇO\". O DETALHAMENTO DOS NOVOS VALORES CONSTAM DA DA PLANILHA  (SEI 4164838).",
+        "Data Início": "13/09/2024",
+        "Data Fim": "20/04/2025",
+        "Vlr. Global": "778.876,91",
+        "Parcelas": "1",
+        "Vlr. Parcela": "778.876,91",
+        "Número Contrato": "05001/2023"
+      }
+    },
+    {
+      "contrato_id": "262779",
+      "dados": {
+        "Data Assinatura": "28/02/2025",
+        "Número": "00002/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 20/04/2025 A 20/04/2026, MANTIDOS OS MOLDES ORIGINAIS, COM FUNDAMENTO NO ARTIGO 107 DA LEI Nº 14.133, DE 2021, COMBINADO COM A CLÁUSULA 2 DO CONTRATO.\r\n\r\n \r\n\r\n2.2 ASSEGURAR À CONTRATADA O DIREITO DE POSTERIORMENTE PLEITEAR A REAJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO  DISPONHA DOS VALORES  A SEREM REAJUSTADOS.",
+        "Data Início": "20/04/2025",
+        "Data Fim": "20/04/2026",
+        "Vlr. Global": "778.876,91",
+        "Parcelas": "1",
+        "Vlr. Parcela": "778.876,91",
+        "Número Contrato": "05001/2023"
+      }
+    },
+    {
+      "contrato_id": "262779",
+      "dados": {
+        "Data Assinatura": "25/07/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO EM 7,10% COM BASE NO ICTI ACUMULADO DE FEVEREIRO/24 A JANEIRO/25, COM EFEITOS FINANCEIROS RETROATIVOS A 08/01/2025.",
+        "Data Início": "20/04/2024",
+        "Data Fim": "20/04/2026",
+        "Vlr. Global": "834.177,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "834.177,00",
+        "Número Contrato": "05001/2023"
+      }
+    },
+    {
+      "contrato_id": "262779",
+      "dados": {
+        "Data Assinatura": "13/03/2026",
+        "Número": "00003/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1. PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 20/04/2026 A 20/04/2027, MANTIDOS OS MOLDES ORIGINAIS, COM FUNDAMENTO NO ARTIGO 107 DA LEI Nº 14.133, DE 2021, COMBINADO COM A CLÁUSULA SEGUNDA  DO CONTRATO.\r\n\r\n2.2. ASSEGURAR À CONTRATADA O DIREITO DE POSTERIORMENTE PLEITEAR A REAJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO  DISPONHA DOS VALORES  A SEREM REAJUSTADOS.",
+        "Data Início": "20/04/2026",
+        "Data Fim": "20/04/2027",
+        "Vlr. Global": "834.177,00",
+        "Parcelas": "12",
+        "Vlr. Parcela": "69.514,75",
+        "Número Contrato": "05001/2023"
+      }
+    },
+    {
       "contrato_id": "762778",
       "dados": {
         "Data Assinatura": "08/12/2025",
@@ -15970,7 +15985,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "16/03/2026",
+        "Data Fim": "17/03/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16810,7 +16825,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "16/03/2026",
+        "Data Fim": "17/03/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16960,7 +16975,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "16/03/2026",
+        "Data Fim": "17/03/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
