@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-03-17T08:08:48.105147",
-  "total_registros": 1436,
+  "ultima_atualizacao": "2026-03-18T08:09:47.168365",
+  "total_registros": 1438,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1315,7 +1315,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "17/03/2026",
+        "Data Fim": "18/03/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -4803,111 +4803,6 @@
       }
     },
     {
-      "contrato_id": "143084",
-      "dados": {
-        "Data Assinatura": "14/04/2022",
-        "Número": "01006/2022",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 01006/2022 DE ACORDO COM PROCESSO NÚMERO: 48610.212446/2020-85",
-        "Data Início": "25/04/2022",
-        "Data Fim": "25/04/2025",
-        "Vlr. Global": "49.962.884,36",
-        "Parcelas": "35",
-        "Vlr. Parcela": "1.380.094,76",
-        "Número Contrato": "01006/2022"
-      }
-    },
-    {
-      "contrato_id": "143084",
-      "dados": {
-        "Data Assinatura": "28/06/2022",
-        "Número": "00001/2022",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "1. RETIFICAR, DE ACORDO COM A PROPOSTA COMERCIAL (1925278) DA CONTRATADA, ERROS MATERIAIS NO LOTE 1 (SÃO PAULO/SP) DA TABELA 2, CONTIDA NA CLÁUSULA PRIMEIRA DO CONTRATO Nº 1.006/2022 (SEI 2033361).\r\n2. RETIFICAR, DE ACORDO COM A PROPOSTA COMERCIAL (1925278) DA CONTRATADA, ERROS MATERIAIS NO LOTE 1 (MATO GROSSO DO SUL/MS) DA TABELA 2, CONTIDA NA CLÁUSULA PRIMEIRA DO CONTRATO Nº 1.006/2022 (SEI 2033361).",
-        "Data Início": "25/04/2022",
-        "Data Fim": "25/04/2023",
-        "Vlr. Global": "1.452.249,88",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.452.249,88",
-        "Número Contrato": "01006/2022"
-      }
-    },
-    {
-      "contrato_id": "143084",
-      "dados": {
-        "Data Assinatura": "25/04/2023",
-        "Número": "00001/2023",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 25/04/2023 E 25/04/2024, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93; E REAJUSTAR EM, APROXIMADAMENTE, 7,17% OS VALORES UNITÁRIOS DOS SERVIÇOS, EM RAZÃO DE VARIAÇÃO DO IPCA/IBGE ACUMULADO ENTRE OS PERÍODOS DE OUTUBRO/2021 A SETEMBRO/2022,  TENDO SEUS EFEITOS FINANCEIROS RETROAGINDO A 19/10/2022, COM FUNDAMENTO NO ITEM 15 DO PROJETO BÁSICO ANEXO AO INSTRUMENTO CONVOCATÓRIO.",
-        "Data Início": "25/04/2023",
-        "Data Fim": "25/04/2024",
-        "Vlr. Global": "1.452.249,88",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.452.249,88",
-        "Número Contrato": "01006/2022"
-      }
-    },
-    {
-      "contrato_id": "143084",
-      "dados": {
-        "Data Assinatura": "24/04/2024",
-        "Número": "00002/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE  25/04/2024 E  25/04/2025, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93;\r\n\r\nREAJUSTAR OS VALORES UNITÁRIOS DOS SERVIÇOS, EM APROXIMADAMENTE 5,18%, EM RAZÃO DE VARIAÇÃO DO IPCA/IBGE ACUMULADO ENTRE OS PERÍODOS DE OUTUBRO/2022 A SETEMBRO/2023,  TENDO SEUS EFEITOS FINANCEIROS RETROAGINDO A 19/10/2023, ÉPOCA EM QUE A CONTRATADA FAZ JUS AO REAJUSTE,  COM FUNDAMENTO NO ITEM 15 DO PROJETO BÁSICO ANEXO AO INSTRUMENTO CONVOCATÓRIO.",
-        "Data Início": "25/04/2024",
-        "Data Fim": "25/04/2025",
-        "Vlr. Global": "1.679.064,94",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.679.064,94",
-        "Número Contrato": "01006/2022"
-      }
-    },
-    {
-      "contrato_id": "143084",
-      "dados": {
-        "Data Assinatura": "18/07/2024",
-        "Número": "00003/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "1. ALTERAR QUANTITATIVAMENTE O OBJETO CONTRATUAL, MEDIANTE A SUPRESSÃO DO QUANTITATIVO DE AMOSTRAS DE MONITORAMENTO EM 25% PARA O ESTADO DE SÃO PAULO (BLOCO 2), PASSANDO-SE  DAS ATUAIS 166 AMOSTRAS PARA 124, E EM 10% O ESTADO DO MATO GROSSO DO SUL, PASSANDO-SE DAS ATUAIS 65 AMOSTRAS PARA 58, O QUE REPRESENTA REDUÇÃO DE 17,5% DO TOTAL DE AMOSTRAS DE MONITORAMENTO NO PRESENTE CONTRATO,  VISANDO ADEQUAÇÃO AO ORÇAMENTO MAIS RESTRITO, EM RAZÃO DA PORTARIA GM/MPO Nº 63/2024, COM FUNDAMENTO NO ART. 65, I, B DA LEI 8.666/93, E NA CLÁUSULA 10.1.1 DO CONTRATO.\r\n1.1. A SUPRESSÃO ACIMA MENCIONADA TERÁ SEUS EFEITOS FINANCEIROS A PARTIR DE 01/07/2024 OU A PARTIR DA DATA DA ASSINATURA DO PRESENTE TERMO ADITIVO, CASO ESTA VENHA A SER POSTERIOR A 01/07/2024.",
-        "Data Início": "18/07/2024",
-        "Data Fim": "25/04/2025",
-        "Vlr. Global": "1.380.094,76",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.380.094,76",
-        "Número Contrato": "01006/2022"
-      }
-    },
-    {
-      "contrato_id": "143084",
-      "dados": {
-        "Data Assinatura": "11/03/2025",
-        "Número": "00004/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "REGISTRAR A SUSPENSÃO DO CONTRATO POR 60 (SESSENTA) DIAS, CORRESPONDENTE AO PERÍODO DE 01/11/2024 A 31/12/2024, FORMALIZADA POR MEIO DO PELO OFÍCIO Nº 102/2024/SBQ-CGC/SBQ/ANP-RJ(DOCUMENTO SEI 4397824),NOS TERMOS DO ART. 78, INC. XIV, DA LEI N. 8.666/96, SEM PREJUÍZO DA POSSIBILIDADE DE INTERRUPÇÃO DA SUSPENSÃO, COM A RETOMADA ANTECIPADA DA CONTINUIDADE DA PRESTAÇÃO DO SERVIÇO POR ORDEM ESCRITA DA ADMINISTRAÇÃO, ACOMPANHADA DE COMPROVANTE DE CIÊNCIA DA CONTRATADA, DEVIDAMENTE JUSTIFICADA E DOCUMENTADA NOS AUTOS; COM A SUSPENSÃO SUPRACITADA, REGISTRA-SE A READEQUAÇÃO DO NOVO PERÍODO DA VIGÊNCIA CONTRATUAL, QUE É DE 25/04/2024 A 25/04/2025, E PASSA A SER DE 25/04/2024 A 31/10/2024 E 01/01/2025 A 24/06/2025, COM BASE NO ARTIGO 79, §5º, DA LEI 8.666/93, MANTENDO O PERÍODO DO CONTRATO ORIGINAL DA CONTRATAÇÃO. ALTERAR QUANTITATIVAMENTE O OBJETO CONTRATUAL, MEDIANTE A SUPRESSÃO DO QUANTITATIVO DE AMOSTRAS DE MONITORAMENTO EM 15% PARA O ESTADO DO MATO GROSSO DO SUL, PASSANDO DOS ATUAIS 58 AMOSTRAS PARA 48, VISANDO ADEQUAÇÃO AO ORÇAMENTO MAIS RESTRITO, EM RAZÃO DA PORTARIA GM/MPO Nº 63/2024, COM FUNDAMENTO NO ART. 65, I, B DA LEI 8.666/93, E NA CLÁUSULA 10.1.1 DO CONTRATO; REAJUSTAR EM APROXIMADAMENTE 4,42% OS VALORES DO CONTRATO, DE ACORDO COM O IPCA ACUMULADO NO PERÍODO DE OUTUBRO/2023 A SETEMBRO/2024, TENDO SEUS EFEITOS FINANCEIROS RETROAGINDO A 19/10/2024",
-        "Data Início": "11/03/2025",
-        "Data Fim": "24/06/2025",
-        "Vlr. Global": "1.380.094,76",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.380.094,76",
-        "Número Contrato": "01006/2022"
-      }
-    },
-    {
-      "contrato_id": "143084",
-      "dados": {
-        "Data Assinatura": "23/06/2025",
-        "Número": "00005/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 24/06/2025 A 24/06/2026, COM FUNDAMENTO NO QUE PRESCREVE O ARTIGO 57, INCISO II, DA LEI N° 8666/93.",
-        "Data Início": "24/06/2025",
-        "Data Fim": "24/06/2026",
-        "Vlr. Global": "1.297.631,73",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.297.631,73",
-        "Número Contrato": "01006/2022"
-      }
-    },
-    {
       "contrato_id": "472291",
       "dados": {
         "Data Assinatura": "19/02/2025",
@@ -7300,7 +7195,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "17/03/2026",
+        "Data Fim": "18/03/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8560,7 +8455,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "17/03/2026",
+        "Data Fim": "18/03/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -15588,6 +15483,126 @@
       }
     },
     {
+      "contrato_id": "143084",
+      "dados": {
+        "Data Assinatura": "14/04/2022",
+        "Número": "01006/2022",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 01006/2022 DE ACORDO COM PROCESSO NÚMERO: 48610.212446/2020-85",
+        "Data Início": "25/04/2022",
+        "Data Fim": "25/04/2025",
+        "Vlr. Global": "49.962.884,36",
+        "Parcelas": "35",
+        "Vlr. Parcela": "1.380.094,76",
+        "Número Contrato": "01006/2022"
+      }
+    },
+    {
+      "contrato_id": "143084",
+      "dados": {
+        "Data Assinatura": "28/06/2022",
+        "Número": "00001/2022",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "1. RETIFICAR, DE ACORDO COM A PROPOSTA COMERCIAL (1925278) DA CONTRATADA, ERROS MATERIAIS NO LOTE 1 (SÃO PAULO/SP) DA TABELA 2, CONTIDA NA CLÁUSULA PRIMEIRA DO CONTRATO Nº 1.006/2022 (SEI 2033361).\r\n2. RETIFICAR, DE ACORDO COM A PROPOSTA COMERCIAL (1925278) DA CONTRATADA, ERROS MATERIAIS NO LOTE 1 (MATO GROSSO DO SUL/MS) DA TABELA 2, CONTIDA NA CLÁUSULA PRIMEIRA DO CONTRATO Nº 1.006/2022 (SEI 2033361).",
+        "Data Início": "25/04/2022",
+        "Data Fim": "25/04/2023",
+        "Vlr. Global": "1.452.249,88",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.452.249,88",
+        "Número Contrato": "01006/2022"
+      }
+    },
+    {
+      "contrato_id": "143084",
+      "dados": {
+        "Data Assinatura": "25/04/2023",
+        "Número": "00001/2023",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 25/04/2023 E 25/04/2024, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93; E REAJUSTAR EM, APROXIMADAMENTE, 7,17% OS VALORES UNITÁRIOS DOS SERVIÇOS, EM RAZÃO DE VARIAÇÃO DO IPCA/IBGE ACUMULADO ENTRE OS PERÍODOS DE OUTUBRO/2021 A SETEMBRO/2022,  TENDO SEUS EFEITOS FINANCEIROS RETROAGINDO A 19/10/2022, COM FUNDAMENTO NO ITEM 15 DO PROJETO BÁSICO ANEXO AO INSTRUMENTO CONVOCATÓRIO.",
+        "Data Início": "25/04/2023",
+        "Data Fim": "25/04/2024",
+        "Vlr. Global": "1.452.249,88",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.452.249,88",
+        "Número Contrato": "01006/2022"
+      }
+    },
+    {
+      "contrato_id": "143084",
+      "dados": {
+        "Data Assinatura": "24/04/2024",
+        "Número": "00002/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE  25/04/2024 E  25/04/2025, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93;\r\n\r\nREAJUSTAR OS VALORES UNITÁRIOS DOS SERVIÇOS, EM APROXIMADAMENTE 5,18%, EM RAZÃO DE VARIAÇÃO DO IPCA/IBGE ACUMULADO ENTRE OS PERÍODOS DE OUTUBRO/2022 A SETEMBRO/2023,  TENDO SEUS EFEITOS FINANCEIROS RETROAGINDO A 19/10/2023, ÉPOCA EM QUE A CONTRATADA FAZ JUS AO REAJUSTE,  COM FUNDAMENTO NO ITEM 15 DO PROJETO BÁSICO ANEXO AO INSTRUMENTO CONVOCATÓRIO.",
+        "Data Início": "25/04/2024",
+        "Data Fim": "25/04/2025",
+        "Vlr. Global": "1.679.064,94",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.679.064,94",
+        "Número Contrato": "01006/2022"
+      }
+    },
+    {
+      "contrato_id": "143084",
+      "dados": {
+        "Data Assinatura": "18/07/2024",
+        "Número": "00003/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1. ALTERAR QUANTITATIVAMENTE O OBJETO CONTRATUAL, MEDIANTE A SUPRESSÃO DO QUANTITATIVO DE AMOSTRAS DE MONITORAMENTO EM 25% PARA O ESTADO DE SÃO PAULO (BLOCO 2), PASSANDO-SE  DAS ATUAIS 166 AMOSTRAS PARA 124, E EM 10% O ESTADO DO MATO GROSSO DO SUL, PASSANDO-SE DAS ATUAIS 65 AMOSTRAS PARA 58, O QUE REPRESENTA REDUÇÃO DE 17,5% DO TOTAL DE AMOSTRAS DE MONITORAMENTO NO PRESENTE CONTRATO,  VISANDO ADEQUAÇÃO AO ORÇAMENTO MAIS RESTRITO, EM RAZÃO DA PORTARIA GM/MPO Nº 63/2024, COM FUNDAMENTO NO ART. 65, I, B DA LEI 8.666/93, E NA CLÁUSULA 10.1.1 DO CONTRATO.\r\n1.1. A SUPRESSÃO ACIMA MENCIONADA TERÁ SEUS EFEITOS FINANCEIROS A PARTIR DE 01/07/2024 OU A PARTIR DA DATA DA ASSINATURA DO PRESENTE TERMO ADITIVO, CASO ESTA VENHA A SER POSTERIOR A 01/07/2024.",
+        "Data Início": "18/07/2024",
+        "Data Fim": "25/04/2025",
+        "Vlr. Global": "1.380.094,76",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.380.094,76",
+        "Número Contrato": "01006/2022"
+      }
+    },
+    {
+      "contrato_id": "143084",
+      "dados": {
+        "Data Assinatura": "11/03/2025",
+        "Número": "00004/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "REGISTRAR A SUSPENSÃO DO CONTRATO POR 60 (SESSENTA) DIAS, CORRESPONDENTE AO PERÍODO DE 01/11/2024 A 31/12/2024, FORMALIZADA POR MEIO DO PELO OFÍCIO Nº 102/2024/SBQ-CGC/SBQ/ANP-RJ(DOCUMENTO SEI 4397824),NOS TERMOS DO ART. 78, INC. XIV, DA LEI N. 8.666/96, SEM PREJUÍZO DA POSSIBILIDADE DE INTERRUPÇÃO DA SUSPENSÃO, COM A RETOMADA ANTECIPADA DA CONTINUIDADE DA PRESTAÇÃO DO SERVIÇO POR ORDEM ESCRITA DA ADMINISTRAÇÃO, ACOMPANHADA DE COMPROVANTE DE CIÊNCIA DA CONTRATADA, DEVIDAMENTE JUSTIFICADA E DOCUMENTADA NOS AUTOS; COM A SUSPENSÃO SUPRACITADA, REGISTRA-SE A READEQUAÇÃO DO NOVO PERÍODO DA VIGÊNCIA CONTRATUAL, QUE É DE 25/04/2024 A 25/04/2025, E PASSA A SER DE 25/04/2024 A 31/10/2024 E 01/01/2025 A 24/06/2025, COM BASE NO ARTIGO 79, §5º, DA LEI 8.666/93, MANTENDO O PERÍODO DO CONTRATO ORIGINAL DA CONTRATAÇÃO. ALTERAR QUANTITATIVAMENTE O OBJETO CONTRATUAL, MEDIANTE A SUPRESSÃO DO QUANTITATIVO DE AMOSTRAS DE MONITORAMENTO EM 15% PARA O ESTADO DO MATO GROSSO DO SUL, PASSANDO DOS ATUAIS 58 AMOSTRAS PARA 48, VISANDO ADEQUAÇÃO AO ORÇAMENTO MAIS RESTRITO, EM RAZÃO DA PORTARIA GM/MPO Nº 63/2024, COM FUNDAMENTO NO ART. 65, I, B DA LEI 8.666/93, E NA CLÁUSULA 10.1.1 DO CONTRATO; REAJUSTAR EM APROXIMADAMENTE 4,42% OS VALORES DO CONTRATO, DE ACORDO COM O IPCA ACUMULADO NO PERÍODO DE OUTUBRO/2023 A SETEMBRO/2024, TENDO SEUS EFEITOS FINANCEIROS RETROAGINDO A 19/10/2024",
+        "Data Início": "11/03/2025",
+        "Data Fim": "24/06/2025",
+        "Vlr. Global": "1.380.094,76",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.380.094,76",
+        "Número Contrato": "01006/2022"
+      }
+    },
+    {
+      "contrato_id": "143084",
+      "dados": {
+        "Data Assinatura": "23/06/2025",
+        "Número": "00005/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 24/06/2025 A 24/06/2026, COM FUNDAMENTO NO QUE PRESCREVE O ARTIGO 57, INCISO II, DA LEI N° 8666/93.",
+        "Data Início": "24/06/2025",
+        "Data Fim": "24/06/2026",
+        "Vlr. Global": "1.297.631,73",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.297.631,73",
+        "Número Contrato": "01006/2022"
+      }
+    },
+    {
+      "contrato_id": "143084",
+      "dados": {
+        "Data Assinatura": "13/03/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO EM 5,17%, EM DECORRÊNCIA DA APLICAÇÃO DO ÍNDICE IPCA ACUMULADO NO PERÍODO DE OUTUBRO/2024 A SETEMBRO/2025, TENDO SEUS EFEITOS FINANCEIROS VIGORANDO A PARTIR DE 19/10/2025, CONFORME PREVISÃO CONTIDA NO ITEM 15 DO PROJETO BÁSICO, E DETALHADO NA NOTA TÉCNICA Nº 4/2026/SBQ-CGC/SBQ/ANP-RJ.",
+        "Data Início": "25/04/2022",
+        "Data Fim": "24/06/2026",
+        "Vlr. Global": "1.341.146,37",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.341.146,37",
+        "Número Contrato": "01006/2022"
+      }
+    },
+    {
       "contrato_id": "143932",
       "dados": {
         "Data Assinatura": "28/04/2022",
@@ -15985,7 +16000,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "17/03/2026",
+        "Data Fim": "18/03/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16050,6 +16065,21 @@
         "Parcelas": "1",
         "Vlr. Parcela": "2.600,68",
         "Número Contrato": "2026NE000160"
+      }
+    },
+    {
+      "contrato_id": "833808",
+      "dados": {
+        "Data Assinatura": "22/12/2025",
+        "Número": "2025NE000776",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000776 DE ACORDO COM PROCESSO NÚMERO: 48610.226104/2025-57",
+        "Data Início": "23/12/2025",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "1.293,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.293,00",
+        "Número Contrato": "2025NE000776"
       }
     },
     {
@@ -16533,6 +16563,66 @@
       }
     },
     {
+      "contrato_id": "244924",
+      "dados": {
+        "Data Assinatura": "22/01/2024",
+        "Número": "09011/2024",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09011/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.226188/2023-67",
+        "Data Início": "22/01/2024",
+        "Data Fim": "22/01/2025",
+        "Vlr. Global": "165.300,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "165.300,00",
+        "Número Contrato": "09011/2024"
+      }
+    },
+    {
+      "contrato_id": "244924",
+      "dados": {
+        "Data Assinatura": "06/06/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "RETIFICAÇÃO DA DESCRIÇÃO NA CLÁUSULA 5.1 DO TERMO DE CONTRATO N° 9.011/24 (DOCUMENTO SEI Nº. 3689904), CONFORME DESCRITO ABAIXO:\r\n\r\n \r\n\r\nONDE SE LÊ: \"5.1 O VALOR MENSAL DA CONTRATAÇÃO É...\"\r\n\r\nLEIA-SE: \"5.1 O VALOR TOTAL DA CONTRATAÇÃO É...\"",
+        "Data Início": "22/01/2024",
+        "Data Fim": "22/01/2025",
+        "Vlr. Global": "165.300,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "165.300,00",
+        "Número Contrato": "09011/2024"
+      }
+    },
+    {
+      "contrato_id": "244924",
+      "dados": {
+        "Data Assinatura": "16/01/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1 PRORROGAR A VIGÊNCIA DO CONTRATO POR ATÉ 12 (DOZE) MESES, COMPREENDIDOS NO PERÍODO DE 22/01/2025 A 22/01/2026, COM FUNDAMENTO NO ARTIGO 107, DA LEI Nº 14.133/2021, MANTIDOS OS MOLDES VIGENTES, E DESCONTADOS OS CUSTOS DE INSTALAÇÃO NÃO PRORROGÁVEIS.",
+        "Data Início": "22/01/2025",
+        "Data Fim": "22/01/2026",
+        "Vlr. Global": "165.300,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "165.300,00",
+        "Número Contrato": "09011/2024"
+      }
+    },
+    {
+      "contrato_id": "244924",
+      "dados": {
+        "Data Assinatura": "21/01/2026",
+        "Número": "00002/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1. PRORROGAÇÃO DO PRAZO DE VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, CONTEMPLANDO-SE NESTA OCASIÃO, O PERÍODO DE 22/01/2026 A 22/01/2027, PODENDO SER PRORROGADO SUCESSIVAMENTE, RESPEITADA A VIGÊNCIA MÁXIMA DECENAL, NA FORMA DO ARTIGO 107 DA LEI Nº 14.133, DE 2021,  MANTIDOS OS MOLDES VIGENTES, E DESCONTADOS OS CUSTOS DE INSTALAÇÃO NÃO PRORROGÁVEIS.\r\n2 REGISTRAR A ALTERAÇÃO SUBJETIVA DECORRENTE DA CESSÃO DA TITULARIDADE DO CONTRATO, PASSANDO DA EMPRESA LOTUS ICT EMPREENDIMENTOS S.A, CNPJ 31.799.537/0001-97, PARA A EMPRESA SECURELINK S.A., CNPJ 55.646.709/0001-50, INTEGRANTES DO MESMO GRUPO EMPRESARIAL, EM DECORRÊNCIA DE REORGANIZAÇÃO EMPRESÁRIA, MANTIDAS AS CONDIÇÕES ANTERIORMENTE PACTUADAS, CONFORME O DISPOSTO NA  NOTA TÉCNICA Nº 91/2025/STI-CONT/STI/ANP-RJ (SEI 5387913) E NA MANIFESTAÇÃO DA CONTRATADA POR MEIO DOS EXPEDIENTES ENCARTADOS NOS DOCUMENTOS SEI 5240903 E 5390397.\r\n2.1  CONSIGNAR QUE OS EFEITOS E IMPACTOS DECORRENTES DA CESSÃO DA TITULARIDADE SUPRACITADA  TERÃO INÍCIO A PARTIR DE 22/01/2026, DATA DO INÍCIO DA VIGÊNCIA DO PRESENTE TERMO ADITIVO. OS PAGAMENTOS  RELATIVOS AO PERÍODO DE VIGÊNCIA DO SEGUNDO ADITIVO SERÃO REALIZADOS À NOVA A CONTRATADA SECURELINK S.A.",
+        "Data Início": "22/01/2026",
+        "Data Fim": "22/01/2027",
+        "Vlr. Global": "153.300,00",
+        "Parcelas": "12",
+        "Vlr. Parcela": "12.775,00",
+        "Número Contrato": "09011/2024"
+      }
+    },
+    {
       "contrato_id": "125613",
       "dados": {
         "Data Assinatura": "06/12/2021",
@@ -16825,7 +16915,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "17/03/2026",
+        "Data Fim": "18/03/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16975,7 +17065,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "17/03/2026",
+        "Data Fim": "18/03/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -21345,66 +21435,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "8.910,00",
         "Número Contrato": "2025NE000766"
-      }
-    },
-    {
-      "contrato_id": "244924",
-      "dados": {
-        "Data Assinatura": "22/01/2024",
-        "Número": "09011/2024",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09011/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.226188/2023-67",
-        "Data Início": "22/01/2024",
-        "Data Fim": "22/01/2025",
-        "Vlr. Global": "165.300,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "165.300,00",
-        "Número Contrato": "09011/2024"
-      }
-    },
-    {
-      "contrato_id": "244924",
-      "dados": {
-        "Data Assinatura": "06/06/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "RETIFICAÇÃO DA DESCRIÇÃO NA CLÁUSULA 5.1 DO TERMO DE CONTRATO N° 9.011/24 (DOCUMENTO SEI Nº. 3689904), CONFORME DESCRITO ABAIXO:\r\n\r\n \r\n\r\nONDE SE LÊ: \"5.1 O VALOR MENSAL DA CONTRATAÇÃO É...\"\r\n\r\nLEIA-SE: \"5.1 O VALOR TOTAL DA CONTRATAÇÃO É...\"",
-        "Data Início": "22/01/2024",
-        "Data Fim": "22/01/2025",
-        "Vlr. Global": "165.300,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "165.300,00",
-        "Número Contrato": "09011/2024"
-      }
-    },
-    {
-      "contrato_id": "244924",
-      "dados": {
-        "Data Assinatura": "16/01/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "2.1 PRORROGAR A VIGÊNCIA DO CONTRATO POR ATÉ 12 (DOZE) MESES, COMPREENDIDOS NO PERÍODO DE 22/01/2025 A 22/01/2026, COM FUNDAMENTO NO ARTIGO 107, DA LEI Nº 14.133/2021, MANTIDOS OS MOLDES VIGENTES, E DESCONTADOS OS CUSTOS DE INSTALAÇÃO NÃO PRORROGÁVEIS.",
-        "Data Início": "22/01/2025",
-        "Data Fim": "22/01/2026",
-        "Vlr. Global": "165.300,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "165.300,00",
-        "Número Contrato": "09011/2024"
-      }
-    },
-    {
-      "contrato_id": "244924",
-      "dados": {
-        "Data Assinatura": "21/01/2026",
-        "Número": "00002/2026",
-        "Tipo": "Termo Aditivo",
-        "Observação": "1. PRORROGAÇÃO DO PRAZO DE VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, CONTEMPLANDO-SE NESTA OCASIÃO, O PERÍODO DE 22/01/2026 A 22/01/2027, PODENDO SER PRORROGADO SUCESSIVAMENTE, RESPEITADA A VIGÊNCIA MÁXIMA DECENAL, NA FORMA DO ARTIGO 107 DA LEI Nº 14.133, DE 2021,  MANTIDOS OS MOLDES VIGENTES, E DESCONTADOS OS CUSTOS DE INSTALAÇÃO NÃO PRORROGÁVEIS.\r\n2 REGISTRAR A ALTERAÇÃO SUBJETIVA DECORRENTE DA CESSÃO DA TITULARIDADE DO CONTRATO, PASSANDO DA EMPRESA LOTUS ICT EMPREENDIMENTOS S.A, CNPJ 31.799.537/0001-97, PARA A EMPRESA SECURELINK S.A., CNPJ 55.646.709/0001-50, INTEGRANTES DO MESMO GRUPO EMPRESARIAL, EM DECORRÊNCIA DE REORGANIZAÇÃO EMPRESÁRIA, MANTIDAS AS CONDIÇÕES ANTERIORMENTE PACTUADAS, CONFORME O DISPOSTO NA  NOTA TÉCNICA Nº 91/2025/STI-CONT/STI/ANP-RJ (SEI 5387913) E NA MANIFESTAÇÃO DA CONTRATADA POR MEIO DOS EXPEDIENTES ENCARTADOS NOS DOCUMENTOS SEI 5240903 E 5390397.\r\n2.1  CONSIGNAR QUE OS EFEITOS E IMPACTOS DECORRENTES DA CESSÃO DA TITULARIDADE SUPRACITADA  TERÃO INÍCIO A PARTIR DE 22/01/2026, DATA DO INÍCIO DA VIGÊNCIA DO PRESENTE TERMO ADITIVO. OS PAGAMENTOS  RELATIVOS AO PERÍODO DE VIGÊNCIA DO SEGUNDO ADITIVO SERÃO REALIZADOS À NOVA A CONTRATADA SECURELINK S.A.",
-        "Data Início": "22/01/2026",
-        "Data Fim": "22/01/2027",
-        "Vlr. Global": "153.300,00",
-        "Parcelas": "12",
-        "Vlr. Parcela": "12.775,00",
-        "Número Contrato": "09011/2024"
       }
     },
     {
