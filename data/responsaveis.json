@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-03-18T08:09:47.195884",
-  "total_registros": 2369,
+  "ultima_atualizacao": "2026-03-19T08:03:39.258326",
+  "total_registros": 2396,
   "dados": [
     {
       "contrato_id": "121472",
@@ -125,6 +125,15 @@
         "CPF": "***.486.387-**",
         "Nome": "CLAUDIA VALERIA RIBEIRO MORANDE",
         "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2025NE000655"
+      }
+    },
+    {
+      "contrato_id": "738222",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000655"
       }
     },
@@ -1326,6 +1335,15 @@
       }
     },
     {
+      "contrato_id": "738252",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000650"
+      }
+    },
+    {
       "contrato_id": "738257",
       "dados": {
         "CPF": "***.486.387-**",
@@ -1699,6 +1717,15 @@
       "dados": {
         "CPF": "***.340.087-**",
         "Nome": "LUCIANA SILVA CORREIA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000687"
+      }
+    },
+    {
+      "contrato_id": "745874",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000687"
       }
@@ -2277,6 +2304,15 @@
         "Nome": "RICARDO RODRIGUES MONTEIRO",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2025NE000250"
+      }
+    },
+    {
+      "contrato_id": "222710",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09026/2023"
       }
     },
     {
@@ -3146,6 +3182,24 @@
     {
       "contrato_id": "313003",
       "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09031/2024"
+      }
+    },
+    {
+      "contrato_id": "313003",
+      "dados": {
+        "CPF": "***.889.617-**",
+        "Nome": "SANDRO CASSIANO DA COSTA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09031/2024"
+      }
+    },
+    {
+      "contrato_id": "313003",
+      "dados": {
         "CPF": "***.340.087-**",
         "Nome": "LUCIANA SILVA CORREIA",
         "Tipo": "Fiscal Administrativo",
@@ -3182,15 +3236,6 @@
     {
       "contrato_id": "313003",
       "dados": {
-        "CPF": "***.352.637-**",
-        "Nome": "VIVIAN WAINER DA SILVA BUENO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09031/2024"
-      }
-    },
-    {
-      "contrato_id": "313003",
-      "dados": {
         "CPF": "***.893.147-**",
         "Nome": "THIAGO MARIANO DE SOUZA",
         "Tipo": "Gestor Substituto",
@@ -3209,17 +3254,26 @@
     {
       "contrato_id": "313003",
       "dados": {
-        "CPF": "***.889.617-**",
-        "Nome": "SANDRO CASSIANO DA COSTA",
-        "Tipo": "Fiscal Técnico Substituto",
+        "CPF": "***.529.093-**",
+        "Nome": "MARIO DOS SANTOS FERNANDES",
+        "Tipo": "Fiscal Técnico",
         "Número Contrato": "09031/2024"
       }
     },
     {
       "contrato_id": "313003",
       "dados": {
-        "CPF": "***.529.093-**",
-        "Nome": "MARIO DOS SANTOS FERNANDES",
+        "CPF": "***.352.637-**",
+        "Nome": "VIVIAN WAINER DA SILVA BUENO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09031/2024"
+      }
+    },
+    {
+      "contrato_id": "313003",
+      "dados": {
+        "CPF": "***.126.417-**",
+        "Nome": "CARLOS ANDRÉ JACOMIM DOS SANTOS",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "09031/2024"
       }
@@ -4028,15 +4082,6 @@
     {
       "contrato_id": "148344",
       "dados": {
-        "CPF": "***.352.637-**",
-        "Nome": "VIVIAN WAINER DA SILVA BUENO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09018/2022"
-      }
-    },
-    {
-      "contrato_id": "148344",
-      "dados": {
         "CPF": "***.874.647-**",
         "Nome": "SORAYA XAVIER FRANCO",
         "Tipo": "Gestor",
@@ -4093,6 +4138,33 @@
       "dados": {
         "CPF": "***.889.617-**",
         "Nome": "SANDRO CASSIANO DA COSTA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09018/2022"
+      }
+    },
+    {
+      "contrato_id": "148344",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09018/2022"
+      }
+    },
+    {
+      "contrato_id": "148344",
+      "dados": {
+        "CPF": "***.352.637-**",
+        "Nome": "VIVIAN WAINER DA SILVA BUENO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09018/2022"
+      }
+    },
+    {
+      "contrato_id": "148344",
+      "dados": {
+        "CPF": "***.529.093-**",
+        "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09018/2022"
       }
@@ -4280,6 +4352,15 @@
     {
       "contrato_id": "110630",
       "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09015/2021"
+      }
+    },
+    {
+      "contrato_id": "110630",
+      "dados": {
         "CPF": "***.529.093-**",
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico Substituto",
@@ -4436,6 +4517,15 @@
         "CPF": "***.330.607-**",
         "Nome": "ADEMAR FIGUEIREDO DOS SANTOS",
         "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "08017/2020"
       }
     },
@@ -6179,6 +6269,15 @@
     {
       "contrato_id": "472276",
       "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09045/2024"
+      }
+    },
+    {
+      "contrato_id": "472276",
+      "dados": {
         "CPF": "***.413.288-**",
         "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
         "Tipo": "Responsável no Setor de Contratos",
@@ -6296,6 +6395,24 @@
     {
       "contrato_id": "146840",
       "dados": {
+        "CPF": "***.889.617-**",
+        "Nome": "SANDRO CASSIANO DA COSTA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
         "CPF": "***.893.147-**",
         "Nome": "THIAGO MARIANO DE SOUZA",
         "Tipo": "Gestor Substituto",
@@ -6353,15 +6470,6 @@
         "CPF": "***.874.647-**",
         "Nome": "SORAYA XAVIER FRANCO",
         "Tipo": "Gestor",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "CPF": "***.889.617-**",
-        "Nome": "SANDRO CASSIANO DA COSTA",
-        "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09017/2022"
       }
     },
@@ -7124,6 +7232,15 @@
     {
       "contrato_id": "210010",
       "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09017/2023"
+      }
+    },
+    {
+      "contrato_id": "210010",
+      "dados": {
         "CPF": "***.413.288-**",
         "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
         "Tipo": "Responsável Unidade Requisitante",
@@ -7214,15 +7331,6 @@
     {
       "contrato_id": "657959",
       "dados": {
-        "CPF": "***.352.637-**",
-        "Nome": "VIVIAN WAINER DA SILVA BUENO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09024/2025"
-      }
-    },
-    {
-      "contrato_id": "657959",
-      "dados": {
         "CPF": "***.874.647-**",
         "Nome": "SORAYA XAVIER FRANCO",
         "Tipo": "Gestor",
@@ -7297,6 +7405,33 @@
       "dados": {
         "CPF": "***.529.093-**",
         "Nome": "MARIO DOS SANTOS FERNANDES",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09024/2025"
+      }
+    },
+    {
+      "contrato_id": "657959",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09024/2025"
+      }
+    },
+    {
+      "contrato_id": "657959",
+      "dados": {
+        "CPF": "***.352.637-**",
+        "Nome": "VIVIAN WAINER DA SILVA BUENO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09024/2025"
+      }
+    },
+    {
+      "contrato_id": "657959",
+      "dados": {
+        "CPF": "***.126.417-**",
+        "Nome": "CARLOS ANDRÉ JACOMIM DOS SANTOS",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "09024/2025"
       }
@@ -9014,6 +9149,15 @@
     {
       "contrato_id": "472286",
       "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09046/2024"
+      }
+    },
+    {
+      "contrato_id": "472286",
+      "dados": {
         "CPF": "***.893.147-**",
         "Nome": "THIAGO MARIANO DE SOUZA",
         "Tipo": "Gestor Substituto",
@@ -10187,6 +10331,15 @@
         "CPF": "***.889.617-**",
         "Nome": "SANDRO CASSIANO DA COSTA",
         "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09038/2024"
+      }
+    },
+    {
+      "contrato_id": "346051",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09038/2024"
       }
     },
@@ -13397,6 +13550,15 @@
     {
       "contrato_id": "408531",
       "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09001/2025"
+      }
+    },
+    {
+      "contrato_id": "408531",
+      "dados": {
         "CPF": "***.529.093-**",
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico",
@@ -13741,6 +13903,15 @@
       "dados": {
         "CPF": "***.466.297-**",
         "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000795"
+      }
+    },
+    {
+      "contrato_id": "782663",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000795"
       }
@@ -15386,6 +15557,15 @@
     {
       "contrato_id": "479607",
       "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09004/2025"
+      }
+    },
+    {
+      "contrato_id": "479607",
+      "dados": {
         "CPF": "***.893.147-**",
         "Nome": "THIAGO MARIANO DE SOUZA",
         "Tipo": "Gestor Substituto",
@@ -16025,9 +16205,27 @@
     {
       "contrato_id": "188204",
       "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
         "CPF": "***.529.093-**",
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "CPF": "***.486.387-**",
+        "Nome": "CLAUDIA VALERIA RIBEIRO MORANDE",
+        "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "04050/2022"
       }
     },
@@ -16397,6 +16595,15 @@
         "CPF": "***.193.867-**",
         "Nome": "RAYANNE RODRIGUES LUIZ",
         "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09029/2024"
+      }
+    },
+    {
+      "contrato_id": "302298",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09029/2024"
       }
     },
@@ -17049,6 +17256,15 @@
       }
     },
     {
+      "contrato_id": "833808",
+      "dados": {
+        "CPF": "***.330.607-**",
+        "Nome": "ADEMAR FIGUEIREDO DOS SANTOS",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2025NE000776"
+      }
+    },
+    {
       "contrato_id": "828447",
       "dados": {
         "CPF": "***.025.391-**",
@@ -17153,6 +17369,15 @@
         "CPF": "***.126.417-**",
         "Nome": "CARLOS ANDRÉ JACOMIM DOS SANTOS",
         "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09038/2023"
+      }
+    },
+    {
+      "contrato_id": "243360",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09038/2023"
       }
     },
@@ -18059,27 +18284,9 @@
     {
       "contrato_id": "489558",
       "dados": {
-        "CPF": "***.750.117-**",
-        "Nome": "ALEXANDRE MACIEL DA SILVA",
-        "Tipo": "Responsável Unidade Requisitante",
-        "Número Contrato": "05044/2024"
-      }
-    },
-    {
-      "contrato_id": "489558",
-      "dados": {
         "CPF": "***.466.297-**",
         "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
         "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "05044/2024"
-      }
-    },
-    {
-      "contrato_id": "489558",
-      "dados": {
-        "CPF": "***.352.637-**",
-        "Nome": "VIVIAN WAINER DA SILVA BUENO",
-        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "05044/2024"
       }
     },
@@ -18104,6 +18311,15 @@
     {
       "contrato_id": "489558",
       "dados": {
+        "CPF": "***.352.637-**",
+        "Nome": "VIVIAN WAINER DA SILVA BUENO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05044/2024"
+      }
+    },
+    {
+      "contrato_id": "489558",
+      "dados": {
         "CPF": "***.126.417-**",
         "Nome": "CARLOS ANDRÉ JACOMIM DOS SANTOS",
         "Tipo": "Fiscal Técnico Substituto",
@@ -18113,9 +18329,27 @@
     {
       "contrato_id": "489558",
       "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05044/2024"
+      }
+    },
+    {
+      "contrato_id": "489558",
+      "dados": {
         "CPF": "***.529.093-**",
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico",
+        "Número Contrato": "05044/2024"
+      }
+    },
+    {
+      "contrato_id": "489558",
+      "dados": {
+        "CPF": "***.750.117-**",
+        "Nome": "ALEXANDRE MACIEL DA SILVA",
+        "Tipo": "Responsável Unidade Requisitante",
         "Número Contrato": "05044/2024"
       }
     },
@@ -21222,6 +21456,15 @@
         "Nome": "ANA LUCIA BRANT FERREIRA",
         "Tipo": "Apoio Administrativo",
         "Número Contrato": "09007/2025"
+      }
+    },
+    {
+      "contrato_id": "571013",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09012/2025"
       }
     },
     {
