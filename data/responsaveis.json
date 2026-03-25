@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-03-24T08:09:42.813194",
+  "ultima_atualizacao": "2026-03-25T08:09:27.802044",
   "total_registros": 2413,
   "dados": [
     {
@@ -441,33 +441,6 @@
         "Nome": "RODRIGO PEREIRA CÂMARA",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000578"
-      }
-    },
-    {
-      "contrato_id": "499564",
-      "dados": {
-        "CPF": "***.046.407-**",
-        "Nome": "LUIZ HENRIQUE DE OLIVEIRA BISPO",
-        "Tipo": "Gestor",
-        "Número Contrato": "09005/2025"
-      }
-    },
-    {
-      "contrato_id": "499564",
-      "dados": {
-        "CPF": "***.492.110-**",
-        "Nome": "RONALDO VINICIUS BENETTI",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09005/2025"
-      }
-    },
-    {
-      "contrato_id": "499564",
-      "dados": {
-        "CPF": "***.436.317-**",
-        "Nome": "AILTON GUIMARÃES PINHEIRO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09005/2025"
       }
     },
     {
@@ -16443,6 +16416,33 @@
         "Nome": "RONAN MAGALHÃES AVILA",
         "Tipo": "Gestor Substituto",
         "Número Contrato": "05014/2025"
+      }
+    },
+    {
+      "contrato_id": "499564",
+      "dados": {
+        "CPF": "***.046.407-**",
+        "Nome": "LUIZ HENRIQUE DE OLIVEIRA BISPO",
+        "Tipo": "Gestor",
+        "Número Contrato": "09005/2025"
+      }
+    },
+    {
+      "contrato_id": "499564",
+      "dados": {
+        "CPF": "***.492.110-**",
+        "Nome": "RONALDO VINICIUS BENETTI",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09005/2025"
+      }
+    },
+    {
+      "contrato_id": "499564",
+      "dados": {
+        "CPF": "***.436.317-**",
+        "Nome": "AILTON GUIMARÃES PINHEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09005/2025"
       }
     },
     {
