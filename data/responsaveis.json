@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-03-26T08:17:16.390379",
-  "total_registros": 2413,
+  "ultima_atualizacao": "2026-03-27T08:14:53.546130",
+  "total_registros": 2407,
   "dados": [
     {
       "contrato_id": "121472",
@@ -7155,24 +7155,6 @@
         "Nome": "RICARDO RODRIGUES MONTEIRO",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2025NE000683"
-      }
-    },
-    {
-      "contrato_id": "655048",
-      "dados": {
-        "CPF": "***.415.617-**",
-        "Nome": "ELISABETH MACHADO LOURENÇO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09022/2025"
-      }
-    },
-    {
-      "contrato_id": "655048",
-      "dados": {
-        "CPF": "***.622.527-**",
-        "Nome": "PRISCILA RAMOS BARRETO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09022/2025"
       }
     },
     {
@@ -17076,6 +17058,24 @@
       }
     },
     {
+      "contrato_id": "655048",
+      "dados": {
+        "CPF": "***.415.617-**",
+        "Nome": "ELISABETH MACHADO LOURENÇO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09022/2025"
+      }
+    },
+    {
+      "contrato_id": "655048",
+      "dados": {
+        "CPF": "***.622.527-**",
+        "Nome": "PRISCILA RAMOS BARRETO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09022/2025"
+      }
+    },
+    {
       "contrato_id": "247388",
       "dados": {
         "CPF": "***.470.941-**",
@@ -19629,60 +19629,6 @@
         "Nome": "GIANCARLO DE BARROS LUTTERBACH",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09034/2021"
-      }
-    },
-    {
-      "contrato_id": "47347",
-      "dados": {
-        "CPF": "***.262.975-**",
-        "Nome": "FRANCISCO NELSON CASTRO NEVES",
-        "Tipo": "Gestor",
-        "Número Contrato": "09039/2019"
-      }
-    },
-    {
-      "contrato_id": "47347",
-      "dados": {
-        "CPF": "***.470.207-**",
-        "Nome": "MARCELO DA SILVA",
-        "Tipo": "Gestor Substituto",
-        "Número Contrato": "09039/2019"
-      }
-    },
-    {
-      "contrato_id": "47347",
-      "dados": {
-        "CPF": "***.767.959-**",
-        "Nome": "PATRICK MOREIRA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09039/2019"
-      }
-    },
-    {
-      "contrato_id": "47347",
-      "dados": {
-        "CPF": "***.476.517-**",
-        "Nome": "KARLA CURSINO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09039/2019"
-      }
-    },
-    {
-      "contrato_id": "47347",
-      "dados": {
-        "CPF": "***.612.598-**",
-        "Nome": "MATEUS COGO MARQUES",
-        "Tipo": "Fiscal Setorial",
-        "Número Contrato": "09039/2019"
-      }
-    },
-    {
-      "contrato_id": "47347",
-      "dados": {
-        "CPF": "***.539.347-**",
-        "Nome": "ESTEFANY GONZAGA JERONIMO",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "09039/2019"
       }
     },
     {
