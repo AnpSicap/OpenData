@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-04-01T08:31:17.556396",
-  "total_registros": 1443,
+  "ultima_atualizacao": "2026-04-02T08:22:50.861037",
+  "total_registros": 1444,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1300,7 +1300,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "01/04/2026",
+        "Data Fim": "02/04/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -6753,81 +6753,6 @@
       }
     },
     {
-      "contrato_id": "146840",
-      "dados": {
-        "Data Assinatura": "20/05/2022",
-        "Número": "09017/2022",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09017/2022 DE ACORDO COM PROCESSO NÚMERO: 48610.217998/2021-61",
-        "Data Início": "20/05/2022",
-        "Data Fim": "20/05/2023",
-        "Vlr. Global": "27.090,10",
-        "Parcelas": "12",
-        "Vlr. Parcela": "2.257,51",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "Data Assinatura": "13/03/2023",
-        "Número": "00001/2022",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAÇÃO DE VIGÊNCIA",
-        "Data Início": "20/05/2023",
-        "Data Fim": "20/05/2024",
-        "Vlr. Global": "27.090,10",
-        "Parcelas": "12",
-        "Vlr. Parcela": "2.257,51",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "Data Assinatura": "05/02/2024",
-        "Número": "00002/2022",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAÇÃO DE VIGÊNCIA E REAJUSTE DE PREÇOS.",
-        "Data Início": "20/05/2024",
-        "Data Fim": "20/05/2025",
-        "Vlr. Global": "28.223,74",
-        "Parcelas": "12",
-        "Vlr. Parcela": "2.351,98",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "Data Assinatura": "10/02/2025",
-        "Número": "00003/2022",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAÇÃO DA VIGÊNCIA E REAJUSTE DE PREÇOS.",
-        "Data Início": "20/05/2025",
-        "Data Fim": "20/05/2026",
-        "Vlr. Global": "29.264,40",
-        "Parcelas": "12",
-        "Vlr. Parcela": "2.438,70",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "Data Assinatura": "07/04/2025",
-        "Número": "00004/2022",
-        "Tipo": "Termo Aditivo",
-        "Observação": "RETIFICAR O ERRO MATERIAL QUE CONSTA NA TABELA CONTIDA NA CLÁUSULA TERCEIRA DO TERMO ADITIVO Nº. 03 AO CONTRATO Nº 9.017/2022 (SEI 4657451), EM ESPECIAL QUANTO AOS VALORES UNITÁRIOS E TOTAL REGISTRADOS NA RESPECTIVA TABELA.",
-        "Data Início": "20/05/2025",
-        "Data Fim": "20/05/2026",
-        "Vlr. Global": "29.264,40",
-        "Parcelas": "12",
-        "Vlr. Parcela": "2.438,70",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
       "contrato_id": "47409",
       "dados": {
         "Data Assinatura": "05/04/2019",
@@ -7165,7 +7090,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "01/04/2026",
+        "Data Fim": "02/04/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8410,7 +8335,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "01/04/2026",
+        "Data Fim": "02/04/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -15850,7 +15775,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "01/04/2026",
+        "Data Fim": "02/04/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16563,96 +16488,6 @@
       }
     },
     {
-      "contrato_id": "199407",
-      "dados": {
-        "Data Assinatura": "21/06/2023",
-        "Número": "09012/2023",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09012/2023 DE ACORDO COM PROCESSO NÚMERO: 48650.202080/2022-21",
-        "Data Início": "03/07/2023",
-        "Data Fim": "03/01/2026",
-        "Vlr. Global": "399.957,90",
-        "Parcelas": "30",
-        "Vlr. Parcela": "13.331,93",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
-        "Data Assinatura": "12/01/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR DO CONTRATO EM 7,22%,  COM BASE NA CONVENÇÃO COLETIVA DO TRABALHO - CCT/SEEAC RS004917/2023 (SEI Nº 3685172) CUJA A VIGÊNCIA COMPREENDE O PERÍODO DE 01/01/2024 A 31/12/2024, COM EFEITOS RETROATIVOS A 01/01/2024, CONFORME DISPOSTO NO DETALHAMENTO DE CUSTOS (SEI Nº 3685170) E  NA NOTA TÉCNICA Nº 1/2024/SFI-NPA-ADM/SFI-NPA-EXE/SFI/ANP-RS (SEI Nº 3690492).",
-        "Data Início": "03/07/2023",
-        "Data Fim": "03/01/2026",
-        "Vlr. Global": "423.133,37",
-        "Parcelas": "30",
-        "Vlr. Parcela": "14.104,45",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
-        "Data Assinatura": "09/04/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "O PRESENTE TERMO ADITIVO TEM POR OBJETO REDUZIR A JORNADA DE TRABALHO DE 44 HORAS PARA 40 HORAS SEMANAIS DOS SEGUINTES SERVIÇOS CONTÍNUOS, OBJETO DO CONTRATO Nº  9.012/23, NA FORMA DO ART. 4º DO DECRETO Nº 12.174, DE 11DE SETEMBRO DE 2024, E DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 5 DE DEZEMBRO DE 2024.",
-        "Data Início": "09/04/2025",
-        "Data Fim": "03/01/2026",
-        "Vlr. Global": "399.957,90",
-        "Parcelas": "30",
-        "Vlr. Parcela": "13.331,93",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
-        "Data Assinatura": "29/08/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REPACTUAR O VALOR DO CONTRATO CONTRATO Nº 9.012/23 EM 3,1200%, COM BASE NA CONVENÇÃO COLETIVA DO TRABALHO RS000040/2025-SEAC/RS (SEI Nº 4832212) CUJA A VIGÊNCIA COMPREENDE O PERÍODO DE 01/01/2025 A 31/12/2025, COM EFEITOS RETROATIVOS A 01/01/2025, CONFORME DISPOSTO NA PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇO (SEI Nº5210508) E NA NA NOTA TÉCNICA Nº 20/2025/SGP-CAP/SGP/ANP-RJ (SEI Nº 4832281).",
-        "Data Início": "03/07/2023",
-        "Data Fim": "03/01/2026",
-        "Vlr. Global": "436.335,04",
-        "Parcelas": "30",
-        "Vlr. Parcela": "14.544,50",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
-        "Data Assinatura": "26/12/2025",
-        "Número": "00002/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DE 03/01/2026 A 03/07/2028, PELO PERÍODO DE 30 (TRINTA) MESES , COM FUNDAMENTO NOS ARTIGOS 107 E 108 DA LEI Nº. 14.133/2021, COMBINADO COM A CLÁUSULA SEGUNDA DO CONTRATO EM APREÇO; E   ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR REPACTUAÇÃO DOS CUSTOS CONTRATUAIS NO MOMENTO OPORTUNO, MANTIDAS AS DEMAIS CONDIÇÕES ANTERIORMENTE PACTUADAS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SÉTIMA DO CONTRATO.",
-        "Data Início": "03/01/2026",
-        "Data Fim": "03/07/2028",
-        "Vlr. Global": "455.183,88",
-        "Parcelas": "30",
-        "Vlr. Parcela": "15.172,80",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
-        "Data Assinatura": "25/03/2026",
-        "Número": "00001/2026",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REPACTUAR O VALOR DO CONTRATO CONTRATO Nº 9.012/23 EM 6,4620%, COM IMPACTOS FINANCEIROS RETROAGINDO À JANEIRO/2026, EM VIRTUDE DOS AJUSTES DOS VALORES DECORRENTES DA CONVENÇÃO COLETIVA DE TRABALHO -  CCT,  REGISTRADA NO MINISTÉRIO DO TRABALHO E EMPREGO (MTE) COMO RS000041/2026-SEAC/RS (SEI 5700249), CUJA VIGÊNCIA COMPREENDE O PERÍODO DE 01/01/2026 A 31/12/2026, CONFORME O DISPOSTO NA PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇO (SEI N.º 5730832) E NA NOTA TÉCNICA Nº 11/2026/SGP-CAP/SGP/ANP-RJ (SEI Nº 5713324).",
-        "Data Início": "03/07/2023",
-        "Data Fim": "03/07/2028",
-        "Vlr. Global": "484.597,92",
-        "Parcelas": "30",
-        "Vlr. Parcela": "16.153,26",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
       "contrato_id": "38701",
       "dados": {
         "Data Assinatura": "18/12/2019",
@@ -16863,6 +16698,96 @@
       }
     },
     {
+      "contrato_id": "146840",
+      "dados": {
+        "Data Assinatura": "20/05/2022",
+        "Número": "09017/2022",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09017/2022 DE ACORDO COM PROCESSO NÚMERO: 48610.217998/2021-61",
+        "Data Início": "20/05/2022",
+        "Data Fim": "20/05/2023",
+        "Vlr. Global": "27.090,10",
+        "Parcelas": "12",
+        "Vlr. Parcela": "2.257,51",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "Data Assinatura": "13/03/2023",
+        "Número": "00001/2022",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAÇÃO DE VIGÊNCIA",
+        "Data Início": "20/05/2023",
+        "Data Fim": "20/05/2024",
+        "Vlr. Global": "27.090,10",
+        "Parcelas": "12",
+        "Vlr. Parcela": "2.257,51",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "Data Assinatura": "05/02/2024",
+        "Número": "00002/2022",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAÇÃO DE VIGÊNCIA E REAJUSTE DE PREÇOS.",
+        "Data Início": "20/05/2024",
+        "Data Fim": "20/05/2025",
+        "Vlr. Global": "28.223,74",
+        "Parcelas": "12",
+        "Vlr. Parcela": "2.351,98",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "Data Assinatura": "10/02/2025",
+        "Número": "00003/2022",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAÇÃO DA VIGÊNCIA E REAJUSTE DE PREÇOS.",
+        "Data Início": "20/05/2025",
+        "Data Fim": "20/05/2026",
+        "Vlr. Global": "29.264,40",
+        "Parcelas": "12",
+        "Vlr. Parcela": "2.438,70",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "Data Assinatura": "07/04/2025",
+        "Número": "00004/2022",
+        "Tipo": "Termo Aditivo",
+        "Observação": "RETIFICAR O ERRO MATERIAL QUE CONSTA NA TABELA CONTIDA NA CLÁUSULA TERCEIRA DO TERMO ADITIVO Nº. 03 AO CONTRATO Nº 9.017/2022 (SEI 4657451), EM ESPECIAL QUANTO AOS VALORES UNITÁRIOS E TOTAL REGISTRADOS NA RESPECTIVA TABELA.",
+        "Data Início": "20/05/2025",
+        "Data Fim": "20/05/2026",
+        "Vlr. Global": "29.264,40",
+        "Parcelas": "12",
+        "Vlr. Parcela": "2.438,70",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "Data Assinatura": "24/03/2026",
+        "Número": "00005/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1. PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 20/05/2026 A 20/05/2027, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8.666/93  E NA CLÁUSULA SEGUNDA DO CONTRATO (SEI Nº 2171584), PODENDO SER RESCINDIDO ANTECIPADAMENTE POR ACORDO ENTRE AS PARTES, NOS TERMOS DO ARTIGO 79, INCISO II, DA LEI Nº 8666/1993, MEDIANTE NOTIFICAÇÃO DA CONTRATANTE À CONTRATADA COM ANTECEDÊNCIA MÍNIMA DE 30 (TRINTA) DIAS, MANTIDOS OS DEMAIS TERMOS INICIALMENTE PACTUADOS.\r\n2. REAJUSTAR OS PREÇOS CONTRATUAIS NO PERCENTUAL DE 5,529730%, COM BASE NA VARIAÇÃO DO IPCA/IBGE ACUMULADA ENTRE MAIO DE 2024 E ABRIL DE 2025, COM EFEITOS FINANCEIROS RETROATIVOS A PARTIR DE 19/04/2025, CONFORME DISPOSTO NA CLÁUSULA SEXTA DO CONTRATO ORIGINAL.",
+        "Data Início": "20/05/2026",
+        "Data Fim": "20/05/2027",
+        "Vlr. Global": "30.882,84",
+        "Parcelas": "12",
+        "Vlr. Parcela": "2.573,57",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
       "contrato_id": "103185",
       "dados": {
         "Data Assinatura": "23/03/2021",
@@ -16875,6 +16800,96 @@
         "Parcelas": "1",
         "Vlr. Parcela": "384,52",
         "Número Contrato": "2021NE000302"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "Data Assinatura": "21/06/2023",
+        "Número": "09012/2023",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09012/2023 DE ACORDO COM PROCESSO NÚMERO: 48650.202080/2022-21",
+        "Data Início": "03/07/2023",
+        "Data Fim": "03/01/2026",
+        "Vlr. Global": "399.957,90",
+        "Parcelas": "30",
+        "Vlr. Parcela": "13.331,93",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "Data Assinatura": "12/01/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO EM 7,22%,  COM BASE NA CONVENÇÃO COLETIVA DO TRABALHO - CCT/SEEAC RS004917/2023 (SEI Nº 3685172) CUJA A VIGÊNCIA COMPREENDE O PERÍODO DE 01/01/2024 A 31/12/2024, COM EFEITOS RETROATIVOS A 01/01/2024, CONFORME DISPOSTO NO DETALHAMENTO DE CUSTOS (SEI Nº 3685170) E  NA NOTA TÉCNICA Nº 1/2024/SFI-NPA-ADM/SFI-NPA-EXE/SFI/ANP-RS (SEI Nº 3690492).",
+        "Data Início": "03/07/2023",
+        "Data Fim": "03/01/2026",
+        "Vlr. Global": "423.133,37",
+        "Parcelas": "30",
+        "Vlr. Parcela": "14.104,45",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "Data Assinatura": "09/04/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "O PRESENTE TERMO ADITIVO TEM POR OBJETO REDUZIR A JORNADA DE TRABALHO DE 44 HORAS PARA 40 HORAS SEMANAIS DOS SEGUINTES SERVIÇOS CONTÍNUOS, OBJETO DO CONTRATO Nº  9.012/23, NA FORMA DO ART. 4º DO DECRETO Nº 12.174, DE 11DE SETEMBRO DE 2024, E DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 5 DE DEZEMBRO DE 2024.",
+        "Data Início": "09/04/2025",
+        "Data Fim": "03/01/2026",
+        "Vlr. Global": "399.957,90",
+        "Parcelas": "30",
+        "Vlr. Parcela": "13.331,93",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "Data Assinatura": "29/08/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REPACTUAR O VALOR DO CONTRATO CONTRATO Nº 9.012/23 EM 3,1200%, COM BASE NA CONVENÇÃO COLETIVA DO TRABALHO RS000040/2025-SEAC/RS (SEI Nº 4832212) CUJA A VIGÊNCIA COMPREENDE O PERÍODO DE 01/01/2025 A 31/12/2025, COM EFEITOS RETROATIVOS A 01/01/2025, CONFORME DISPOSTO NA PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇO (SEI Nº5210508) E NA NA NOTA TÉCNICA Nº 20/2025/SGP-CAP/SGP/ANP-RJ (SEI Nº 4832281).",
+        "Data Início": "03/07/2023",
+        "Data Fim": "03/01/2026",
+        "Vlr. Global": "436.335,04",
+        "Parcelas": "30",
+        "Vlr. Parcela": "14.544,50",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "Data Assinatura": "26/12/2025",
+        "Número": "00002/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DE 03/01/2026 A 03/07/2028, PELO PERÍODO DE 30 (TRINTA) MESES , COM FUNDAMENTO NOS ARTIGOS 107 E 108 DA LEI Nº. 14.133/2021, COMBINADO COM A CLÁUSULA SEGUNDA DO CONTRATO EM APREÇO; E   ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR REPACTUAÇÃO DOS CUSTOS CONTRATUAIS NO MOMENTO OPORTUNO, MANTIDAS AS DEMAIS CONDIÇÕES ANTERIORMENTE PACTUADAS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SÉTIMA DO CONTRATO.",
+        "Data Início": "03/01/2026",
+        "Data Fim": "03/07/2028",
+        "Vlr. Global": "455.183,88",
+        "Parcelas": "30",
+        "Vlr. Parcela": "15.172,80",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "Data Assinatura": "25/03/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REPACTUAR O VALOR DO CONTRATO CONTRATO Nº 9.012/23 EM 6,4620%, COM IMPACTOS FINANCEIROS RETROAGINDO À JANEIRO/2026, EM VIRTUDE DOS AJUSTES DOS VALORES DECORRENTES DA CONVENÇÃO COLETIVA DE TRABALHO -  CCT,  REGISTRADA NO MINISTÉRIO DO TRABALHO E EMPREGO (MTE) COMO RS000041/2026-SEAC/RS (SEI 5700249), CUJA VIGÊNCIA COMPREENDE O PERÍODO DE 01/01/2026 A 31/12/2026, CONFORME O DISPOSTO NA PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇO (SEI N.º 5730832) E NA NOTA TÉCNICA Nº 11/2026/SGP-CAP/SGP/ANP-RJ (SEI Nº 5713324).",
+        "Data Início": "03/01/2026",
+        "Data Fim": "03/07/2028",
+        "Vlr. Global": "484.597,92",
+        "Parcelas": "30",
+        "Vlr. Parcela": "16.153,26",
+        "Número Contrato": "09012/2023"
       }
     },
     {
@@ -17020,7 +17035,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "01/04/2026",
+        "Data Fim": "02/04/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -17170,7 +17185,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "01/04/2026",
+        "Data Fim": "02/04/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",

@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-04-01T08:31:17.582151",
+  "ultima_atualizacao": "2026-04-02T08:22:50.889089",
   "total_registros": 2407,
   "dados": [
     {
@@ -6372,123 +6372,6 @@
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "09045/2024"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "CPF": "***.889.617-**",
-        "Nome": "SANDRO CASSIANO DA COSTA",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "CPF": "***.193.867-**",
-        "Nome": "RAYANNE RODRIGUES LUIZ",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "CPF": "***.893.147-**",
-        "Nome": "THIAGO MARIANO DE SOUZA",
-        "Tipo": "Gestor Substituto",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "CPF": "***.155.097-**",
-        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "CPF": "***.413.288-**",
-        "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
-        "Tipo": "Responsável Unidade Requisitante",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "CPF": "***.340.087-**",
-        "Nome": "LUCIANA SILVA CORREIA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "CPF": "***.874.647-**",
-        "Nome": "SORAYA XAVIER FRANCO",
-        "Tipo": "Gestor",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "CPF": "***.466.297-**",
-        "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "CPF": "***.529.093-**",
-        "Nome": "MARIO DOS SANTOS FERNANDES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "CPF": "***.352.637-**",
-        "Nome": "VIVIAN WAINER DA SILVA BUENO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "CPF": "***.126.417-**",
-        "Nome": "CARLOS ANDRÉ JACOMIM DOS SANTOS",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "CPF": "***.244.899-**",
-        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "09017/2022"
-      }
-    },
-    {
-      "contrato_id": "146840",
-      "dados": {
-        "CPF": "***.217.137-**",
-        "Nome": "FERNANDA TELLES DOS REIS,",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "09017/2022"
       }
     },
     {
@@ -17850,96 +17733,6 @@
       }
     },
     {
-      "contrato_id": "199407",
-      "dados": {
-        "CPF": "***.750.188-**",
-        "Nome": "FELIPE BOTTAS DE OLIVEIRA E SOUZA",
-        "Tipo": "Gestor",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
-        "CPF": "***.492.110-**",
-        "Nome": "RONALDO VINICIUS BENETTI",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
-        "CPF": "***.697.927-**",
-        "Nome": "FERNANDA SEIXAS DE ABREU GOMES",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
-        "CPF": "***.441.966-**",
-        "Nome": "ANDRIA DE ALMEIDA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
-        "CPF": "***.654.897-**",
-        "Nome": "GUALTER FERNANDO LEMOS DO AMARAL",
-        "Tipo": "Gestor",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
-        "CPF": "***.176.987-**",
-        "Nome": "EMERSON LEANDRO DA COSTA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
-        "CPF": "***.749.537-**",
-        "Nome": "LUCIA HELENA DA COSTA PINTO ZUGLIANI PEREIRA",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
-        "CPF": "***.896.011-**",
-        "Nome": "EDUARDO ERISTÔNIO RAMOS DE SOUSA",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
-        "CPF": "***.006.437-**",
-        "Nome": "MONICA MARIZ DE CARVALHO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
-      "contrato_id": "199407",
-      "dados": {
-        "CPF": "***.930.317-**",
-        "Nome": "JOSE MONTEIRO DE OLIVEIRA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09012/2023"
-      }
-    },
-    {
       "contrato_id": "38701",
       "dados": {
         "CPF": "***.248.978-**",
@@ -18180,6 +17973,213 @@
         "Nome": "ANDREA CAMBRAIA VIDAL",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09007/2024"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "CPF": "***.889.617-**",
+        "Nome": "SANDRO CASSIANO DA COSTA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "CPF": "***.893.147-**",
+        "Nome": "THIAGO MARIANO DE SOUZA",
+        "Tipo": "Gestor Substituto",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "CPF": "***.155.097-**",
+        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "CPF": "***.413.288-**",
+        "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
+        "Tipo": "Responsável Unidade Requisitante",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "CPF": "***.340.087-**",
+        "Nome": "LUCIANA SILVA CORREIA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "CPF": "***.874.647-**",
+        "Nome": "SORAYA XAVIER FRANCO",
+        "Tipo": "Gestor",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "CPF": "***.466.297-**",
+        "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "CPF": "***.529.093-**",
+        "Nome": "MARIO DOS SANTOS FERNANDES",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "CPF": "***.352.637-**",
+        "Nome": "VIVIAN WAINER DA SILVA BUENO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "CPF": "***.126.417-**",
+        "Nome": "CARLOS ANDRÉ JACOMIM DOS SANTOS",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "CPF": "***.244.899-**",
+        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "146840",
+      "dados": {
+        "CPF": "***.217.137-**",
+        "Nome": "FERNANDA TELLES DOS REIS,",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09017/2022"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "CPF": "***.750.188-**",
+        "Nome": "FELIPE BOTTAS DE OLIVEIRA E SOUZA",
+        "Tipo": "Gestor",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "CPF": "***.492.110-**",
+        "Nome": "RONALDO VINICIUS BENETTI",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "CPF": "***.697.927-**",
+        "Nome": "FERNANDA SEIXAS DE ABREU GOMES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "CPF": "***.441.966-**",
+        "Nome": "ANDRIA DE ALMEIDA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "CPF": "***.654.897-**",
+        "Nome": "GUALTER FERNANDO LEMOS DO AMARAL",
+        "Tipo": "Gestor",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "CPF": "***.176.987-**",
+        "Nome": "EMERSON LEANDRO DA COSTA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "CPF": "***.749.537-**",
+        "Nome": "LUCIA HELENA DA COSTA PINTO ZUGLIANI PEREIRA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "CPF": "***.896.011-**",
+        "Nome": "EDUARDO ERISTÔNIO RAMOS DE SOUSA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "CPF": "***.006.437-**",
+        "Nome": "MONICA MARIZ DE CARVALHO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09012/2023"
+      }
+    },
+    {
+      "contrato_id": "199407",
+      "dados": {
+        "CPF": "***.930.317-**",
+        "Nome": "JOSE MONTEIRO DE OLIVEIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09012/2023"
       }
     },
     {
