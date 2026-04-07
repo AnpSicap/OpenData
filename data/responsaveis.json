@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-04-06T08:36:47.212561",
+  "ultima_atualizacao": "2026-04-07T08:29:44.505664",
   "total_registros": 2407,
   "dados": [
     {
@@ -16851,24 +16851,6 @@
       }
     },
     {
-      "contrato_id": "655048",
-      "dados": {
-        "CPF": "***.415.617-**",
-        "Nome": "ELISABETH MACHADO LOURENÇO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09022/2025"
-      }
-    },
-    {
-      "contrato_id": "655048",
-      "dados": {
-        "CPF": "***.622.527-**",
-        "Nome": "PRISCILA RAMOS BARRETO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09022/2025"
-      }
-    },
-    {
       "contrato_id": "247388",
       "dados": {
         "CPF": "***.470.941-**",
@@ -17019,6 +17001,24 @@
         "Nome": "CECILIA VARELA",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09002/2024"
+      }
+    },
+    {
+      "contrato_id": "655048",
+      "dados": {
+        "CPF": "***.415.617-**",
+        "Nome": "ELISABETH MACHADO LOURENÇO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09022/2025"
+      }
+    },
+    {
+      "contrato_id": "655048",
+      "dados": {
+        "CPF": "***.622.527-**",
+        "Nome": "PRISCILA RAMOS BARRETO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09022/2025"
       }
     },
     {

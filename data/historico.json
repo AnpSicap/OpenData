@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-04-06T08:36:47.186274",
+  "ultima_atualizacao": "2026-04-07T08:29:44.477214",
   "total_registros": 1444,
   "dados": [
     {
@@ -1300,7 +1300,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "06/04/2026",
+        "Data Fim": "07/04/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -7090,7 +7090,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "06/04/2026",
+        "Data Fim": "07/04/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8335,7 +8335,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "06/04/2026",
+        "Data Fim": "07/04/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -15693,36 +15693,6 @@
       }
     },
     {
-      "contrato_id": "655048",
-      "dados": {
-        "Data Assinatura": "18/09/2025",
-        "Número": "09022/2025",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09022/2025 DE ACORDO COM PROCESSO NÚMERO: 48610230083202472",
-        "Data Início": "18/09/2025",
-        "Data Fim": "18/03/2028",
-        "Vlr. Global": "8.162.683,20",
-        "Parcelas": "30",
-        "Vlr. Parcela": "272.089,44",
-        "Número Contrato": "09022/2025"
-      }
-    },
-    {
-      "contrato_id": "655048",
-      "dados": {
-        "Data Assinatura": "24/03/2026",
-        "Número": "00001/2026",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "CONSIDERANDO A NOTA TÉCNICA 5 (SEI Nº 5756211), QUE ESTABELECEU OS NOVOS PARÂMETROS DE VALOR H/H, E VISANDO A CELERIDADE DO FEITO, ADOTA-SE PARA FINS DE APOSTILAMENTO O CRONOGRAMA FINANCEIRO DETALHADO NO DESPACHO 57 (SEI Nº 5756381), QUE REGISTRA O APOSTILAMENTO DOS VALORES CONTRATUAIS EM CONFORMIDADE COM A EXECUÇÃO FÍSICA REAL DO CONTRATO, CONSIDERANDO O INÍCIO DAS ATIVIDADES EM 13/10/2025 E AS MEDIÇÕES EFETIVADAS ATÉ JANEIRO DE 2026, GARANTINDO A EXATIDÃO DOS VALORES RETROATIVOS A SEREM INDENIZADOS.\r\n\r\nCOM A REPACTUAÇÃO, ESTIMA-SE QUE O VALOR GLOBAL PARA O PERÍODO DE 30 (TRINTA) MESES PASSARÁ DE R$ 8.162.683,20 (OITO MILHÕES, CENTO E SESSENTA E DOIS MIL, SEISCENTOS E OITENTA E TRÊS REAIS E VINTE CENTAVOS) PARA R$ 8.185.525,78 (OITO MILHÕES, CENTO E OITENTA E CINCO MIL, QUINHENTOS E VINTE E CINCO REAIS E SETENTA E OITO CENTAVOS), CONFORME DETALHADO NO DESPACHO SUPRACITADO E NA PLANILHA CONTIDA NO TERMO DE APOSTILAMENTO",
-        "Data Início": "18/09/2025",
-        "Data Fim": "18/03/2028",
-        "Vlr. Global": "8.185.525,78",
-        "Parcelas": "30",
-        "Vlr. Parcela": "272.850,86",
-        "Número Contrato": "09022/2025"
-      }
-    },
-    {
       "contrato_id": "247388",
       "dados": {
         "Data Assinatura": "25/01/2024",
@@ -15775,7 +15745,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "06/04/2026",
+        "Data Fim": "07/04/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -15825,6 +15795,36 @@
         "Parcelas": "1",
         "Vlr. Parcela": "2.605.803,45",
         "Número Contrato": "09002/2024"
+      }
+    },
+    {
+      "contrato_id": "655048",
+      "dados": {
+        "Data Assinatura": "18/09/2025",
+        "Número": "09022/2025",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09022/2025 DE ACORDO COM PROCESSO NÚMERO: 48610230083202472",
+        "Data Início": "18/09/2025",
+        "Data Fim": "18/03/2028",
+        "Vlr. Global": "8.162.683,20",
+        "Parcelas": "30",
+        "Vlr. Parcela": "272.089,44",
+        "Número Contrato": "09022/2025"
+      }
+    },
+    {
+      "contrato_id": "655048",
+      "dados": {
+        "Data Assinatura": "24/03/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "CONSIDERANDO A NOTA TÉCNICA 5 (SEI Nº 5756211), QUE ESTABELECEU OS NOVOS PARÂMETROS DE VALOR H/H, E VISANDO A CELERIDADE DO FEITO, ADOTA-SE PARA FINS DE APOSTILAMENTO O CRONOGRAMA FINANCEIRO DETALHADO NO DESPACHO 57 (SEI Nº 5756381), QUE REGISTRA O APOSTILAMENTO DOS VALORES CONTRATUAIS EM CONFORMIDADE COM A EXECUÇÃO FÍSICA REAL DO CONTRATO, CONSIDERANDO O INÍCIO DAS ATIVIDADES EM 13/10/2025 E AS MEDIÇÕES EFETIVADAS ATÉ JANEIRO DE 2026, GARANTINDO A EXATIDÃO DOS VALORES RETROATIVOS A SEREM INDENIZADOS.\r\n\r\nCOM A REPACTUAÇÃO, ESTIMA-SE QUE O VALOR GLOBAL PARA O PERÍODO DE 30 (TRINTA) MESES PASSARÁ DE R$ 8.162.683,20 (OITO MILHÕES, CENTO E SESSENTA E DOIS MIL, SEISCENTOS E OITENTA E TRÊS REAIS E VINTE CENTAVOS) PARA R$ 8.185.525,78 (OITO MILHÕES, CENTO E OITENTA E CINCO MIL, QUINHENTOS E VINTE E CINCO REAIS E SETENTA E OITO CENTAVOS), CONFORME DETALHADO NO DESPACHO SUPRACITADO E NA PLANILHA CONTIDA NO TERMO DE APOSTILAMENTO",
+        "Data Início": "18/09/2025",
+        "Data Fim": "18/03/2028",
+        "Vlr. Global": "8.185.525,78",
+        "Parcelas": "30",
+        "Vlr. Parcela": "272.850,86",
+        "Número Contrato": "09022/2025"
       }
     },
     {
@@ -17035,7 +17035,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "06/04/2026",
+        "Data Fim": "07/04/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -17185,7 +17185,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "06/04/2026",
+        "Data Fim": "07/04/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
