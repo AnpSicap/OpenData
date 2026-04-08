@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-04-07T08:29:44.530293",
-  "total_registros": 2139,
+  "ultima_atualizacao": "2026-04-08T08:28:10.043675",
+  "total_registros": 2142,
   "dados": [
     {
       "contrato_id": "121472",
@@ -14917,6 +14917,24 @@
         "A liq.": "23.505,77",
         "Liquid.": "29.854,22",
         "Pg": "125.798,01",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09046/2024"
+      }
+    },
+    {
+      "contrato_id": "472286",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000325",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "218.662,10",
+        "A liq.": "218.662,10",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
@@ -30945,6 +30963,24 @@
       }
     },
     {
+      "contrato_id": "849542",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000295",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09001/2026"
+      }
+    },
+    {
       "contrato_id": "798804",
       "dados": {
         "UG": "323031",
@@ -38461,6 +38497,24 @@
         "A liq.": "33.167,21",
         "Liquid.": "155,79",
         "Pg": "15.068,89",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09012/2025"
+      }
+    },
+    {
+      "contrato_id": "571013",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000326",
+        "PI": "-",
+        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
+        "Emp.": "185.304,42",
+        "A liq.": "185.304,42",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
