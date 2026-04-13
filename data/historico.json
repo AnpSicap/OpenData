@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-04-10T08:35:27.330183",
-  "total_registros": 1449,
+  "ultima_atualizacao": "2026-04-13T09:16:33.671169",
+  "total_registros": 1451,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1293,111 +1293,6 @@
       }
     },
     {
-      "contrato_id": "181092",
-      "dados": {
-        "Data Assinatura": "01/02/2023",
-        "Número": "09003/2023",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09003/2023 DE ACORDO COM PROCESSO NÚMERO: 48610.221808/2022-91",
-        "Data Início": "04/04/2023",
-        "Data Fim": "04/04/2025",
-        "Vlr. Global": "10.856.739,69",
-        "Parcelas": "21",
-        "Vlr. Parcela": "516.987,60",
-        "Número Contrato": "09003/2023"
-      }
-    },
-    {
-      "contrato_id": "181092",
-      "dados": {
-        "Data Assinatura": "01/04/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/04/24 E 04/04/25, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8666/93; AMORTIZAR OS CUSTOS NÃO RENOVÁVEIS NAS PLANILHAS DE FORMAÇÃO DE PREÇOS, COM EFEITOS PROSPECTIVOS, A CONTAR A PARTIR DA ASSINATURA DESTE TERMO ADITIVO, MEDIANTE A REDUÇÃO DAS RUBRICAS \"AVISO PRÉVIO INDENIZADO, INCIDÊNCIA DO FGTS SOBRE O AVISO PRÉVIO INDENIZADO, AVISO PRÉVIO TRABALHADO E INCIDÊNCIA DOS ENCARGOS SOBRE O AVISO PRÉVIO TRABALHADO\", REFERENTES AOS ITENS A, B, D E E DO MÓDULO III.3 DA PLANILHA DE FORMAÇÃO DE PREÇOS, COM FUNDAMENTO NA ​NOTA TÉCNICA Nº 652/2017-MP (SEI Nº 3725846); E ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR A REPACTUAÇÃO DOS VALORES DO CONTRATO, TÃO LOGO DISPONHA DOS VALORES AJUSTADOS, CONFORME DISPOSTO NA CLÁUSULA SEXTA DO CONTRATO.",
-        "Data Início": "04/04/2024",
-        "Data Fim": "04/04/2025",
-        "Vlr. Global": "10.818.404,05",
-        "Parcelas": "1",
-        "Vlr. Parcela": "10.818.404,05",
-        "Número Contrato": "09003/2023"
-      }
-    },
-    {
-      "contrato_id": "181092",
-      "dados": {
-        "Data Assinatura": "05/08/2024",
-        "Número": "00002/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "SUPRIMIR APROXIMADAMENTE 17,07% DO OBJETO CONTRATADO, MEDIANTE A SUPRESSÃO DE 07 POSTOS DE TRABALHO, DOS 41 ORIGINALMENTE CONTRATADOS, SENDO 01 POSTO DE ADMINISTRADOR DE DADOS SÊNIOR, 02 POSTOS DE ANALISTAS DE BI PLENO, 02 POSTOS DE DESENVOLVEDORES DE SOFTWARE WEB JÚNIOR E 02 POSTOS DE DESENVOLVEDOR DE SOFTWARE .NET SÊNIOR, VISANDO ADEQUAÇÃO AO ORÇAMENTO MAIS RESTRITO, EM RAZÃO DA PORTARIA GM/MPO Nº 63/2024, NA FORMA DISPOSTA NA NOTA TÉCNICA N.º 57/2024/STI-CONT/STI/ANP-RJ (SEI 4109608) OFÍCIO N.º 53/2024/STI-CONT/STI/ANP-RJ (SEI 4040430) E FUNDAMENTO NO ART. 65, §1, DA LEI Nº 8.666/93.",
-        "Data Início": "05/08/2024",
-        "Data Fim": "04/04/2025",
-        "Vlr. Global": "9.270.873,04",
-        "Parcelas": "1",
-        "Vlr. Parcela": "9.270.873,04",
-        "Número Contrato": "09003/2023"
-      }
-    },
-    {
-      "contrato_id": "181092",
-      "dados": {
-        "Data Assinatura": "25/10/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 9.003/23 EM 1,99%, COM BASE NO ADITIVO À CCT 2021/2023 E NA CCT 2023/2025 DO SINDPD-RJ, COM EFEITOS RETROATIVOS A 04/04/23, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 84/2024/STI-CONT/STI/ANP-RJ  (SEI Nº 4380402), E COM FUNDAMENTO NA CLÁUSULA SEXTA DA AVENÇA, QUE REMETE AO ITEM 11 DO TERMO DE REFERÊNCIA, QUE ENSEJAM AS SEGUINTES ALTERAÇÕES NAS PLANILHAS DE FORMAÇÃO DE PREÇOS:\r\n\r\nAJUSTE DO BENEFÍCIO INDIRETO PARA O VALOR TOTAL DE R$ 264,93, DESDE O INÍCIO DO CONTRATO, 04/04/23;\r\n\r\nDISSÍDIO SALARIAL DE 1,75%, A PARTIR DE 01/09/23;\r\n\r\nAJUSTE DO AUXÍLIO ALIMENTAÇÃO/REFEIÇÃO PARA O VALOR UNITÁRIO DE R$ 33,74, TAMBÉM A PARTIR DE 01/09/23; E\r\n\r\nAJUSTE DO BENEFÍCIO INDIRETO PARA O VALOR TOTAL DE R$ 275,02, TAMBÉM A PARTIR DE 01/09/23.",
-        "Data Início": "04/04/2023",
-        "Data Fim": "04/04/2025",
-        "Vlr. Global": "9.700.483,25",
-        "Parcelas": "1",
-        "Vlr. Parcela": "9.700.483,25",
-        "Número Contrato": "09003/2023"
-      }
-    },
-    {
-      "contrato_id": "181092",
-      "dados": {
-        "Data Assinatura": "28/02/2025",
-        "Número": "00003/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/04/25 E 04/04/26, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8666/93; ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR A REPACTUAÇÃO DOS VALORES DO CONTRATO, TÃO LOGO DISPONHA DOS VALORES AJUSTADOS, CONFORME DISPOSTO NA CLÁUSULA SEXTA DO CONTRATO.",
-        "Data Início": "04/04/2025",
-        "Data Fim": "04/04/2026",
-        "Vlr. Global": "9.454.863,36",
-        "Parcelas": "1",
-        "Vlr. Parcela": "9.454.863,36",
-        "Número Contrato": "09003/2023"
-      }
-    },
-    {
-      "contrato_id": "181092",
-      "dados": {
-        "Data Assinatura": "20/10/2025",
-        "Número": "00004/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "1. REPACTUAÇÃO DO VALOR DO CONTRATO N° 9.003/23-ANP-221.808, COM EFEITOS FINANCEIROS RETROATIVOS A 01/09/2024, EM VIRTUDE DAS ALTERAÇÕES DE CUSTOS DECORRENTES DO TERMO ADITIVO À CONVENÇÃO COLETIVA DO TRABALHO 2023/2025 DO SINDPD-RJ (SEI 4884549), QUE DETERMINOU REAJUSTES NO SALÁRIOS BASE, NO AUXÍLIO ALIMENTAÇÃO/REFEIÇÃO E NO BENEFÍCIO INDIRETO, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 34/2025/STI-CONT/STI/ANP-RJ (SEI 4884654); E\r\n2. REVISÃO DOS VALORES CONTRATUAIS, COM FUNDAMENTO NO ARTIGO 65, INCISO II, ALÍNEA “D”, E § 5º, DA LEI Nº 8.666, DE 1993, EM RAZÃO DA CONCESSÃO DE REEQUILÍBRIO ECONÔMICO-FINANCEIRO, DECORRENTE DA REONERAÇÃO GRADUAL DA FOLHA DE PAGAMENTOS, PROMOVIDA PELA LEI Nº 14.973, DE 16 DE SETEMBRO DE 2024.",
-        "Data Início": "20/10/2025",
-        "Data Fim": "04/04/2026",
-        "Vlr. Global": "10.160.483,31",
-        "Parcelas": "12",
-        "Vlr. Parcela": "846.706,94",
-        "Número Contrato": "09003/2023"
-      }
-    },
-    {
-      "contrato_id": "181092",
-      "dados": {
-        "Data Assinatura": "02/04/2026",
-        "Número": "00001/2026",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR O PRAZO DA VIGÊNCIA DO CONTRATO N° 9.003/23-ANP-221.808, POR 12 (DOZE) MESES, CONTEMPLANDO-SE, NESTA OCASIÃO, O PERÍODO DE 04/04/2026 A 04/04/2027, NOS TERMOS DO ART. 57, II, DA LEI N.º 8.666, DE 1993; REPACTUAR O VALOR DO CONTRATO, COM EFEITOS FINANCEIROS RETROATIVOS A SETEMBRO/2025, EM VIRTUDE DAS ALTERAÇÕES DE CUSTOS DECORRENTES DA CONVENÇÃO COLETIVA DO TRABALHO 2025/2027 DO SINDPD-RJ (SEI 5713430), QUE DETERMINOU REAJUSTES NO SALÁRIOS BASE, NO AUXÍLIO ALIMENTAÇÃO/REFEIÇÃO E NO BENEFÍCIO INDIRETO, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 8/2026/STI-CONT/STI/ANP-RJ (SEI 5707617); REVISÃO DOS VALORES CONTRATUAIS, COM FUNDAMENTO NO ARTIGO 65, INCISO II, ALÍNEA “D”, E § 5º, DA LEI Nº 8.666, DE 1993, EM RAZÃO DA CONCESSÃO DE REEQUILÍBRIO ECONÔMICO-FINANCEIRO, DECORRENTE DA REONERAÇÃO GRADUAL DA FOLHA DE PAGAMENTOS, PROMOVIDA PELA LEI Nº 14.973, DE 16 DE SETEMBRO DE 2024, QUE ALTERA GRADUALMENTE OS PERCENTUAIS DE INSS E CPRB DAS PLANILHAS DE FORMAÇÃO DE PREÇOS, COM EFEITOS FINANCEIROS A PARTIR DE JANEIRO/2027; RECOMPOSIÇÃO DE 02 POSTOS DE ANALISTAS DE BI PLENO, SUPRIMIDOS EM 2024 EM DECORRÊNCIA DO CORTE ORÇAMENTÁRIO IMPOSTO PELA PORTARIA GM/MPO Nº 63/2024, COM FUNDAMENTO NO ART. 65, §1, DA LEI Nº 8.666/93; SUPRIMIR APROXIMADAMENTE 11% DO QUANTITATIVO VIGENTE, CORRESPONDENTE À REDUÇÃO DO TOTAL DE POSTOS DE TRABALHO DO CONTRATO, QUE PASSA DE 34 PARA 30 POSTOS, MEDIANTE A SUPRESSÃO DE 01 POSTO DE DESENVOLVEDOR DE SOFTWARE SÊNIOR (SEM ESPECIFICAÇÃO), 02 POSTOS DE DESENVOLVEDOR DE SOFTWARE .NET SÊNIOR E 01 POSTO DE DESENVOLVEDOR DE SOFTWARE JAVA SÊNIOR, VISANDO ADEQUAÇÃO AO ORÇAMENTO, EM RAZÃO DA REDUÇÃO DE DESPESAS EM FUNÇÃO DE CORTE ORÇAMENTÁRIO IMPOSTO PELO DECRETO Nº 12.477/2025; E PROMOVER ALTERAÇÃO QUALITATIVA, MEDIANTE ADEQUAÇÃO PROPORCIONAL DE ACORDOS DE NÍVEL DE SERVIÇO DAS EQUIPES IMPACTADAS, EM RAZÃO DA REDUÇÃO DA FORÇA DE TRABALHO. AS ALTERAÇÕES FORAM PROPOSTAS EM CONSONÂNCIA COM AS SUPRESSÕES MENCIONADAS NO ITEM 2.1.5, CONFORME DETALHADO NA NOTA TÉCNICA Nº 8/2026/STI-CONT/STI/ANP-RJ (SEI 5707617) E NO ITEM 3.3.17 DO TERMO DE REFERÊNCIA.",
-        "Data Início": "04/04/2026",
-        "Data Fim": "04/04/2027",
-        "Vlr. Global": "10.467.108,87",
-        "Parcelas": "12",
-        "Vlr. Parcela": "872.259,07",
-        "Número Contrato": "09003/2023"
-      }
-    },
-    {
       "contrato_id": "501037",
       "dados": {
         "Data Assinatura": "24/03/2025",
@@ -1405,7 +1300,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "10/04/2026",
+        "Data Fim": "13/04/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -3600,66 +3495,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "6.825,61",
         "Número Contrato": "2021NE000306"
-      }
-    },
-    {
-      "contrato_id": "259191",
-      "dados": {
-        "Data Assinatura": "26/03/2024",
-        "Número": "09021/2024",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09021/2024 DE ACORDO COM PROCESSO NÚMERO: 48610221201202391",
-        "Data Início": "01/04/2024",
-        "Data Fim": "01/10/2026",
-        "Vlr. Global": "57.521.257,32",
-        "Parcelas": "88",
-        "Vlr. Parcela": "1.352.832,90",
-        "Número Contrato": "09021/2024"
-      }
-    },
-    {
-      "contrato_id": "259191",
-      "dados": {
-        "Data Assinatura": "06/08/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "ALTERAR QUANTITATIVAMENTE O CONTRATO, REDUZINDO O SEU OBJETO EM 0,4504%, MEDIANTE SUPRESSÕES DE 1 (UM) POSTO DE MENSAGEIRO E 1 (UM) POSTO DE REPRÓGRAFO E, O ACRÉSCIMO DE 1 (UM) POSTO DE RECEPCIONISTA ESPECIALIZADO, A PARTIR DE 1/10/2024, COM O OBJETIVO DE TORNAR MAIS EFICIENTE A UTILIZAÇÃO DOS SERVIÇOS CONTRATADOS.",
-        "Data Início": "01/10/2024",
-        "Data Fim": "01/10/2026",
-        "Vlr. Global": "38.404.141,32",
-        "Parcelas": "30",
-        "Vlr. Parcela": "1.280.138,04",
-        "Número Contrato": "09021/2024"
-      }
-    },
-    {
-      "contrato_id": "259191",
-      "dados": {
-        "Data Assinatura": "03/01/2025",
-        "Número": "00001/2024",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REPACTUAÇÃO DO VALOR DO CONTRATO, EM APROXIMADAMENTE 5,6787% (CINCO INTEIROS, SESSENTA E SETE CENTÉSIMOS E OITENTA E SETE MILÉSIMOS POR CENTO), CONTEMPLANDO OS AJUSTES DOS VALORES RESULTANTES DA CONVENÇÃO COLETIVA DE TRABALHO CCT RJ001023/2024 - SEAC/RJ  E OS DECORRENTES DA  CCT RJ001182/2024  -  SINTTEL/RJ, COM IMPACTOS FINANCEIROS RETROAGINDO A 01/04/2024, EM CONSONÂNCIA COM O DISPOSTO NA NOTA TÉCNICA Nº 80/2024/SGP-CAP/SGP/ANP-RJ  (SEI  4569958  ).",
-        "Data Início": "01/04/2024",
-        "Data Fim": "01/10/2026",
-        "Vlr. Global": "40.584.987,01",
-        "Parcelas": "30",
-        "Vlr. Parcela": "1.352.832,90",
-        "Número Contrato": "09021/2024"
-      }
-    },
-    {
-      "contrato_id": "259191",
-      "dados": {
-        "Data Assinatura": "06/05/2025",
-        "Número": "00002/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "REDUZIR A JORNADA DE TRABALHO DE 44 HORAS PARA 40 HORAS SEMANAIS, DOS SEGUINTES SERVIÇOS CONTÍNUOS, OBJETO DO CONTRATO Nº 9.021/2024, NA FORMA DO ART. 4º DO DECRETO Nº 12.174, DE 11 DE SETEMBRO DE 2024, E DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 5 DE DEZEMBRO DE 2024; REDUZIR A JORNADA DE TRABALHO DE 44 HORAS PARA 40 HORAS SEMANAIS, DOS SEGUINTES SERVIÇOS CONTÍNUOS, OBJETO DO CONTRATO Nº 9.021/2024, NA FORMA DO ART. 4º DO DECRETO Nº 12.174, DE 11 DE SETEMBRO DE 2024, E DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 5 DE DEZEMBRO DE 2024.",
-        "Data Início": "06/05/2025",
-        "Data Fim": "01/10/2026",
-        "Vlr. Global": "40.584.987,01",
-        "Parcelas": "30",
-        "Vlr. Parcela": "1.352.832,90",
-        "Número Contrato": "09021/2024"
       }
     },
     {
@@ -6648,6 +6483,111 @@
       }
     },
     {
+      "contrato_id": "181092",
+      "dados": {
+        "Data Assinatura": "01/02/2023",
+        "Número": "09003/2023",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09003/2023 DE ACORDO COM PROCESSO NÚMERO: 48610.221808/2022-91",
+        "Data Início": "04/04/2023",
+        "Data Fim": "04/04/2025",
+        "Vlr. Global": "10.856.739,69",
+        "Parcelas": "21",
+        "Vlr. Parcela": "516.987,60",
+        "Número Contrato": "09003/2023"
+      }
+    },
+    {
+      "contrato_id": "181092",
+      "dados": {
+        "Data Assinatura": "01/04/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/04/24 E 04/04/25, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8666/93; AMORTIZAR OS CUSTOS NÃO RENOVÁVEIS NAS PLANILHAS DE FORMAÇÃO DE PREÇOS, COM EFEITOS PROSPECTIVOS, A CONTAR A PARTIR DA ASSINATURA DESTE TERMO ADITIVO, MEDIANTE A REDUÇÃO DAS RUBRICAS \"AVISO PRÉVIO INDENIZADO, INCIDÊNCIA DO FGTS SOBRE O AVISO PRÉVIO INDENIZADO, AVISO PRÉVIO TRABALHADO E INCIDÊNCIA DOS ENCARGOS SOBRE O AVISO PRÉVIO TRABALHADO\", REFERENTES AOS ITENS A, B, D E E DO MÓDULO III.3 DA PLANILHA DE FORMAÇÃO DE PREÇOS, COM FUNDAMENTO NA ​NOTA TÉCNICA Nº 652/2017-MP (SEI Nº 3725846); E ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR A REPACTUAÇÃO DOS VALORES DO CONTRATO, TÃO LOGO DISPONHA DOS VALORES AJUSTADOS, CONFORME DISPOSTO NA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "04/04/2024",
+        "Data Fim": "04/04/2025",
+        "Vlr. Global": "10.818.404,05",
+        "Parcelas": "1",
+        "Vlr. Parcela": "10.818.404,05",
+        "Número Contrato": "09003/2023"
+      }
+    },
+    {
+      "contrato_id": "181092",
+      "dados": {
+        "Data Assinatura": "05/08/2024",
+        "Número": "00002/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "SUPRIMIR APROXIMADAMENTE 17,07% DO OBJETO CONTRATADO, MEDIANTE A SUPRESSÃO DE 07 POSTOS DE TRABALHO, DOS 41 ORIGINALMENTE CONTRATADOS, SENDO 01 POSTO DE ADMINISTRADOR DE DADOS SÊNIOR, 02 POSTOS DE ANALISTAS DE BI PLENO, 02 POSTOS DE DESENVOLVEDORES DE SOFTWARE WEB JÚNIOR E 02 POSTOS DE DESENVOLVEDOR DE SOFTWARE .NET SÊNIOR, VISANDO ADEQUAÇÃO AO ORÇAMENTO MAIS RESTRITO, EM RAZÃO DA PORTARIA GM/MPO Nº 63/2024, NA FORMA DISPOSTA NA NOTA TÉCNICA N.º 57/2024/STI-CONT/STI/ANP-RJ (SEI 4109608) OFÍCIO N.º 53/2024/STI-CONT/STI/ANP-RJ (SEI 4040430) E FUNDAMENTO NO ART. 65, §1, DA LEI Nº 8.666/93.",
+        "Data Início": "05/08/2024",
+        "Data Fim": "04/04/2025",
+        "Vlr. Global": "9.270.873,04",
+        "Parcelas": "1",
+        "Vlr. Parcela": "9.270.873,04",
+        "Número Contrato": "09003/2023"
+      }
+    },
+    {
+      "contrato_id": "181092",
+      "dados": {
+        "Data Assinatura": "25/10/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 9.003/23 EM 1,99%, COM BASE NO ADITIVO À CCT 2021/2023 E NA CCT 2023/2025 DO SINDPD-RJ, COM EFEITOS RETROATIVOS A 04/04/23, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 84/2024/STI-CONT/STI/ANP-RJ  (SEI Nº 4380402), E COM FUNDAMENTO NA CLÁUSULA SEXTA DA AVENÇA, QUE REMETE AO ITEM 11 DO TERMO DE REFERÊNCIA, QUE ENSEJAM AS SEGUINTES ALTERAÇÕES NAS PLANILHAS DE FORMAÇÃO DE PREÇOS:\r\n\r\nAJUSTE DO BENEFÍCIO INDIRETO PARA O VALOR TOTAL DE R$ 264,93, DESDE O INÍCIO DO CONTRATO, 04/04/23;\r\n\r\nDISSÍDIO SALARIAL DE 1,75%, A PARTIR DE 01/09/23;\r\n\r\nAJUSTE DO AUXÍLIO ALIMENTAÇÃO/REFEIÇÃO PARA O VALOR UNITÁRIO DE R$ 33,74, TAMBÉM A PARTIR DE 01/09/23; E\r\n\r\nAJUSTE DO BENEFÍCIO INDIRETO PARA O VALOR TOTAL DE R$ 275,02, TAMBÉM A PARTIR DE 01/09/23.",
+        "Data Início": "04/04/2023",
+        "Data Fim": "04/04/2025",
+        "Vlr. Global": "9.700.483,25",
+        "Parcelas": "1",
+        "Vlr. Parcela": "9.700.483,25",
+        "Número Contrato": "09003/2023"
+      }
+    },
+    {
+      "contrato_id": "181092",
+      "dados": {
+        "Data Assinatura": "28/02/2025",
+        "Número": "00003/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/04/25 E 04/04/26, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8666/93; ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR A REPACTUAÇÃO DOS VALORES DO CONTRATO, TÃO LOGO DISPONHA DOS VALORES AJUSTADOS, CONFORME DISPOSTO NA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "04/04/2025",
+        "Data Fim": "04/04/2026",
+        "Vlr. Global": "9.454.863,36",
+        "Parcelas": "1",
+        "Vlr. Parcela": "9.454.863,36",
+        "Número Contrato": "09003/2023"
+      }
+    },
+    {
+      "contrato_id": "181092",
+      "dados": {
+        "Data Assinatura": "20/10/2025",
+        "Número": "00004/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1. REPACTUAÇÃO DO VALOR DO CONTRATO N° 9.003/23-ANP-221.808, COM EFEITOS FINANCEIROS RETROATIVOS A 01/09/2024, EM VIRTUDE DAS ALTERAÇÕES DE CUSTOS DECORRENTES DO TERMO ADITIVO À CONVENÇÃO COLETIVA DO TRABALHO 2023/2025 DO SINDPD-RJ (SEI 4884549), QUE DETERMINOU REAJUSTES NO SALÁRIOS BASE, NO AUXÍLIO ALIMENTAÇÃO/REFEIÇÃO E NO BENEFÍCIO INDIRETO, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 34/2025/STI-CONT/STI/ANP-RJ (SEI 4884654); E\r\n2. REVISÃO DOS VALORES CONTRATUAIS, COM FUNDAMENTO NO ARTIGO 65, INCISO II, ALÍNEA “D”, E § 5º, DA LEI Nº 8.666, DE 1993, EM RAZÃO DA CONCESSÃO DE REEQUILÍBRIO ECONÔMICO-FINANCEIRO, DECORRENTE DA REONERAÇÃO GRADUAL DA FOLHA DE PAGAMENTOS, PROMOVIDA PELA LEI Nº 14.973, DE 16 DE SETEMBRO DE 2024.",
+        "Data Início": "20/10/2025",
+        "Data Fim": "04/04/2026",
+        "Vlr. Global": "10.160.483,31",
+        "Parcelas": "12",
+        "Vlr. Parcela": "846.706,94",
+        "Número Contrato": "09003/2023"
+      }
+    },
+    {
+      "contrato_id": "181092",
+      "dados": {
+        "Data Assinatura": "02/04/2026",
+        "Número": "00005/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR O PRAZO DA VIGÊNCIA DO CONTRATO N° 9.003/23-ANP-221.808, POR 12 (DOZE) MESES, CONTEMPLANDO-SE, NESTA OCASIÃO, O PERÍODO DE 04/04/2026 A 04/04/2027, NOS TERMOS DO ART. 57, II, DA LEI N.º 8.666, DE 1993; REPACTUAR O VALOR DO CONTRATO, COM EFEITOS FINANCEIROS RETROATIVOS A SETEMBRO/2025, EM VIRTUDE DAS ALTERAÇÕES DE CUSTOS DECORRENTES DA CONVENÇÃO COLETIVA DO TRABALHO 2025/2027 DO SINDPD-RJ (SEI 5713430), QUE DETERMINOU REAJUSTES NO SALÁRIOS BASE, NO AUXÍLIO ALIMENTAÇÃO/REFEIÇÃO E NO BENEFÍCIO INDIRETO, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 8/2026/STI-CONT/STI/ANP-RJ (SEI 5707617); REVISÃO DOS VALORES CONTRATUAIS, COM FUNDAMENTO NO ARTIGO 65, INCISO II, ALÍNEA “D”, E § 5º, DA LEI Nº 8.666, DE 1993, EM RAZÃO DA CONCESSÃO DE REEQUILÍBRIO ECONÔMICO-FINANCEIRO, DECORRENTE DA REONERAÇÃO GRADUAL DA FOLHA DE PAGAMENTOS, PROMOVIDA PELA LEI Nº 14.973, DE 16 DE SETEMBRO DE 2024, QUE ALTERA GRADUALMENTE OS PERCENTUAIS DE INSS E CPRB DAS PLANILHAS DE FORMAÇÃO DE PREÇOS, COM EFEITOS FINANCEIROS A PARTIR DE JANEIRO/2027; RECOMPOSIÇÃO DE 02 POSTOS DE ANALISTAS DE BI PLENO, SUPRIMIDOS EM 2024 EM DECORRÊNCIA DO CORTE ORÇAMENTÁRIO IMPOSTO PELA PORTARIA GM/MPO Nº 63/2024, COM FUNDAMENTO NO ART. 65, §1, DA LEI Nº 8.666/93; SUPRIMIR APROXIMADAMENTE 11% DO QUANTITATIVO VIGENTE, CORRESPONDENTE À REDUÇÃO DO TOTAL DE POSTOS DE TRABALHO DO CONTRATO, QUE PASSA DE 34 PARA 30 POSTOS, MEDIANTE A SUPRESSÃO DE 01 POSTO DE DESENVOLVEDOR DE SOFTWARE SÊNIOR (SEM ESPECIFICAÇÃO), 02 POSTOS DE DESENVOLVEDOR DE SOFTWARE .NET SÊNIOR E 01 POSTO DE DESENVOLVEDOR DE SOFTWARE JAVA SÊNIOR, VISANDO ADEQUAÇÃO AO ORÇAMENTO, EM RAZÃO DA REDUÇÃO DE DESPESAS EM FUNÇÃO DE CORTE ORÇAMENTÁRIO IMPOSTO PELO DECRETO Nº 12.477/2025; E PROMOVER ALTERAÇÃO QUALITATIVA, MEDIANTE ADEQUAÇÃO PROPORCIONAL DE ACORDOS DE NÍVEL DE SERVIÇO DAS EQUIPES IMPACTADAS, EM RAZÃO DA REDUÇÃO DA FORÇA DE TRABALHO. AS ALTERAÇÕES FORAM PROPOSTAS EM CONSONÂNCIA COM AS SUPRESSÕES MENCIONADAS NO ITEM 2.1.5, CONFORME DETALHADO NA NOTA TÉCNICA Nº 8/2026/STI-CONT/STI/ANP-RJ (SEI 5707617) E NO ITEM 3.3.17 DO TERMO DE REFERÊNCIA.",
+        "Data Início": "04/04/2026",
+        "Data Fim": "04/04/2027",
+        "Vlr. Global": "10.467.108,87",
+        "Parcelas": "12",
+        "Vlr. Parcela": "872.259,07",
+        "Número Contrato": "09003/2023"
+      }
+    },
+    {
       "contrato_id": "243361",
       "dados": {
         "Data Assinatura": "19/12/2023",
@@ -7195,7 +7135,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "10/04/2026",
+        "Data Fim": "13/04/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8440,7 +8380,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "10/04/2026",
+        "Data Fim": "13/04/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -10860,6 +10800,21 @@
         "Parcelas": "1",
         "Vlr. Parcela": "2.293,41",
         "Número Contrato": "09022/2023"
+      }
+    },
+    {
+      "contrato_id": "852396",
+      "dados": {
+        "Data Assinatura": "25/03/2026",
+        "Número": "2026NE000289",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000289 DE ACORDO COM PROCESSO NÚMERO: 48610.230531/2025-30",
+        "Data Início": "25/03/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "9.498,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "9.498,00",
+        "Número Contrato": "2026NE000289"
       }
     },
     {
@@ -15805,7 +15760,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "10/04/2026",
+        "Data Fim": "13/04/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16065,6 +16020,81 @@
         "Parcelas": "12",
         "Vlr. Parcela": "53.419,83",
         "Número Contrato": "09038/2023"
+      }
+    },
+    {
+      "contrato_id": "259191",
+      "dados": {
+        "Data Assinatura": "26/03/2024",
+        "Número": "09021/2024",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09021/2024 DE ACORDO COM PROCESSO NÚMERO: 48610221201202391",
+        "Data Início": "01/04/2024",
+        "Data Fim": "01/10/2026",
+        "Vlr. Global": "57.521.257,32",
+        "Parcelas": "88",
+        "Vlr. Parcela": "1.352.832,90",
+        "Número Contrato": "09021/2024"
+      }
+    },
+    {
+      "contrato_id": "259191",
+      "dados": {
+        "Data Assinatura": "06/08/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "ALTERAR QUANTITATIVAMENTE O CONTRATO, REDUZINDO O SEU OBJETO EM 0,4504%, MEDIANTE SUPRESSÕES DE 1 (UM) POSTO DE MENSAGEIRO E 1 (UM) POSTO DE REPRÓGRAFO E, O ACRÉSCIMO DE 1 (UM) POSTO DE RECEPCIONISTA ESPECIALIZADO, A PARTIR DE 1/10/2024, COM O OBJETIVO DE TORNAR MAIS EFICIENTE A UTILIZAÇÃO DOS SERVIÇOS CONTRATADOS.",
+        "Data Início": "01/10/2024",
+        "Data Fim": "01/10/2026",
+        "Vlr. Global": "38.404.141,32",
+        "Parcelas": "30",
+        "Vlr. Parcela": "1.280.138,04",
+        "Número Contrato": "09021/2024"
+      }
+    },
+    {
+      "contrato_id": "259191",
+      "dados": {
+        "Data Assinatura": "03/01/2025",
+        "Número": "00001/2024",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REPACTUAÇÃO DO VALOR DO CONTRATO, EM APROXIMADAMENTE 5,6787% (CINCO INTEIROS, SESSENTA E SETE CENTÉSIMOS E OITENTA E SETE MILÉSIMOS POR CENTO), CONTEMPLANDO OS AJUSTES DOS VALORES RESULTANTES DA CONVENÇÃO COLETIVA DE TRABALHO CCT RJ001023/2024 - SEAC/RJ  E OS DECORRENTES DA  CCT RJ001182/2024  -  SINTTEL/RJ, COM IMPACTOS FINANCEIROS RETROAGINDO A 01/04/2024, EM CONSONÂNCIA COM O DISPOSTO NA NOTA TÉCNICA Nº 80/2024/SGP-CAP/SGP/ANP-RJ  (SEI  4569958  ).",
+        "Data Início": "01/04/2024",
+        "Data Fim": "01/10/2026",
+        "Vlr. Global": "40.584.987,01",
+        "Parcelas": "30",
+        "Vlr. Parcela": "1.352.832,90",
+        "Número Contrato": "09021/2024"
+      }
+    },
+    {
+      "contrato_id": "259191",
+      "dados": {
+        "Data Assinatura": "06/05/2025",
+        "Número": "00002/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "REDUZIR A JORNADA DE TRABALHO DE 44 HORAS PARA 40 HORAS SEMANAIS, DOS SEGUINTES SERVIÇOS CONTÍNUOS, OBJETO DO CONTRATO Nº 9.021/2024, NA FORMA DO ART. 4º DO DECRETO Nº 12.174, DE 11 DE SETEMBRO DE 2024, E DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 5 DE DEZEMBRO DE 2024; REDUZIR A JORNADA DE TRABALHO DE 44 HORAS PARA 40 HORAS SEMANAIS, DOS SEGUINTES SERVIÇOS CONTÍNUOS, OBJETO DO CONTRATO Nº 9.021/2024, NA FORMA DO ART. 4º DO DECRETO Nº 12.174, DE 11 DE SETEMBRO DE 2024, E DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 5 DE DEZEMBRO DE 2024.",
+        "Data Início": "06/05/2025",
+        "Data Fim": "01/10/2026",
+        "Vlr. Global": "40.584.987,01",
+        "Parcelas": "30",
+        "Vlr. Parcela": "1.352.832,90",
+        "Número Contrato": "09021/2024"
+      }
+    },
+    {
+      "contrato_id": "259191",
+      "dados": {
+        "Data Assinatura": "09/04/2026",
+        "Número": "00003/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PROMOVER A ALTERAÇÃO QUALITATIVA DO CONTRATO Nº 9.021/2024, CONSISTENTE NA REDUÇÃO DA JORNADA DE TRABALHO DE 44 (QUARENTA E QUATRO) PARA 40 (QUARENTA) HORAS SEMANAIS, EM CONFORMIDADE COM O DISPOSTO NA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 381, DE 2025, QUE ALTERA O ANEXO I DA INSTRUÇÃO NORMATIVA Nº 190, DE 5 DE DEZEMBRO DE 2024, BEM COMO NA NOTA TÉCNICA Nº 16/2026/SGP-CAP/SGP/ANP-RJ (SEI Nº 5758049)\r\nA REDUÇÃO APLICA-SE A TODOS OS TRABALHADORES QUE PRESTAREM OS SERVIÇOS INDICADOS NO ÂMBITO DO CONTRATO Nº 9.021/2024, INCLUSIVE AOS ENCARREGADOS GERAIS, NOS TERMOS DO ART. 2º, §§ 2º E 3º, DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 2024.",
+        "Data Início": "09/04/2026",
+        "Data Fim": "01/10/2026",
+        "Vlr. Global": "40.584.987,01",
+        "Parcelas": "30",
+        "Vlr. Parcela": "1.352.832,90",
+        "Número Contrato": "09021/2024"
       }
     },
     {
@@ -17095,7 +17125,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "10/04/2026",
+        "Data Fim": "13/04/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -17260,7 +17290,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "10/04/2026",
+        "Data Fim": "13/04/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
