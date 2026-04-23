@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-04-22T09:03:45.183913",
-  "total_registros": 2162,
+  "ultima_atualizacao": "2026-04-23T09:09:40.383128",
+  "total_registros": 2128,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1901,8 +1901,8 @@
         "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
         "Emp.": "17.500,00",
         "A liq.": "14.297,29",
-        "Liquid.": "1.738,39",
-        "Pg": "1.464,32",
+        "Liquid.": "0,00",
+        "Pg": "3.202,71",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
@@ -7686,186 +7686,6 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "09047/2022"
-      }
-    },
-    {
-      "contrato_id": "183302",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000548",
-        "PI": "-8 -",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "516.457,90",
-        "A liq.": "0,00",
-        "Liquid.": "11.993,50",
-        "Pg": "504.464,40",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01005/2023"
-      }
-    },
-    {
-      "contrato_id": "183302",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000457",
-        "PI": "-8 -",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "1.007.607,04",
-        "A liq.": "350.460,91",
-        "Liquid.": "0,00",
-        "Pg": "657.146,13",
-        "RP Inscr.": "350.460,91",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "40.417,75",
-        "RP Pg": "310.043,16",
-        "Número Contrato": "01005/2023"
-      }
-    },
-    {
-      "contrato_id": "183302",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000431",
-        "PI": "-",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "428.193,46",
-        "A liq.": "0,00",
-        "Liquid.": "12.611,84",
-        "Pg": "415.581,62",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01005/2023"
-      }
-    },
-    {
-      "contrato_id": "183302",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000829",
-        "PI": "-8 -",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "30.000,00",
-        "A liq.": "30.000,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "30.000,00",
-        "RP A Liq.": "30.000,00",
-        "RP Liq.": "30.000,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01005/2023"
-      }
-    },
-    {
-      "contrato_id": "183302",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000166",
-        "PI": "-8 -",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "455.551,79",
-        "A liq.": "100.107,13",
-        "Liquid.": "0,00",
-        "Pg": "355.444,66",
-        "RP Inscr.": "100.107,13",
-        "RP A Liq.": "1.333,74",
-        "RP Liq.": "3.368,63",
-        "RP Pg": "96.738,50",
-        "Número Contrato": "01005/2023"
-      }
-    },
-    {
-      "contrato_id": "183302",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000221",
-        "PI": "-",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "257.925,89",
-        "A liq.": "5.350,69",
-        "Liquid.": "12.336,96",
-        "Pg": "240.238,24",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01005/2023"
-      }
-    },
-    {
-      "contrato_id": "183302",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000168",
-        "PI": "-8 -",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "679.607,84",
-        "A liq.": "27.432,09",
-        "Liquid.": "0,00",
-        "Pg": "652.175,75",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01005/2023"
-      }
-    },
-    {
-      "contrato_id": "183302",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000550",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "1.242.931,64",
-        "A liq.": "206.637,39",
-        "Liquid.": "79.474,95",
-        "Pg": "956.819,30",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01005/2023"
-      }
-    },
-    {
-      "contrato_id": "183302",
-      "dados": {
-        "UG": "323031",
-        "Número": "2026NE000234",
-        "PI": "-",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "376.681,41",
-        "A liq.": "376.681,41",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01005/2023"
-      }
-    },
-    {
-      "contrato_id": "183302",
-      "dados": {
-        "UG": "323031",
-        "Número": "2026NE000341",
-        "PI": "-",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "300.000,00",
-        "A liq.": "300.000,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01005/2023"
       }
     },
     {
@@ -16083,8 +15903,8 @@
         "Número": "2026NE000229",
         "PI": "-",
         "ND": "339139 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA (INTRA)",
-        "Emp.": "479.792,62",
-        "A liq.": "317.378,87",
+        "Emp.": "444.171,87",
+        "A liq.": "281.758,12",
         "Liquid.": "80.544,01",
         "Pg": "81.869,74",
         "RP Inscr.": "0,00",
@@ -16533,8 +16353,8 @@
         "Número": "2025NE000442",
         "PI": "-8 - SEM INFORMACAO",
         "ND": "339139 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA (INTRA)",
-        "Emp.": "1.424.973,33",
-        "A liq.": "397.829,14",
+        "Emp.": "1.121.773,78",
+        "A liq.": "94.629,59",
         "Liquid.": "0,00",
         "Pg": "1.027.144,19",
         "RP Inscr.": "0,00",
@@ -17525,8 +17345,8 @@
         "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
         "Emp.": "473.247,58",
         "A liq.": "211.256,24",
-        "Liquid.": "108.784,45",
-        "Pg": "153.206,89",
+        "Liquid.": "0,00",
+        "Pg": "261.991,34",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
@@ -17923,6 +17743,24 @@
         "A liq.": "23.057,18",
         "Liquid.": "0,00",
         "Pg": "97.276,24",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09023/2021"
+      }
+    },
+    {
+      "contrato_id": "118143",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000351",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "256.638,01",
+        "A liq.": "256.638,01",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
@@ -19332,654 +19170,6 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "2025NE000690"
-      }
-    },
-    {
-      "contrato_id": "715883",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000609",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339030 - MATERIAL DE CONSUMO",
-        "Emp.": "5.719,20",
-        "A liq.": "5.719,20",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "2025NE000609"
-      }
-    },
-    {
-      "contrato_id": "118216",
-      "dados": {
-        "UG": "",
-        "Número": "",
-        "PI": "-",
-        "ND": "-",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "2021NE000554"
-      }
-    },
-    {
-      "contrato_id": "15626",
-      "dados": {
-        "UG": "323031",
-        "Número": "2016NE800854",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01038/2016"
-      }
-    },
-    {
-      "contrato_id": "15626",
-      "dados": {
-        "UG": "323031",
-        "Número": "2017NE800636",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01038/2016"
-      }
-    },
-    {
-      "contrato_id": "15626",
-      "dados": {
-        "UG": "323031",
-        "Número": "2018NE800467",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01038/2016"
-      }
-    },
-    {
-      "contrato_id": "15626",
-      "dados": {
-        "UG": "323031",
-        "Número": "2019NE800528",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01038/2016"
-      }
-    },
-    {
-      "contrato_id": "15626",
-      "dados": {
-        "UG": "323031",
-        "Número": "2020NE800441",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01038/2016"
-      }
-    },
-    {
-      "contrato_id": "15626",
-      "dados": {
-        "UG": "323031",
-        "Número": "2020NE800718",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01038/2016"
-      }
-    },
-    {
-      "contrato_id": "15626",
-      "dados": {
-        "UG": "323031",
-        "Número": "2021NE000250",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "563.696,60",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "359.492,05",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "01038/2016"
-      }
-    },
-    {
-      "contrato_id": "118220",
-      "dados": {
-        "UG": "",
-        "Número": "",
-        "PI": "-",
-        "ND": "-",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "2021NE000556"
-      }
-    },
-    {
-      "contrato_id": "715899",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000610",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339030 - MATERIAL DE CONSUMO",
-        "Emp.": "2.204,00",
-        "A liq.": "2.204,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "2025NE000610"
-      }
-    },
-    {
-      "contrato_id": "48418",
-      "dados": {
-        "UG": "323031",
-        "Número": "2019NE800056",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09001/2019"
-      }
-    },
-    {
-      "contrato_id": "48418",
-      "dados": {
-        "UG": "323031",
-        "Número": "2021NE000070",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "187.296,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "148.471,09",
-        "RP Inscr.": "38.824,91",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "38.824,91",
-        "Número Contrato": "09001/2019"
-      }
-    },
-    {
-      "contrato_id": "48418",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000451",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "92.214,21",
-        "A liq.": "41.832,74",
-        "Liquid.": "1.078,76",
-        "Pg": "49.302,71",
-        "RP Inscr.": "41.832,74",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "42.911,50",
-        "Número Contrato": "09001/2019"
-      }
-    },
-    {
-      "contrato_id": "48418",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000267",
-        "PI": "-8 -",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09001/2019"
-      }
-    },
-    {
-      "contrato_id": "48418",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000268",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "133.776,06",
-        "A liq.": "3.612,69",
-        "Liquid.": "0,00",
-        "Pg": "130.163,37",
-        "RP Inscr.": "3.612,69",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "3.612,69",
-        "Número Contrato": "09001/2019"
-      }
-    },
-    {
-      "contrato_id": "48418",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000170",
-        "PI": "-8 -",
-        "ND": "339092 - DESPESAS DE EXERCICIOS ANTERIORES",
-        "Emp.": "37.629,77",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "37.629,77",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09001/2019"
-      }
-    },
-    {
-      "contrato_id": "48418",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000223",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "15.828,56",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "15.828,56",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09001/2019"
-      }
-    },
-    {
-      "contrato_id": "48418",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000358",
-        "PI": "-",
-        "ND": "339092 - DESPESAS DE EXERCICIOS ANTERIORES",
-        "Emp.": "13.342,40",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "13.342,40",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09001/2019"
-      }
-    },
-    {
-      "contrato_id": "48418",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000371",
-        "PI": "-",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09001/2019"
-      }
-    },
-    {
-      "contrato_id": "48418",
-      "dados": {
-        "UG": "323031",
-        "Número": "2022NE000276",
-        "PI": "-8 -",
-        "ND": "339033 - PASSAGENS E DESPESAS COM LOCOMOCAO",
-        "Emp.": "179.671,58",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "122.002,68",
-        "RP Inscr.": "28.907,15",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "28.907,15",
-        "Número Contrato": "09001/2019"
-      }
-    },
-    {
-      "contrato_id": "748984",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000723",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "4.226,50",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "4.226,50",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "2025NE000723"
-      }
-    },
-    {
-      "contrato_id": "752510",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000575",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "33.660,00",
-        "A liq.": "11.220,00",
-        "Liquid.": "2.120,58",
-        "Pg": "20.319,42",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09027/2025"
-      }
-    },
-    {
-      "contrato_id": "752510",
-      "dados": {
-        "UG": "323031",
-        "Número": "2026NE000213",
-        "PI": "-",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "33.660,00",
-        "A liq.": "11.220,00",
-        "Liquid.": "0,00",
-        "Pg": "22.440,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09027/2025"
-      }
-    },
-    {
-      "contrato_id": "715916",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000611",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339030 - MATERIAL DE CONSUMO",
-        "Emp.": "2.596,09",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "2.596,09",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "2025NE000611"
-      }
-    },
-    {
-      "contrato_id": "715922",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000612",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339030 - MATERIAL DE CONSUMO",
-        "Emp.": "1.545,30",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "1.545,30",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "2025NE000612"
-      }
-    },
-    {
-      "contrato_id": "128565",
-      "dados": {
-        "UG": "",
-        "Número": "",
-        "PI": "-",
-        "ND": "-",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09045/2021"
-      }
-    },
-    {
-      "contrato_id": "771386",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000764",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "449052 - EQUIPAMENTOS E MATERIAL PERMANENTE",
-        "Emp.": "557,50",
-        "A liq.": "557,50",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "2025NE000764"
-      }
-    },
-    {
-      "contrato_id": "22493",
-      "dados": {
-        "UG": "323031",
-        "Número": "2017NE800669",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09023/2017"
-      }
-    },
-    {
-      "contrato_id": "22493",
-      "dados": {
-        "UG": "323031",
-        "Número": "2020NE800244",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09023/2017"
-      }
-    },
-    {
-      "contrato_id": "22493",
-      "dados": {
-        "UG": "323031",
-        "Número": "2019NE800532",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09023/2017"
-      }
-    },
-    {
-      "contrato_id": "22493",
-      "dados": {
-        "UG": "323031",
-        "Número": "2019NE800960",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09023/2017"
-      }
-    },
-    {
-      "contrato_id": "22493",
-      "dados": {
-        "UG": "323031",
-        "Número": "2020NE800757",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09023/2017"
-      }
-    },
-    {
-      "contrato_id": "22493",
-      "dados": {
-        "UG": "323031",
-        "Número": "2021NE000266",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "547.570,33",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "519.523,79",
-        "RP Inscr.": "28.046,54",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "28.046,54",
-        "Número Contrato": "09023/2017"
-      }
-    },
-    {
-      "contrato_id": "22493",
-      "dados": {
-        "UG": "323031",
-        "Número": "2021NE000087",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "09023/2017"
-      }
-    },
-    {
-      "contrato_id": "782565",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000816",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "449052 - EQUIPAMENTOS E MATERIAL PERMANENTE",
-        "Emp.": "4.488,00",
-        "A liq.": "4.488,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "2025NE000816"
       }
     },
     {
@@ -24267,312 +23457,6 @@
       }
     },
     {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000284",
-        "PI": "-8 -",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "696.997,98",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "696.997,98",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000285",
-        "PI": "-8 -",
-        "ND": "339093 - INDENIZACOES E RESTITUICOES",
-        "Emp.": "316.651,80",
-        "A liq.": "13.443,36",
-        "Liquid.": "0,00",
-        "Pg": "303.208,44",
-        "RP Inscr.": "13.443,36",
-        "RP A Liq.": "13.443,36",
-        "RP Liq.": "13.443,36",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000309",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "1.964.526,73",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "1.964.526,73",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000554",
-        "PI": "-8 -",
-        "ND": "339093 - INDENIZACOES E RESTITUICOES",
-        "Emp.": "0,00",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2023NE000567",
-        "PI": "-8 -",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "600.000,00",
-        "A liq.": "0,06",
-        "Liquid.": "0,00",
-        "Pg": "599.999,94",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000144",
-        "PI": "-8 -",
-        "ND": "339093 - INDENIZACOES E RESTITUICOES",
-        "Emp.": "449.400,54",
-        "A liq.": "33.275,74",
-        "Liquid.": "0,00",
-        "Pg": "416.124,80",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000602",
-        "PI": "-8 -",
-        "ND": "339093 - INDENIZACOES E RESTITUICOES",
-        "Emp.": "68.855,78",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "68.855,78",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000143",
-        "PI": "-8 -",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "1.252.802,72",
-        "A liq.": "0,00",
-        "Liquid.": "62.128,15",
-        "Pg": "1.190.674,57",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2024NE000603",
-        "PI": "-8 -",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "462.306,08",
-        "A liq.": "0,00",
-        "Liquid.": "74.871,85",
-        "Pg": "387.434,23",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000157",
-        "PI": "-",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "418.110,88",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "418.110,88",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000403",
-        "PI": "-8 - SEM INFORMACAO",
-        "ND": "339093 - INDENIZACOES E RESTITUICOES",
-        "Emp.": "296.910,43",
-        "A liq.": "4.354,18",
-        "Liquid.": "0,00",
-        "Pg": "292.556,25",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2025NE000158",
-        "PI": "-",
-        "ND": "339093 - INDENIZACOES E RESTITUICOES",
-        "Emp.": "232.209,93",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "232.209,93",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2026NE000117",
-        "PI": "-",
-        "ND": "339093 - INDENIZACOES E RESTITUICOES",
-        "Emp.": "109.991,09",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "109.991,09",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2026NE000116",
-        "PI": "-",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "156.499,19",
-        "A liq.": "20,01",
-        "Liquid.": "0,00",
-        "Pg": "156.479,18",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2026NE000198",
-        "PI": "-",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "156.479,18",
-        "A liq.": "0,00",
-        "Liquid.": "0,00",
-        "Pg": "156.479,18",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2026NE000287",
-        "PI": "-",
-        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "312.958,36",
-        "A liq.": "156.479,18",
-        "Liquid.": "0,00",
-        "Pg": "156.479,18",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "UG": "323031",
-        "Número": "2026NE000288",
-        "PI": "-",
-        "ND": "339093 - INDENIZACOES E RESTITUICOES",
-        "Emp.": "36.077,07",
-        "A liq.": "30.691,18",
-        "Liquid.": "0,00",
-        "Pg": "5.385,89",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
       "contrato_id": "765743",
       "dados": {
         "UG": "323031",
@@ -28623,24 +27507,6 @@
       }
     },
     {
-      "contrato_id": "829076",
-      "dados": {
-        "UG": "323031",
-        "Número": "2026NE000202",
-        "PI": "-",
-        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "44.000,00",
-        "A liq.": "44.000,00",
-        "Liquid.": "0,00",
-        "Pg": "0,00",
-        "RP Inscr.": "0,00",
-        "RP A Liq.": "0,00",
-        "RP Liq.": "0,00",
-        "RP Pg": "0,00",
-        "Número Contrato": "05053/2026"
-      }
-    },
-    {
       "contrato_id": "786567",
       "dados": {
         "UG": "323031",
@@ -29451,6 +28317,24 @@
       }
     },
     {
+      "contrato_id": "829076",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000202",
+        "PI": "-",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "44.000,00",
+        "A liq.": "44.000,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "05053/2026"
+      }
+    },
+    {
       "contrato_id": "247375",
       "dados": {
         "UG": "323031",
@@ -29727,8 +28611,8 @@
         "Número": "2026NE000272",
         "PI": "-",
         "ND": "339037 - LOCACAO DE MAO-DE-OBRA",
-        "Emp.": "963.926,71",
-        "A liq.": "274.899,31",
+        "Emp.": "2.193.560,61",
+        "A liq.": "1.504.533,21",
         "Liquid.": "0,00",
         "Pg": "689.027,40",
         "RP Inscr.": "0,00",
@@ -30600,6 +29484,510 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "05037/2022"
+      }
+    },
+    {
+      "contrato_id": "859873",
+      "dados": {
+        "UG": "",
+        "Número": "",
+        "PI": "-",
+        "ND": "-",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2026NE000164"
+      }
+    },
+    {
+      "contrato_id": "183302",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000548",
+        "PI": "-8 -",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "516.457,90",
+        "A liq.": "0,00",
+        "Liquid.": "11.993,50",
+        "Pg": "504.464,40",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "01005/2023"
+      }
+    },
+    {
+      "contrato_id": "183302",
+      "dados": {
+        "UG": "323031",
+        "Número": "2023NE000457",
+        "PI": "-8 -",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "1.007.607,04",
+        "A liq.": "350.460,91",
+        "Liquid.": "0,00",
+        "Pg": "657.146,13",
+        "RP Inscr.": "350.460,91",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "40.417,75",
+        "RP Pg": "310.043,16",
+        "Número Contrato": "01005/2023"
+      }
+    },
+    {
+      "contrato_id": "183302",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000431",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "428.193,46",
+        "A liq.": "0,00",
+        "Liquid.": "12.611,84",
+        "Pg": "415.581,62",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "01005/2023"
+      }
+    },
+    {
+      "contrato_id": "183302",
+      "dados": {
+        "UG": "323031",
+        "Número": "2023NE000829",
+        "PI": "-8 -",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "30.000,00",
+        "A liq.": "30.000,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "30.000,00",
+        "RP A Liq.": "30.000,00",
+        "RP Liq.": "30.000,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "01005/2023"
+      }
+    },
+    {
+      "contrato_id": "183302",
+      "dados": {
+        "UG": "323031",
+        "Número": "2023NE000166",
+        "PI": "-8 -",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "455.551,79",
+        "A liq.": "100.107,13",
+        "Liquid.": "0,00",
+        "Pg": "355.444,66",
+        "RP Inscr.": "100.107,13",
+        "RP A Liq.": "1.333,74",
+        "RP Liq.": "3.368,63",
+        "RP Pg": "96.738,50",
+        "Número Contrato": "01005/2023"
+      }
+    },
+    {
+      "contrato_id": "183302",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000221",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "257.925,89",
+        "A liq.": "5.350,69",
+        "Liquid.": "12.336,96",
+        "Pg": "240.238,24",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "01005/2023"
+      }
+    },
+    {
+      "contrato_id": "183302",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000168",
+        "PI": "-8 -",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "679.607,84",
+        "A liq.": "27.432,09",
+        "Liquid.": "0,00",
+        "Pg": "652.175,75",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "01005/2023"
+      }
+    },
+    {
+      "contrato_id": "183302",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000550",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "1.242.931,64",
+        "A liq.": "206.637,39",
+        "Liquid.": "79.474,95",
+        "Pg": "956.819,30",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "01005/2023"
+      }
+    },
+    {
+      "contrato_id": "183302",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000234",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "376.681,41",
+        "A liq.": "376.681,41",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "01005/2023"
+      }
+    },
+    {
+      "contrato_id": "183302",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000341",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "300.000,00",
+        "A liq.": "300.000,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "01005/2023"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2023NE000284",
+        "PI": "-8 -",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "696.997,98",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "696.997,98",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2023NE000285",
+        "PI": "-8 -",
+        "ND": "339093 - INDENIZACOES E RESTITUICOES",
+        "Emp.": "316.651,80",
+        "A liq.": "13.443,36",
+        "Liquid.": "0,00",
+        "Pg": "303.208,44",
+        "RP Inscr.": "13.443,36",
+        "RP A Liq.": "13.443,36",
+        "RP Liq.": "13.443,36",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000309",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "1.964.526,73",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "1.964.526,73",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000554",
+        "PI": "-8 -",
+        "ND": "339093 - INDENIZACOES E RESTITUICOES",
+        "Emp.": "0,00",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2023NE000567",
+        "PI": "-8 -",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "600.000,00",
+        "A liq.": "0,06",
+        "Liquid.": "0,00",
+        "Pg": "599.999,94",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000144",
+        "PI": "-8 -",
+        "ND": "339093 - INDENIZACOES E RESTITUICOES",
+        "Emp.": "449.400,54",
+        "A liq.": "33.275,74",
+        "Liquid.": "0,00",
+        "Pg": "416.124,80",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000602",
+        "PI": "-8 -",
+        "ND": "339093 - INDENIZACOES E RESTITUICOES",
+        "Emp.": "68.855,78",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "68.855,78",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000143",
+        "PI": "-8 -",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "1.252.802,72",
+        "A liq.": "0,00",
+        "Liquid.": "62.128,15",
+        "Pg": "1.190.674,57",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2024NE000603",
+        "PI": "-8 -",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "462.306,08",
+        "A liq.": "0,00",
+        "Liquid.": "74.871,85",
+        "Pg": "387.434,23",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000157",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "418.110,88",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "418.110,88",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000403",
+        "PI": "-8 - SEM INFORMACAO",
+        "ND": "339093 - INDENIZACOES E RESTITUICOES",
+        "Emp.": "296.910,43",
+        "A liq.": "4.354,18",
+        "Liquid.": "0,00",
+        "Pg": "292.556,25",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2025NE000158",
+        "PI": "-",
+        "ND": "339093 - INDENIZACOES E RESTITUICOES",
+        "Emp.": "232.209,93",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "232.209,93",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000117",
+        "PI": "-",
+        "ND": "339093 - INDENIZACOES E RESTITUICOES",
+        "Emp.": "109.991,09",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "109.991,09",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000116",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "156.499,19",
+        "A liq.": "20,01",
+        "Liquid.": "0,00",
+        "Pg": "156.479,18",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000198",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "156.479,18",
+        "A liq.": "0,00",
+        "Liquid.": "0,00",
+        "Pg": "156.479,18",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000287",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "312.958,36",
+        "A liq.": "156.479,18",
+        "Liquid.": "0,00",
+        "Pg": "156.479,18",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000288",
+        "PI": "-",
+        "ND": "339093 - INDENIZACOES E RESTITUICOES",
+        "Emp.": "36.077,07",
+        "A liq.": "30.691,18",
+        "Liquid.": "0,00",
+        "Pg": "5.385,89",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "04050/2022"
       }
     },
     {
