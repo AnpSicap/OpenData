@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-04-24T09:15:51.727570",
-  "total_registros": 2432,
+  "ultima_atualizacao": "2026-04-27T09:37:22.511257",
+  "total_registros": 2429,
   "dados": [
     {
       "contrato_id": "121472",
@@ -3765,6 +3765,33 @@
       }
     },
     {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.809.164-**",
+        "Nome": "RODRIGO PEREIRA CÂMARA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.244.899-**",
+        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.677.011-**",
+        "Nome": "RANI DE FREITAS VIEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
       "contrato_id": "792752",
       "dados": {
         "CPF": "***.677.011-**",
@@ -5265,15 +5292,6 @@
         "Nome": "JEAN DA CRUZ LOPES",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09036/2020"
-      }
-    },
-    {
-      "contrato_id": "250033",
-      "dados": {
-        "CPF": "***.415.617-**",
-        "Nome": "ELISABETH MACHADO LOURENÇO",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "09012/2024"
       }
     },
     {
@@ -13971,33 +13989,6 @@
       }
     },
     {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.809.164-**",
-        "Nome": "RODRIGO PEREIRA CÂMARA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.244.899-**",
-        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.677.011-**",
-        "Nome": "RANI DE FREITAS VIEIRA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
       "contrato_id": "749584",
       "dados": {
         "CPF": "***.330.607-**",
@@ -18804,6 +18795,15 @@
       }
     },
     {
+      "contrato_id": "250033",
+      "dados": {
+        "CPF": "***.415.617-**",
+        "Nome": "ELISABETH MACHADO LOURENÇO",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "09012/2024"
+      }
+    },
+    {
       "contrato_id": "168205",
       "dados": {
         "CPF": "***.508.047-**",
@@ -20790,33 +20790,6 @@
         "Nome": "ADRIANA NASCIMENTO SOUZA",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "04121/2009"
-      }
-    },
-    {
-      "contrato_id": "194205",
-      "dados": {
-        "CPF": "***.763.531-**",
-        "Nome": "THIAGO MACHADO KARASHIMA",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09008/2023"
-      }
-    },
-    {
-      "contrato_id": "194205",
-      "dados": {
-        "CPF": "***.823.874-**",
-        "Nome": "CARLOS ORLANDO ENRIQUE DA SILVA",
-        "Tipo": "Responsável Unidade Requisitante",
-        "Número Contrato": "09008/2023"
-      }
-    },
-    {
-      "contrato_id": "194205",
-      "dados": {
-        "CPF": "***.025.391-**",
-        "Nome": "CECILIA VARELA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09008/2023"
       }
     },
     {
