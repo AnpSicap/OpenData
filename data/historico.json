@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-05-04T09:40:52.500083",
-  "total_registros": 1460,
+  "ultima_atualizacao": "2026-05-05T09:25:00.369071",
+  "total_registros": 1463,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1300,7 +1300,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "04/05/2026",
+        "Data Fim": "05/05/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -4533,81 +4533,6 @@
       }
     },
     {
-      "contrato_id": "115396",
-      "dados": {
-        "Data Assinatura": "16/09/2021",
-        "Número": "08017/2020",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 08017/2020 DE ACORDO COM PROCESSO NÚMERO: 48610.213733/2021-93",
-        "Data Início": "16/09/2021",
-        "Data Fim": "16/09/2026",
-        "Vlr. Global": "220.862,78",
-        "Parcelas": "69",
-        "Vlr. Parcela": "3.200,91",
-        "Número Contrato": "08017/2020"
-      }
-    },
-    {
-      "contrato_id": "115396",
-      "dados": {
-        "Data Assinatura": "01/11/2022",
-        "Número": "00002/2022",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR TOTAL DO CONTRATO EM 8,727060%, EM VIRTUDE DA VARIAÇÃO DO IPCA-IBGE ENTRE 16/09/2021 E 16/09/2022, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA  Nº 48/2022/SGA-CCO/SGA/ANP-RJ  (SEI Nº 2502551).",
-        "Data Início": "16/09/2021",
-        "Data Fim": "16/03/2024",
-        "Vlr. Global": "232.416,61",
-        "Parcelas": "1",
-        "Vlr. Parcela": "232.416,61",
-        "Número Contrato": "08017/2020"
-      }
-    },
-    {
-      "contrato_id": "115396",
-      "dados": {
-        "Data Assinatura": "06/12/2023",
-        "Número": "00001/2023",
-        "Tipo": "Termo Aditivo",
-        "Observação": "2.1 PROMOVER, À LUZ DO PRINCÍPIO DA AUTOTUTELA, NOS TERMOS DO ARTIGO 53 DA LEI Nº. 9.784/1999, A RETIFICAÇÃO EX OFFICIO DO VALOR GLOBAL DO CONTRATO REGISTRADO NA APOSTILA Nº 02/2022 (SEI Nº 2575364), CONSIGNANDO QUE ONDE SE LÊ \"R$ 232.416,61 (DUZENTOS E TRINTA E DOIS MIL, QUATROCENTOS E DEZESSEIS REAIS E SESSENTA E UM CENTAVOS)\", DEVE-SE LER \"R$ 240.137,60 (DUZENTOS E QUARENTA MIL CENTO E TRINTA E SETE REAIS E SESSENTA CENTAVOS)\", NOS MOLDES DO DEMONSTRATIVO DE CÁLCULO - IPCA/IBGE - 09/2021 A 08/2022 (SEI Nº 3404882) E TABELA 3 DA NOTA TÉCNICA 34/2023/SGA-CCO/SGA/ANP-RJ (SEI Nº 3404091);\r\n2.2 PRORROGAR A VIGÊNCIA DO CONTRATO POR 30 (TRINTA) MESES, COMPREENDIDOS ENTRE 16/03/2024 E 16/09/2026, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8666/93.\r\n 2.3 ASSEGURAR À CONTRATADA, O DIREITO DE PLEITEAR O REAJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
-        "Data Início": "16/03/2024",
-        "Data Fim": "16/09/2026",
-        "Vlr. Global": "240.137,60",
-        "Parcelas": "1",
-        "Vlr. Parcela": "240.137,60",
-        "Número Contrato": "08017/2020"
-      }
-    },
-    {
-      "contrato_id": "115396",
-      "dados": {
-        "Data Assinatura": "17/01/2024",
-        "Número": "00001/2023",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR TOTAL DO CONTRATO EM 4,608220 %, EM VIRTUDE DA VARIAÇÃO DO IPCA-IBGE ENTRE 16/09/2022 E 16/09/2023, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA  Nº 2/2024/SGA-CCO/SGA/ANP-RJ  (SEI Nº 3703941).",
-        "Data Início": "16/09/2021",
-        "Data Fim": "16/09/2026",
-        "Vlr. Global": "253.380,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "253.380,00",
-        "Número Contrato": "08017/2020"
-      }
-    },
-    {
-      "contrato_id": "115396",
-      "dados": {
-        "Data Assinatura": "06/03/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR TOTAL DO CONTRATO EM 4,424740 %, EM VIRTUDE DA VARIAÇÃO DO IPCA-IBGE ENTRE 16/09/2023 E 16/09/2024, EM CONFORMIDADE COM O DISPOSTO NA NA PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇOS - PCFP (SEI N° 4747453)  E NA NOTA TÉCNICA  Nº 7/2024/SGA-CCO/SGA/ANP-RJ  (SEI Nº 4747456).",
-        "Data Início": "16/09/2021",
-        "Data Fim": "16/09/2026",
-        "Vlr. Global": "264.579,49",
-        "Parcelas": "1",
-        "Vlr. Parcela": "264.579,49",
-        "Número Contrato": "08017/2020"
-      }
-    },
-    {
       "contrato_id": "104239",
       "dados": {
         "Data Assinatura": "23/03/2021",
@@ -7120,7 +7045,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "04/05/2026",
+        "Data Fim": "05/05/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8365,7 +8290,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "04/05/2026",
+        "Data Fim": "05/05/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -15580,7 +15505,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "04/05/2026",
+        "Data Fim": "05/05/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -17125,7 +17050,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "04/05/2026",
+        "Data Fim": "05/05/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -17290,7 +17215,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "04/05/2026",
+        "Data Fim": "05/05/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -17688,6 +17613,96 @@
       }
     },
     {
+      "contrato_id": "115396",
+      "dados": {
+        "Data Assinatura": "16/09/2021",
+        "Número": "08017/2020",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 08017/2020 DE ACORDO COM PROCESSO NÚMERO: 48610.213733/2021-93",
+        "Data Início": "16/09/2021",
+        "Data Fim": "16/09/2026",
+        "Vlr. Global": "220.862,78",
+        "Parcelas": "69",
+        "Vlr. Parcela": "3.200,91",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "Data Assinatura": "01/11/2022",
+        "Número": "00002/2022",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR TOTAL DO CONTRATO EM 8,727060%, EM VIRTUDE DA VARIAÇÃO DO IPCA-IBGE ENTRE 16/09/2021 E 16/09/2022, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA  Nº 48/2022/SGA-CCO/SGA/ANP-RJ  (SEI Nº 2502551).",
+        "Data Início": "16/09/2021",
+        "Data Fim": "16/03/2024",
+        "Vlr. Global": "232.416,61",
+        "Parcelas": "1",
+        "Vlr. Parcela": "232.416,61",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "Data Assinatura": "06/12/2023",
+        "Número": "00001/2023",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1 PROMOVER, À LUZ DO PRINCÍPIO DA AUTOTUTELA, NOS TERMOS DO ARTIGO 53 DA LEI Nº. 9.784/1999, A RETIFICAÇÃO EX OFFICIO DO VALOR GLOBAL DO CONTRATO REGISTRADO NA APOSTILA Nº 02/2022 (SEI Nº 2575364), CONSIGNANDO QUE ONDE SE LÊ \"R$ 232.416,61 (DUZENTOS E TRINTA E DOIS MIL, QUATROCENTOS E DEZESSEIS REAIS E SESSENTA E UM CENTAVOS)\", DEVE-SE LER \"R$ 240.137,60 (DUZENTOS E QUARENTA MIL CENTO E TRINTA E SETE REAIS E SESSENTA CENTAVOS)\", NOS MOLDES DO DEMONSTRATIVO DE CÁLCULO - IPCA/IBGE - 09/2021 A 08/2022 (SEI Nº 3404882) E TABELA 3 DA NOTA TÉCNICA 34/2023/SGA-CCO/SGA/ANP-RJ (SEI Nº 3404091);\r\n2.2 PRORROGAR A VIGÊNCIA DO CONTRATO POR 30 (TRINTA) MESES, COMPREENDIDOS ENTRE 16/03/2024 E 16/09/2026, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8666/93.\r\n 2.3 ASSEGURAR À CONTRATADA, O DIREITO DE PLEITEAR O REAJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "16/03/2024",
+        "Data Fim": "16/09/2026",
+        "Vlr. Global": "240.137,60",
+        "Parcelas": "1",
+        "Vlr. Parcela": "240.137,60",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "Data Assinatura": "17/01/2024",
+        "Número": "00001/2023",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR TOTAL DO CONTRATO EM 4,608220 %, EM VIRTUDE DA VARIAÇÃO DO IPCA-IBGE ENTRE 16/09/2022 E 16/09/2023, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA  Nº 2/2024/SGA-CCO/SGA/ANP-RJ  (SEI Nº 3703941).",
+        "Data Início": "16/09/2021",
+        "Data Fim": "16/09/2026",
+        "Vlr. Global": "253.380,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "253.380,00",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "Data Assinatura": "06/03/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR TOTAL DO CONTRATO EM 4,424740 %, EM VIRTUDE DA VARIAÇÃO DO IPCA-IBGE ENTRE 16/09/2023 E 16/09/2024, EM CONFORMIDADE COM O DISPOSTO NA NA PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇOS - PCFP (SEI N° 4747453)  E NA NOTA TÉCNICA  Nº 7/2024/SGA-CCO/SGA/ANP-RJ  (SEI Nº 4747456).",
+        "Data Início": "16/09/2021",
+        "Data Fim": "16/09/2026",
+        "Vlr. Global": "264.579,49",
+        "Parcelas": "1",
+        "Vlr. Parcela": "264.579,49",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "Data Assinatura": "30/04/2026",
+        "Número": "00002/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR, EM CARÁTER EXCEPCIONAL, A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO COMPREENDIDO ENTRE 16/09/2026 E 16/09/2027, NOS TERMOS DO ART. 57, § 4º, DA LEI Nº 8.666/1993; CONSIGNAR QUE O CONTRATO PODERÁ SER RESCINDIDO ANTECIPADAMENTE POR ACORDO ENTRE AS PARTES, CONFORME DISPOSTO NO ART. 79, INCISO II, DA LEI Nº 8.666/1993, MEDIANTE NOTIFICAÇÃO DA CONTRATANTE À CONTRATADA COM ANTECEDÊNCIA MÍNIMA DE 30 (TRINTA) DIAS; REAJUSTAR EM, APROXIMADAMENTE, 5,172370%, O CONTRATO ORIGINAL, EM RAZÃO DE VARIAÇÃO DO ÍNDICE DE PREÇOS AO CONSUMIDOR AMPLO – IPCA, ACUMULADO NO PERÍODO DE 16/09/2024 A 16/09/2025, TENDO SEUS EFEITOS FINANCEIROS A PARTIR DE 16/09/2025; E  ASSEGURAR À CONTRATADA, O DIREITO DE PLEITEAR O REAJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "30/04/2026",
+        "Data Fim": "16/09/2027",
+        "Vlr. Global": "278.264,43",
+        "Parcelas": "1",
+        "Vlr. Parcela": "278.264,43",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
       "contrato_id": "123600",
       "dados": {
         "Data Assinatura": "18/11/2021",
@@ -17730,6 +17745,36 @@
         "Parcelas": "1",
         "Vlr. Parcela": "94.150,10",
         "Número Contrato": "09032/2021"
+      }
+    },
+    {
+      "contrato_id": "571013",
+      "dados": {
+        "Data Assinatura": "10/06/2025",
+        "Número": "09012/2025",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09012/2025 DE ACORDO COM PROCESSO NÚMERO: 48610225203202431",
+        "Data Início": "10/06/2025",
+        "Data Fim": "09/06/2026",
+        "Vlr. Global": "238.000,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "238.000,00",
+        "Número Contrato": "09012/2025"
+      }
+    },
+    {
+      "contrato_id": "571013",
+      "dados": {
+        "Data Assinatura": "30/04/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, COMPREENDIDOS ENTRE 10/06/2026 A 10/06/2027, COM FUNDAMENTO NO ARTIGO 107, DA LEI Nº 14.133/2021; E REAJUSTAR EM, APROXIMADAMENTE, 3,812500%, O VALOR DO CONTRATO ORIGINAL, COM FUNDAMENTO NO ARTIGO 92, INCISO V, DA LEI Nº 14.133/2021, EM CONJUNTO COM A CLÁUSULA SÉTIMA, EM RAZÃO DA VARIAÇÃO DO IPCA/IBGE ACUMULADO NO PERÍODO DE 1 (UM) ANO, CONFORME EVIDENCIADO NO DEMONSTRATIVO DE CÁLCULO IPCA/IBGE (SEI 5794113), COM PRODUÇÃO DE EFEITOS JURÍDICOS E FINANCEIROS A PARTIR DE 24/02/2026, NOS TERMOS DA PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇOS – TERMO ADITIVO Nº 01 (SEI 5794564).",
+        "Data Início": "30/04/2026",
+        "Data Fim": "10/06/2027",
+        "Vlr. Global": "247.073,75",
+        "Parcelas": "1",
+        "Vlr. Parcela": "247.073,75",
+        "Número Contrato": "09012/2025"
       }
     },
     {
@@ -18210,6 +18255,21 @@
         "Parcelas": "1",
         "Vlr. Parcela": "389.745,67",
         "Número Contrato": "09047/2021"
+      }
+    },
+    {
+      "contrato_id": "867961",
+      "dados": {
+        "Data Assinatura": "30/04/2026",
+        "Número": "05003/2026",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 05003/2026 DE ACORDO COM PROCESSO NÚMERO: 48610.205666/2026-48",
+        "Data Início": "30/04/2026",
+        "Data Fim": "30/04/2027",
+        "Vlr. Global": "348.517,10",
+        "Parcelas": "1",
+        "Vlr. Parcela": "348.517,10",
+        "Número Contrato": "05003/2026"
       }
     },
     {
@@ -21855,21 +21915,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "1.619.991,72",
         "Número Contrato": "09007/2025"
-      }
-    },
-    {
-      "contrato_id": "571013",
-      "dados": {
-        "Data Assinatura": "10/06/2025",
-        "Número": "09012/2025",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09012/2025 DE ACORDO COM PROCESSO NÚMERO: 48610225203202431",
-        "Data Início": "10/06/2025",
-        "Data Fim": "09/06/2026",
-        "Vlr. Global": "238.000,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "238.000,00",
-        "Número Contrato": "09012/2025"
       }
     },
     {
