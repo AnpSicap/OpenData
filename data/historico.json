@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-05-07T09:51:40.443942",
-  "total_registros": 1414,
+  "ultima_atualizacao": "2026-05-08T08:36:22.975199",
+  "total_registros": 1463,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1300,7 +1300,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "07/05/2026",
+        "Data Fim": "08/05/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -7045,7 +7045,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "07/05/2026",
+        "Data Fim": "08/05/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8290,7 +8290,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "07/05/2026",
+        "Data Fim": "08/05/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -15505,7 +15505,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "07/05/2026",
+        "Data Fim": "08/05/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -17050,7 +17050,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "07/05/2026",
+        "Data Fim": "08/05/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -17215,7 +17215,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "07/05/2026",
+        "Data Fim": "08/05/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -17610,6 +17610,741 @@
         "Parcelas": "1",
         "Vlr. Parcela": "58.251,54",
         "Número Contrato": "2023NE000137"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "Data Assinatura": "16/09/2021",
+        "Número": "08017/2020",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 08017/2020 DE ACORDO COM PROCESSO NÚMERO: 48610.213733/2021-93",
+        "Data Início": "16/09/2021",
+        "Data Fim": "16/09/2026",
+        "Vlr. Global": "220.862,78",
+        "Parcelas": "69",
+        "Vlr. Parcela": "3.200,91",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "Data Assinatura": "01/11/2022",
+        "Número": "00002/2022",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR TOTAL DO CONTRATO EM 8,727060%, EM VIRTUDE DA VARIAÇÃO DO IPCA-IBGE ENTRE 16/09/2021 E 16/09/2022, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA  Nº 48/2022/SGA-CCO/SGA/ANP-RJ  (SEI Nº 2502551).",
+        "Data Início": "16/09/2021",
+        "Data Fim": "16/03/2024",
+        "Vlr. Global": "232.416,61",
+        "Parcelas": "1",
+        "Vlr. Parcela": "232.416,61",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "Data Assinatura": "06/12/2023",
+        "Número": "00001/2023",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1 PROMOVER, À LUZ DO PRINCÍPIO DA AUTOTUTELA, NOS TERMOS DO ARTIGO 53 DA LEI Nº. 9.784/1999, A RETIFICAÇÃO EX OFFICIO DO VALOR GLOBAL DO CONTRATO REGISTRADO NA APOSTILA Nº 02/2022 (SEI Nº 2575364), CONSIGNANDO QUE ONDE SE LÊ \"R$ 232.416,61 (DUZENTOS E TRINTA E DOIS MIL, QUATROCENTOS E DEZESSEIS REAIS E SESSENTA E UM CENTAVOS)\", DEVE-SE LER \"R$ 240.137,60 (DUZENTOS E QUARENTA MIL CENTO E TRINTA E SETE REAIS E SESSENTA CENTAVOS)\", NOS MOLDES DO DEMONSTRATIVO DE CÁLCULO - IPCA/IBGE - 09/2021 A 08/2022 (SEI Nº 3404882) E TABELA 3 DA NOTA TÉCNICA 34/2023/SGA-CCO/SGA/ANP-RJ (SEI Nº 3404091);\r\n2.2 PRORROGAR A VIGÊNCIA DO CONTRATO POR 30 (TRINTA) MESES, COMPREENDIDOS ENTRE 16/03/2024 E 16/09/2026, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8666/93.\r\n 2.3 ASSEGURAR À CONTRATADA, O DIREITO DE PLEITEAR O REAJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "16/03/2024",
+        "Data Fim": "16/09/2026",
+        "Vlr. Global": "240.137,60",
+        "Parcelas": "1",
+        "Vlr. Parcela": "240.137,60",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "Data Assinatura": "17/01/2024",
+        "Número": "00001/2023",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR TOTAL DO CONTRATO EM 4,608220 %, EM VIRTUDE DA VARIAÇÃO DO IPCA-IBGE ENTRE 16/09/2022 E 16/09/2023, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA  Nº 2/2024/SGA-CCO/SGA/ANP-RJ  (SEI Nº 3703941).",
+        "Data Início": "16/09/2021",
+        "Data Fim": "16/09/2026",
+        "Vlr. Global": "253.380,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "253.380,00",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "Data Assinatura": "06/03/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR TOTAL DO CONTRATO EM 4,424740 %, EM VIRTUDE DA VARIAÇÃO DO IPCA-IBGE ENTRE 16/09/2023 E 16/09/2024, EM CONFORMIDADE COM O DISPOSTO NA NA PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇOS - PCFP (SEI N° 4747453)  E NA NOTA TÉCNICA  Nº 7/2024/SGA-CCO/SGA/ANP-RJ  (SEI Nº 4747456).",
+        "Data Início": "16/09/2021",
+        "Data Fim": "16/09/2026",
+        "Vlr. Global": "264.579,49",
+        "Parcelas": "1",
+        "Vlr. Parcela": "264.579,49",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "Data Assinatura": "30/04/2026",
+        "Número": "00002/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR, EM CARÁTER EXCEPCIONAL, A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO COMPREENDIDO ENTRE 16/09/2026 E 16/09/2027, NOS TERMOS DO ART. 57, § 4º, DA LEI Nº 8.666/1993; CONSIGNAR QUE O CONTRATO PODERÁ SER RESCINDIDO ANTECIPADAMENTE POR ACORDO ENTRE AS PARTES, CONFORME DISPOSTO NO ART. 79, INCISO II, DA LEI Nº 8.666/1993, MEDIANTE NOTIFICAÇÃO DA CONTRATANTE À CONTRATADA COM ANTECEDÊNCIA MÍNIMA DE 30 (TRINTA) DIAS; REAJUSTAR EM, APROXIMADAMENTE, 5,172370%, O CONTRATO ORIGINAL, EM RAZÃO DE VARIAÇÃO DO ÍNDICE DE PREÇOS AO CONSUMIDOR AMPLO – IPCA, ACUMULADO NO PERÍODO DE 16/09/2024 A 16/09/2025, TENDO SEUS EFEITOS FINANCEIROS A PARTIR DE 16/09/2025; E  ASSEGURAR À CONTRATADA, O DIREITO DE PLEITEAR O REAJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "30/04/2026",
+        "Data Fim": "16/09/2027",
+        "Vlr. Global": "278.264,43",
+        "Parcelas": "1",
+        "Vlr. Parcela": "278.264,43",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "123600",
+      "dados": {
+        "Data Assinatura": "18/11/2021",
+        "Número": "09032/2021",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09032/2021 DE ACORDO COM PROCESSO NÚMERO: 48600.200561/2021-15",
+        "Data Início": "18/11/2021",
+        "Data Fim": "18/05/2024",
+        "Vlr. Global": "96.000,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "96.000,00",
+        "Número Contrato": "09032/2021"
+      }
+    },
+    {
+      "contrato_id": "123600",
+      "dados": {
+        "Data Assinatura": "16/05/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1 PRORROGAR A VIGÊNCIA DO CONTRATO POR ATÉ 30 (TRINTA) MESES, CORRESPONDENTES AO PERÍODO COMPREENDIDO ENTRE 18/05/2024 E 18/11/2026, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº. 8.666/1993; E\r\n2 REAJUSTAR O VALOR DO CONTRATO EM 15,38%, DE ACORDO COM O ÍNDICE APURADO EM CONSULTA AO IBGE ACUMULADO NOS ÚLTIMOS 28 MESES (OUTUBRO DE 2021 A FEVEREIRO DE 2024), CONFORME O DISPOSTO NA CLÁUSULA SEXTA DO CONTRATO COMBINADA COM O ITEM 18 DO TERMO DE REFERÊNCIA.",
+        "Data Início": "16/05/2024",
+        "Data Fim": "18/11/2026",
+        "Vlr. Global": "110.760,61",
+        "Parcelas": "1",
+        "Vlr. Parcela": "110.760,61",
+        "Número Contrato": "09032/2021"
+      }
+    },
+    {
+      "contrato_id": "123600",
+      "dados": {
+        "Data Assinatura": "15/07/2024",
+        "Número": "00002/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "REDUZIR O VALOR DO CONTRATO EM 14,61%, EM FUNÇÃO DE CONTINGENCIAMENTO DE RECURSOS PELO GOVERNO FEDERAL (DOC 3915861), MEDIANTE DESCONTO PRATICADO PELA CONTRATADA NO ITEM 2 DA AVENÇA (FORNECIMENTO DE EQUIPAMENTOS, PEÇAS E COMPONENTES ELETROMECÂNICOS NÃO PREVISTOS NO ITEM 1 ).",
+        "Data Início": "15/07/2024",
+        "Data Fim": "18/11/2026",
+        "Vlr. Global": "94.150,10",
+        "Parcelas": "1",
+        "Vlr. Parcela": "94.150,10",
+        "Número Contrato": "09032/2021"
+      }
+    },
+    {
+      "contrato_id": "571013",
+      "dados": {
+        "Data Assinatura": "10/06/2025",
+        "Número": "09012/2025",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09012/2025 DE ACORDO COM PROCESSO NÚMERO: 48610225203202431",
+        "Data Início": "10/06/2025",
+        "Data Fim": "09/06/2026",
+        "Vlr. Global": "238.000,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "238.000,00",
+        "Número Contrato": "09012/2025"
+      }
+    },
+    {
+      "contrato_id": "571013",
+      "dados": {
+        "Data Assinatura": "30/04/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, COMPREENDIDOS ENTRE 10/06/2026 A 10/06/2027, COM FUNDAMENTO NO ARTIGO 107, DA LEI Nº 14.133/2021; E REAJUSTAR EM, APROXIMADAMENTE, 3,812500%, O VALOR DO CONTRATO ORIGINAL, COM FUNDAMENTO NO ARTIGO 92, INCISO V, DA LEI Nº 14.133/2021, EM CONJUNTO COM A CLÁUSULA SÉTIMA, EM RAZÃO DA VARIAÇÃO DO IPCA/IBGE ACUMULADO NO PERÍODO DE 1 (UM) ANO, CONFORME EVIDENCIADO NO DEMONSTRATIVO DE CÁLCULO IPCA/IBGE (SEI 5794113), COM PRODUÇÃO DE EFEITOS JURÍDICOS E FINANCEIROS A PARTIR DE 24/02/2026, NOS TERMOS DA PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇOS – TERMO ADITIVO Nº 01 (SEI 5794564).",
+        "Data Início": "30/04/2026",
+        "Data Fim": "10/06/2027",
+        "Vlr. Global": "247.073,75",
+        "Parcelas": "1",
+        "Vlr. Parcela": "247.073,75",
+        "Número Contrato": "09012/2025"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "Data Assinatura": "08/08/2023",
+        "Número": "09016/2023",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09016/2023 DE ACORDO COM PROCESSO NÚMERO: 48600.200006/2023-47",
+        "Data Início": "09/08/2023",
+        "Data Fim": "09/02/2026",
+        "Vlr. Global": "6.844.757,66",
+        "Parcelas": "13",
+        "Vlr. Parcela": "526.519,82",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "Data Assinatura": "05/06/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "PROMOVER A REPACTUAÇÃO DO CONTRATO Nº 9.016/2023 EM 0,4896% , COM BASE NA CONVENÇÃO COLETIVA DE TRABALHO (CCT), REGISTRADA NO MINISTÉRIO DO TRABALHO E EMPREGO (MTE) SOB O REGISTRO DF000005/2024-SIS/DF, QUE DEFINIU O PERCENTUAL DE REAJUSTES DOS SALÁRIOS E DEMAIS BENEFÍCIOS A SEREM CONCEDIDOS À CATEGORIA PROFISSIONAL ENVOLVIDA NA CONTRATAÇÃO, TENDO SEUS EFEITOS FINANCEIROS RETROATIVOS A 01/01/2024, COM FUNDAMENTO NO DISPOSTO NA PLANILHA DE DETALHAMENTO DE VALORES (SEI N.º 3989612) E NA NOTA TÉCNICA Nº 14/2024/SGP-CAP/SGP/ANP-RJ (SEI Nº 3961525).",
+        "Data Início": "09/08/2023",
+        "Data Fim": "09/02/2026",
+        "Vlr. Global": "15.114.918,57",
+        "Parcelas": "1",
+        "Vlr. Parcela": "15.114.918,57",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "Data Assinatura": "29/01/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "PROMOVER A REPACTUAÇÃO DO CONTRATO Nº 9.016/2023 EM 3,1330% , COM BASE NA CONVENÇÃO COLETIVA DE TRABALHO CCT/2023/2024 - MTE Nº DF000667/2024-SITIMMME, QUE DEFINIU O PERCENTUAL DE REAJUSTES DOS SALÁRIOS E DEMAIS BENEFÍCIOS A SEREM CONCEDIDOS À CATEGORIA PROFISSIONAL ENVOLVIDA NA CONTRATAÇÃO, COM FUNDAMENTO NO DISPOSTO NA PLANILHA DE DETALHAMENTO DE VALORES (SEI N.º 4650274, 4650281) E NA NOTA TÉCNICA Nº 8/2025/SGP-CAP/SGP/ANP-RJ (SEI Nº 4650293).",
+        "Data Início": "09/08/2023",
+        "Data Fim": "09/02/2026",
+        "Vlr. Global": "15.588.466,65",
+        "Parcelas": "1",
+        "Vlr. Parcela": "15.588.466,65",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "Data Assinatura": "07/04/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "O PRESENTE TERMO ADITIVO TEM POR OBJETO REDUZIR A JORNADA DE TRABALHO DE 44 HORAS PARA 40 HORAS SEMANAIS DOS SEGUINTES SERVIÇOS CONTÍNUOS, OBJETO DO CONTRATO Nº 9.16/2023, NA FORMA DO ART. 4º DO DECRETO Nº 12.174, DE 11 DE SETEMBRO DE 2024, E DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 5 DE DEZEMBRO DE 2024; A REDUÇÃO SE APLICA A TODOS OS TRABALHADORES QUE PRESTAREM OS SERVIÇOS ACIMA INDICADOS NO ÂMBITO DO CONTRATO Nº 9.16/23 (ART. 2º, §2º, DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 2024).",
+        "Data Início": "07/04/2025",
+        "Data Fim": "09/02/2026",
+        "Vlr. Global": "526.519,82",
+        "Parcelas": "1",
+        "Vlr. Parcela": "526.519,82",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "Data Assinatura": "11/12/2025",
+        "Número": "00002/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1. REPACTUAÇÃO DOS VALORES DO CONTRATO EM DECORRÊNCIA DOS AJUSTES DOS VALORES RESULTANTES DA CONVENÇÕES COLETIVAS DE TRABALHO DOS PROFISSIONAIS ENVOLVIDOS NA CONTRATAÇÃO, COM IMPACTOS FINANCEIROS RETROAGINDO À 01/01/2025, TENDO EM VISTA O DISPOSTO NAS REFERIDAS CCTS, E NA NOTA TÉCNICA Nº 65/2025/SGP-CAP/SGP/ANP-RJ (SEI 5249848).\r\n2. REVISÃO CONTRATUAL PARA PROMOVER O REEQUILÍBRIO ECONÔMICO-FINANCEIRO AO CONTRATO, EM RAZÃO DA REONERAÇÃO GRADUAL DAS PLANILHAS DE CUSTOS FORMAÇÃO DE PREÇOS, A PARTIR DE 01/01/2025, FUNDAMENTADA NA LEI Nº 14.973.24 (INSS), QUE ALTERA GRADUALMENTE OS PERCENTUAIS DE INSS E CPRB DAS RESPECTIVAS PLANILHAS, DE ACORDO COM O CONTIDO NA NOTA TÉCNICA SUPRACITADA.",
+        "Data Início": "11/12/2025",
+        "Data Fim": "09/02/2026",
+        "Vlr. Global": "15.820.228,55",
+        "Parcelas": "30",
+        "Vlr. Parcela": "527.340,95",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "Data Assinatura": "06/02/2026",
+        "Número": "00003/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1. PRORROGAR A VIGÊNCIA DO CONTRATO PELO PERÍODO DE  30 (TRINTA) MESES, COMPREENDIDOS ENTRE 09/02/2026 A 09/08/28, COM FUNDAMENTO NOS ARTIGOS 107 E 108 DA LEI Nº. 14.133/2021, COMBINADO COM A CLÁUSULA SEGUNDA DO CONTRATO EM APREÇO;\r\n2. PROMOVER A SUPRESSÃO E/OU REDUÇÃO DOS CUSTOS FIXOS OU VARIÁVEIS JÁ PAGOS INTEGRALMENTE OU AMORTIZADOS AO LONGO DO PRIMEIRO ANO DA VIGÊNCIA CONTRATUAL, EM CONSONÂNCIA COM O DISPOSTO NO ITEM 9 DO ANEXO IX DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº. 5, DE 2017; E\r\n3. ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR REPACTUAÇÃO DOS CUSTOS CONTRATUAIS NO MOMENTO OPORTUNO, MANTIDAS AS DEMAIS CONDIÇÕES ANTERIORMENTE PACTUADAS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SÉTIMA DO CONTRATO.",
+        "Data Início": "09/02/2026",
+        "Data Fim": "09/08/2028",
+        "Vlr. Global": "16.230.283,00",
+        "Parcelas": "30",
+        "Vlr. Parcela": "541.009,43",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "Data Assinatura": "18/03/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "2.1. PROMOVER A REPACTUAÇÃO DO CONTRATO Nº 9.016/2023, COM FUNDAMENTO NO ACORDO COLETIVO DE TRABALHO SITIMMME 2025/2027 (SEI Nº 5649967) E NA CONVENÇÃO COLETIVA DE TRABALHO SITIMMME 2025/2027 (SEI Nº 5649968), OS QUAIS ESTABELECERAM OS PERCENTUAIS DE REAJUSTE SALARIAL E A ATUALIZAÇÃO DOS BENEFÍCIOS APLICÁVEIS À CATEGORIA PROFISSIONAL ABRANGIDA PELA CONTRATAÇÃO, NOS TERMOS DAS PLANILHAS DE CUSTOS E FORMAÇÃO DE PREÇOS (SEI NºS 5649977, 5652726, 5652728, 5652736 E RESUMO 5649980) E DA NOTA TÉCNICA Nº 2/2026/SGP-CAP/SGP/ANP-RJ (SEI Nº 5650096), EM CONFORMIDADE COM O DESCRITO ABAIXO:\r\n\r\n2.1.1. REPACTUAR O VALOR GLOBAL DO CONTRATO Nº 9.016/2023 EM 1,5323% (UM INTEIRO, CINQUENTA E TRÊS CENTÉSIMOS E VINTE E TRÊS MILÉSIMOS POR CENTO), RELATIVAMENTE À VIGÊNCIA COMPREENDIDA ENTRE 09 DE AGOSTO DE 2023 E 09 DE FEVEREIRO DE 2026, EM REFERÊNCIA AO TERMO ADITIVO Nº 02, PARA FINS DE MANUTENÇÃO DO EQUILÍBRIO ECONÔMICO-FINANCEIRO CONTRATUAL. EM RAZÃO DISTO, OS VALORES MENSAIS DO CONTRATO PARA O RESPECTIVO PASSAM A SER PRATICADOS DA SEGUINTE FORMA:\r\n\r\nPARA O PERÍODO DE 01/05/2025 A 08/08/2025 PASSARÁ PARA R$572.639,49 (QUINHENTOS E SETENTA E DOIS MIL SEISCENTOS E TRINTA E NOVE REAIS E QUARENTA E NOVE CENTAVOS);\r\nPARA O PERÍODO DE 09/08/2025 A 09/02/2026 PASSARÁ PARA R$572.990,81 (QUINHENTOS E SETENTA E DOIS MIL NOVECENTOS E NOVENTA REAIS E OITENTA E UM CENTAVOS).\r\nGERANDO UM IMPACTO DE 1,5393% NO VALOR GLOBAL DO CONTRATO CONSIDERANDO O PERÍODO DE 09/08/2023 A 09/02/2026 (30 MESES) - 1ª VIGÊNCIA, SENDO ASSIM O VALOR GLOBAL DO CONTRATO PASSARÁ A SER DE R$16.062.636,50 (DEZESSEIS MILHÕES, SESSENTA E DOIS MIL SEISCENTOS E TRINTA E SEIS REAIS E CINQUENTA CENTAVOS);\r\n\r\n2.1.2. REPACTUAR O VALOR GLOBAL DO CONTRATO Nº 9.016/2023 EM 5,9895% (CINCO INTEIROS NOVENTA E OITO CENTÉSIMOS E NOVENTA E CINCO MILÉSIMOS POR CENTO) RELATIVAMENTE À VIGÊNCIA COMPREENDIDA ENTRE 9 DE FEVEREIRO DE 2026 E 09 DE AGOSTO DE 2028, EM REFERÊNCIA AO TERMO ADITIVO Nº 03, PARA FINS DE MANUTENÇÃO DO EQUILÍBRIO ECONÔMICO-FINANCEIRO CONTRATUAL. EM RAZÃO DISTO, OS VALORES MENSAIS DO CONTRATO PARA O RESPECTIVO PASSAM A SER PRATICADOS DA SEGUINTE FORMA:\r\n\r\nA) PARA O PERÍODO DE 09/02/2026 A 08/08/2026 PASSARÁ PARA R$572.990,81 (QUINHENTOS E SETENTA E DOIS MIL NOVECENTOS E NOVENTA REAIS E OITENTA E UM CENTAVOS);\r\nB) PARA O PERÍODO DE 09/08/2026 A 08/08/2027 PASSARÁ PARA R$573.343,05 (QUINHENTOS E SETENTA E TRÊS MIL TREZENTOS E QUARENTA E TRÊS REAIS E CINCO CENTAVOS);\r\nC) PARA O PERÍODO DE 09/08/2027 A 08/08/2028 PASSARÁ PARA R$573.693,96 (QUINHENTOS E SETENTA E TRÊS MIL SEISCENTOS E NOVENTA E TRÊS REAIS E NOVENTA E SEIS CENTAVOS).\r\nD) GERANDO UM IMPACTO DE 5,9895% NO VALOR GLOBAL DO CONTRATO CONSIDERANDO O PERÍODO DE 09/02/2026 A 09/08/2028 (30 MESES) - 2ª VIGÊNCIA, SENDO ASSIM O VALOR GLOBAL DO CONTRATO PASSARÁ A SER DE R$17.202.388,98 (DEZESSETE MILHÕES, DUZENTOS E DOIS MIL TREZENTOS E OITENTA E OITO REAIS E NOVENTA E OITO CENTAVOS);",
+        "Data Início": "09/08/2023",
+        "Data Fim": "09/08/2028",
+        "Vlr. Global": "17.202.388,98",
+        "Parcelas": "30",
+        "Vlr. Parcela": "573.412,97",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "206402",
+      "dados": {
+        "Data Assinatura": "24/04/2026",
+        "Número": "00004/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PROMOVER A ALTERAÇÃO QUALITATIVA DO CONTRATO Nº 9.016/2023, CONSISTENTE NA REDUÇÃO DA JORNADA DE TRABALHO DE 44 (QUARENTA E QUATRO) PARA 40 (QUARENTA) HORAS SEMANAIS, EM CONFORMIDADE COM O DISPOSTO NA I.N. SEGES/MGI Nº 381, DE 2025, QUE ALTERA O ANEXO I DA I.N. Nº 190, DE 5 DE DEZEMBRO DE 2024, BEM COMO NA NOTA TÉCNICA Nº 15/2026/SGP-CAP/SGP/ANP-RJ (SEI Nº 5756519).\r\nA REDUÇÃO APLICA-SE A TODOS OS TRABALHADORES QUE PRESTAREM OS SERVIÇOS INDICADOS NO ÂMBITO DO CONTRATO Nº 9.016/2023, INCLUSIVE AOS ENCARREGADOS GERAIS, NOS TERMOS DO ART. 2º, §§ 2º E 3º, DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 2024.",
+        "Data Início": "24/04/2026",
+        "Data Fim": "09/08/2028",
+        "Vlr. Global": "17.202.388,98",
+        "Parcelas": "30",
+        "Vlr. Parcela": "573.412,97",
+        "Número Contrato": "09016/2023"
+      }
+    },
+    {
+      "contrato_id": "47679",
+      "dados": {
+        "Data Assinatura": "21/10/2019",
+        "Número": "09047/2019",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09047/2019 DE ACORDO COM PROCESSO NÚMERO: 48610.205027/2019-53",
+        "Data Início": "21/10/2019",
+        "Data Fim": "21/10/2020",
+        "Vlr. Global": "633.200,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "0,00",
+        "Número Contrato": "09047/2019"
+      }
+    },
+    {
+      "contrato_id": "47679",
+      "dados": {
+        "Data Assinatura": "05/10/2020",
+        "Número": "00001/2020",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL ORIGINAL POR 12 (DOZE) MESES; REDUZIR OS VALORES DOS ITENS 16.4 E 21 DOS SERVIÇOS SOB DEMANDA (ITEM 1.3.1 DO CONTRATO), DEVIDO AO DESCONTODECORRENTE DE NEGOCIAÇÃO ENTRE AS PARTES; E ASSEGURAR À CONTRATADA, O DIREITO DE PLEITEAR O REAJUSTE DO VALOR DOS SERVIÇOS, COM EFEITOS RETROATIVOS À DATA DO ADITIVO CONTRATUAL.",
+        "Data Início": "21/10/2020",
+        "Data Fim": "21/10/2021",
+        "Vlr. Global": "627.810,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "0,00",
+        "Número Contrato": "09047/2019"
+      }
+    },
+    {
+      "contrato_id": "47679",
+      "dados": {
+        "Data Assinatura": "19/02/2021",
+        "Número": "00001/2021",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 9.047/19 EM  6,1934%, REFERENTE À VARIAÇÃO DO ICTI ACUMULADO DE SETEMBRO/19 A AGOSTO/20, COM EFEITOS RETROATIVOS A 21/10/2020, CONFORME DISPOSTO NA NOTA TÉCNICA Nº 112/2020/STI-CONT/STI/ANP-RJ (SEI Nº 1059535).",
+        "Data Início": "21/10/2019",
+        "Data Fim": "21/10/2021",
+        "Vlr. Global": "666.692,57",
+        "Parcelas": "12",
+        "Vlr. Parcela": "55.557,71",
+        "Número Contrato": "09047/2019"
+      }
+    },
+    {
+      "contrato_id": "47679",
+      "dados": {
+        "Data Assinatura": "13/09/2021",
+        "Número": "00002/2021",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 21/10/2021 A 21/10/2022, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93, MANTIDOS OS MOLDES VIGENTES; E ASSEGURAR À CONTRATADA,   O DIREITO DE PLEITEAR  O REAJUSTE DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO ORIGINAL.",
+        "Data Início": "21/10/2021",
+        "Data Fim": "21/10/2022",
+        "Vlr. Global": "666.692,57",
+        "Parcelas": "12",
+        "Vlr. Parcela": "55.557,71",
+        "Número Contrato": "09047/2019"
+      }
+    },
+    {
+      "contrato_id": "47679",
+      "dados": {
+        "Data Assinatura": "02/02/2022",
+        "Número": "00001/2022",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 9.047/19 EM 7,81% (SETE INTEIROS E OITENTA E UM CENTÉSIMOS PERCENTUAIS), COM BASE NO ICTI ACUMULADO DE SETEMBRO/20 A AGOSTO/21, COM EFEITOS RETROATIVOS A 21/10/2021.",
+        "Data Início": "21/10/2019",
+        "Data Fim": "21/10/2022",
+        "Vlr. Global": "718.761,28",
+        "Parcelas": "12",
+        "Vlr. Parcela": "59.896,77",
+        "Número Contrato": "09047/2019"
+      }
+    },
+    {
+      "contrato_id": "162958",
+      "dados": {
+        "Data Assinatura": "11/01/2021",
+        "Número": "05053/2020",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 05053/2020 DE ACORDO COM PROCESSO NÚMERO: 48610.216752/2020-91",
+        "Data Início": "11/01/2021",
+        "Data Fim": "11/01/2023",
+        "Vlr. Global": "169.555,69",
+        "Parcelas": "1",
+        "Vlr. Parcela": "169.555,69",
+        "Número Contrato": "05053/2020"
+      }
+    },
+    {
+      "contrato_id": "162958",
+      "dados": {
+        "Data Assinatura": "09/12/2021",
+        "Número": "00001/2021",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12(DOZE) MESES, CORRESPONDENTE AO PERÍODO DE 11/01/2022 A\r\n11/01/2023, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8.666/93, MANTIDOS OS MOLDES QUANTITATIVOS E\r\nQUALITATIVOS VIGENTES; ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O AJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO\r\nDISPONHA DOS VALORES REAJUSTADOS; ALTERAR A RAZÃO SOCIAL DA EMPRESA DE INTERFUSAO SERVICOS DE TECNOLOGIA\r\nEIRELI PARA INTERFUSAO SERVICOS DE TECNOLOGIA LTDA; E ALTERAR O ENDEREÇO DA CONTRATADA PARA AVENIDA MARCOS\r\nPENTEADO DE ULHOA RODRIGUES, Nº 938, 8º ANDAR, SALA 844 TORRE I, EDIFÍCIO JACARANDÁ, TAMBORÉ, BARUERI, SÃO\r\nPAULO/SP ,  CEP: 06460-040.",
+        "Data Início": "11/01/2022",
+        "Data Fim": "11/01/2023",
+        "Vlr. Global": "169.555,69",
+        "Parcelas": "1",
+        "Vlr. Parcela": "169.555,69",
+        "Número Contrato": "05053/2020"
+      }
+    },
+    {
+      "contrato_id": "475000",
+      "dados": {
+        "Data Assinatura": "19/12/2024",
+        "Número": "2024NE000803",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000803 DE ACORDO COM PROCESSO NÚMERO: 48610.232131/2024-88",
+        "Data Início": "19/12/2024",
+        "Data Fim": "19/12/2025",
+        "Vlr. Global": "218,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "218,00",
+        "Número Contrato": "2024NE000803"
+      }
+    },
+    {
+      "contrato_id": "119486",
+      "dados": {
+        "Data Assinatura": "25/10/2021",
+        "Número": "09031/2021",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09031/2021 DE ACORDO COM PROCESSO NÚMERO: 48610.203442/2021-97",
+        "Data Início": "25/10/2021",
+        "Data Fim": "25/10/2022",
+        "Vlr. Global": "64.620,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "64.620,00",
+        "Número Contrato": "09031/2021"
+      }
+    },
+    {
+      "contrato_id": "119486",
+      "dados": {
+        "Data Assinatura": "19/09/2022",
+        "Número": "00001/2022",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 25/10/2022 E 25/10/2023,, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93; PROMOVER ALTERAÇÃO QUALITATIVA NO CONTRATO MEDIANTE A INCLUSÃO DE SERVIÇOS DE A MANUTENÇÃO PREVENTIVA E A DEFINIÇÃO DE SUA METODOLOGIA; ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR A REPACTUAÇÃO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "25/10/2022",
+        "Data Fim": "25/10/2023",
+        "Vlr. Global": "64.620,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "64.620,00",
+        "Número Contrato": "09031/2021"
+      }
+    },
+    {
+      "contrato_id": "119486",
+      "dados": {
+        "Data Assinatura": "15/05/2023",
+        "Número": "00001/2023",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 25/10/2023 E 25/10/2024, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93;\r\n\r\n2.2 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O REAUSTE CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "25/10/2023",
+        "Data Fim": "25/10/2024",
+        "Vlr. Global": "64.620,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "64.620,00",
+        "Número Contrato": "09031/2021"
+      }
+    },
+    {
+      "contrato_id": "119486",
+      "dados": {
+        "Data Assinatura": "09/08/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 25/10/2024 E 25/10/2025, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93.",
+        "Data Início": "25/10/2024",
+        "Data Fim": "22/02/2026",
+        "Vlr. Global": "64.620,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "64.620,00",
+        "Número Contrato": "09031/2021"
+      }
+    },
+    {
+      "contrato_id": "119486",
+      "dados": {
+        "Data Assinatura": "24/10/2025",
+        "Número": "00004/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1 REGISTRAR, EM RAZÃO DO DECRETO Nº 12.477, DE 30/05/2025, QUE IMPÔS ÀS AGÊNCIA REGULADORAS NOVO CORTE ORÇAMENTÁRIO ALTERANDO DE FORMA AMPLA OS RECURSOS DISPONÍVEIS NO ORÇAMENTO DA ANP, A SUSPENSÃO DO CONTRATO, POR 120 (CENTO E VINTE) DIAS, CORRESPONDENTE AO PERÍODO DE 01/08/2025 A 28/11/2025, FORMALIZADA POR MEIO DA NOTA TÉCNICA 65/2025/STI-CONT/STI/ANP-RJ (SEI 5174488) E OFÍCIO Nº 47/2025/STI-CONT/STI/ANP-RJ (5148710), NOS TERMOS DO ART. 78, INC. XIV, DA LEI N. 8.666/96, SEM PREJUÍZO DA POSSIBILIDADE DE INTERRUPÇÃO DA SUSPENSÃO, COM A RETOMADA ANTECIPADA DA CONTINUIDADE DA PRESTAÇÃO DO SERVIÇO POR ORDEM ESCRITA DA ADMINISTRAÇÃO, ACOMPANHADA DE COMPROVANTE DE CIÊNCIA DA CONTRATADA, DEVIDAMENTE JUSTIFICADA E DOCUMENTADA NOS AUTOS.   \r\n2.1.1.COM A SUSPENSÃO SUPRACITADA, REGISTRA-SE A READEQUAÇÃO DO ATUAL PERÍODO DA VIGÊNCIA CONTRATUAL, QUE SERIA DE 25/10/2024 E 25/10/25, E PASSA A SER DE 25/10/24 A 31/07/25  E  DE 29/11/2025 A  22/02/2026, COM BASE NO ARTIGO 79, §5º, DA LEI 8.666/93, MANTENDO O PERÍODO DO CONTRATO ORIGINAL DA CONTRATAÇÃO.\r\n2.1.2 CONSIGNAR O PLEITO DA CONTRATADA (5169023) DE CONDICIONAR O ACEITE DO ADITAMENTO PRETENDIDO À REALIZAÇÃO DE VISTORIAS NOS EQUIPAMENTOS CONTEMPLADOS NO CONTRATO, NO INÍCIO DO PRAZO DE SUSPENSÃO E NO MOMENTO DA RETOMADA DOS SERVIÇOS, DE MODO A EVITAR QUE EVENTUAIS FALHAS OCORRIDAS DURANTE O PERÍODO DE SUSPENSÃO  ESTEJAM COBERTAS PELO ATUAL CONTRATO, NA FORMA DISPOSTA PELO DESPACHO 136/2025/STI-CONT/STI/ANP-RJ  (SEI 5200938).\r\n2.2 PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, QUE ORIGINALMENTE SERIA DE 25/10/2024  A 25/10/2025, CONTEMPLANDO OS 120 DIAS DE COMPENSAÇÃO DA SUSPENSÃO, PASSA A SER DE 22/02/2026 E 22/02/2027,COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93.\r\n2.3 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O REAJUSTE CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SEXTA DO CONTRATO.\r\n2.4 REGISTRAR  O AJUSTE NO ENDEREÇO DA CONTRATADA QUE, EM CONSONÂNCIA COM A 17ª ALTERAÇÃO DO CONTRATO SOCIAL DA EMPRESA, PASSA A SER:  SCLN 213, BLOCO C, SALAS 201, 202 E 203, ASA NORTE, BRASÍLIA/DF, CEP. 70.872-530.",
+        "Data Início": "22/02/2026",
+        "Data Fim": "22/02/2027",
+        "Vlr. Global": "86.160,00",
+        "Parcelas": "12",
+        "Vlr. Parcela": "7.180,00",
+        "Número Contrato": "09031/2021"
+      }
+    },
+    {
+      "contrato_id": "798367",
+      "dados": {
+        "Data Assinatura": "30/01/2026",
+        "Número": "05030/2025",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 05030/2025 DE ACORDO COM PROCESSO NÚMERO: 48600.202137/2025-21",
+        "Data Início": "30/01/2026",
+        "Data Fim": "30/01/2027",
+        "Vlr. Global": "135.558,67",
+        "Parcelas": "1",
+        "Vlr. Parcela": "135.558,67",
+        "Número Contrato": "05030/2025"
+      }
+    },
+    {
+      "contrato_id": "80252",
+      "dados": {
+        "Data Assinatura": "28/12/2020",
+        "Número": "05049/2020",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 05049/2020 DE ACORDO COM PROCESSO NÚMERO: 48600.201986/2020-52",
+        "Data Início": "28/12/2020",
+        "Data Fim": "28/12/2021",
+        "Vlr. Global": "269.941,10",
+        "Parcelas": "1",
+        "Vlr. Parcela": "269.941,10",
+        "Número Contrato": "05049/2020"
+      }
+    },
+    {
+      "contrato_id": "94383",
+      "dados": {
+        "Data Assinatura": "17/12/2018",
+        "Número": "09043/2018",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09043/2018 DE ACORDO COM PROCESSO NÚMERO: 48610.008540/2018-17",
+        "Data Início": "19/12/2018",
+        "Data Fim": "18/12/2021",
+        "Vlr. Global": "2.028.820,00",
+        "Parcelas": "760",
+        "Vlr. Parcela": "2.669,50",
+        "Número Contrato": "09043/2018"
+      }
+    },
+    {
+      "contrato_id": "94383",
+      "dados": {
+        "Data Assinatura": "12/03/2019",
+        "Número": "00001/2019",
+        "Tipo": "Termo Aditivo",
+        "Observação": "ALTERAR O CNPJ E RAZÃO SOCIAL DA EMPRESA INGRAM MICRO INFORMÁTICA LTDA,\r\nCNPJ N° 81.627.838/0001-01, PARA INGRAM MICRO BRASIL LTDA, CNPJ N°\r\n01.771.935/0002-15",
+        "Data Início": "19/12/2018",
+        "Data Fim": "18/12/2021",
+        "Vlr. Global": "2.028.820,00",
+        "Parcelas": "760",
+        "Vlr. Parcela": "2.669,50",
+        "Número Contrato": "09043/2018"
+      }
+    },
+    {
+      "contrato_id": "94383",
+      "dados": {
+        "Data Assinatura": "18/12/2019",
+        "Número": "00002/2019",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1.  PRORROGAR A VIGÊNCIA DO CONTRATO REFERENTE AO ITEM 04, POR 12(DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 19/12/2019 A 19/12/2020, COM FUNDAMENTO NO QUE PRESCREVE O ARTIGO 57, INCISO II, DA LEI N.° 8666/93;\r\n2. REDUZIR O VALOR UNITÁRIO DO ITEM 4 DO CONTRATO EM R$26,00 (VINTE E SEIS REAIS), EQUIVALENTE A APROXIMADAMENTE 3,85% (TRÊS INTEIROS E OITENTA E CINCO CENTÉSIMOS PERCENTUAIS), POR INTERMÉDIO DO RESULTADO DE UMA NEGOCIAÇÃO ENTRE AS PARTES CONTRATUAIS; E\r\n3. ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O REAJUSTE AO VALOR DO CONTRATO, TÃO LOGO DISPONHA DO PERCENTUAL ACUMULADO NO PERÍODO, CONFORME DISPOSTO NA CLÁUSULA SEXTA DO CONTRATO.\r\nCOM A REDUÇÃO DO VALOR UNITÁRIO  DO ITEM 04 DO CONTRATO, CONFORME DISPOSTO NO ITEM 2 ACIMA MENCIONADO, O VALOR TOTAL DO ADITIVO PASSA A SER DE R$ 494.000,00 (QUATROCENTOS E NOVENTA E QUATRO MIL REAIS), PARA O PERÍODO SUPRACITADO.",
+        "Data Início": "19/12/2018",
+        "Data Fim": "18/12/2021",
+        "Vlr. Global": "2.028.820,00",
+        "Parcelas": "760",
+        "Vlr. Parcela": "2.669,50",
+        "Número Contrato": "09043/2018"
+      }
+    },
+    {
+      "contrato_id": "94383",
+      "dados": {
+        "Data Assinatura": "05/03/2020",
+        "Número": "00001/2020",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR TOTAL DO CONTRATO EM 2,535030%, COM BASE NO IPCA ACUMULADO DE NOVEMBRO/18 À OUTUBRO/2019.",
+        "Data Início": "19/12/2018",
+        "Data Fim": "18/12/2021",
+        "Vlr. Global": "2.028.820,00",
+        "Parcelas": "760",
+        "Vlr. Parcela": "2.669,50",
+        "Número Contrato": "09043/2018"
+      }
+    },
+    {
+      "contrato_id": "94383",
+      "dados": {
+        "Data Assinatura": "04/12/2020",
+        "Número": "00003/2020",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1.  PRORROGAR A VIGÊNCIA DO CONTRATO REFERENTE AO ITEM 04, POR 12(DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 19/12/2020 A 19/12/2021, COM FUNDAMENTO NO QUE PRESCREVE O ARTIGO 57, INCISO II, DA LEI N.° 8666/93; E\r\n\r\n2. REAJUSTAR O VALOR DA AVENÇA PARA TODOS OS ITENS CONTRATADO,  EM APROXIMADAMENTE  3,91821%, EM RAZÃO DO ÍNDICE DO IPCA ACUMULADO NO PERÍODO DE NOVEMBRO/2019 A OUTUBRO/2020, COM BASE NO DISPOSTO NA CLÁUSULA SEXTA DO INSTRUMENTO CONTRATUAL.",
+        "Data Início": "19/12/2018",
+        "Data Fim": "18/12/2021",
+        "Vlr. Global": "2.028.820,00",
+        "Parcelas": "760",
+        "Vlr. Parcela": "2.669,50",
+        "Número Contrato": "09043/2018"
+      }
+    },
+    {
+      "contrato_id": "94383",
+      "dados": {
+        "Data Assinatura": "14/04/2021",
+        "Número": "00004/2021",
+        "Tipo": "Termo Aditivo",
+        "Observação": "SUPRIMIR O ITEM 1 DO CONTRATO, DEVIDO À DESCONTINUIDADE DA FERRAMENTA \"VMWARE VCENTER SITE RECOVERY MANAGER ENTERPRISE\", PROVOCANDO UMA REDUÇÃO DE 6,23% (SEIS INTEIROS E VINTE E TRÊS CENTÉSIMOS PERCENTUAIS) EM RELAÇÃO AO ADITIVO VIGENTE.",
+        "Data Início": "19/12/2018",
+        "Data Fim": "18/12/2021",
+        "Vlr. Global": "1.842.160,00",
+        "Parcelas": "760",
+        "Vlr. Parcela": "2.423,89",
+        "Número Contrato": "09043/2018"
+      }
+    },
+    {
+      "contrato_id": "94383",
+      "dados": {
+        "Data Assinatura": "18/11/2021",
+        "Número": "00005/2021",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, COMPREENDENDO O PERÍODO DE 19/12/2021 A 19/12/2022, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93.\r\n\r\n2.1.1. A PRORROGAÇÃO DE VIGÊNCIA INCIDIRÁ, EXCLUSIVAMENTE, SOBRE O ITEM 4 DO TERMO DE REFERÊNCIA, CRÉDITOS PSO PARA SERVIÇOS DE INSTALAÇÃO, CUSTOMIZAÇÃO E OPERAÇÃO.\r\n\r\n2.2 SUPRIMIR OS ITENS 2 (\"SUBSCRIÇÃO DE LICENÇAS DO SOFTWARE VMWARE VCENTER SERVER STANDARD FOR VSPHERE\") E 3 (\"UPGRADE DO VSOM ENTERPRISE PARA O VCLOUD STD, COM SUBSCRIÇÃO DAS LICENÇAS\") DO CONTRATO, PROVOCANDO UMA  REDUÇÃO DE 47,27% EM RELAÇÃO AO VALOR ANUAL VIGENTE.\r\n\r\n2.3 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O REAJUSTE CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "19/12/2021",
+        "Data Fim": "19/12/2022",
+        "Vlr. Global": "526.368,40",
+        "Parcelas": "12",
+        "Vlr. Parcela": "43.864,03",
+        "Número Contrato": "09043/2018"
+      }
+    },
+    {
+      "contrato_id": "94383",
+      "dados": {
+        "Data Assinatura": "06/12/2022",
+        "Número": "00006/2022",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO ITEM 04 DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, COMPREENDENDO O PERÍODO DE 19/12/2022 A 19/12/2023, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93; CONSIGNAR A POSSIBILIDADE DE CESSÃO DOS CRÉDITOS DECORRENTES DA CONTRATAÇÃO EM ATENDIMENTO À IN 53-20 SEGES-ME E ÀS RECOMENDAÇÕES REFERENTES À MESMA NO OFÍCIO CIRCULAR SEI Nº 608/2022/ME (2427692), QUE TRATA DA PREVISÃO CONTRATUAL DA OPERAÇÃO DE CRÉDITO GARANTIDA POR CESSÃO FIDUCIÁRIA DOS DIREITOS DE CRÉDITOS DECORRENTES DE CONTRATOS ADMINISTRATIVOS DE QUE TRATA A MENCIONADA IN EM SEU ARTIGO 19, CONFORME NORMATIVO ABAIXO: ART. 19. OS CONTRATOS EM ANDAMENTO PODERÃO SER OBJETO DE OPERAÇÃO DE CRÉDITO NOS TEMOS DESTA INSTRUÇÃO NORMATIVA, DESDE QUE CELEBRADO TERMO ADITIVO, CONFORME DISPOSTO NA ALÍNEA \"C\" DO INCISO II DO ART. 65 DA LEI Nº 8.666, DE 21 DE JUNHO DE 1993.\"; REAJUSTAR O VALOR DO CONTRATO EM 10,672670%, COM BASE NO IPCA ACUMULADO NO PERÍODO DE NOVEMBRO/20 A OUTUBRO/21, TENDO SEUS EFEITOS FINANCEIROS INICIADOS A PARTIR DE 19/12/2022.",
+        "Data Início": "19/12/2022",
+        "Data Fim": "19/12/2023",
+        "Vlr. Global": "582.547,60",
+        "Parcelas": "12",
+        "Vlr. Parcela": "48.545,63",
+        "Número Contrato": "09043/2018"
+      }
+    },
+    {
+      "contrato_id": "132743",
+      "dados": {
+        "Data Assinatura": "14/01/2022",
+        "Número": "09047/2021",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09047/2021 DE ACORDO COM PROCESSO NÚMERO: 48600.200764/2020-12",
+        "Data Início": "14/01/2022",
+        "Data Fim": "14/01/2025",
+        "Vlr. Global": "389.745,67",
+        "Parcelas": "1",
+        "Vlr. Parcela": "389.745,67",
+        "Número Contrato": "09047/2021"
+      }
+    },
+    {
+      "contrato_id": "867961",
+      "dados": {
+        "Data Assinatura": "30/04/2026",
+        "Número": "05003/2026",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 05003/2026 DE ACORDO COM PROCESSO NÚMERO: 48610.205666/2026-48",
+        "Data Início": "30/04/2026",
+        "Data Fim": "30/04/2027",
+        "Vlr. Global": "348.517,10",
+        "Parcelas": "1",
+        "Vlr. Parcela": "348.517,10",
+        "Número Contrato": "05003/2026"
+      }
+    },
+    {
+      "contrato_id": "22860",
+      "dados": {
+        "Data Assinatura": "01/06/2017",
+        "Número": "09021/2017",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09021/2017 DE ACORDO COM PROCESSO NÚMERO: 48610.002364/2017-29",
+        "Data Início": "01/06/2017",
+        "Data Fim": "31/05/2018",
+        "Vlr. Global": "399.957,68",
+        "Parcelas": "1",
+        "Vlr. Parcela": "0,00",
+        "Número Contrato": "09021/2017"
+      }
+    },
+    {
+      "contrato_id": "22860",
+      "dados": {
+        "Data Assinatura": "30/05/2018",
+        "Número": "00001/2018",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 MESES, CORRESPONDENTES AO PERÍODO DE01/06/2018 A 01/06/2019, COM FUNDAMENTO NO ART57, INCISO II, DA LEI 8666/93",
+        "Data Início": "01/06/2018",
+        "Data Fim": "01/06/2019",
+        "Vlr. Global": "399.957,68",
+        "Parcelas": "1",
+        "Vlr. Parcela": "0,00",
+        "Número Contrato": "09021/2017"
+      }
+    },
+    {
+      "contrato_id": "22860",
+      "dados": {
+        "Data Assinatura": "31/05/2019",
+        "Número": "00002/2019",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 MESES; E ASSEGURAR A CONTRATADA O DIREITO DE PLEITEAR O REAJUSTE DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL,TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COMFUNDAMENTO NA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "01/06/2019",
+        "Data Fim": "01/06/2020",
+        "Vlr. Global": "399.957,68",
+        "Parcelas": "1",
+        "Vlr. Parcela": "0,00",
+        "Número Contrato": "09021/2017"
+      }
+    },
+    {
+      "contrato_id": "22860",
+      "dados": {
+        "Data Assinatura": "29/05/2020",
+        "Número": "00003/2020",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 MESES; REAJUSTAR O VALOR DO CONTRATO EM 4,21%, CORRESPONDENTE AO IPCA DE FEVEREIRO DE 2020, CONSIDERANDO O ACUMULADO DOS ÚLTIMOS 12 MESES, COM FUNDAMENTO NA CLÁUSULA SEXTA DO CONTRATO; EASSINALAR O PRAZO A CONTRATADA PARA DEMONSTRARA COMPROVAÇÃO PLENA DE SUA REGULARIDADE FISCALATÉ 30/06/2020. CASO A PRESENTE CLÁUAULA NÃO SEJA CUMPRIDA, O CONTRATO MANTER-SE-Á VIGENTE SOMENTE ATÉ A ASSINATURA CONTRATUAL COM A EMPRESAVENCEDORA DE NOVO PROCESSO LICITATÓRIO.",
+        "Data Início": "01/06/2020",
+        "Data Fim": "01/06/2021",
+        "Vlr. Global": "434.398,71",
+        "Parcelas": "1",
+        "Vlr. Parcela": "0,00",
+        "Número Contrato": "09021/2017"
+      }
+    },
+    {
+      "contrato_id": "173557",
+      "dados": {
+        "Data Assinatura": "01/12/2022",
+        "Número": "2022NE000785",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2022NE000785 DE ACORDO COM PROCESSO NÚMERO: 48610.208903/2022-07",
+        "Data Início": "01/12/2022",
+        "Data Fim": "01/03/2023",
+        "Vlr. Global": "4.425,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "4.425,00",
+        "Número Contrato": "2022NE000785"
       }
     },
     {
