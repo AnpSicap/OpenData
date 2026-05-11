@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-05-08T08:36:23.004846",
+  "ultima_atualizacao": "2026-05-11T10:53:23.195354",
   "total_registros": 2430,
   "dados": [
     {
@@ -7110,78 +7110,6 @@
         "Nome": "CARLOS ANDRÉ JACOMIM DOS SANTOS",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "09024/2025"
-      }
-    },
-    {
-      "contrato_id": "163748",
-      "dados": {
-        "CPF": "***.984.147-**",
-        "Nome": "JACSON DAMASCENO NUNES",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "04038/2022"
-      }
-    },
-    {
-      "contrato_id": "163748",
-      "dados": {
-        "CPF": "***.476.213-**",
-        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "04038/2022"
-      }
-    },
-    {
-      "contrato_id": "163748",
-      "dados": {
-        "CPF": "***.327.947-**",
-        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
-        "Tipo": "Fiscal Requisitante",
-        "Número Contrato": "04038/2022"
-      }
-    },
-    {
-      "contrato_id": "163748",
-      "dados": {
-        "CPF": "***.798.974-**",
-        "Nome": "DAVID FERNANDES FRANÇA",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "04038/2022"
-      }
-    },
-    {
-      "contrato_id": "163748",
-      "dados": {
-        "CPF": "***.984.147-**",
-        "Nome": "JACSON DAMASCENO NUNES",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "04038/2022"
-      }
-    },
-    {
-      "contrato_id": "163748",
-      "dados": {
-        "CPF": "***.798.974-**",
-        "Nome": "DAVID FERNANDES FRANÇA",
-        "Tipo": "Fiscal Requisitante Substituto",
-        "Número Contrato": "04038/2022"
-      }
-    },
-    {
-      "contrato_id": "163748",
-      "dados": {
-        "CPF": "***.327.947-**",
-        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "04038/2022"
-      }
-    },
-    {
-      "contrato_id": "163748",
-      "dados": {
-        "CPF": "***.826.884-**",
-        "Nome": "NATALIE FERNANDA FERNANDES",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "04038/2022"
       }
     },
     {
@@ -16587,6 +16515,78 @@
         "Nome": "ALEXANDRE MACIEL DA SILVA",
         "Tipo": "Responsável Unidade Requisitante",
         "Número Contrato": "2025NE000780"
+      }
+    },
+    {
+      "contrato_id": "163748",
+      "dados": {
+        "CPF": "***.984.147-**",
+        "Nome": "JACSON DAMASCENO NUNES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "04038/2022"
+      }
+    },
+    {
+      "contrato_id": "163748",
+      "dados": {
+        "CPF": "***.476.213-**",
+        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "04038/2022"
+      }
+    },
+    {
+      "contrato_id": "163748",
+      "dados": {
+        "CPF": "***.327.947-**",
+        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "04038/2022"
+      }
+    },
+    {
+      "contrato_id": "163748",
+      "dados": {
+        "CPF": "***.798.974-**",
+        "Nome": "DAVID FERNANDES FRANÇA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "04038/2022"
+      }
+    },
+    {
+      "contrato_id": "163748",
+      "dados": {
+        "CPF": "***.984.147-**",
+        "Nome": "JACSON DAMASCENO NUNES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "04038/2022"
+      }
+    },
+    {
+      "contrato_id": "163748",
+      "dados": {
+        "CPF": "***.798.974-**",
+        "Nome": "DAVID FERNANDES FRANÇA",
+        "Tipo": "Fiscal Requisitante Substituto",
+        "Número Contrato": "04038/2022"
+      }
+    },
+    {
+      "contrato_id": "163748",
+      "dados": {
+        "CPF": "***.327.947-**",
+        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "04038/2022"
+      }
+    },
+    {
+      "contrato_id": "163748",
+      "dados": {
+        "CPF": "***.826.884-**",
+        "Nome": "NATALIE FERNANDA FERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "04038/2022"
       }
     },
     {
