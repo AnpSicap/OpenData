@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-05-12T09:58:05.658199",
-  "total_registros": 2183,
+  "ultima_atualizacao": "2026-05-13T10:01:29.245938",
+  "total_registros": 2186,
   "dados": [
     {
       "contrato_id": "121472",
@@ -10911,6 +10911,24 @@
       }
     },
     {
+      "contrato_id": "472276",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000404",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "2.758,50",
+        "A liq.": "2.758,50",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "09045/2024"
+      }
+    },
+    {
       "contrato_id": "47409",
       "dados": {
         "UG": "323031",
@@ -13063,6 +13081,24 @@
         "A liq.": "2.210,00",
         "Liquid.": "19,47",
         "Pg": "598,53",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "05017/2025"
+      }
+    },
+    {
+      "contrato_id": "645350",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000402",
+        "PI": "-",
+        "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
+        "Emp.": "2.059,99",
+        "A liq.": "2.059,99",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
@@ -29303,6 +29339,24 @@
         "RP A Liq.": "2.820,26",
         "RP Liq.": "2.820,26",
         "RP Pg": "7.330,64",
+        "Número Contrato": "01008/2022"
+      }
+    },
+    {
+      "contrato_id": "144949",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000400",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "49.993,84",
+        "A liq.": "49.993,84",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
         "Número Contrato": "01008/2022"
       }
     },
