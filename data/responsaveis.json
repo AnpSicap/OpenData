@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-05-13T10:01:29.223559",
+  "ultima_atualizacao": "2026-05-14T09:51:23.102768",
   "total_registros": 2432,
   "dados": [
     {
@@ -4878,33 +4878,6 @@
         "Nome": "VINICIUS LEANDRO SKROBOT",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2022NE000664"
-      }
-    },
-    {
-      "contrato_id": "116021",
-      "dados": {
-        "CPF": "***.244.899-**",
-        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "08020/2021"
-      }
-    },
-    {
-      "contrato_id": "116021",
-      "dados": {
-        "CPF": "***.809.164-**",
-        "Nome": "RODRIGO PEREIRA CÂMARA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "08020/2021"
-      }
-    },
-    {
-      "contrato_id": "116021",
-      "dados": {
-        "CPF": "***.677.011-**",
-        "Nome": "RANI DE FREITAS VIEIRA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "08020/2021"
       }
     },
     {
@@ -18063,6 +18036,33 @@
         "Nome": "ANDREA CAMBRAIA VIDAL",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09007/2024"
+      }
+    },
+    {
+      "contrato_id": "116021",
+      "dados": {
+        "CPF": "***.244.899-**",
+        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "08020/2021"
+      }
+    },
+    {
+      "contrato_id": "116021",
+      "dados": {
+        "CPF": "***.809.164-**",
+        "Nome": "RODRIGO PEREIRA CÂMARA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "08020/2021"
+      }
+    },
+    {
+      "contrato_id": "116021",
+      "dados": {
+        "CPF": "***.677.011-**",
+        "Nome": "RANI DE FREITAS VIEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "08020/2021"
       }
     },
     {

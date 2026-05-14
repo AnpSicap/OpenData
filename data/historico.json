@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-05-13T10:01:29.197626",
-  "total_registros": 1468,
+  "ultima_atualizacao": "2026-05-14T09:51:23.073074",
+  "total_registros": 1470,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1300,7 +1300,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "13/05/2026",
+        "Data Fim": "14/05/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -1904,6 +1904,21 @@
         "Vlr. Global": "53.220,00",
         "Parcelas": "60",
         "Vlr. Parcela": "887,00",
+        "Número Contrato": "09026/2023"
+      }
+    },
+    {
+      "contrato_id": "222710",
+      "dados": {
+        "Data Assinatura": "30/04/2026",
+        "Número": "09026/2023",
+        "Tipo": "Termo de Rescisão",
+        "Observação": "RESCINDIR, UNILATERALMENTE, O CONTRATO Nº 9.026/23-ANP-208.242, EM RAZÃO DO REITERADO DESCUMPRIMENTO DE OBRIGAÇÕES CONTRATUAIS POR PARTE DA CONTRATADA, A PARTIR DA DATA DE ASSINATURA DO TERMO DE RESCISÃO.",
+        "Data Início": "20/10/2023",
+        "Data Fim": "30/04/2026",
+        "Vlr. Global": "0,00",
+        "Parcelas": "",
+        "Vlr. Parcela": "0,00",
         "Número Contrato": "09026/2023"
       }
     },
@@ -5163,81 +5178,6 @@
       }
     },
     {
-      "contrato_id": "116021",
-      "dados": {
-        "Data Assinatura": "22/09/2021",
-        "Número": "08020/2021",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 08020/2021 DE ACORDO COM PROCESSO NÚMERO: 48600.202253/2021-16",
-        "Data Início": "22/09/2021",
-        "Data Fim": "22/03/2024",
-        "Vlr. Global": "215.070,46",
-        "Parcelas": "30",
-        "Vlr. Parcela": "7.169,02",
-        "Número Contrato": "08020/2021"
-      }
-    },
-    {
-      "contrato_id": "116021",
-      "dados": {
-        "Data Assinatura": "10/05/2023",
-        "Número": "00001/2022",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 8.020/21-ANP-202.253 EM 6,557%, DECORRENTE DA VARIAÇÃO DO IPCA/IBGE NO PERÍODO DE DEZEMBRO/2021 A DEZEMBRO/2022, JUNTAMENTE COM A TAXA DE AJUSTE DE 11% (ONZE POR CENTO), PREVISTA NO ITEM 15 DO TERMO DE REFERÊNCIA.",
-        "Data Início": "22/09/2021",
-        "Data Fim": "22/09/2026",
-        "Vlr. Global": "217.547,08",
-        "Parcelas": "1",
-        "Vlr. Parcela": "217.547,08",
-        "Número Contrato": "08020/2021"
-      }
-    },
-    {
-      "contrato_id": "116021",
-      "dados": {
-        "Data Assinatura": "08/08/2023",
-        "Número": "00001/2021",
-        "Tipo": "Termo Aditivo",
-        "Observação": "ALTERAÇÃO O CNPJ DA CONTRATADA.",
-        "Data Início": "08/08/2023",
-        "Data Fim": "22/09/2026",
-        "Vlr. Global": "220.600,05",
-        "Parcelas": "30",
-        "Vlr. Parcela": "7.353,34",
-        "Número Contrato": "08020/2021"
-      }
-    },
-    {
-      "contrato_id": "116021",
-      "dados": {
-        "Data Assinatura": "26/02/2024",
-        "Número": "00002/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "Prorrogar a vigência do Contrato original por 30 (trinta) meses, correspondentes ao período de 22/03/2024, a 22/09/2026, com fundamento no artigo 57, inciso II, da Lei n.º 8.666/93.",
-        "Data Início": "22/03/2024",
-        "Data Fim": "22/09/2026",
-        "Vlr. Global": "215.070,46",
-        "Parcelas": "30",
-        "Vlr. Parcela": "7.169,02",
-        "Número Contrato": "08020/2021"
-      }
-    },
-    {
-      "contrato_id": "116021",
-      "dados": {
-        "Data Assinatura": "01/11/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 8.020/21-ANP-202.253 EM 4,62%, DECORRENTE DA VARIAÇÃO DO IPCA/IBGE NO PERÍODO DE DEZEMBRO/2022 A DEZEMBRO/2023, TENDO SEUS EFEITOS FINANCEIROS RETROAGINDO A JANEIRO/2024.",
-        "Data Início": "22/09/2021",
-        "Data Fim": "22/09/2026",
-        "Vlr. Global": "220.600,05",
-        "Parcelas": "1",
-        "Vlr. Parcela": "220.600,05",
-        "Número Contrato": "08020/2021"
-      }
-    },
-    {
       "contrato_id": "100983",
       "dados": {
         "Data Assinatura": "09/12/2019",
@@ -7150,7 +7090,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "13/05/2026",
+        "Data Fim": "14/05/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8305,7 +8245,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "13/05/2026",
+        "Data Fim": "14/05/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -15565,7 +15505,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "13/05/2026",
+        "Data Fim": "14/05/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16773,6 +16713,96 @@
       }
     },
     {
+      "contrato_id": "116021",
+      "dados": {
+        "Data Assinatura": "22/09/2021",
+        "Número": "08020/2021",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 08020/2021 DE ACORDO COM PROCESSO NÚMERO: 48600.202253/2021-16",
+        "Data Início": "22/09/2021",
+        "Data Fim": "22/03/2024",
+        "Vlr. Global": "215.070,46",
+        "Parcelas": "30",
+        "Vlr. Parcela": "7.169,02",
+        "Número Contrato": "08020/2021"
+      }
+    },
+    {
+      "contrato_id": "116021",
+      "dados": {
+        "Data Assinatura": "10/05/2023",
+        "Número": "00001/2022",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 8.020/21-ANP-202.253 EM 6,557%, DECORRENTE DA VARIAÇÃO DO IPCA/IBGE NO PERÍODO DE DEZEMBRO/2021 A DEZEMBRO/2022, JUNTAMENTE COM A TAXA DE AJUSTE DE 11% (ONZE POR CENTO), PREVISTA NO ITEM 15 DO TERMO DE REFERÊNCIA.",
+        "Data Início": "22/09/2021",
+        "Data Fim": "22/09/2026",
+        "Vlr. Global": "217.547,08",
+        "Parcelas": "1",
+        "Vlr. Parcela": "217.547,08",
+        "Número Contrato": "08020/2021"
+      }
+    },
+    {
+      "contrato_id": "116021",
+      "dados": {
+        "Data Assinatura": "08/08/2023",
+        "Número": "00001/2021",
+        "Tipo": "Termo Aditivo",
+        "Observação": "ALTERAÇÃO O CNPJ DA CONTRATADA.",
+        "Data Início": "08/08/2023",
+        "Data Fim": "22/09/2026",
+        "Vlr. Global": "220.600,05",
+        "Parcelas": "30",
+        "Vlr. Parcela": "7.353,34",
+        "Número Contrato": "08020/2021"
+      }
+    },
+    {
+      "contrato_id": "116021",
+      "dados": {
+        "Data Assinatura": "26/02/2024",
+        "Número": "00002/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "Prorrogar a vigência do Contrato original por 30 (trinta) meses, correspondentes ao período de 22/03/2024, a 22/09/2026, com fundamento no artigo 57, inciso II, da Lei n.º 8.666/93.",
+        "Data Início": "22/03/2024",
+        "Data Fim": "22/09/2026",
+        "Vlr. Global": "215.070,46",
+        "Parcelas": "30",
+        "Vlr. Parcela": "7.169,02",
+        "Número Contrato": "08020/2021"
+      }
+    },
+    {
+      "contrato_id": "116021",
+      "dados": {
+        "Data Assinatura": "01/11/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 8.020/21-ANP-202.253 EM 4,62%, DECORRENTE DA VARIAÇÃO DO IPCA/IBGE NO PERÍODO DE DEZEMBRO/2022 A DEZEMBRO/2023, TENDO SEUS EFEITOS FINANCEIROS RETROAGINDO A JANEIRO/2024.",
+        "Data Início": "22/09/2021",
+        "Data Fim": "22/09/2026",
+        "Vlr. Global": "220.600,05",
+        "Parcelas": "1",
+        "Vlr. Parcela": "220.600,05",
+        "Número Contrato": "08020/2021"
+      }
+    },
+    {
+      "contrato_id": "116021",
+      "dados": {
+        "Data Assinatura": "08/05/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO DECORRENTE DA VARIAÇÃO DO IPCA/IBGE NOS PERÍODOS DE JANEIRO/2024 A DEZEMBRO/2024 E DE JANEIRO/2025 A DEZEMBRO DE 2025, NA FORMA DISPOSTA NA NOTA TÉCNICA Nº 5/2026/SGA-ADM DF/SGA/ANP-DF (SEI 5935380) EM:\r\nI. 4,831% REFERENTE AO IPCA-IBGE ACUMULADO EM 2024 (SEI 5935339) PELO PERÍODO DE 12 MESES, CONFORME DEMONSTRADO NA PLANILHA REAJUSTE DE PREÇOS (SEI 5935375); E \r\nII. 4,264% REFERENTE AO IPCA-IBGE ACUMULADO EM 2025 (SEI 5935339), PELO PERÍODO DE 12 MESES, CONFORME  DEMONSTRADO NA PLANILHA REAJUSTE DE PREÇOS (SEI  5935375).\r\n III. É DEVIDO À CONTRATADA O VALOR CORRESPONDE À DIFERENÇA ENTRE OS MATERIAIS JÁ PAGOS COM BASE NO PREÇO ATUAL E O PREÇOS REAJUSTADOS PARA ESTES MESMOS ITENS, QUE FORAM FORNECIDOS ENTRE JAN/2025 E DEZ/2025 (3° REAJUSTE) E JAN/2026 ATÉ A DATA DE ASSINATURA DESTE APOSTILAMENTO (4° REAJUSTE)",
+        "Data Início": "22/09/2021",
+        "Data Fim": "22/09/2026",
+        "Vlr. Global": "241.118,16",
+        "Parcelas": "1",
+        "Vlr. Parcela": "241.118,16",
+        "Número Contrato": "08020/2021"
+      }
+    },
+    {
       "contrato_id": "146840",
       "dados": {
         "Data Assinatura": "20/05/2022",
@@ -17110,7 +17140,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "13/05/2026",
+        "Data Fim": "14/05/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -17275,7 +17305,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "13/05/2026",
+        "Data Fim": "14/05/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
