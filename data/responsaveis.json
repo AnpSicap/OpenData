@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-05-14T09:51:23.102768",
-  "total_registros": 2432,
+  "ultima_atualizacao": "2026-05-15T10:03:31.987303",
+  "total_registros": 2437,
   "dados": [
     {
       "contrato_id": "121472",
@@ -6588,6 +6588,33 @@
         "Nome": "ANDREA CAMBRAIA VIDAL",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "00012/2022"
+      }
+    },
+    {
+      "contrato_id": "883096",
+      "dados": {
+        "CPF": "***.677.011-**",
+        "Nome": "RANI DE FREITAS VIEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000324"
+      }
+    },
+    {
+      "contrato_id": "883096",
+      "dados": {
+        "CPF": "***.809.164-**",
+        "Nome": "RODRIGO PEREIRA CÂMARA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000324"
+      }
+    },
+    {
+      "contrato_id": "883096",
+      "dados": {
+        "CPF": "***.244.899-**",
+        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000324"
       }
     },
     {
@@ -15615,6 +15642,24 @@
         "Nome": "JACSON DAMASCENO NUNES",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09051/2025"
+      }
+    },
+    {
+      "contrato_id": "882996",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000161"
+      }
+    },
+    {
+      "contrato_id": "882996",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000161"
       }
     },
     {
