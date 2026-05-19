@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-05-18T11:23:01.072643",
-  "total_registros": 1476,
+  "ultima_atualizacao": "2026-05-19T10:53:25.112542",
+  "total_registros": 1479,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1300,7 +1300,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "18/05/2026",
+        "Data Fim": "19/05/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -5028,6 +5028,51 @@
       }
     },
     {
+      "contrato_id": "467777",
+      "dados": {
+        "Data Assinatura": "19/02/2025",
+        "Número": "09003/2025",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09003/2025 DE ACORDO COM PROCESSO NÚMERO: 48610.219412/2024-45",
+        "Data Início": "19/02/2025",
+        "Data Fim": "19/02/2026",
+        "Vlr. Global": "5.754.528,12",
+        "Parcelas": "1",
+        "Vlr. Parcela": "5.754.528,12",
+        "Número Contrato": "09003/2025"
+      }
+    },
+    {
+      "contrato_id": "467777",
+      "dados": {
+        "Data Assinatura": "03/02/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 19/02/2026 A 19/02/2027, MANTIDOS OS MOLDES ORIGINAIS, COM FUNDAMENTO NO ARTIGO 107 DA LEI Nº 14.133, DE 2021, COMBINADO COM A CLÁUSULA SEGUNDA  DO CONTRATO;E\r\nASSEGURAR À CONTRATADA O DIREITO DE POSTERIORMENTE PLEITEAR A REAJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO  DISPONHA DOS VALORES  A SEREM REAJUSTADOS.",
+        "Data Início": "19/02/2026",
+        "Data Fim": "19/02/2027",
+        "Vlr. Global": "5.754.528,12",
+        "Parcelas": "12",
+        "Vlr. Parcela": "479.544,01",
+        "Número Contrato": "09003/2025"
+      }
+    },
+    {
+      "contrato_id": "467777",
+      "dados": {
+        "Data Assinatura": "30/04/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR  O VALOR DO CONTRATO Nº 9.003/25 EM 3,75% COM BASE NO ICTI ACUMULADO DE DEZEMBRO/24 A NOVEMBRO/25, COM EFEITOS  FINANCEIROS  RETROAGINDO A 04/11/25, CONFORME DEMONSTRADO NA PLANILHA - 1º REAJUSTE DE PREÇOS  (SEI 5742156), E DISPOSTO NA NOTA TÉCNICA Nº 11/2026/STI-CONT/STI/ANP-RJ (SEI 5742118).",
+        "Data Início": "19/02/2026",
+        "Data Fim": "19/02/2027",
+        "Vlr. Global": "5.970.437,04",
+        "Parcelas": "12",
+        "Vlr. Parcela": "497.536,42",
+        "Número Contrato": "09003/2025"
+      }
+    },
+    {
       "contrato_id": "165751",
       "dados": {
         "Data Assinatura": "21/09/2022",
@@ -7060,7 +7105,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "18/05/2026",
+        "Data Fim": "19/05/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8215,7 +8260,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "18/05/2026",
+        "Data Fim": "19/05/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -15505,7 +15550,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "18/05/2026",
+        "Data Fim": "19/05/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -17110,7 +17155,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "18/05/2026",
+        "Data Fim": "19/05/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -17275,7 +17320,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "18/05/2026",
+        "Data Fim": "19/05/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -17430,6 +17475,36 @@
         "Parcelas": "1",
         "Vlr. Parcela": "4.618.599,89",
         "Número Contrato": "09012/2024"
+      }
+    },
+    {
+      "contrato_id": "887461",
+      "dados": {
+        "Data Assinatura": "04/05/2026",
+        "Número": "09005/2026",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09005/2026 DE ACORDO COM PROCESSO NÚMERO: 48610.212675/2025-12",
+        "Data Início": "04/05/2026",
+        "Data Fim": "04/05/2027",
+        "Vlr. Global": "12.533.642,65",
+        "Parcelas": "12",
+        "Vlr. Parcela": "1.044.470,22",
+        "Número Contrato": "09005/2026"
+      }
+    },
+    {
+      "contrato_id": "888831",
+      "dados": {
+        "Data Assinatura": "29/04/2026",
+        "Número": "2026NE000374",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000374 DE ACORDO COM PROCESSO NÚMERO: 48600.204865/2024-96",
+        "Data Início": "29/04/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "113.182,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "113.182,00",
+        "Número Contrato": "2026NE000374"
       }
     },
     {
@@ -18573,6 +18648,21 @@
       }
     },
     {
+      "contrato_id": "888419",
+      "dados": {
+        "Data Assinatura": "13/05/2026",
+        "Número": "09009/2026",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09009/2026 DE ACORDO COM PROCESSO NÚMERO: 48610206187202487",
+        "Data Início": "13/05/2026",
+        "Data Fim": "13/11/2028",
+        "Vlr. Global": "1.758.218,90",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.758.218,90",
+        "Número Contrato": "09009/2026"
+      }
+    },
+    {
       "contrato_id": "165849",
       "dados": {
         "Data Assinatura": "25/08/2022",
@@ -18645,51 +18735,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "0,00",
         "Número Contrato": "09059/2016"
-      }
-    },
-    {
-      "contrato_id": "467777",
-      "dados": {
-        "Data Assinatura": "19/02/2025",
-        "Número": "09003/2025",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09003/2025 DE ACORDO COM PROCESSO NÚMERO: 48610.219412/2024-45",
-        "Data Início": "19/02/2025",
-        "Data Fim": "19/02/2026",
-        "Vlr. Global": "5.754.528,12",
-        "Parcelas": "1",
-        "Vlr. Parcela": "5.754.528,12",
-        "Número Contrato": "09003/2025"
-      }
-    },
-    {
-      "contrato_id": "467777",
-      "dados": {
-        "Data Assinatura": "03/02/2026",
-        "Número": "00001/2026",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 19/02/2026 A 19/02/2027, MANTIDOS OS MOLDES ORIGINAIS, COM FUNDAMENTO NO ARTIGO 107 DA LEI Nº 14.133, DE 2021, COMBINADO COM A CLÁUSULA SEGUNDA  DO CONTRATO;E\r\nASSEGURAR À CONTRATADA O DIREITO DE POSTERIORMENTE PLEITEAR A REAJUSTE DO VALOR DOS SERVIÇOS, TÃO LOGO  DISPONHA DOS VALORES  A SEREM REAJUSTADOS.",
-        "Data Início": "19/02/2026",
-        "Data Fim": "19/02/2027",
-        "Vlr. Global": "5.754.528,12",
-        "Parcelas": "12",
-        "Vlr. Parcela": "479.544,01",
-        "Número Contrato": "09003/2025"
-      }
-    },
-    {
-      "contrato_id": "467777",
-      "dados": {
-        "Data Assinatura": "30/04/2026",
-        "Número": "00001/2026",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR  O VALOR DO CONTRATO Nº 9.003/25 EM 3,75% COM BASE NO ICTI ACUMULADO DE DEZEMBRO/24 A NOVEMBRO/25, COM EFEITOS  FINANCEIROS  RETROAGINDO A 04/11/25, CONFORME DEMONSTRADO NA PLANILHA - 1º REAJUSTE DE PREÇOS  (SEI 5742156), E DISPOSTO NA NOTA TÉCNICA Nº 11/2026/STI-CONT/STI/ANP-RJ (SEI 5742118).",
-        "Data Início": "19/02/2025",
-        "Data Fim": "19/02/2027",
-        "Vlr. Global": "5.968.168,95",
-        "Parcelas": "12",
-        "Vlr. Parcela": "497.347,41",
-        "Número Contrato": "09003/2025"
       }
     },
     {
