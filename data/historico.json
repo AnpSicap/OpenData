@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-05-20T10:40:59.745075",
-  "total_registros": 1479,
+  "ultima_atualizacao": "2026-05-21T10:55:50.421714",
+  "total_registros": 1480,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1300,7 +1300,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "20/05/2026",
+        "Data Fim": "21/05/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -7105,7 +7105,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "20/05/2026",
+        "Data Fim": "21/05/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8260,7 +8260,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "20/05/2026",
+        "Data Fim": "21/05/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -13023,21 +13023,6 @@
       }
     },
     {
-      "contrato_id": "776398",
-      "dados": {
-        "Data Assinatura": "29/12/2025",
-        "Número": "05020/2025",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 05020/2025 DE ACORDO COM PROCESSO NÚMERO: 48610.220391/2025-91",
-        "Data Início": "30/12/2025",
-        "Data Fim": "30/12/2030",
-        "Vlr. Global": "3.318.905,40",
-        "Parcelas": "60",
-        "Vlr. Parcela": "55.315,09",
-        "Número Contrato": "05020/2025"
-      }
-    },
-    {
       "contrato_id": "244752",
       "dados": {
         "Data Assinatura": "18/01/2024",
@@ -15550,7 +15535,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "20/05/2026",
+        "Data Fim": "21/05/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16260,6 +16245,36 @@
         "Parcelas": "20",
         "Vlr. Parcela": "45,22",
         "Número Contrato": "2025NE000673"
+      }
+    },
+    {
+      "contrato_id": "776398",
+      "dados": {
+        "Data Assinatura": "29/12/2025",
+        "Número": "05020/2025",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 05020/2025 DE ACORDO COM PROCESSO NÚMERO: 48610.220391/2025-91",
+        "Data Início": "30/12/2025",
+        "Data Fim": "30/12/2030",
+        "Vlr. Global": "3.318.905,40",
+        "Parcelas": "60",
+        "Vlr. Parcela": "55.315,09",
+        "Número Contrato": "05020/2025"
+      }
+    },
+    {
+      "contrato_id": "776398",
+      "dados": {
+        "Data Assinatura": "15/05/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR  O VALOR DO CONTRATO COM BASE NA PORTARIA MCOM Nº. 22.451, DE 7 DE ABRIL DE 2026 (5885300), EM 4,0510%, LÍQUIDO DE IMPOSTOS E CONTRIBUIÇÕES SOCIAIS, CORRESPONDENDO À VARIAÇÃO DO ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR AMPLO - IPCA/IBGE, REFERENTE AO PERÍODO DE JANEIRO A DEZEMBRO DE 2025, DESCONTADO O FATOR DE PRODUTIVIDADE, NA FORMA DO DISPOSTO NO ART. 2º DA PORTARIA MF Nº 386, DE 30 DE AGOSTO DE 2018 E SEU ANEXO, COM PRODUÇÃO DE EFEITOS A PARTIR DE 12/04/2026.",
+        "Data Início": "30/12/2025",
+        "Data Fim": "30/12/2030",
+        "Vlr. Global": "3.445.665,61",
+        "Parcelas": "60",
+        "Vlr. Parcela": "57.427,76",
+        "Número Contrato": "05020/2025"
       }
     },
     {
@@ -17155,7 +17170,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "20/05/2026",
+        "Data Fim": "21/05/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -17320,7 +17335,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "20/05/2026",
+        "Data Fim": "21/05/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",

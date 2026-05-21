@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-05-20T10:40:59.774906",
+  "ultima_atualizacao": "2026-05-21T10:55:50.449943",
   "total_registros": 2441,
   "dados": [
     {
@@ -14043,78 +14043,6 @@
       }
     },
     {
-      "contrato_id": "776398",
-      "dados": {
-        "CPF": "***.277.445-**",
-        "Nome": "SAMUEL VIEIRA DA SILVA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "05020/2025"
-      }
-    },
-    {
-      "contrato_id": "776398",
-      "dados": {
-        "CPF": "***.138.797-**",
-        "Nome": "JULIANA MATEUS DE MOURA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "05020/2025"
-      }
-    },
-    {
-      "contrato_id": "776398",
-      "dados": {
-        "CPF": "***.874.647-**",
-        "Nome": "SORAYA XAVIER FRANCO",
-        "Tipo": "Gestor",
-        "Número Contrato": "05020/2025"
-      }
-    },
-    {
-      "contrato_id": "776398",
-      "dados": {
-        "CPF": "***.893.147-**",
-        "Nome": "THIAGO MARIANO DE SOUZA",
-        "Tipo": "Gestor Substituto",
-        "Número Contrato": "05020/2025"
-      }
-    },
-    {
-      "contrato_id": "776398",
-      "dados": {
-        "CPF": "***.413.288-**",
-        "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
-        "Tipo": "Responsável no Setor de Contratos",
-        "Número Contrato": "05020/2025"
-      }
-    },
-    {
-      "contrato_id": "776398",
-      "dados": {
-        "CPF": "***.750.117-**",
-        "Nome": "ALEXANDRE MACIEL DA SILVA",
-        "Tipo": "Responsável Unidade Requisitante",
-        "Número Contrato": "05020/2025"
-      }
-    },
-    {
-      "contrato_id": "776398",
-      "dados": {
-        "CPF": "***.566.747-**",
-        "Nome": "Jessica Moreira da silva",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "05020/2025"
-      }
-    },
-    {
-      "contrato_id": "776398",
-      "dados": {
-        "CPF": "***.566.747-**",
-        "Nome": "Jessica Moreira da silva",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "05020/2025"
-      }
-    },
-    {
       "contrato_id": "244752",
       "dados": {
         "CPF": "***.921.555-**",
@@ -17694,6 +17622,78 @@
         "Nome": "PATRICK MOREIRA",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "2025NE000673"
+      }
+    },
+    {
+      "contrato_id": "776398",
+      "dados": {
+        "CPF": "***.277.445-**",
+        "Nome": "SAMUEL VIEIRA DA SILVA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05020/2025"
+      }
+    },
+    {
+      "contrato_id": "776398",
+      "dados": {
+        "CPF": "***.138.797-**",
+        "Nome": "JULIANA MATEUS DE MOURA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05020/2025"
+      }
+    },
+    {
+      "contrato_id": "776398",
+      "dados": {
+        "CPF": "***.874.647-**",
+        "Nome": "SORAYA XAVIER FRANCO",
+        "Tipo": "Gestor",
+        "Número Contrato": "05020/2025"
+      }
+    },
+    {
+      "contrato_id": "776398",
+      "dados": {
+        "CPF": "***.893.147-**",
+        "Nome": "THIAGO MARIANO DE SOUZA",
+        "Tipo": "Gestor Substituto",
+        "Número Contrato": "05020/2025"
+      }
+    },
+    {
+      "contrato_id": "776398",
+      "dados": {
+        "CPF": "***.413.288-**",
+        "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
+        "Tipo": "Responsável no Setor de Contratos",
+        "Número Contrato": "05020/2025"
+      }
+    },
+    {
+      "contrato_id": "776398",
+      "dados": {
+        "CPF": "***.750.117-**",
+        "Nome": "ALEXANDRE MACIEL DA SILVA",
+        "Tipo": "Responsável Unidade Requisitante",
+        "Número Contrato": "05020/2025"
+      }
+    },
+    {
+      "contrato_id": "776398",
+      "dados": {
+        "CPF": "***.566.747-**",
+        "Nome": "Jessica Moreira da silva",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "05020/2025"
+      }
+    },
+    {
+      "contrato_id": "776398",
+      "dados": {
+        "CPF": "***.566.747-**",
+        "Nome": "Jessica Moreira da silva",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05020/2025"
       }
     },
     {
