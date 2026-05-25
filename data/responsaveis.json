@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-05-22T10:40:27.246662",
-  "total_registros": 2434,
+  "ultima_atualizacao": "2026-05-25T11:28:03.154452",
+  "total_registros": 2445,
   "dados": [
     {
       "contrato_id": "121472",
@@ -18381,6 +18381,96 @@
       }
     },
     {
+      "contrato_id": "849542",
+      "dados": {
+        "CPF": "***.893.147-**",
+        "Nome": "THIAGO MARIANO DE SOUZA",
+        "Tipo": "Gestor Substituto",
+        "Número Contrato": "09001/2026"
+      }
+    },
+    {
+      "contrato_id": "849542",
+      "dados": {
+        "CPF": "***.750.117-**",
+        "Nome": "ALEXANDRE MACIEL DA SILVA",
+        "Tipo": "Responsável Unidade Requisitante",
+        "Número Contrato": "09001/2026"
+      }
+    },
+    {
+      "contrato_id": "849542",
+      "dados": {
+        "CPF": "***.126.417-**",
+        "Nome": "CARLOS ANDRÉ JACOMIM DOS SANTOS",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09001/2026"
+      }
+    },
+    {
+      "contrato_id": "849542",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09001/2026"
+      }
+    },
+    {
+      "contrato_id": "849542",
+      "dados": {
+        "CPF": "***.340.087-**",
+        "Nome": "LUCIANA SILVA CORREIA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09001/2026"
+      }
+    },
+    {
+      "contrato_id": "849542",
+      "dados": {
+        "CPF": "***.413.288-**",
+        "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
+        "Tipo": "Responsável no Setor de Contratos",
+        "Número Contrato": "09001/2026"
+      }
+    },
+    {
+      "contrato_id": "849542",
+      "dados": {
+        "CPF": "***.155.097-**",
+        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09001/2026"
+      }
+    },
+    {
+      "contrato_id": "849542",
+      "dados": {
+        "CPF": "***.874.647-**",
+        "Nome": "SORAYA XAVIER FRANCO",
+        "Tipo": "Gestor",
+        "Número Contrato": "09001/2026"
+      }
+    },
+    {
+      "contrato_id": "849542",
+      "dados": {
+        "CPF": "***.529.093-**",
+        "Nome": "MARIO DOS SANTOS FERNANDES",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09001/2026"
+      }
+    },
+    {
+      "contrato_id": "849542",
+      "dados": {
+        "CPF": "***.466.297-**",
+        "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09001/2026"
+      }
+    },
+    {
       "contrato_id": "798804",
       "dados": {
         "CPF": "***.082.037-**",
@@ -18714,6 +18804,96 @@
       }
     },
     {
+      "contrato_id": "115396",
+      "dados": {
+        "CPF": "***.155.097-**",
+        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "CPF": "***.413.288-**",
+        "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
+        "Tipo": "Responsável Unidade Requisitante",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "CPF": "***.352.637-**",
+        "Nome": "VIVIAN WAINER DA SILVA BUENO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "CPF": "***.874.647-**",
+        "Nome": "SORAYA XAVIER FRANCO",
+        "Tipo": "Gestor",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "CPF": "***.893.147-**",
+        "Nome": "THIAGO MARIANO DE SOUZA",
+        "Tipo": "Gestor Substituto",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "CPF": "***.466.297-**",
+        "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "CPF": "***.340.087-**",
+        "Nome": "LUCIANA SILVA CORREIA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "CPF": "***.486.387-**",
+        "Nome": "CLAUDIA VALERIA RIBEIRO MORANDE",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "CPF": "***.330.607-**",
+        "Nome": "ADEMAR FIGUEIREDO DOS SANTOS",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
+      "contrato_id": "115396",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "08017/2020"
+      }
+    },
+    {
       "contrato_id": "47480",
       "dados": {
         "CPF": "***.763.531-**",
@@ -18810,96 +18990,6 @@
         "Nome": "CIRO CORREIA REBELO FILHO",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2026NE000401"
-      }
-    },
-    {
-      "contrato_id": "115396",
-      "dados": {
-        "CPF": "***.155.097-**",
-        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "08017/2020"
-      }
-    },
-    {
-      "contrato_id": "115396",
-      "dados": {
-        "CPF": "***.413.288-**",
-        "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
-        "Tipo": "Responsável Unidade Requisitante",
-        "Número Contrato": "08017/2020"
-      }
-    },
-    {
-      "contrato_id": "115396",
-      "dados": {
-        "CPF": "***.352.637-**",
-        "Nome": "VIVIAN WAINER DA SILVA BUENO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "08017/2020"
-      }
-    },
-    {
-      "contrato_id": "115396",
-      "dados": {
-        "CPF": "***.874.647-**",
-        "Nome": "SORAYA XAVIER FRANCO",
-        "Tipo": "Gestor",
-        "Número Contrato": "08017/2020"
-      }
-    },
-    {
-      "contrato_id": "115396",
-      "dados": {
-        "CPF": "***.893.147-**",
-        "Nome": "THIAGO MARIANO DE SOUZA",
-        "Tipo": "Gestor Substituto",
-        "Número Contrato": "08017/2020"
-      }
-    },
-    {
-      "contrato_id": "115396",
-      "dados": {
-        "CPF": "***.466.297-**",
-        "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "08017/2020"
-      }
-    },
-    {
-      "contrato_id": "115396",
-      "dados": {
-        "CPF": "***.340.087-**",
-        "Nome": "LUCIANA SILVA CORREIA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "08017/2020"
-      }
-    },
-    {
-      "contrato_id": "115396",
-      "dados": {
-        "CPF": "***.486.387-**",
-        "Nome": "CLAUDIA VALERIA RIBEIRO MORANDE",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "08017/2020"
-      }
-    },
-    {
-      "contrato_id": "115396",
-      "dados": {
-        "CPF": "***.330.607-**",
-        "Nome": "ADEMAR FIGUEIREDO DOS SANTOS",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "08017/2020"
-      }
-    },
-    {
-      "contrato_id": "115396",
-      "dados": {
-        "CPF": "***.193.867-**",
-        "Nome": "RAYANNE RODRIGUES LUIZ",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "08017/2020"
       }
     },
     {
@@ -19215,6 +19305,15 @@
         "Nome": "JOSÉ ESMERALDO BARRETO NETO",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2024NE000803"
+      }
+    },
+    {
+      "contrato_id": "898591",
+      "dados": {
+        "CPF": "***.522.977-**",
+        "Nome": "CRISTINA LUCAS BLONGREN",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000356"
       }
     },
     {
