@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-05-25T11:28:03.154452",
-  "total_registros": 2445,
+  "ultima_atualizacao": "2026-05-27T11:11:57.324337",
+  "total_registros": 2452,
   "dados": [
     {
       "contrato_id": "121472",
@@ -11829,6 +11829,15 @@
       }
     },
     {
+      "contrato_id": "904013",
+      "dados": {
+        "CPF": "***.126.417-**",
+        "Nome": "CARLOS ANDRÉ JACOMIM DOS SANTOS",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000405"
+      }
+    },
+    {
       "contrato_id": "22493",
       "dados": {
         "CPF": "***.343.287-**",
@@ -18990,6 +18999,60 @@
         "Nome": "CIRO CORREIA REBELO FILHO",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2026NE000401"
+      }
+    },
+    {
+      "contrato_id": "904227",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000411"
+      }
+    },
+    {
+      "contrato_id": "904227",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000411"
+      }
+    },
+    {
+      "contrato_id": "904227",
+      "dados": {
+        "CPF": "***.959.686-**",
+        "Nome": "DANYELE APARECIDA ALVES GUIMARÃES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000411"
+      }
+    },
+    {
+      "contrato_id": "904227",
+      "dados": {
+        "CPF": "***.474.226-**",
+        "Nome": "IVANDRO SANT'ANA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000411"
+      }
+    },
+    {
+      "contrato_id": "904227",
+      "dados": {
+        "CPF": "***.959.686-**",
+        "Nome": "DANYELE APARECIDA ALVES GUIMARÃES",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2026NE000411"
+      }
+    },
+    {
+      "contrato_id": "904227",
+      "dados": {
+        "CPF": "***.474.226-**",
+        "Nome": "IVANDRO SANT'ANA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2026NE000411"
       }
     },
     {
