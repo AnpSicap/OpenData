@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-05-27T11:11:57.324337",
-  "total_registros": 2452,
+  "ultima_atualizacao": "2026-05-28T11:12:44.792366",
+  "total_registros": 2447,
   "dados": [
     {
       "contrato_id": "121472",
@@ -20421,51 +20421,6 @@
         "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
         "Tipo": "Responsável Unidade Requisitante",
         "Número Contrato": "09036/2021"
-      }
-    },
-    {
-      "contrato_id": "47152",
-      "dados": {
-        "CPF": "***.928.507-**",
-        "Nome": "WALMIR SILVA MARINHO",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "09043/2019"
-      }
-    },
-    {
-      "contrato_id": "47152",
-      "dados": {
-        "CPF": "***.566.747-**",
-        "Nome": "Jessica Moreira da silva",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09043/2019"
-      }
-    },
-    {
-      "contrato_id": "47152",
-      "dados": {
-        "CPF": "***.413.288-**",
-        "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
-        "Tipo": "Responsável Unidade Requisitante",
-        "Número Contrato": "09043/2019"
-      }
-    },
-    {
-      "contrato_id": "47152",
-      "dados": {
-        "CPF": "***.284.527-**",
-        "Nome": "JOSÉ ANTONIO RODRIGUES",
-        "Tipo": "Gestor",
-        "Número Contrato": "09043/2019"
-      }
-    },
-    {
-      "contrato_id": "47152",
-      "dados": {
-        "CPF": "***.607.657-**",
-        "Nome": "GUSTAVO DA SILVA NASCIMENTO",
-        "Tipo": "Gestor Substituto",
-        "Número Contrato": "09043/2019"
       }
     },
     {
