@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-06-01T12:56:11.108836",
-  "total_registros": 2447,
+  "ultima_atualizacao": "2026-06-02T11:35:51.456557",
+  "total_registros": 2449,
   "dados": [
     {
       "contrato_id": "121472",
@@ -16743,6 +16743,15 @@
       }
     },
     {
+      "contrato_id": "247369",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09002/2024"
+      }
+    },
+    {
       "contrato_id": "655048",
       "dados": {
         "CPF": "***.415.617-**",
@@ -18990,6 +18999,15 @@
         "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
         "Tipo": "Gestor",
         "Número Contrato": "05018/2019"
+      }
+    },
+    {
+      "contrato_id": "907994",
+      "dados": {
+        "CPF": "***.615.547-**",
+        "Nome": "ANDRÉA DA SILVA FONSECA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000409"
       }
     },
     {
