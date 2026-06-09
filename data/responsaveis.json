@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-06-08T12:16:07.676559",
-  "total_registros": 2449,
+  "ultima_atualizacao": "2026-06-09T10:51:26.893489",
+  "total_registros": 2456,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1044,6 +1044,15 @@
         "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000648"
+      }
+    },
+    {
+      "contrato_id": "915610",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000403"
       }
     },
     {
@@ -3617,6 +3626,15 @@
         "CPF": "***.025.391-**",
         "Nome": "CECILIA VARELA",
         "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09006/2021"
+      }
+    },
+    {
+      "contrato_id": "108510",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09006/2021"
       }
     },
@@ -18912,6 +18930,15 @@
       }
     },
     {
+      "contrato_id": "914509",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000469"
+      }
+    },
+    {
       "contrato_id": "47480",
       "dados": {
         "CPF": "***.763.531-**",
@@ -19602,6 +19629,42 @@
         "Nome": "ADRIANA MARCÍLIO",
         "Tipo": "Gestor",
         "Número Contrato": "09014/2018"
+      }
+    },
+    {
+      "contrato_id": "916440",
+      "dados": {
+        "CPF": "***.254.947-**",
+        "Nome": "GABRIEL BASTOS PEREIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000407"
+      }
+    },
+    {
+      "contrato_id": "916440",
+      "dados": {
+        "CPF": "***.487.292-**",
+        "Nome": "LUCIANO RICARDO DA SILVA LOBO",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2026NE000407"
+      }
+    },
+    {
+      "contrato_id": "916440",
+      "dados": {
+        "CPF": "***.254.947-**",
+        "Nome": "GABRIEL BASTOS PEREIRA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000407"
+      }
+    },
+    {
+      "contrato_id": "916440",
+      "dados": {
+        "CPF": "***.487.292-**",
+        "Nome": "LUCIANO RICARDO DA SILVA LOBO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000407"
       }
     },
     {
