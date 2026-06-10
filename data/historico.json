@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-06-09T10:51:26.864866",
-  "total_registros": 1499,
+  "ultima_atualizacao": "2026-06-10T11:13:18.149342",
+  "total_registros": 1513,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1315,7 +1315,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "09/06/2026",
+        "Data Fim": "10/06/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -7060,7 +7060,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "09/06/2026",
+        "Data Fim": "10/06/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -7590,96 +7590,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "165,00",
         "Número Contrato": "2022NE000642"
-      }
-    },
-    {
-      "contrato_id": "161456",
-      "dados": {
-        "Data Assinatura": "16/09/2022",
-        "Número": "09033/2022",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09033/2022 DE ACORDO COM PROCESSO NÚMERO: 48640.200294/2022-82",
-        "Data Início": "19/09/2022",
-        "Data Fim": "18/09/2027",
-        "Vlr. Global": "428.977,11",
-        "Parcelas": "30",
-        "Vlr. Parcela": "14.299,24",
-        "Número Contrato": "09033/2022"
-      }
-    },
-    {
-      "contrato_id": "161456",
-      "dados": {
-        "Data Assinatura": "28/09/2023",
-        "Número": "00001/2023",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REPACTUAR O VALOR TOTAL DO CONTRATO Nº 9.033/22 EM VIRTUDE DAS ALTERAÇÕES DE CUSTOS DECORRENTES DAS CONVENÇÕES COLETIVAS DO TRABALHO 2023/2023 Nº MG000001/2023, REGISTRADA EM 03/01/2023, E Nº MG002766/2023, REGISTRADA EM 11/08/2023, AMBAS COM DATA BASE DE 01/JANEIRO A 31/DEZEMBRO DE 2023, COM EFEITOS FINANCEIROS RETROATIVOS A 01/01/2023. AS RESPECTIVAS CONVENÇÕES COLETIVAS  DETERMINARAM  REAJUSTES NO PISO SALARIAL, AUXÍLIO ALIMENTAÇÃO, SEGURO DE VIDA E PROGRAMA DE ASSISTÊNCIA FAMILIAR DOS PROFISSIONAIS ALOCADOS NA PRESTAÇÃO DE SERVIÇOS, EM CONFORMIDADE COM O DISPOSTO NA PLANILHA SE FORMAÇÃO DE PREÇOS (SEI 3378830 ) E NA NOTA TÉCNICA Nº 6/2023/SFI-NBH-ADM/SFI/ANP-MG (SEI 3378832).",
-        "Data Início": "19/09/2022",
-        "Data Fim": "18/09/2027",
-        "Vlr. Global": "452.845,08",
-        "Parcelas": "30",
-        "Vlr. Parcela": "15.094,84",
-        "Número Contrato": "09033/2022"
-      }
-    },
-    {
-      "contrato_id": "161456",
-      "dados": {
-        "Data Assinatura": "04/09/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REPACTUAR O VALOR TOTAL DO CONTRATO Nº 9.033/22 EM VIRTUDE DAS ALTERAÇÕES DE CUSTOS DECORRENTES DAS CONVENÇÕES COLETIVAS DO TRABALHO 2024/2024 Nº MG004113/2023 (SEI N° 4256545), REGISTRADA EM 22/12/2023, E Nº MG002420/2024 (SEI N° 4256547), REGISTRADA EM 05/07/2024, AMBAS COM DATA BASE DE 01/JANEIRO A 31/DEZEMBRO DE 2024, COM EFEITOS FINANCEIROS RETROATIVOS A 01/01/2024, QUE DETERMINARAM REAJUSTES NO PISO SALARIAL, AUXÍLIO ALIMENTAÇÃO, SEGURO DE VIDA INDIVIDUAL E PROGRAMA DE ASSISTÊNCIA FAMILIAR, DOS PROFISSIONAIS ALOCADOS NA PRESTAÇÃO DE SERVIÇOS, ALÉM DE ALTERAÇÃO NO VALOR DO VALE TRANSPORTE, CONFORME PORTARIA SUMOB N° 074/2023 (SEI N° 4256590), EM CONSONÂNCIA  COM A PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇOS (SEI Nº 4256599) E COM A  NOTA TÉCNICA Nº 2/2024/SFI-NBH-ADM/SFI/ANP-MG (SEI Nº 4256619).",
-        "Data Início": "19/09/2022",
-        "Data Fim": "18/09/2027",
-        "Vlr. Global": "468.734,11",
-        "Parcelas": "30",
-        "Vlr. Parcela": "15.624,47",
-        "Número Contrato": "09033/2022"
-      }
-    },
-    {
-      "contrato_id": "161456",
-      "dados": {
-        "Data Assinatura": "08/02/2025",
-        "Número": "00002/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "O PRESENTE TERMO ADITIVO TEM POR OBJETO REDUZIR A JORNADA DE TRABALHO DE 44 HORAS PARA 40 HORAS SEMANAIS, DOS SEGUINTES SERVIÇOS CONTÍNUOS, OBJETO DO CONTRATO Nº 9.021/2024, NA FORMA DO ART. 4º DO DECRETO Nº 12.174, DE 11 DE SETEMBRO DE 2024, E DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 5 DE DEZEMBRO DE 2024; E A REDUÇÃO SE APLICA A TODOS OS TRABALHADORES QUE PRESTAREM OS SERVIÇOS ACIMA INDICADOS NO ÂMBITO DO CONTRATO Nº 9.033/2022 (ART. 2º, §2º, DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 2024); A REDUÇÃO SE ESTENDE AOS TRABALHADORES QUE EXERCEM A FUNÇÃO DE ENCARREGADOS GERAIS EM RELAÇÃO AOS SERVIÇOS OBJETO DO CONTRATO Nº 9.033/2022, ACIMA INDICADOS (ART. 2º, §3º, DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 2024).",
-        "Data Início": "08/02/2025",
-        "Data Fim": "18/09/2027",
-        "Vlr. Global": "486.400,98",
-        "Parcelas": "30",
-        "Vlr. Parcela": "16.213,37",
-        "Número Contrato": "09033/2022"
-      }
-    },
-    {
-      "contrato_id": "161456",
-      "dados": {
-        "Data Assinatura": "10/03/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 30 (TRINTA) MESES, CONTADOS DE 18/03/2025 A 18/09/2027, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8.666/93; E REDUZIR OS CUSTOS FIXOS OU VARIÁVEIS NÃO RENOVÁVEIS JÁ AMORTIZADOS OU PAGOS NOS PRIMEIROS 12 (DOZE) MESES DA CONTRATAÇÃO E ATUALIZADOS SUCESSIVAMENTE NOS 12 (MESES) SUBSEQUENTES À CONTRATAÇÃO.",
-        "Data Início": "18/03/2025",
-        "Data Fim": "18/09/2027",
-        "Vlr. Global": "486.400,98",
-        "Parcelas": "30",
-        "Vlr. Parcela": "16.213,37",
-        "Número Contrato": "09033/2022"
-      }
-    },
-    {
-      "contrato_id": "161456",
-      "dados": {
-        "Data Assinatura": "10/09/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REPACTUAÇÃO DO VALOR GLOBAL DO CONTRATO Nº 9.033/2022 EM APROXIMADAMENTE 2,5805%, CONTEMPLANDO OS AJUSTES DOS VALORES RESULTANTES DA CONVENÇÃO COLETIVA DE TRABALHO (CCT) REGISTRADA NO MINISTÉRIO DO TRABALHO E EMPREGO (MTE) COMO MG004474/2024 (SEI 5213740), CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 61/2025/SGP-CAP/SGP/ANP-RJ (SEI 5213781)",
-        "Data Início": "19/09/2022",
-        "Data Fim": "18/09/2027",
-        "Vlr. Global": "498.952,64",
-        "Parcelas": "30",
-        "Vlr. Parcela": "16.631,75",
-        "Número Contrato": "09033/2022"
       }
     },
     {
@@ -8215,7 +8125,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "09/06/2026",
+        "Data Fim": "10/06/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -15505,7 +15415,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "09/06/2026",
+        "Data Fim": "10/06/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16428,6 +16338,21 @@
       }
     },
     {
+      "contrato_id": "918724",
+      "dados": {
+        "Data Assinatura": "19/05/2026",
+        "Número": "2026NE000418",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000418 DE ACORDO COM PROCESSO NÚMERO: 48600.204865/2024-96",
+        "Data Início": "19/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "13.529,50",
+        "Parcelas": "1",
+        "Vlr. Parcela": "13.529,50",
+        "Número Contrato": "2026NE000418"
+      }
+    },
+    {
       "contrato_id": "128777",
       "dados": {
         "Data Assinatura": "20/12/2021",
@@ -17148,6 +17073,111 @@
       }
     },
     {
+      "contrato_id": "161456",
+      "dados": {
+        "Data Assinatura": "16/09/2022",
+        "Número": "09033/2022",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09033/2022 DE ACORDO COM PROCESSO NÚMERO: 48640.200294/2022-82",
+        "Data Início": "19/09/2022",
+        "Data Fim": "18/09/2027",
+        "Vlr. Global": "428.977,11",
+        "Parcelas": "30",
+        "Vlr. Parcela": "14.299,24",
+        "Número Contrato": "09033/2022"
+      }
+    },
+    {
+      "contrato_id": "161456",
+      "dados": {
+        "Data Assinatura": "28/09/2023",
+        "Número": "00001/2023",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REPACTUAR O VALOR TOTAL DO CONTRATO Nº 9.033/22 EM VIRTUDE DAS ALTERAÇÕES DE CUSTOS DECORRENTES DAS CONVENÇÕES COLETIVAS DO TRABALHO 2023/2023 Nº MG000001/2023, REGISTRADA EM 03/01/2023, E Nº MG002766/2023, REGISTRADA EM 11/08/2023, AMBAS COM DATA BASE DE 01/JANEIRO A 31/DEZEMBRO DE 2023, COM EFEITOS FINANCEIROS RETROATIVOS A 01/01/2023. AS RESPECTIVAS CONVENÇÕES COLETIVAS  DETERMINARAM  REAJUSTES NO PISO SALARIAL, AUXÍLIO ALIMENTAÇÃO, SEGURO DE VIDA E PROGRAMA DE ASSISTÊNCIA FAMILIAR DOS PROFISSIONAIS ALOCADOS NA PRESTAÇÃO DE SERVIÇOS, EM CONFORMIDADE COM O DISPOSTO NA PLANILHA SE FORMAÇÃO DE PREÇOS (SEI 3378830 ) E NA NOTA TÉCNICA Nº 6/2023/SFI-NBH-ADM/SFI/ANP-MG (SEI 3378832).",
+        "Data Início": "19/09/2022",
+        "Data Fim": "18/09/2027",
+        "Vlr. Global": "452.845,08",
+        "Parcelas": "30",
+        "Vlr. Parcela": "15.094,84",
+        "Número Contrato": "09033/2022"
+      }
+    },
+    {
+      "contrato_id": "161456",
+      "dados": {
+        "Data Assinatura": "04/09/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REPACTUAR O VALOR TOTAL DO CONTRATO Nº 9.033/22 EM VIRTUDE DAS ALTERAÇÕES DE CUSTOS DECORRENTES DAS CONVENÇÕES COLETIVAS DO TRABALHO 2024/2024 Nº MG004113/2023 (SEI N° 4256545), REGISTRADA EM 22/12/2023, E Nº MG002420/2024 (SEI N° 4256547), REGISTRADA EM 05/07/2024, AMBAS COM DATA BASE DE 01/JANEIRO A 31/DEZEMBRO DE 2024, COM EFEITOS FINANCEIROS RETROATIVOS A 01/01/2024, QUE DETERMINARAM REAJUSTES NO PISO SALARIAL, AUXÍLIO ALIMENTAÇÃO, SEGURO DE VIDA INDIVIDUAL E PROGRAMA DE ASSISTÊNCIA FAMILIAR, DOS PROFISSIONAIS ALOCADOS NA PRESTAÇÃO DE SERVIÇOS, ALÉM DE ALTERAÇÃO NO VALOR DO VALE TRANSPORTE, CONFORME PORTARIA SUMOB N° 074/2023 (SEI N° 4256590), EM CONSONÂNCIA  COM A PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇOS (SEI Nº 4256599) E COM A  NOTA TÉCNICA Nº 2/2024/SFI-NBH-ADM/SFI/ANP-MG (SEI Nº 4256619).",
+        "Data Início": "19/09/2022",
+        "Data Fim": "18/09/2027",
+        "Vlr. Global": "468.734,11",
+        "Parcelas": "30",
+        "Vlr. Parcela": "15.624,47",
+        "Número Contrato": "09033/2022"
+      }
+    },
+    {
+      "contrato_id": "161456",
+      "dados": {
+        "Data Assinatura": "08/02/2025",
+        "Número": "00002/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "O PRESENTE TERMO ADITIVO TEM POR OBJETO REDUZIR A JORNADA DE TRABALHO DE 44 HORAS PARA 40 HORAS SEMANAIS, DOS SEGUINTES SERVIÇOS CONTÍNUOS, OBJETO DO CONTRATO Nº 9.021/2024, NA FORMA DO ART. 4º DO DECRETO Nº 12.174, DE 11 DE SETEMBRO DE 2024, E DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 5 DE DEZEMBRO DE 2024; E A REDUÇÃO SE APLICA A TODOS OS TRABALHADORES QUE PRESTAREM OS SERVIÇOS ACIMA INDICADOS NO ÂMBITO DO CONTRATO Nº 9.033/2022 (ART. 2º, §2º, DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 2024); A REDUÇÃO SE ESTENDE AOS TRABALHADORES QUE EXERCEM A FUNÇÃO DE ENCARREGADOS GERAIS EM RELAÇÃO AOS SERVIÇOS OBJETO DO CONTRATO Nº 9.033/2022, ACIMA INDICADOS (ART. 2º, §3º, DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 190, DE 2024).",
+        "Data Início": "08/02/2025",
+        "Data Fim": "18/09/2027",
+        "Vlr. Global": "486.400,98",
+        "Parcelas": "30",
+        "Vlr. Parcela": "16.213,37",
+        "Número Contrato": "09033/2022"
+      }
+    },
+    {
+      "contrato_id": "161456",
+      "dados": {
+        "Data Assinatura": "10/03/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 30 (TRINTA) MESES, CONTADOS DE 18/03/2025 A 18/09/2027, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8.666/93; E REDUZIR OS CUSTOS FIXOS OU VARIÁVEIS NÃO RENOVÁVEIS JÁ AMORTIZADOS OU PAGOS NOS PRIMEIROS 12 (DOZE) MESES DA CONTRATAÇÃO E ATUALIZADOS SUCESSIVAMENTE NOS 12 (MESES) SUBSEQUENTES À CONTRATAÇÃO.",
+        "Data Início": "18/03/2025",
+        "Data Fim": "18/09/2027",
+        "Vlr. Global": "486.400,98",
+        "Parcelas": "30",
+        "Vlr. Parcela": "16.213,37",
+        "Número Contrato": "09033/2022"
+      }
+    },
+    {
+      "contrato_id": "161456",
+      "dados": {
+        "Data Assinatura": "10/09/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REPACTUAÇÃO DO VALOR GLOBAL DO CONTRATO Nº 9.033/2022 EM APROXIMADAMENTE 2,5805%, CONTEMPLANDO OS AJUSTES DOS VALORES RESULTANTES DA CONVENÇÃO COLETIVA DE TRABALHO (CCT) REGISTRADA NO MINISTÉRIO DO TRABALHO E EMPREGO (MTE) COMO MG004474/2024 (SEI 5213740), CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 61/2025/SGP-CAP/SGP/ANP-RJ (SEI 5213781)",
+        "Data Início": "19/09/2022",
+        "Data Fim": "18/09/2027",
+        "Vlr. Global": "498.952,64",
+        "Parcelas": "30",
+        "Vlr. Parcela": "16.631,75",
+        "Número Contrato": "09033/2022"
+      }
+    },
+    {
+      "contrato_id": "161456",
+      "dados": {
+        "Data Assinatura": "25/05/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REPACTUAÇÃO DO VALOR GLOBAL DO CONTRATO Nº 9.033/2022 EM APROXIMADAMENTE 2,8861%, CONTEMPLANDO OS AJUSTES DOS VALORES RESULTANTES DA CONVENÇÃO COLETIVA DE TRABALHO (CCT) REGISTRADA NO MINISTÉRIO DO TRABALHO E EMPREGO (MTE) COMO MG004404/2025 (SEI 5844947), CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 29/2026/SGP-CAP/SGP/ANP-RJ (SEI 5850155)",
+        "Data Início": "19/09/2022",
+        "Data Fim": "18/09/2027",
+        "Vlr. Global": "513.352,82",
+        "Parcelas": "30",
+        "Vlr. Parcela": "17.111,76",
+        "Número Contrato": "09033/2022"
+      }
+    },
+    {
       "contrato_id": "849542",
       "dados": {
         "Data Assinatura": "02/04/2026",
@@ -17185,7 +17215,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "09/06/2026",
+        "Data Fim": "10/06/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -17335,7 +17365,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "09/06/2026",
+        "Data Fim": "10/06/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -20658,6 +20688,21 @@
       }
     },
     {
+      "contrato_id": "919969",
+      "dados": {
+        "Data Assinatura": "19/05/2026",
+        "Número": "2026NE000419",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000419 DE ACORDO COM PROCESSO NÚMERO: 48600.200797/2025-77",
+        "Data Início": "19/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "1.859,90",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.859,90",
+        "Número Contrato": "2026NE000419"
+      }
+    },
+    {
       "contrato_id": "183582",
       "dados": {
         "Data Assinatura": "25/11/2022",
@@ -20670,6 +20715,171 @@
         "Parcelas": "1",
         "Vlr. Parcela": "661.596,52",
         "Número Contrato": "09042/2022"
+      }
+    },
+    {
+      "contrato_id": "919974",
+      "dados": {
+        "Data Assinatura": "19/05/2026",
+        "Número": "2026NE000428",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000428 DE ACORDO COM PROCESSO NÚMERO: 48600.200797/2025-77",
+        "Data Início": "19/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "1.871,90",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.871,90",
+        "Número Contrato": "2026NE000428"
+      }
+    },
+    {
+      "contrato_id": "919975",
+      "dados": {
+        "Data Assinatura": "19/05/2026",
+        "Número": "2026NE000423",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000423 DE ACORDO COM PROCESSO NÚMERO: 48600.200797/2025-77",
+        "Data Início": "19/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "6.074,54",
+        "Parcelas": "1",
+        "Vlr. Parcela": "6.074,54",
+        "Número Contrato": "2026NE000423"
+      }
+    },
+    {
+      "contrato_id": "919976",
+      "dados": {
+        "Data Assinatura": "19/05/2026",
+        "Número": "2026NE000429",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000429 DE ACORDO COM PROCESSO NÚMERO: 48600.200797/2025-77",
+        "Data Início": "19/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "5.579,83",
+        "Parcelas": "1",
+        "Vlr. Parcela": "5.579,83",
+        "Número Contrato": "2026NE000429"
+      }
+    },
+    {
+      "contrato_id": "919977",
+      "dados": {
+        "Data Assinatura": "19/05/2026",
+        "Número": "2026NE000425",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000425 DE ACORDO COM PROCESSO NÚMERO: 48600.200797/2025-77",
+        "Data Início": "19/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "334,65",
+        "Parcelas": "1",
+        "Vlr. Parcela": "334,65",
+        "Número Contrato": "2026NE000425"
+      }
+    },
+    {
+      "contrato_id": "919978",
+      "dados": {
+        "Data Assinatura": "19/05/2026",
+        "Número": "2026NE000430",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000430 DE ACORDO COM PROCESSO NÚMERO: 48600.200797/2025-77",
+        "Data Início": "19/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "4.960,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "4.960,00",
+        "Número Contrato": "2026NE000430"
+      }
+    },
+    {
+      "contrato_id": "919979",
+      "dados": {
+        "Data Assinatura": "19/05/2026",
+        "Número": "2026NE000424",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000424 DE ACORDO COM PROCESSO NÚMERO: 48600.200797/2025-77",
+        "Data Início": "19/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "7.497,18",
+        "Parcelas": "1",
+        "Vlr. Parcela": "7.497,18",
+        "Número Contrato": "2026NE000424"
+      }
+    },
+    {
+      "contrato_id": "919980",
+      "dados": {
+        "Data Assinatura": "19/05/2026",
+        "Número": "2026NE000422",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000422 DE ACORDO COM PROCESSO NÚMERO: 48600.200797/2025-77",
+        "Data Início": "19/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "27,65",
+        "Parcelas": "1",
+        "Vlr. Parcela": "27,65",
+        "Número Contrato": "2026NE000422"
+      }
+    },
+    {
+      "contrato_id": "919981",
+      "dados": {
+        "Data Assinatura": "19/05/2026",
+        "Número": "2026NE000427",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000427 DE ACORDO COM PROCESSO NÚMERO: 48600.200797/2025-77",
+        "Data Início": "19/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "212,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "212,00",
+        "Número Contrato": "2026NE000427"
+      }
+    },
+    {
+      "contrato_id": "919982",
+      "dados": {
+        "Data Assinatura": "19/05/2026",
+        "Número": "2026NE000420",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000420 DE ACORDO COM PROCESSO NÚMERO: 48600.200797/2025-77",
+        "Data Início": "19/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "4.894,12",
+        "Parcelas": "1",
+        "Vlr. Parcela": "4.894,12",
+        "Número Contrato": "2026NE000420"
+      }
+    },
+    {
+      "contrato_id": "919983",
+      "dados": {
+        "Data Assinatura": "19/05/2026",
+        "Número": "2026NE000421",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000421 DE ACORDO COM PROCESSO NÚMERO: 48600.200797/2025-77",
+        "Data Início": "19/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "2.153,78",
+        "Parcelas": "1",
+        "Vlr. Parcela": "2.153,78",
+        "Número Contrato": "2026NE000421"
+      }
+    },
+    {
+      "contrato_id": "919984",
+      "dados": {
+        "Data Assinatura": "19/05/2026",
+        "Número": "2026NE000426",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000426 DE ACORDO COM PROCESSO NÚMERO: 48600.200797/2025-77",
+        "Data Início": "19/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "5.790,13",
+        "Parcelas": "1",
+        "Vlr. Parcela": "5.790,13",
+        "Número Contrato": "2026NE000426"
       }
     },
     {
