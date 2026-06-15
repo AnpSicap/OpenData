@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-06-11T11:39:07.296418",
-  "total_registros": 2468,
+  "ultima_atualizacao": "2026-06-15T13:40:25.750764",
+  "total_registros": 2473,
   "dados": [
     {
       "contrato_id": "121472",
@@ -18534,6 +18534,24 @@
       }
     },
     {
+      "contrato_id": "921732",
+      "dados": {
+        "CPF": "***.174.041-**",
+        "Nome": "ANDREA CAMBRAIA VIDAL",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000433"
+      }
+    },
+    {
+      "contrato_id": "921732",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000433"
+      }
+    },
+    {
       "contrato_id": "22536",
       "dados": {
         "CPF": "***.317.177-**",
@@ -20820,6 +20838,15 @@
       }
     },
     {
+      "contrato_id": "922816",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000513"
+      }
+    },
+    {
       "contrato_id": "15628",
       "dados": {
         "CPF": "***.823.874-**",
@@ -20925,6 +20952,24 @@
         "Nome": "BRUNO SALES BERNARDO",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2026NE000419"
+      }
+    },
+    {
+      "contrato_id": "919977",
+      "dados": {
+        "CPF": "***.174.041-**",
+        "Nome": "ANDREA CAMBRAIA VIDAL",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000425"
+      }
+    },
+    {
+      "contrato_id": "919977",
+      "dados": {
+        "CPF": "***.905.654-**",
+        "Nome": "BRUNO SALES BERNARDO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000425"
       }
     },
     {
