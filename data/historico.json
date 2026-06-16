@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-06-15T13:40:25.719840",
-  "total_registros": 1521,
+  "ultima_atualizacao": "2026-06-16T12:30:30.609568",
+  "total_registros": 1522,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1315,7 +1315,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "15/06/2026",
+        "Data Fim": "16/06/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -1979,6 +1979,21 @@
         "Vlr. Global": "23.145,14",
         "Parcelas": "1",
         "Vlr. Parcela": "23.145,14",
+        "Número Contrato": "05021/2023"
+      }
+    },
+    {
+      "contrato_id": "238196",
+      "dados": {
+        "Data Assinatura": "11/06/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO TERMO DE COMPROMISSO DE ACREDITAÇÃO POR 30 (TRINTA) MESES, COMPREENDIDOS ENTRE 11/06/2026 A 11/12/2028 E REAJUSTAR O VALOR TOTAL DO CONTRATO, COM FUNDAMENTO NAS ALTERAÇÕES PREVISTAS NO DOCUMENTO “PREÇOS DOS SERVIÇOS DE ACREDITAÇÃO DE ORGANISMOS DE AVALIAÇÃO DA CONFORMIDADE”, Nº NIE-CGCRE-140 (SEI Nº 5880519), EM CONFORMIDADE COM A NOTA TÉCNICA Nº 12/2026/SBQ-CPT-CLI/SBQ/ANP-DF (SEI Nº 5859115) E CONFORME DETALHAMENTO CONSTANTE NA PLANILHA DE COTAÇÃO (SEI Nº 5880530).",
+        "Data Início": "11/06/2026",
+        "Data Fim": "11/06/2028",
+        "Vlr. Global": "26.864,38",
+        "Parcelas": "1",
+        "Vlr. Parcela": "26.864,38",
         "Número Contrato": "05021/2023"
       }
     },
@@ -7060,7 +7075,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "15/06/2026",
+        "Data Fim": "16/06/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8125,7 +8140,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "15/06/2026",
+        "Data Fim": "16/06/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -15415,7 +15430,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "15/06/2026",
+        "Data Fim": "16/06/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -17215,7 +17230,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "15/06/2026",
+        "Data Fim": "16/06/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -17380,7 +17395,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "15/06/2026",
+        "Data Fim": "16/06/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
