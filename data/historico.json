@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-06-16T12:30:30.609568",
-  "total_registros": 1522,
+  "ultima_atualizacao": "2026-06-19T11:45:29.391429",
+  "total_registros": 1525,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1315,7 +1315,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "16/06/2026",
+        "Data Fim": "19/06/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -1965,36 +1965,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "1.596.152,55",
         "Número Contrato": "01026/2024"
-      }
-    },
-    {
-      "contrato_id": "238196",
-      "dados": {
-        "Data Assinatura": "11/12/2023",
-        "Número": "05021/2023",
-        "Tipo": "Termo de Adesão",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 05021/2023 DE ACORDO COM PROCESSO NÚMERO: 48600.202344/2023-13",
-        "Data Início": "11/12/2023",
-        "Data Fim": "11/06/2026",
-        "Vlr. Global": "23.145,14",
-        "Parcelas": "1",
-        "Vlr. Parcela": "23.145,14",
-        "Número Contrato": "05021/2023"
-      }
-    },
-    {
-      "contrato_id": "238196",
-      "dados": {
-        "Data Assinatura": "11/06/2026",
-        "Número": "00001/2026",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO TERMO DE COMPROMISSO DE ACREDITAÇÃO POR 30 (TRINTA) MESES, COMPREENDIDOS ENTRE 11/06/2026 A 11/12/2028 E REAJUSTAR O VALOR TOTAL DO CONTRATO, COM FUNDAMENTO NAS ALTERAÇÕES PREVISTAS NO DOCUMENTO “PREÇOS DOS SERVIÇOS DE ACREDITAÇÃO DE ORGANISMOS DE AVALIAÇÃO DA CONFORMIDADE”, Nº NIE-CGCRE-140 (SEI Nº 5880519), EM CONFORMIDADE COM A NOTA TÉCNICA Nº 12/2026/SBQ-CPT-CLI/SBQ/ANP-DF (SEI Nº 5859115) E CONFORME DETALHAMENTO CONSTANTE NA PLANILHA DE COTAÇÃO (SEI Nº 5880530).",
-        "Data Início": "11/06/2026",
-        "Data Fim": "11/06/2028",
-        "Vlr. Global": "26.864,38",
-        "Parcelas": "1",
-        "Vlr. Parcela": "26.864,38",
-        "Número Contrato": "05021/2023"
       }
     },
     {
@@ -7075,7 +7045,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "16/06/2026",
+        "Data Fim": "19/06/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8140,7 +8110,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "16/06/2026",
+        "Data Fim": "19/06/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -10740,51 +10710,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "761.737,25",
         "Número Contrato": "08019/2021"
-      }
-    },
-    {
-      "contrato_id": "723974",
-      "dados": {
-        "Data Assinatura": "19/11/2025",
-        "Número": "90015/2025",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 90015/2025 DE ACORDO COM PROCESSO NÚMERO: 48611200807202545",
-        "Data Início": "19/11/2025",
-        "Data Fim": "19/05/2026",
-        "Vlr. Global": "494.000,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "494.000,00",
-        "Número Contrato": "90015/2025"
-      }
-    },
-    {
-      "contrato_id": "723974",
-      "dados": {
-        "Data Assinatura": "09/04/2026",
-        "Número": "00001/2026",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PROMOVER A ALTERAÇÃO QUANTITATIVA DO CONTRATO, MEDIANTE O ACRÉSCIMO DE SETE NOVOS ITENS, APRESENTADOS NA TABELA 1 (SEI Nº 5657085), CORRESPONDENTES AOS ITENS 20.2 A 20.8, BEM COMO A ALTERAÇÃO QUANTITATIVA DE ITENS JÁ EXISTENTES (20.1 E 20.9), RESULTANDO EM UM ACRÉSCIMO DE R$ 63.381,54 (SESSENTA E TRÊS MIL TREZENTOS E OITENTA E UM REAIS E CINQUENTA E QUATRO CENTAVOS), CORRESPONDENTE A 12,83% DO VALOR GLOBAL DO CONTRATO, NOS TERMOS DOS ARTS. 124 E 125 DA LEI Nº 14.133/2021, CONFORME AS JUSTIFICATIVAS CONSTANTES NA NOTA TÉCNICA Nº 2/2026/SFI-NSA-ADM/SFI/ANP-BA (SEI Nº 5623193). REGISTRE-SE, CONTUDO, A APLICAÇÃO DE DESCONTO DE 9,51% (NOVE VÍRGULA CINQUENTA E UM POR CENTO) SOBRE OS ITENS NOVOS, RESULTANDO EM UM ACRÉSCIMO DE R$ 59.972,79 (CINQUENTA E NOVE MIL NOVECENTOS E SETENTA E DOIS REAIS E SETENTA E NOVE CENTAVOS).",
-        "Data Início": "09/04/2026",
-        "Data Fim": "19/05/2026",
-        "Vlr. Global": "553.972,79",
-        "Parcelas": "1",
-        "Vlr. Parcela": "553.972,79",
-        "Número Contrato": "90015/2025"
-      }
-    },
-    {
-      "contrato_id": "723974",
-      "dados": {
-        "Data Assinatura": "07/05/2026",
-        "Número": "00001/2026",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "PRORROGAR, DE FORMA AUTOMÁTICA, O PRAZO DE VIGÊNCIA DO CONTRATO Nº 9.015/2025-ANP-200.807 POR MAIS 6 (SEIS) MESES, COMPREENDIDOS ENTRE 19/05/2026 E 19/11/2026, COM FUNDAMENTOS NO ARTIGO 111 DA LEI N° 14.133/2021 E NA PORTARIA AGU Nº 403 DE 05/08/2025, PERMANECENDO INALTERADAS AS DEMAIS CLÁUSULAS CONTRATUAIS, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA Nº 7/2026/SFI-NSA-ADM/SFI/ANP-BA (SEI Nº 5923690).",
-        "Data Início": "19/05/2026",
-        "Data Fim": "19/11/2026",
-        "Vlr. Global": "553.972,79",
-        "Parcelas": "1",
-        "Vlr. Parcela": "553.972,79",
-        "Número Contrato": "90015/2025"
       }
     },
     {
@@ -15430,7 +15355,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "16/06/2026",
+        "Data Fim": "19/06/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -17230,7 +17155,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "16/06/2026",
+        "Data Fim": "19/06/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -17395,7 +17320,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "16/06/2026",
+        "Data Fim": "19/06/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -17565,6 +17490,66 @@
         "Parcelas": "1",
         "Vlr. Parcela": "4.618.599,89",
         "Número Contrato": "09012/2024"
+      }
+    },
+    {
+      "contrato_id": "723974",
+      "dados": {
+        "Data Assinatura": "19/11/2025",
+        "Número": "90015/2025",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 90015/2025 DE ACORDO COM PROCESSO NÚMERO: 48611200807202545",
+        "Data Início": "19/11/2025",
+        "Data Fim": "19/05/2026",
+        "Vlr. Global": "494.000,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "494.000,00",
+        "Número Contrato": "90015/2025"
+      }
+    },
+    {
+      "contrato_id": "723974",
+      "dados": {
+        "Data Assinatura": "09/04/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PROMOVER A ALTERAÇÃO QUANTITATIVA DO CONTRATO, MEDIANTE O ACRÉSCIMO DE SETE NOVOS ITENS, APRESENTADOS NA TABELA 1 (SEI Nº 5657085), CORRESPONDENTES AOS ITENS 20.2 A 20.8, BEM COMO A ALTERAÇÃO QUANTITATIVA DE ITENS JÁ EXISTENTES (20.1 E 20.9), RESULTANDO EM UM ACRÉSCIMO DE R$ 63.381,54 (SESSENTA E TRÊS MIL TREZENTOS E OITENTA E UM REAIS E CINQUENTA E QUATRO CENTAVOS), CORRESPONDENTE A 12,83% DO VALOR GLOBAL DO CONTRATO, NOS TERMOS DOS ARTS. 124 E 125 DA LEI Nº 14.133/2021, CONFORME AS JUSTIFICATIVAS CONSTANTES NA NOTA TÉCNICA Nº 2/2026/SFI-NSA-ADM/SFI/ANP-BA (SEI Nº 5623193). REGISTRE-SE, CONTUDO, A APLICAÇÃO DE DESCONTO DE 9,51% (NOVE VÍRGULA CINQUENTA E UM POR CENTO) SOBRE OS ITENS NOVOS, RESULTANDO EM UM ACRÉSCIMO DE R$ 59.972,79 (CINQUENTA E NOVE MIL NOVECENTOS E SETENTA E DOIS REAIS E SETENTA E NOVE CENTAVOS).",
+        "Data Início": "09/04/2026",
+        "Data Fim": "19/05/2026",
+        "Vlr. Global": "553.972,79",
+        "Parcelas": "1",
+        "Vlr. Parcela": "553.972,79",
+        "Número Contrato": "90015/2025"
+      }
+    },
+    {
+      "contrato_id": "723974",
+      "dados": {
+        "Data Assinatura": "07/05/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "PRORROGAR, DE FORMA AUTOMÁTICA, O PRAZO DE VIGÊNCIA DO CONTRATO Nº 9.015/2025-ANP-200.807 POR MAIS 6 (SEIS) MESES, COMPREENDIDOS ENTRE 19/05/2026 E 19/11/2026, COM FUNDAMENTOS NO ARTIGO 111 DA LEI N° 14.133/2021 E NA PORTARIA AGU Nº 403 DE 05/08/2025, PERMANECENDO INALTERADAS AS DEMAIS CLÁUSULAS CONTRATUAIS, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA Nº 7/2026/SFI-NSA-ADM/SFI/ANP-BA (SEI Nº 5923690).",
+        "Data Início": "19/05/2026",
+        "Data Fim": "19/11/2026",
+        "Vlr. Global": "553.972,79",
+        "Parcelas": "1",
+        "Vlr. Parcela": "553.972,79",
+        "Número Contrato": "90015/2025"
+      }
+    },
+    {
+      "contrato_id": "723974",
+      "dados": {
+        "Data Assinatura": "17/06/2026",
+        "Número": "00002/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PROMOVER A ALTERAÇÃO QUANTITATIVA DO CONTRATO, MEDIANTE O ACRÉSCIMO DE CINCO NOVOS ITENS DESTINADOS À ELABORAÇÃO DO RELATÓRIO TÉCNICO DENOMINADO AS BUILT, APRESENTADOS NA TABELA 01 (SEI Nº 5879987), CORRESPONDENTES AOS ITENS 20.10 A 20.15, RESULTANDO EM UM ACRÉSCIMO DE R$ 21.063,28 (VINTE E UM MIL, SESSENTA E TRÊS REAIS E VINTE E OITO CENTAVOS), EQUIVALENTE A 4,26% DO VALOR GLOBAL DO CONTRATO, NOS TERMOS DOS ARTS. 124 E 125 DA LEI Nº 14.133/2021, CONFORME AS JUSTIFICATIVAS CONSTANTES DA NOTA TÉCNICA Nº 6/2026/SFI-NSA-ADM/SFI/ANP-BA (SEI Nº 5842683).",
+        "Data Início": "17/06/2026",
+        "Data Fim": "19/11/2026",
+        "Vlr. Global": "575.036,33",
+        "Parcelas": "1",
+        "Vlr. Parcela": "575.036,33",
+        "Número Contrato": "90015/2025"
       }
     },
     {
@@ -18480,6 +18465,21 @@
         "Parcelas": "1",
         "Vlr. Parcela": "30.620,00",
         "Número Contrato": "2026NE000447"
+      }
+    },
+    {
+      "contrato_id": "927078",
+      "dados": {
+        "Data Assinatura": "16/06/2026",
+        "Número": "2026NE000518",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000518 DE ACORDO COM PROCESSO NÚMERO: 48610.211054/2026-94",
+        "Data Início": "16/06/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "20.000,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "20.000,00",
+        "Número Contrato": "2026NE000518"
       }
     },
     {
@@ -19845,6 +19845,36 @@
         "Parcelas": "1",
         "Vlr. Parcela": "26.100,00",
         "Número Contrato": "09011/2020"
+      }
+    },
+    {
+      "contrato_id": "238196",
+      "dados": {
+        "Data Assinatura": "11/12/2023",
+        "Número": "05021/2023",
+        "Tipo": "Termo de Adesão",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 05021/2023 DE ACORDO COM PROCESSO NÚMERO: 48600.202344/2023-13",
+        "Data Início": "11/12/2023",
+        "Data Fim": "11/06/2026",
+        "Vlr. Global": "23.145,14",
+        "Parcelas": "1",
+        "Vlr. Parcela": "23.145,14",
+        "Número Contrato": "05021/2023"
+      }
+    },
+    {
+      "contrato_id": "238196",
+      "dados": {
+        "Data Assinatura": "11/06/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO TERMO DE COMPROMISSO DE ACREDITAÇÃO POR 30 (TRINTA) MESES, COMPREENDIDOS ENTRE 11/06/2026 A 11/12/2028 E REAJUSTAR O VALOR TOTAL DO CONTRATO, COM FUNDAMENTO NAS ALTERAÇÕES PREVISTAS NO DOCUMENTO “PREÇOS DOS SERVIÇOS DE ACREDITAÇÃO DE ORGANISMOS DE AVALIAÇÃO DA CONFORMIDADE”, Nº NIE-CGCRE-140 (SEI Nº 5880519), EM CONFORMIDADE COM A NOTA TÉCNICA Nº 12/2026/SBQ-CPT-CLI/SBQ/ANP-DF (SEI Nº 5859115) E CONFORME DETALHAMENTO CONSTANTE NA PLANILHA DE COTAÇÃO (SEI Nº 5880530).",
+        "Data Início": "11/06/2026",
+        "Data Fim": "11/06/2028",
+        "Vlr. Global": "26.864,38",
+        "Parcelas": "1",
+        "Vlr. Parcela": "26.864,38",
+        "Número Contrato": "05021/2023"
       }
     },
     {
@@ -22110,6 +22140,21 @@
         "Parcelas": "1",
         "Vlr. Parcela": "246.216,24",
         "Número Contrato": "05024/2017"
+      }
+    },
+    {
+      "contrato_id": "925317",
+      "dados": {
+        "Data Assinatura": "13/04/2026",
+        "Número": "2026NE000340",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000340 DE ACORDO COM PROCESSO NÚMERO: 48610.205816/2026-13",
+        "Data Início": "13/04/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "1.300,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.300,00",
+        "Número Contrato": "2026NE000340"
       }
     },
     {
