@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-06-22T13:07:54.831316",
-  "total_registros": 2495,
+  "ultima_atualizacao": "2026-06-24T10:40:39.754238",
+  "total_registros": 2500,
   "dados": [
     {
       "contrato_id": "121472",
@@ -3720,33 +3720,6 @@
       }
     },
     {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.809.164-**",
-        "Nome": "RODRIGO PEREIRA CÂMARA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.244.899-**",
-        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
-      "contrato_id": "243362",
-      "dados": {
-        "CPF": "***.677.011-**",
-        "Nome": "RANI DE FREITAS VIEIRA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09036/2023"
-      }
-    },
-    {
       "contrato_id": "792752",
       "dados": {
         "CPF": "***.677.011-**",
@@ -5148,6 +5121,33 @@
         "Nome": "GUSTAVO PACHECO GONDIM",
         "Tipo": "Fiscal Substituto",
         "Número Contrato": "04044/2018"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.809.164-**",
+        "Nome": "RODRIGO PEREIRA CÂMARA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.244.899-**",
+        "Nome": "GUILHERME DE OLIVEIRA FERRONATO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09036/2023"
+      }
+    },
+    {
+      "contrato_id": "243362",
+      "dados": {
+        "CPF": "***.677.011-**",
+        "Nome": "RANI DE FREITAS VIEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09036/2023"
       }
     },
     {
@@ -18336,6 +18336,15 @@
       }
     },
     {
+      "contrato_id": "914971",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000455"
+      }
+    },
+    {
       "contrato_id": "161456",
       "dados": {
         "CPF": "***.492.110-**",
@@ -21843,6 +21852,42 @@
         "Nome": "GEORGE LEITE ALCÂNTARA",
         "Tipo": "Fiscal Requisitante Substituto",
         "Número Contrato": "05024/2017"
+      }
+    },
+    {
+      "contrato_id": "931487",
+      "dados": {
+        "CPF": "***.470.941-**",
+        "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000462"
+      }
+    },
+    {
+      "contrato_id": "931487",
+      "dados": {
+        "CPF": "***.470.941-**",
+        "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000462"
+      }
+    },
+    {
+      "contrato_id": "931487",
+      "dados": {
+        "CPF": "***.928.441-**",
+        "Nome": "CRISTIANE BRITO COSTA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000462"
+      }
+    },
+    {
+      "contrato_id": "931487",
+      "dados": {
+        "CPF": "***.928.441-**",
+        "Nome": "CRISTIANE BRITO COSTA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2026NE000462"
       }
     },
     {
