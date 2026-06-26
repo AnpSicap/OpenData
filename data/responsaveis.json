@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-06-25T10:32:07.424388",
-  "total_registros": 2504,
+  "ultima_atualizacao": "2026-06-26T10:40:25.093155",
+  "total_registros": 2506,
   "dados": [
     {
       "contrato_id": "121472",
@@ -2142,33 +2142,6 @@
         "Nome": "ALEXANDRE MACIEL DA SILVA",
         "Tipo": "Responsável Unidade Requisitante",
         "Número Contrato": "2025NE000681"
-      }
-    },
-    {
-      "contrato_id": "638632",
-      "dados": {
-        "CPF": "***.549.427-**",
-        "Nome": "ANKE CORDEIRO MORAES",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "05021/2025"
-      }
-    },
-    {
-      "contrato_id": "638632",
-      "dados": {
-        "CPF": "***.792.977-**",
-        "Nome": "ALESSANDRA DA SILVA GOMES",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "05021/2025"
-      }
-    },
-    {
-      "contrato_id": "638632",
-      "dados": {
-        "CPF": "***.330.017-**",
-        "Nome": "MINA SAITO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "05021/2025"
       }
     },
     {
@@ -22080,6 +22053,24 @@
       }
     },
     {
+      "contrato_id": "934734",
+      "dados": {
+        "CPF": "***.907.567-**",
+        "Nome": "FÁBIO PORTNOJ CANTINHO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000443"
+      }
+    },
+    {
+      "contrato_id": "934734",
+      "dados": {
+        "CPF": "***.907.567-**",
+        "Nome": "FÁBIO PORTNOJ CANTINHO",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000443"
+      }
+    },
+    {
       "contrato_id": "193340",
       "dados": {
         "CPF": "***.330.087-**",
@@ -22329,6 +22320,33 @@
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "08012/2019"
+      }
+    },
+    {
+      "contrato_id": "638632",
+      "dados": {
+        "CPF": "***.549.427-**",
+        "Nome": "ANKE CORDEIRO MORAES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05021/2025"
+      }
+    },
+    {
+      "contrato_id": "638632",
+      "dados": {
+        "CPF": "***.792.977-**",
+        "Nome": "ALESSANDRA DA SILVA GOMES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05021/2025"
+      }
+    },
+    {
+      "contrato_id": "638632",
+      "dados": {
+        "CPF": "***.330.017-**",
+        "Nome": "MINA SAITO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05021/2025"
       }
     },
     {

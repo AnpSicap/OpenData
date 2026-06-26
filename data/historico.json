@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-06-25T10:32:07.396490",
-  "total_registros": 1531,
+  "ultima_atualizacao": "2026-06-26T10:40:25.063899",
+  "total_registros": 1533,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1315,7 +1315,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "25/06/2026",
+        "Data Fim": "26/06/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -1485,21 +1485,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "170,00",
         "Número Contrato": "2025NE000681"
-      }
-    },
-    {
-      "contrato_id": "638632",
-      "dados": {
-        "Data Assinatura": "02/09/2025",
-        "Número": "05021/2025",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 05021/2025 DE ACORDO COM PROCESSO NÚMERO: 48610.220433/2025-94",
-        "Data Início": "02/09/2025",
-        "Data Fim": "02/09/2026",
-        "Vlr. Global": "33.013,13",
-        "Parcelas": "12",
-        "Vlr. Parcela": "2.751,09",
-        "Número Contrato": "05021/2025"
       }
     },
     {
@@ -7075,7 +7060,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "25/06/2026",
+        "Data Fim": "26/06/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8275,7 +8260,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "25/06/2026",
+        "Data Fim": "26/06/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -15430,7 +15415,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "25/06/2026",
+        "Data Fim": "26/06/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -17230,7 +17215,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "25/06/2026",
+        "Data Fim": "26/06/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -17395,7 +17380,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "25/06/2026",
+        "Data Fim": "26/06/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -22458,6 +22443,21 @@
       }
     },
     {
+      "contrato_id": "934734",
+      "dados": {
+        "Data Assinatura": "25/05/2026",
+        "Número": "2026NE000443",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000443 DE ACORDO COM PROCESSO NÚMERO: 48610.210598/2026-39",
+        "Data Início": "25/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "3.900,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "3.900,00",
+        "Número Contrato": "2026NE000443"
+      }
+    },
+    {
       "contrato_id": "258397",
       "dados": {
         "Data Assinatura": "06/03/2024",
@@ -22830,6 +22830,36 @@
         "Parcelas": "36",
         "Vlr. Parcela": "10.674,27",
         "Número Contrato": "08012/2019"
+      }
+    },
+    {
+      "contrato_id": "638632",
+      "dados": {
+        "Data Assinatura": "02/09/2025",
+        "Número": "05021/2025",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 05021/2025 DE ACORDO COM PROCESSO NÚMERO: 48610.220433/2025-94",
+        "Data Início": "02/09/2025",
+        "Data Fim": "02/09/2026",
+        "Vlr. Global": "33.013,13",
+        "Parcelas": "12",
+        "Vlr. Parcela": "2.751,09",
+        "Número Contrato": "05021/2025"
+      }
+    },
+    {
+      "contrato_id": "638632",
+      "dados": {
+        "Data Assinatura": "17/06/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, NO PERÍODO DE 02/09/2026 A 02/09/2027, COM FUNDAMENTO NOS ARTS. 107 E 108 DA LEI Nº 14.133/2021 E NA ORIENTAÇÃO NORMATIVA AGU Nº 03/2009, CONFORME NOTA TÉCNICA Nº 7/2026/OUV/ANP-RJ (SEI Nº 5823278).",
+        "Data Início": "17/06/2026",
+        "Data Fim": "02/09/2026",
+        "Vlr. Global": "33.013,13",
+        "Parcelas": "12",
+        "Vlr. Parcela": "2.751,09",
+        "Número Contrato": "05021/2025"
       }
     },
     {
