@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-07-08T09:42:28.254976",
-  "total_registros": 1550,
+  "ultima_atualizacao": "2026-07-13T10:47:27.667079",
+  "total_registros": 1553,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1345,7 +1345,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "08/07/2026",
+        "Data Fim": "13/07/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -2970,6 +2970,21 @@
         "Parcelas": "1",
         "Vlr. Parcela": "10.000,00",
         "Número Contrato": "2025NE000222"
+      }
+    },
+    {
+      "contrato_id": "947130",
+      "dados": {
+        "Data Assinatura": "08/07/2026",
+        "Número": "2026NE000577",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000577 DE ACORDO COM PROCESSO NÚMERO: 48610.216660/2026-04",
+        "Data Início": "09/07/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "38.847,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "38.847,00",
+        "Número Contrato": "2026NE000577"
       }
     },
     {
@@ -6985,7 +7000,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "08/07/2026",
+        "Data Fim": "13/07/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8200,7 +8215,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "08/07/2026",
+        "Data Fim": "13/07/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -14433,141 +14448,6 @@
       }
     },
     {
-      "contrato_id": "130072",
-      "dados": {
-        "Data Assinatura": "29/12/2021",
-        "Número": "09053/2021",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09053/2021 DE ACORDO COM PROCESSO NÚMERO: 48610.205321/2021-80",
-        "Data Início": "29/12/2021",
-        "Data Fim": "29/12/2022",
-        "Vlr. Global": "1.054.000,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.054.000,00",
-        "Número Contrato": "09053/2021"
-      }
-    },
-    {
-      "contrato_id": "130072",
-      "dados": {
-        "Data Assinatura": "25/11/2022",
-        "Número": "00001/2022",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REPACTUAR O VALOR DO CONTRATO N° ​ 9.053/21  COM BASE NA VARIAÇÃO DOS CUSTOS DECORRENTES DA CCT 2021/2023 DO SINDPD-RJ, TENDO SEUS EFEITOS FINANCEIROS RETROATIVOS A 29/12/2021, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA Nº  107/2022/STI-CONT/STI/ANP-RJ  (SEI 2589434 ).\r\n\r\nA RESPECTIVA CONVENÇÃO COLETIVA DE TRABALHO REGISTROU A ALTERAÇÃO DOS SEGUINTES CUSTOS:\r\n\r\n    AJUSTE DO AUXÍLIO ALIMENTAÇÃO/REFEIÇÃO PARA O VALOR UNITÁRIO DE R$ 29,65 (VINTE E NOVE REAIS E SESSENTA E CINCO CENTAVOS).\r\n\r\n    AJUSTE DO BENEFÍCIO INDIRETO PARA O VALOR TOTAL DE R$ 241,64 (DUZENTOS E QUARENTA E UM REAIS E SESSENTA E QUATRO CENTAVOS).",
-        "Data Início": "29/12/2021",
-        "Data Fim": "29/12/2022",
-        "Vlr. Global": "1.063.652,56",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.063.652,56",
-        "Número Contrato": "09053/2021"
-      }
-    },
-    {
-      "contrato_id": "130072",
-      "dados": {
-        "Data Assinatura": "29/12/2022",
-        "Número": "00001/2023",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO DE  29/12/2022 A 29/12/2023, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8.666/93; ELIMINAÇÃO E/OU REDUÇÃO DOS CUSTOS FIXOS OU VARIÁVEIS NÃO RENOVÁVEIS JÁ AMORTIZADOS OU PAGOS NO PRIMEIRO ANO DA CONTRATAÇÃO, CONFORME DISPOSTO NA NOTA TÉCNICA N.º 118/2022/STI-CONT/STI/ANP-RJ (SEI N.º 2648572); E ASSEGURAR À CONTRATADA,  O DIREITO DE PLEITEAR  A REPACTUAÇÃO DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
-        "Data Início": "29/12/2022",
-        "Data Fim": "29/12/2023",
-        "Vlr. Global": "1.059.796,96",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.059.796,96",
-        "Número Contrato": "09053/2021"
-      }
-    },
-    {
-      "contrato_id": "130072",
-      "dados": {
-        "Data Assinatura": "06/10/2023",
-        "Número": "00001/2023",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REPACTUAR O VALOR DO CONTRATO N° 9.053/21  COM BASE NA VARIAÇÃO DOS CUSTOS DECORRENTES DO ADITIVO À CCT 2021/2023 DO SINDPD-RJ, TENDO SEUS EFEITOS FINANCEIROS RETROATIVOS A 01/09/2022, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA Nº 71/2023/STI-CONT/STI/ANP-RJ  (SEI 3252709 ).\r\n\r\nA RESPECTIVA CONVENÇÃO COLETIVA DE TRABALHO REGISTROU A ALTERAÇÃO DOS SEGUINTES CUSTOS:\r\n\r\n    AJUSTE DO AUXÍLIO ALIMENTAÇÃO/REFEIÇÃO PARA O VALOR UNITÁRIO DE R$ 32,38 (TRINTA E DOIS REAIS E TRINTA E OITO CENTAVOS), A PARTIR DE 01/09/22.\r\n\r\n    DISSÍDIO SALARIAL DE ATÉ 9,23%, A PARTIR DE 01/01/23.\r\n\r\n    AJUSTE DO BENEFÍCIO INDIRETO PARA O VALOR TOTAL DE R$ 263,94 (DUZENTOS E SESSENTA E TRÊS REAIS E NOVENTA E QUATRO CENTAVOS), A PARTIR DE 01/01/23.\r\n\r\n    ABONO SALARIAL DE ATÉ 9,23% SOBRE O SALÁRIO DE JANEIRO/22, A PARTIR DE 01/01/23.\r\n\r\n    TÉRMINO DO ABONO SALARIAL, A PARTIR DE 01/05/23.",
-        "Data Início": "29/12/2021",
-        "Data Fim": "29/12/2023",
-        "Vlr. Global": "1.141.187,48",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.141.187,48",
-        "Número Contrato": "09053/2021"
-      }
-    },
-    {
-      "contrato_id": "130072",
-      "dados": {
-        "Data Assinatura": "29/12/2023",
-        "Número": "00002/2023",
-        "Tipo": "Termo Aditivo",
-        "Observação": "2.1. PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO DE  29/12/2022 A 29/12/2023, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8.666/93;\r\n\r\n2.2  PROMOVER A ALTERAÇÃO DO ENDEREÇO DA SEDE DA CONTRATADA, QUE PASSA DE  AVENIDA PAULISTA Nº 1159, SALAS 101 A 109, CERQUEIRA CESAR, SÃO PAULO, SP, CEP 01311-200, PARA  AVENIDA PAULISTA  N.º  1439 - 4º ANDAR, CONJUNTOS 43 E 44, BELA VISTA, SÃO PAULO - SP -CEP: 01311-200,  CONFORME A 16ª ALTERAÇÃO E CONSOLIDAÇÃO DO CONTRATO SOCIAL DA EMPRESA, QUE SE ENCONTRA NO DOCUMENTO SEI N.º 3505383.\r\n\r\n2.3. ASSEGURAR À CONTRATADA,  O DIREITO DE PLEITEAR  A REPACTUAÇÃO DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
-        "Data Início": "29/12/2023",
-        "Data Fim": "29/12/2024",
-        "Vlr. Global": "1.128.113,05",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.128.113,05",
-        "Número Contrato": "09053/2021"
-      }
-    },
-    {
-      "contrato_id": "130072",
-      "dados": {
-        "Data Assinatura": "04/11/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REPACTUAR O VALOR DO CONTRATO N° 9.053/21  COM BASE NA VARIAÇÃO DOS CUSTOS DECORRENTES DO ADITIVO À CCT 2023/2025 DO SINDPD-RJ, TENDO SEUS EFEITOS FINANCEIROS RETROATIVOS A 01/09/2023, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA Nº 83/2024/STI-CONT/STI/ANP-RJ  (SEI 4374166 ).\r\nA RESPECTIVA CONVENÇÃO COLETIVA DE TRABALHO REGISTROU A ALTERAÇÃO DOS SEGUINTES CUSTOS, A PARTIR DE 01/09/2023:\r\nDISSÍDIO SALARIAL DE ATÉ 4,20%;\r\nAJUSTE DO AUXÍLIO ALIMENTAÇÃO/REFEIÇÃO PARA O VALOR UNITÁRIO DE R$ 33,74; E\r\nAJUSTE DO BENEFÍCIO INDIRETO PARA O VALOR TOTAL DE R$ 275,02.",
-        "Data Início": "29/12/2021",
-        "Data Fim": "29/12/2024",
-        "Vlr. Global": "1.175.495,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.175.495,00",
-        "Número Contrato": "09053/2021"
-      }
-    },
-    {
-      "contrato_id": "130072",
-      "dados": {
-        "Data Assinatura": "20/12/2024",
-        "Número": "00003/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "2.1. PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO DE  29/12/2024 A 29/12/2025, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8.666/93;\r\n\r\n2.2  ALTERAR QUANTITATIVAMENTE A AVENÇA, PROMOVENDO REDUÇÃO EM SEU OBJETO, MEDIANTE A SUPRESSÃO DE 01 POSTO DO PERFIL ANALISTA DE MERCADO, CORRESPONDENTE A 12,50% DO QUANTITATIVO PREVISTO NO CONTRATO ORIGINAL.\r\n\r\n2.3. ASSEGURAR À CONTRATADA,  O DIREITO DE PLEITEAR  A REPACTUAÇÃO DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
-        "Data Início": "29/12/2024",
-        "Data Fim": "29/12/2025",
-        "Vlr. Global": "1.057.578,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.057.578,00",
-        "Número Contrato": "09053/2021"
-      }
-    },
-    {
-      "contrato_id": "130072",
-      "dados": {
-        "Data Assinatura": "15/12/2025",
-        "Número": "00004/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "REPACTUAÇÃO DOS VALORES CONTRATUAIS EM DECORRÊNCIA DOS AJUSTES ESTABELECIDOS NA CCT 2023/2025 (SEI 5203881), COM EFEITOS FINANCEIROS RETROATIVOS A PARTIR DE 01/09/2024, NOS TERMOS DA NOTA TÉCNICA Nº 55/2025/STI-CONT/STI/ANP-RJ (SEI 5096629).;\r\nREVISÃO CONTRATUAL PARA PROMOVER O REEQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO, EM RAZÃO DA REONERAÇÃO GRADUAL DAS PLANILHAS DE CUSTOS E FORMAÇÃO DE PREÇOS, A PARTIR DE 01/01/2025, FUNDAMENTADA NA LEI Nº 14.973/24 , QUE ALTERA PROGRESSIVAMENTE OS PERCENTUAIS DE INSS E CPRB DAS REFERIDAS PLANILHAS, CONFORME DISPOSTO NA NOTA TÉCNICA SUPRACITADA;E\r\nALTERAÇÃO QUANTITATIVA DA AVENÇA, PROMOVENDO REDUÇÃO EM SEU OBJETO MEDIANTE A SUPRESSÃO DE 01 (UM) POSTO DO PERFIL ANALISTA DE MERCADO, PASSANDO DE 05 (CINCO) PARA 04 (QUATRO) POSTOS.  A REDUÇÃO REPRESENTA UM IMPACTO DE 10,02% SOBRE O VALOR GLOBAL MENSAL VIGENTE, CONSIDERANDO A DIMINUIÇÃO DE R$ 10.485,29 EM RELAÇÃO AO MONTANTE DE R$ 104.635,78 A PARTIR DE JANEIRO/2025. COM A SUPRESSÃO ANTERIORMENTE REALIZADA NO 3º TERMO ADITIVO, CUJO IMPACTO FOI DE 10,03%, TEM-SE UMA REDUÇÃO ACUMULADA DE 20,05% SOBRE O VALOR GLOBAL DA CONTRATAÇÃO.",
-        "Data Início": "15/12/2025",
-        "Data Fim": "29/12/2025",
-        "Vlr. Global": "1.079.246,47",
-        "Parcelas": "12",
-        "Vlr. Parcela": "89.937,21",
-        "Número Contrato": "09053/2021"
-      }
-    },
-    {
-      "contrato_id": "130072",
-      "dados": {
-        "Data Assinatura": "26/12/2025",
-        "Número": "00005/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO DE  29/12/2025 A 29/12/2026, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8.666/93; \r\nASSEGURAR À CONTRATADA,  O DIREITO DE PLEITEAR  A REPACTUAÇÃO DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
-        "Data Início": "29/12/2025",
-        "Data Fim": "29/12/2026",
-        "Vlr. Global": "1.003.982,40",
-        "Parcelas": "12",
-        "Vlr. Parcela": "83.665,20",
-        "Número Contrato": "09053/2021"
-      }
-    },
-    {
       "contrato_id": "822218",
       "dados": {
         "Data Assinatura": "24/12/2025",
@@ -15010,7 +14890,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "08/07/2026",
+        "Data Fim": "13/07/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16810,7 +16690,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "08/07/2026",
+        "Data Fim": "13/07/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -17080,7 +16960,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "08/07/2026",
+        "Data Fim": "13/07/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -19230,6 +19110,21 @@
         "Parcelas": "1",
         "Vlr. Parcela": "0,00",
         "Número Contrato": "09010/2017"
+      }
+    },
+    {
+      "contrato_id": "947564",
+      "dados": {
+        "Data Assinatura": "06/07/2026",
+        "Número": "2026NE000565",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000565 DE ACORDO COM PROCESSO NÚMERO: 48610.213999/2026-41",
+        "Data Início": "06/07/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "12.964,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "12.964,00",
+        "Número Contrato": "2026NE000565"
       }
     },
     {
@@ -22050,6 +21945,156 @@
         "Parcelas": "1",
         "Vlr. Parcela": "999.517,00",
         "Número Contrato": "08009/2023"
+      }
+    },
+    {
+      "contrato_id": "130072",
+      "dados": {
+        "Data Assinatura": "29/12/2021",
+        "Número": "09053/2021",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09053/2021 DE ACORDO COM PROCESSO NÚMERO: 48610.205321/2021-80",
+        "Data Início": "29/12/2021",
+        "Data Fim": "29/12/2022",
+        "Vlr. Global": "1.054.000,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.054.000,00",
+        "Número Contrato": "09053/2021"
+      }
+    },
+    {
+      "contrato_id": "130072",
+      "dados": {
+        "Data Assinatura": "25/11/2022",
+        "Número": "00001/2022",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REPACTUAR O VALOR DO CONTRATO N° ​ 9.053/21  COM BASE NA VARIAÇÃO DOS CUSTOS DECORRENTES DA CCT 2021/2023 DO SINDPD-RJ, TENDO SEUS EFEITOS FINANCEIROS RETROATIVOS A 29/12/2021, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA Nº  107/2022/STI-CONT/STI/ANP-RJ  (SEI 2589434 ).\r\n\r\nA RESPECTIVA CONVENÇÃO COLETIVA DE TRABALHO REGISTROU A ALTERAÇÃO DOS SEGUINTES CUSTOS:\r\n\r\n    AJUSTE DO AUXÍLIO ALIMENTAÇÃO/REFEIÇÃO PARA O VALOR UNITÁRIO DE R$ 29,65 (VINTE E NOVE REAIS E SESSENTA E CINCO CENTAVOS).\r\n\r\n    AJUSTE DO BENEFÍCIO INDIRETO PARA O VALOR TOTAL DE R$ 241,64 (DUZENTOS E QUARENTA E UM REAIS E SESSENTA E QUATRO CENTAVOS).",
+        "Data Início": "29/12/2021",
+        "Data Fim": "29/12/2022",
+        "Vlr. Global": "1.063.652,56",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.063.652,56",
+        "Número Contrato": "09053/2021"
+      }
+    },
+    {
+      "contrato_id": "130072",
+      "dados": {
+        "Data Assinatura": "29/12/2022",
+        "Número": "00001/2023",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO DE  29/12/2022 A 29/12/2023, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8.666/93; ELIMINAÇÃO E/OU REDUÇÃO DOS CUSTOS FIXOS OU VARIÁVEIS NÃO RENOVÁVEIS JÁ AMORTIZADOS OU PAGOS NO PRIMEIRO ANO DA CONTRATAÇÃO, CONFORME DISPOSTO NA NOTA TÉCNICA N.º 118/2022/STI-CONT/STI/ANP-RJ (SEI N.º 2648572); E ASSEGURAR À CONTRATADA,  O DIREITO DE PLEITEAR  A REPACTUAÇÃO DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "29/12/2022",
+        "Data Fim": "29/12/2023",
+        "Vlr. Global": "1.059.796,96",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.059.796,96",
+        "Número Contrato": "09053/2021"
+      }
+    },
+    {
+      "contrato_id": "130072",
+      "dados": {
+        "Data Assinatura": "06/10/2023",
+        "Número": "00001/2023",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REPACTUAR O VALOR DO CONTRATO N° 9.053/21  COM BASE NA VARIAÇÃO DOS CUSTOS DECORRENTES DO ADITIVO À CCT 2021/2023 DO SINDPD-RJ, TENDO SEUS EFEITOS FINANCEIROS RETROATIVOS A 01/09/2022, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA Nº 71/2023/STI-CONT/STI/ANP-RJ  (SEI 3252709 ).\r\n\r\nA RESPECTIVA CONVENÇÃO COLETIVA DE TRABALHO REGISTROU A ALTERAÇÃO DOS SEGUINTES CUSTOS:\r\n\r\n    AJUSTE DO AUXÍLIO ALIMENTAÇÃO/REFEIÇÃO PARA O VALOR UNITÁRIO DE R$ 32,38 (TRINTA E DOIS REAIS E TRINTA E OITO CENTAVOS), A PARTIR DE 01/09/22.\r\n\r\n    DISSÍDIO SALARIAL DE ATÉ 9,23%, A PARTIR DE 01/01/23.\r\n\r\n    AJUSTE DO BENEFÍCIO INDIRETO PARA O VALOR TOTAL DE R$ 263,94 (DUZENTOS E SESSENTA E TRÊS REAIS E NOVENTA E QUATRO CENTAVOS), A PARTIR DE 01/01/23.\r\n\r\n    ABONO SALARIAL DE ATÉ 9,23% SOBRE O SALÁRIO DE JANEIRO/22, A PARTIR DE 01/01/23.\r\n\r\n    TÉRMINO DO ABONO SALARIAL, A PARTIR DE 01/05/23.",
+        "Data Início": "29/12/2021",
+        "Data Fim": "29/12/2023",
+        "Vlr. Global": "1.141.187,48",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.141.187,48",
+        "Número Contrato": "09053/2021"
+      }
+    },
+    {
+      "contrato_id": "130072",
+      "dados": {
+        "Data Assinatura": "29/12/2023",
+        "Número": "00002/2023",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1. PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO DE  29/12/2022 A 29/12/2023, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8.666/93;\r\n\r\n2.2  PROMOVER A ALTERAÇÃO DO ENDEREÇO DA SEDE DA CONTRATADA, QUE PASSA DE  AVENIDA PAULISTA Nº 1159, SALAS 101 A 109, CERQUEIRA CESAR, SÃO PAULO, SP, CEP 01311-200, PARA  AVENIDA PAULISTA  N.º  1439 - 4º ANDAR, CONJUNTOS 43 E 44, BELA VISTA, SÃO PAULO - SP -CEP: 01311-200,  CONFORME A 16ª ALTERAÇÃO E CONSOLIDAÇÃO DO CONTRATO SOCIAL DA EMPRESA, QUE SE ENCONTRA NO DOCUMENTO SEI N.º 3505383.\r\n\r\n2.3. ASSEGURAR À CONTRATADA,  O DIREITO DE PLEITEAR  A REPACTUAÇÃO DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "29/12/2023",
+        "Data Fim": "29/12/2024",
+        "Vlr. Global": "1.128.113,05",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.128.113,05",
+        "Número Contrato": "09053/2021"
+      }
+    },
+    {
+      "contrato_id": "130072",
+      "dados": {
+        "Data Assinatura": "04/11/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REPACTUAR O VALOR DO CONTRATO N° 9.053/21  COM BASE NA VARIAÇÃO DOS CUSTOS DECORRENTES DO ADITIVO À CCT 2023/2025 DO SINDPD-RJ, TENDO SEUS EFEITOS FINANCEIROS RETROATIVOS A 01/09/2023, EM CONFORMIDADE COM O DISPOSTO NA NOTA TÉCNICA Nº 83/2024/STI-CONT/STI/ANP-RJ  (SEI 4374166 ).\r\nA RESPECTIVA CONVENÇÃO COLETIVA DE TRABALHO REGISTROU A ALTERAÇÃO DOS SEGUINTES CUSTOS, A PARTIR DE 01/09/2023:\r\nDISSÍDIO SALARIAL DE ATÉ 4,20%;\r\nAJUSTE DO AUXÍLIO ALIMENTAÇÃO/REFEIÇÃO PARA O VALOR UNITÁRIO DE R$ 33,74; E\r\nAJUSTE DO BENEFÍCIO INDIRETO PARA O VALOR TOTAL DE R$ 275,02.",
+        "Data Início": "29/12/2021",
+        "Data Fim": "29/12/2024",
+        "Vlr. Global": "1.175.495,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.175.495,00",
+        "Número Contrato": "09053/2021"
+      }
+    },
+    {
+      "contrato_id": "130072",
+      "dados": {
+        "Data Assinatura": "20/12/2024",
+        "Número": "00003/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1. PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO DE  29/12/2024 A 29/12/2025, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8.666/93;\r\n\r\n2.2  ALTERAR QUANTITATIVAMENTE A AVENÇA, PROMOVENDO REDUÇÃO EM SEU OBJETO, MEDIANTE A SUPRESSÃO DE 01 POSTO DO PERFIL ANALISTA DE MERCADO, CORRESPONDENTE A 12,50% DO QUANTITATIVO PREVISTO NO CONTRATO ORIGINAL.\r\n\r\n2.3. ASSEGURAR À CONTRATADA,  O DIREITO DE PLEITEAR  A REPACTUAÇÃO DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "29/12/2024",
+        "Data Fim": "29/12/2025",
+        "Vlr. Global": "1.057.578,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.057.578,00",
+        "Número Contrato": "09053/2021"
+      }
+    },
+    {
+      "contrato_id": "130072",
+      "dados": {
+        "Data Assinatura": "15/12/2025",
+        "Número": "00004/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "REPACTUAÇÃO DOS VALORES CONTRATUAIS EM DECORRÊNCIA DOS AJUSTES ESTABELECIDOS NA CCT 2023/2025 (SEI 5203881), COM EFEITOS FINANCEIROS RETROATIVOS A PARTIR DE 01/09/2024, NOS TERMOS DA NOTA TÉCNICA Nº 55/2025/STI-CONT/STI/ANP-RJ (SEI 5096629).;\r\nREVISÃO CONTRATUAL PARA PROMOVER O REEQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO, EM RAZÃO DA REONERAÇÃO GRADUAL DAS PLANILHAS DE CUSTOS E FORMAÇÃO DE PREÇOS, A PARTIR DE 01/01/2025, FUNDAMENTADA NA LEI Nº 14.973/24 , QUE ALTERA PROGRESSIVAMENTE OS PERCENTUAIS DE INSS E CPRB DAS REFERIDAS PLANILHAS, CONFORME DISPOSTO NA NOTA TÉCNICA SUPRACITADA;E\r\nALTERAÇÃO QUANTITATIVA DA AVENÇA, PROMOVENDO REDUÇÃO EM SEU OBJETO MEDIANTE A SUPRESSÃO DE 01 (UM) POSTO DO PERFIL ANALISTA DE MERCADO, PASSANDO DE 05 (CINCO) PARA 04 (QUATRO) POSTOS.  A REDUÇÃO REPRESENTA UM IMPACTO DE 10,02% SOBRE O VALOR GLOBAL MENSAL VIGENTE, CONSIDERANDO A DIMINUIÇÃO DE R$ 10.485,29 EM RELAÇÃO AO MONTANTE DE R$ 104.635,78 A PARTIR DE JANEIRO/2025. COM A SUPRESSÃO ANTERIORMENTE REALIZADA NO 3º TERMO ADITIVO, CUJO IMPACTO FOI DE 10,03%, TEM-SE UMA REDUÇÃO ACUMULADA DE 20,05% SOBRE O VALOR GLOBAL DA CONTRATAÇÃO.",
+        "Data Início": "15/12/2025",
+        "Data Fim": "29/12/2025",
+        "Vlr. Global": "1.079.246,47",
+        "Parcelas": "12",
+        "Vlr. Parcela": "89.937,21",
+        "Número Contrato": "09053/2021"
+      }
+    },
+    {
+      "contrato_id": "130072",
+      "dados": {
+        "Data Assinatura": "26/12/2025",
+        "Número": "00005/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO DE  29/12/2025 A 29/12/2026, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8.666/93; \r\nASSEGURAR À CONTRATADA,  O DIREITO DE PLEITEAR  A REPACTUAÇÃO DO VALOR DOS SERVIÇOS, COM EFEITO RETROATIVO À DATA DO ADITIVO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "29/12/2025",
+        "Data Fim": "29/12/2026",
+        "Vlr. Global": "1.003.982,40",
+        "Parcelas": "12",
+        "Vlr. Parcela": "83.665,20",
+        "Número Contrato": "09053/2021"
+      }
+    },
+    {
+      "contrato_id": "130072",
+      "dados": {
+        "Data Assinatura": "08/07/2026",
+        "Número": "00006/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1. REPACTUAÇÃO DOS VALORES CONTRATUAIS (5ª REPACTUAÇÃO) EM DECORRÊNCIA DOS AJUSTES ESTABELECIDOS NA CCT 2025/2027 DO SINPDRJ (SEI Nº 5727105),  NOS TERMOS DA NOTA TÉCNICA Nº 9/2026/STI-CONT/STI/ANP-RJ (SEI Nº 5726632).\r\n2. REVISÃO CONTRATUAL (2ª REONERAÇÃO) PARA PROMOVER O REEQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO, EM RAZÃO DA REONERAÇÃO GRADUAL DAS PLANILHAS DE CUSTOS E FORMAÇÃO DE PREÇOS,  FUNDAMENTADA NA LEI Nº 14.973/24, QUE ALTERA PROGRESSIVAMENTE OS PERCENTUAIS DE INSS E CPRB, CONFORME DISPOSTO NA NOTA TÉCNICA SUPRACITADA.",
+        "Data Início": "08/07/2026",
+        "Data Fim": "29/12/2026",
+        "Vlr. Global": "1.082.602,86",
+        "Parcelas": "12",
+        "Vlr. Parcela": "90.216,91",
+        "Número Contrato": "09053/2021"
       }
     },
     {
