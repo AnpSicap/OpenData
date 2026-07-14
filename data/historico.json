@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-07-13T10:47:27.667079",
-  "total_registros": 1553,
+  "ultima_atualizacao": "2026-07-14T09:22:01.426347",
+  "total_registros": 1554,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1345,7 +1345,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "13/07/2026",
+        "Data Fim": "14/07/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -7000,7 +7000,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "13/07/2026",
+        "Data Fim": "14/07/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8215,7 +8215,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "13/07/2026",
+        "Data Fim": "14/07/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -10680,81 +10680,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "2.100,00",
         "Número Contrato": "2025NE000639"
-      }
-    },
-    {
-      "contrato_id": "163102",
-      "dados": {
-        "Data Assinatura": "30/09/2022",
-        "Número": "09035/2022",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09035/2022 DE ACORDO COM PROCESSO NÚMERO: 48610.203959/2022-67",
-        "Data Início": "04/10/2022",
-        "Data Fim": "04/10/2023",
-        "Vlr. Global": "4.398,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "4.398,00",
-        "Número Contrato": "09035/2022"
-      }
-    },
-    {
-      "contrato_id": "163102",
-      "dados": {
-        "Data Assinatura": "22/05/2023",
-        "Número": "00001/2023",
-        "Tipo": "Termo Aditivo",
-        "Observação": "RORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/10/2023 E 04/10/2024, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93;\r\n\r\n2.2 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR A REPACTUAÇÃO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SEXTA DO CONTRATO.",
-        "Data Início": "04/10/2023",
-        "Data Fim": "04/10/2024",
-        "Vlr. Global": "4.398,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "4.398,00",
-        "Número Contrato": "09035/2022"
-      }
-    },
-    {
-      "contrato_id": "163102",
-      "dados": {
-        "Data Assinatura": "16/05/2024",
-        "Número": "00002/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "1 PROMOVER ALTERAÇÃO QUANTITATIVA NO CONTRATO, MEDIANTE A SUPRESSÃO DE 04 (QUATRO) EQUIPAMENTOS DO TIPO SERVIDOR, COM EFEITOS PROSPECTIVOS, QUE PASSAM A VALER A PARTIR DA ASSINATURA DESTE TERMO ADITIVO; E\r\n2 ALTERAR A NATUREZA JURÍDICA DA CONTRATADA DE EIRELI PARA LTDA..",
-        "Data Início": "16/05/2024",
-        "Data Fim": "04/10/2024",
-        "Vlr. Global": "1.440,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.440,00",
-        "Número Contrato": "09035/2022"
-      }
-    },
-    {
-      "contrato_id": "163102",
-      "dados": {
-        "Data Assinatura": "24/09/2024",
-        "Número": "00003/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/10/2024 E 04/10/2025, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93.\r\nPRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/10/2024 E 04/10/2025, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93.",
-        "Data Início": "04/10/2024",
-        "Data Fim": "04/10/2025",
-        "Vlr. Global": "1.440,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.440,00",
-        "Número Contrato": "09035/2022"
-      }
-    },
-    {
-      "contrato_id": "163102",
-      "dados": {
-        "Data Assinatura": "03/10/2025",
-        "Número": "00004/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/10/2025 E 04/10/2026, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93.\r\n\r\nASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O REAJUSTE CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SEXTA DO CONTRATO.\r\n\r\nPROMOVER O AJUSTE NO ENDEREÇO DA CONTRATADA, EM CONSONÂNCIA COM A 4ª ALTERAÇÃO DO CONTRATO SOCIAL DA EMPRESA (SEI 4897012), QUE CONSIGNOU ALTERAÇÃO APENAS NO ANDAR DE SUA SEDE, PASSANDO  DO  16º ANDAR - SALA 1607, PARA O  18º ANDAR - SALA 1801, SEM QUAISQUER IMPACTOS PARA A EXECUÇÃO CONTRATUAL.",
-        "Data Início": "04/10/2025",
-        "Data Fim": "04/10/2025",
-        "Vlr. Global": "1.440,00",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.440,00",
-        "Número Contrato": "09035/2022"
       }
     },
     {
@@ -14890,7 +14815,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "13/07/2026",
+        "Data Fim": "14/07/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16690,7 +16615,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "13/07/2026",
+        "Data Fim": "14/07/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16960,7 +16885,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "13/07/2026",
+        "Data Fim": "14/07/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -23085,6 +23010,96 @@
         "Parcelas": "12",
         "Vlr. Parcela": "22.639,36",
         "Número Contrato": "09018/2022"
+      }
+    },
+    {
+      "contrato_id": "163102",
+      "dados": {
+        "Data Assinatura": "30/09/2022",
+        "Número": "09035/2022",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09035/2022 DE ACORDO COM PROCESSO NÚMERO: 48610.203959/2022-67",
+        "Data Início": "04/10/2022",
+        "Data Fim": "04/10/2023",
+        "Vlr. Global": "4.398,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "4.398,00",
+        "Número Contrato": "09035/2022"
+      }
+    },
+    {
+      "contrato_id": "163102",
+      "dados": {
+        "Data Assinatura": "22/05/2023",
+        "Número": "00001/2023",
+        "Tipo": "Termo Aditivo",
+        "Observação": "RORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/10/2023 E 04/10/2024, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93;\r\n\r\n2.2 ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR A REPACTUAÇÃO CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "04/10/2023",
+        "Data Fim": "04/10/2024",
+        "Vlr. Global": "4.398,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "4.398,00",
+        "Número Contrato": "09035/2022"
+      }
+    },
+    {
+      "contrato_id": "163102",
+      "dados": {
+        "Data Assinatura": "16/05/2024",
+        "Número": "00002/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1 PROMOVER ALTERAÇÃO QUANTITATIVA NO CONTRATO, MEDIANTE A SUPRESSÃO DE 04 (QUATRO) EQUIPAMENTOS DO TIPO SERVIDOR, COM EFEITOS PROSPECTIVOS, QUE PASSAM A VALER A PARTIR DA ASSINATURA DESTE TERMO ADITIVO; E\r\n2 ALTERAR A NATUREZA JURÍDICA DA CONTRATADA DE EIRELI PARA LTDA..",
+        "Data Início": "16/05/2024",
+        "Data Fim": "04/10/2024",
+        "Vlr. Global": "1.440,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.440,00",
+        "Número Contrato": "09035/2022"
+      }
+    },
+    {
+      "contrato_id": "163102",
+      "dados": {
+        "Data Assinatura": "24/09/2024",
+        "Número": "00003/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/10/2024 E 04/10/2025, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93.\r\nPRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/10/2024 E 04/10/2025, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93.",
+        "Data Início": "04/10/2024",
+        "Data Fim": "04/10/2025",
+        "Vlr. Global": "1.440,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.440,00",
+        "Número Contrato": "09035/2022"
+      }
+    },
+    {
+      "contrato_id": "163102",
+      "dados": {
+        "Data Assinatura": "03/10/2025",
+        "Número": "00004/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/10/2025 E 04/10/2026, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93.\r\n\r\nASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O REAJUSTE CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SEXTA DO CONTRATO.\r\n\r\nPROMOVER O AJUSTE NO ENDEREÇO DA CONTRATADA, EM CONSONÂNCIA COM A 4ª ALTERAÇÃO DO CONTRATO SOCIAL DA EMPRESA (SEI 4897012), QUE CONSIGNOU ALTERAÇÃO APENAS NO ANDAR DE SUA SEDE, PASSANDO  DO  16º ANDAR - SALA 1607, PARA O  18º ANDAR - SALA 1801, SEM QUAISQUER IMPACTOS PARA A EXECUÇÃO CONTRATUAL.",
+        "Data Início": "04/10/2025",
+        "Data Fim": "04/10/2026",
+        "Vlr. Global": "1.440,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.440,00",
+        "Número Contrato": "09035/2022"
+      }
+    },
+    {
+      "contrato_id": "163102",
+      "dados": {
+        "Data Assinatura": "08/07/2026",
+        "Número": "00005/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR MAIS 12 (DOZE) MESES, COMPREENDIDOS ENTRE 04/10/2026 E 04/10/2027, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93; FICA ESTABELECIDA A POSSIBILIDADE DE RESCISÃO AMIGÁVEL E ANTECIPADA DO CONTRATO, A CRITÉRIO DA CONTRATANTE, NOS TERMOS DO ARTIGO 79, INCISO II E § 1º, DA LEI Nº 8.666/93, MEDIANTE NOTIFICAÇÃO PRÉVIA À CONTRATADA COM ANTECEDÊNCIA MÍNIMA DE 60 (SESSENTA) DIAS; EASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O REAJUSTE CONTRATUAL, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM BASE NA PRESCRIÇÃO NA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "04/10/2026",
+        "Data Fim": "04/10/2027",
+        "Vlr. Global": "1.440,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.440,00",
+        "Número Contrato": "09035/2022"
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-07-13T10:47:27.696189",
+  "ultima_atualizacao": "2026-07-14T09:22:01.456201",
   "total_registros": 2562,
   "dados": [
     {
@@ -10749,51 +10749,6 @@
       }
     },
     {
-      "contrato_id": "163102",
-      "dados": {
-        "CPF": "***.984.147-**",
-        "Nome": "JACSON DAMASCENO NUNES",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09035/2022"
-      }
-    },
-    {
-      "contrato_id": "163102",
-      "dados": {
-        "CPF": "***.476.213-**",
-        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09035/2022"
-      }
-    },
-    {
-      "contrato_id": "163102",
-      "dados": {
-        "CPF": "***.896.037-**",
-        "Nome": "SAHID DE OLIVEIRA KIK",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09035/2022"
-      }
-    },
-    {
-      "contrato_id": "163102",
-      "dados": {
-        "CPF": "***.826.884-**",
-        "Nome": "NATALIE FERNANDA FERNANDES",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09035/2022"
-      }
-    },
-    {
-      "contrato_id": "163102",
-      "dados": {
-        "CPF": "***.163.777-**",
-        "Nome": "ALISSON CHRISTI VIEIRA ROCHA",
-        "Tipo": "Fiscal Requisitante",
-        "Número Contrato": "09035/2022"
-      }
-    },
-    {
       "contrato_id": "722202",
       "dados": {
         "CPF": "***.905.654-**",
@@ -18662,15 +18617,6 @@
     {
       "contrato_id": "489558",
       "dados": {
-        "CPF": "***.893.147-**",
-        "Nome": "THIAGO MARIANO DE SOUZA",
-        "Tipo": "Gestor Substituto",
-        "Número Contrato": "05044/2024"
-      }
-    },
-    {
-      "contrato_id": "489558",
-      "dados": {
         "CPF": "***.413.288-**",
         "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
         "Tipo": "Responsável no Setor de Contratos",
@@ -18755,6 +18701,15 @@
         "CPF": "***.750.117-**",
         "Nome": "ALEXANDRE MACIEL DA SILVA",
         "Tipo": "Responsável Unidade Requisitante",
+        "Número Contrato": "05044/2024"
+      }
+    },
+    {
+      "contrato_id": "489558",
+      "dados": {
+        "CPF": "***.893.147-**",
+        "Nome": "THIAGO MARIANO DE SOUZA",
+        "Tipo": "Fiscal Titular",
         "Número Contrato": "05044/2024"
       }
     },
@@ -22788,6 +22743,51 @@
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09018/2022"
+      }
+    },
+    {
+      "contrato_id": "163102",
+      "dados": {
+        "CPF": "***.984.147-**",
+        "Nome": "JACSON DAMASCENO NUNES",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09035/2022"
+      }
+    },
+    {
+      "contrato_id": "163102",
+      "dados": {
+        "CPF": "***.476.213-**",
+        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09035/2022"
+      }
+    },
+    {
+      "contrato_id": "163102",
+      "dados": {
+        "CPF": "***.896.037-**",
+        "Nome": "SAHID DE OLIVEIRA KIK",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09035/2022"
+      }
+    },
+    {
+      "contrato_id": "163102",
+      "dados": {
+        "CPF": "***.826.884-**",
+        "Nome": "NATALIE FERNANDA FERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09035/2022"
+      }
+    },
+    {
+      "contrato_id": "163102",
+      "dados": {
+        "CPF": "***.163.777-**",
+        "Nome": "ALISSON CHRISTI VIEIRA ROCHA",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "09035/2022"
       }
     },
     {
