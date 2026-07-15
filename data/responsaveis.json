@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-07-14T09:22:01.456201",
-  "total_registros": 2562,
+  "ultima_atualizacao": "2026-07-15T09:26:02.595510",
+  "total_registros": 2566,
   "dados": [
     {
       "contrato_id": "121472",
@@ -9039,6 +9039,69 @@
       }
     },
     {
+      "contrato_id": "160742",
+      "dados": {
+        "CPF": "***.798.974-**",
+        "Nome": "DAVID FERNANDES FRANÇA",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "09032/2022"
+      }
+    },
+    {
+      "contrato_id": "160742",
+      "dados": {
+        "CPF": "***.327.947-**",
+        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09032/2022"
+      }
+    },
+    {
+      "contrato_id": "160742",
+      "dados": {
+        "CPF": "***.476.213-**",
+        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09032/2022"
+      }
+    },
+    {
+      "contrato_id": "160742",
+      "dados": {
+        "CPF": "***.896.037-**",
+        "Nome": "SAHID DE OLIVEIRA KIK",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09032/2022"
+      }
+    },
+    {
+      "contrato_id": "160742",
+      "dados": {
+        "CPF": "***.798.974-**",
+        "Nome": "DAVID FERNANDES FRANÇA",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "09032/2022"
+      }
+    },
+    {
+      "contrato_id": "160742",
+      "dados": {
+        "CPF": "***.327.947-**",
+        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09032/2022"
+      }
+    },
+    {
+      "contrato_id": "160742",
+      "dados": {
+        "CPF": "***.476.213-**",
+        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09032/2022"
+      }
+    },
+    {
       "contrato_id": "220213",
       "dados": {
         "CPF": "***.155.097-**",
@@ -12150,69 +12213,6 @@
         "Nome": "AMANDA WERMELINGER PINTO LIMA",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "05041/2022"
-      }
-    },
-    {
-      "contrato_id": "160742",
-      "dados": {
-        "CPF": "***.798.974-**",
-        "Nome": "DAVID FERNANDES FRANÇA",
-        "Tipo": "Fiscal Requisitante",
-        "Número Contrato": "09032/2022"
-      }
-    },
-    {
-      "contrato_id": "160742",
-      "dados": {
-        "CPF": "***.327.947-**",
-        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09032/2022"
-      }
-    },
-    {
-      "contrato_id": "160742",
-      "dados": {
-        "CPF": "***.476.213-**",
-        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09032/2022"
-      }
-    },
-    {
-      "contrato_id": "160742",
-      "dados": {
-        "CPF": "***.896.037-**",
-        "Nome": "SAHID DE OLIVEIRA KIK",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09032/2022"
-      }
-    },
-    {
-      "contrato_id": "160742",
-      "dados": {
-        "CPF": "***.798.974-**",
-        "Nome": "DAVID FERNANDES FRANÇA",
-        "Tipo": "Fiscal Requisitante",
-        "Número Contrato": "09032/2022"
-      }
-    },
-    {
-      "contrato_id": "160742",
-      "dados": {
-        "CPF": "***.327.947-**",
-        "Nome": "RODRIGO RIBEIRO AFFONSO ALVES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09032/2022"
-      }
-    },
-    {
-      "contrato_id": "160742",
-      "dados": {
-        "CPF": "***.476.213-**",
-        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09032/2022"
       }
     },
     {
@@ -21054,6 +21054,24 @@
       }
     },
     {
+      "contrato_id": "949920",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000543"
+      }
+    },
+    {
+      "contrato_id": "949920",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000543"
+      }
+    },
+    {
       "contrato_id": "105252",
       "dados": {
         "CPF": "***.394.587-**",
@@ -21123,6 +21141,24 @@
         "Nome": "TIAGO MACHADO DE SOUZA JACQUES",
         "Tipo": "Gestor Substituto",
         "Número Contrato": "01013/2021"
+      }
+    },
+    {
+      "contrato_id": "949937",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000557"
+      }
+    },
+    {
+      "contrato_id": "949937",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000557"
       }
     },
     {
