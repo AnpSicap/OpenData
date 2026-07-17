@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-07-16T09:34:30.542251",
-  "total_registros": 2570,
+  "ultima_atualizacao": "2026-07-17T09:27:10.145386",
+  "total_registros": 2573,
   "dados": [
     {
       "contrato_id": "121472",
@@ -19755,6 +19755,33 @@
         "Nome": "BRUNO SALES BERNARDO",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09047/2021"
+      }
+    },
+    {
+      "contrato_id": "867961",
+      "dados": {
+        "CPF": "***.217.117-**",
+        "Nome": "LEANDRO GUEDES DA FONSECA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05003/2026"
+      }
+    },
+    {
+      "contrato_id": "867961",
+      "dados": {
+        "CPF": "***.959.686-**",
+        "Nome": "DANYELE APARECIDA ALVES GUIMARÃES",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "05003/2026"
+      }
+    },
+    {
+      "contrato_id": "867961",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05003/2026"
       }
     },
     {

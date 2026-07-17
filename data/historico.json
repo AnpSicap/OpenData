@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-07-16T09:34:30.511893",
-  "total_registros": 1564,
+  "ultima_atualizacao": "2026-07-17T09:27:10.114052",
+  "total_registros": 1565,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1345,7 +1345,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "16/07/2026",
+        "Data Fim": "17/07/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -7015,7 +7015,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "16/07/2026",
+        "Data Fim": "17/07/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8230,7 +8230,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "16/07/2026",
+        "Data Fim": "17/07/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -14845,7 +14845,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "16/07/2026",
+        "Data Fim": "17/07/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16540,7 +16540,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "16/07/2026",
+        "Data Fim": "17/07/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16810,7 +16810,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "16/07/2026",
+        "Data Fim": "17/07/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -22983,6 +22983,21 @@
       }
     },
     {
+      "contrato_id": "148344",
+      "dados": {
+        "Data Assinatura": "15/07/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REPACTUAR O VALOR DO CONTRATO N° 9.018/2022-ANP-204.627,​ COM BASE NA VARIAÇÃO DOS CUSTOS DE MÃO DE OBRA ALOCADA NA CONTRATAÇÃO DECORRENTES DA CONVENÇÃO COLETIVA DE TRABALHO 2026/2026, REGISTRADA NO MTE SOB O Nº RJ001160/2026 (SEI 5906938), CUJA DATA BASE É 01/01/2026; E\r\n\r\n \r\n\r\nB) REPACTUAR O VALOR DO CONTRATO EM RAZÃO DO ACRÉSCIMO NOS CUSTOS COM VALE TRANSPORTE DECORRENTE DO DECRETO RIO Nº 57.473, DE 29 DE DEZEMBRO DE 2025 (5915865).",
+        "Data Início": "19/07/2022",
+        "Data Fim": "19/07/2027",
+        "Vlr. Global": "287.682,48",
+        "Parcelas": "12",
+        "Vlr. Parcela": "23.973,54",
+        "Número Contrato": "09018/2022"
+      }
+    },
+    {
       "contrato_id": "163102",
       "dados": {
         "Data Assinatura": "30/09/2022",
@@ -23271,7 +23286,7 @@
       "contrato_id": "144949",
       "dados": {
         "Data Assinatura": "08/07/2026",
-        "Número": "00001/2026",
+        "Número": "00006/2026",
         "Tipo": "Termo Aditivo",
         "Observação": "READEQUAR A VIGÊNCIA: REGISTRAR A SUSPENSÃO DO CONTRATO POR 31 (TRINTA E UM) DIAS, CORRESPONDENTE AO PERÍODO DE 01/07/2025 A 31/07/2025, FORMALIZADA POR MEIO DO OFÍCIO Nº 5/2025/SBQ-CGC/SBQ (DOCUMENTOS SEI 5076775 E 5080730), NOS TERMOS DO ART. 78, INCISO XIV, DA LEI Nº 8.666/93, SEM PREJUÍZO DA POSSIBILIDADE DE INTERRUPÇÃO DA SUSPENSÃO, COM A RETOMADA ANTECIPADA DA CONTINUIDADE DA PRESTAÇÃO DO SERVIÇO POR ORDEM ESCRITA DA ADMINISTRAÇÃO, ACOMPANHADA DE COMPROVANTE DE CIÊNCIA DA CONTRATADA, DEVIDAMENTE JUSTIFICADA E DOCUMENTADA NOS AUTOS.; EM DECORRÊNCIA DA SUSPENSÃO SUPRACITADA, REGISTRA-SE A READEQUAÇÃO DO ATUAL PERÍODO DE VIGÊNCIA CONTRATUAL, QUE SERIA DE 09/07/2025 A 09/07/2026, PASSANDO A SER DE 09/07/2025 A 09/08/2026, COM BASE NO ART. 79, § 5º, DA LEI Nº 8.666/93, MANTENDO-SE O PRAZO TOTAL ORIGINALMENTE CONTRATADO; E PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE)  MESES, COMPREENDIDOS ENTRE 09/08/2026  E 09/08/2027, COM FUNDAMENTO NA CLÁUSULA SEGUNDA DO CONTRATO E NO ARTIGO 57, INCISO II, DA LEI N.º, 8666/93.",
         "Data Início": "09/08/2026",
