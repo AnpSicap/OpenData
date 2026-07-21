@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-07-20T10:30:05.456184",
-  "total_registros": 2573,
+  "ultima_atualizacao": "2026-07-21T09:43:25.508312",
+  "total_registros": 2574,
   "dados": [
     {
       "contrato_id": "121472",
@@ -22428,6 +22428,15 @@
         "Nome": "JULIANA PETRONILLIO HERNANDES",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2024NE000274"
+      }
+    },
+    {
+      "contrato_id": "955033",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000591"
       }
     },
     {
