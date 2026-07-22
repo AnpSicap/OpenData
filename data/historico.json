@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-07-21T09:43:25.477463",
-  "total_registros": 1567,
+  "ultima_atualizacao": "2026-07-22T09:43:19.764024",
+  "total_registros": 1568,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1345,7 +1345,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "21/07/2026",
+        "Data Fim": "22/07/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -7135,7 +7135,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "21/07/2026",
+        "Data Fim": "22/07/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8350,7 +8350,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "21/07/2026",
+        "Data Fim": "22/07/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -14965,7 +14965,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "21/07/2026",
+        "Data Fim": "22/07/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -15554,6 +15554,21 @@
         "Vlr. Global": "512.670,72",
         "Parcelas": "12",
         "Vlr. Parcela": "42.722,56",
+        "Número Contrato": "09031/2024"
+      }
+    },
+    {
+      "contrato_id": "313003",
+      "dados": {
+        "Data Assinatura": "16/07/2026",
+        "Número": "00003/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO COMPREENDIDO ENTRE 30/09/2026 E 30/09/2027, COM FUNDAMENTO NO ARTIGO 107 DA LEI Nº 14.133, DE 2021; PROMOVER A ALTERAÇÃO QUALITATIVA DO CONTRATO Nº 9.031/2024, CONSISTENTE NA REDUÇÃO DA JORNADA DE TRABALHO DO POSTO DE SUPERVISOR DE 44 (QUARENTA E QUATRO) PARA 40 (QUARENTA) HORAS SEMANAIS, EM CONFORMIDADE COM O DISPOSTO NA INSTRUÇÃO NORMATIVA SEGES/MGI Nº. 190, DE 5 DE DEZEMBRO DE 2024, INTRODUZIDAS PELA INSTRUÇÃO NORMATIVA SEGES/MGI Nº. 148, DE 13 DE ABRIL DE 2026; E INCLUSÃO DO BENEFÍCIO DE REEMBOLSO-CRECHE, DESTINADO A TODOS OS EMPREGADOS ALOCADOS NA EXECUÇÃO DOS SERVIÇOS OBJETO DO CONTRATO, NOS TERMOS DO ART. 3º, INCISO III, DO DECRETO Nº 12.174, DE 11 DE SETEMBRO DE 2024, E DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 147, DE 13 DE ABRIL DE 2026, COM FUNDAMENTO NO ART. 124, INCISO II, ALÍNEAS “C” E “D”, DA LEI Nº 14.133, DE 1º DE ABRIL DE 2021, PERMANECENDO INALTERADAS AS DEMAIS CONDIÇÕES ANTERIORMENTE PACTUADAS.",
+        "Data Início": "30/09/2026",
+        "Data Fim": "30/09/2027",
+        "Vlr. Global": "564.588,84",
+        "Parcelas": "12",
+        "Vlr. Parcela": "47.049,07",
         "Número Contrato": "09031/2024"
       }
     },
@@ -16660,7 +16675,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "21/07/2026",
+        "Data Fim": "22/07/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16930,7 +16945,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "21/07/2026",
+        "Data Fim": "22/07/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
