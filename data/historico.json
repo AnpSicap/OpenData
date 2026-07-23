@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-07-22T09:43:19.764024",
-  "total_registros": 1568,
+  "ultima_atualizacao": "2026-07-23T09:42:03.654768",
+  "total_registros": 1571,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1345,7 +1345,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "22/07/2026",
+        "Data Fim": "23/07/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -7135,7 +7135,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "22/07/2026",
+        "Data Fim": "23/07/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8350,7 +8350,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "22/07/2026",
+        "Data Fim": "23/07/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -14965,7 +14965,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "22/07/2026",
+        "Data Fim": "23/07/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -15510,66 +15510,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "13.097,40",
         "Número Contrato": "05055/2019"
-      }
-    },
-    {
-      "contrato_id": "313003",
-      "dados": {
-        "Data Assinatura": "13/09/2024",
-        "Número": "09031/2024",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09031/2024 DE ACORDO COM PROCESSO NÚMERO: 48610204330202404",
-        "Data Início": "30/09/2024",
-        "Data Fim": "30/09/2025",
-        "Vlr. Global": "474.084,24",
-        "Parcelas": "1",
-        "Vlr. Parcela": "474.084,24",
-        "Número Contrato": "09031/2024"
-      }
-    },
-    {
-      "contrato_id": "313003",
-      "dados": {
-        "Data Assinatura": "13/08/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "CONTRATAÇÃO DE SERVIÇOS CONTÍNUOS DE OPERAÇÃO DO SISTEMA DE SEGURANÇA ELETRÔNICA DO ESCRITÓRIO CENTRAL DA ANP, NO RIO DE JANEIRO, COM EXECUÇÃO EM REGIME DE DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA.",
-        "Data Início": "30/09/2025",
-        "Data Fim": "30/09/2026",
-        "Vlr. Global": "467.029,80",
-        "Parcelas": "12",
-        "Vlr. Parcela": "38.919,15",
-        "Número Contrato": "09031/2024"
-      }
-    },
-    {
-      "contrato_id": "313003",
-      "dados": {
-        "Data Assinatura": "15/04/2026",
-        "Número": "00002/2026",
-        "Tipo": "Termo Aditivo",
-        "Observação": "O PRESENTE TERMO ADITIVO TEM POR OBJETO PROMOVER A REPACTUAÇÃO DE PREÇOS, NOS TERMOS DO ART. 135 DA LEI Nº. 14.133, DE 2021, COMBINADO COM A CLÁUSULA SÉTIMA DO CONTRATO, E A MANUTENÇÃO DO EQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO Nº 9.031/2024-ANP-204.330, MEDIANTE A APLICAÇÃO DO INSTITUTO DA REVISÃO CONTRATUAL, COM FUNDAMENTO NOS ART. 124, INCISO II, ALÍNEA \"D\", E 134 DA LEI Nº. 14.133, DE 2021.\r\n\r\nA REPACTUAÇÃO DE PREÇOS, FORMALIZADA POR ESTE INSTRUMENTO, COMPREENDE:\r\nA ATUALIZAÇÃO DOS CUSTOS DE MÃO DE OBRA EM DECORRÊNCIA DA CONVENÇÃO COLETIVA DE TRABALHO 2025/2026 (REGISTRO MTE Nº RJ001061/2025), COM EFEITOS FINANCEIROS A PARTIR DE 1º DE MARÇO DE 2025;\r\nA MAJORAÇÃO DOS CUSTOS DECORRENTES DO MERCADO, MEDIANTE APLICAÇÃO DO IPCA (IBGE) ACUMULADO NO PERÍODO DE 12 (DOZE) MESES SUBSEQUENTES À DATA DA APRESENTAÇÃO DA PROPOSTA, CONFORME PREVISTO NA CLÁUSULA SÉTIMA DO CONTRATO, TENDO A ADMINISTRAÇÃO PROCEDIDO À RETIFICAÇÃO EX OFFICIO DOS CÁLCULOS APRESENTADOS PELA CONTRATADA, EM OBSERVÂNCIA AO ÍNDICE CONTRATUALMENTE PACTUADO; E\r\nA RECOMPOSIÇÃO DOS CUSTOS DE VALE-TRANSPORTE, EM DECORRÊNCIA DA MAJORAÇÃO DA TARIFA PÚBLICA NO MUNICÍPIO DO RIO DE JANEIRO, PROMOVIDA PELO DECRETO RIO Nº 55.631/2025, DE 1º DE JANEIRO DE 2025.\r\nA REVISÃO CONTRATUAL, IGUALMENTE FORMALIZADA POR ESTE INSTRUMENTO, COMPREENDE AO REEQUILÍBRIO DAS ALÍQUOTAS MÉDIAS EFETIVAS DE PIS E COFINS, EM RAZÃO DE SUA COMPROVADA VARIAÇÃO APÓS A APRESENTAÇÃO DA PROPOSTA, COM BASE NA ORIENTAÇÃO Nº. 19 DA SECRETARIA DE GESTÃO DO MINISTÉRIO DA GESTÃO E INOVAÇÃO EM SERVIÇOS PÚBLICOS - SEGES/MG, CARACTERIZANDO HIPÓTESE DE FATO DO PRÍNCIPE.",
-        "Data Início": "15/04/2026",
-        "Data Fim": "30/09/2026",
-        "Vlr. Global": "512.670,72",
-        "Parcelas": "12",
-        "Vlr. Parcela": "42.722,56",
-        "Número Contrato": "09031/2024"
-      }
-    },
-    {
-      "contrato_id": "313003",
-      "dados": {
-        "Data Assinatura": "16/07/2026",
-        "Número": "00003/2026",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO COMPREENDIDO ENTRE 30/09/2026 E 30/09/2027, COM FUNDAMENTO NO ARTIGO 107 DA LEI Nº 14.133, DE 2021; PROMOVER A ALTERAÇÃO QUALITATIVA DO CONTRATO Nº 9.031/2024, CONSISTENTE NA REDUÇÃO DA JORNADA DE TRABALHO DO POSTO DE SUPERVISOR DE 44 (QUARENTA E QUATRO) PARA 40 (QUARENTA) HORAS SEMANAIS, EM CONFORMIDADE COM O DISPOSTO NA INSTRUÇÃO NORMATIVA SEGES/MGI Nº. 190, DE 5 DE DEZEMBRO DE 2024, INTRODUZIDAS PELA INSTRUÇÃO NORMATIVA SEGES/MGI Nº. 148, DE 13 DE ABRIL DE 2026; E INCLUSÃO DO BENEFÍCIO DE REEMBOLSO-CRECHE, DESTINADO A TODOS OS EMPREGADOS ALOCADOS NA EXECUÇÃO DOS SERVIÇOS OBJETO DO CONTRATO, NOS TERMOS DO ART. 3º, INCISO III, DO DECRETO Nº 12.174, DE 11 DE SETEMBRO DE 2024, E DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 147, DE 13 DE ABRIL DE 2026, COM FUNDAMENTO NO ART. 124, INCISO II, ALÍNEAS “C” E “D”, DA LEI Nº 14.133, DE 1º DE ABRIL DE 2021, PERMANECENDO INALTERADAS AS DEMAIS CONDIÇÕES ANTERIORMENTE PACTUADAS.",
-        "Data Início": "30/09/2026",
-        "Data Fim": "30/09/2027",
-        "Vlr. Global": "564.588,84",
-        "Parcelas": "12",
-        "Vlr. Parcela": "47.049,07",
-        "Número Contrato": "09031/2024"
       }
     },
     {
@@ -16675,7 +16615,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "22/07/2026",
+        "Data Fim": "23/07/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16945,7 +16885,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "22/07/2026",
+        "Data Fim": "23/07/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -22968,6 +22908,66 @@
       }
     },
     {
+      "contrato_id": "313003",
+      "dados": {
+        "Data Assinatura": "13/09/2024",
+        "Número": "09031/2024",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09031/2024 DE ACORDO COM PROCESSO NÚMERO: 48610204330202404",
+        "Data Início": "30/09/2024",
+        "Data Fim": "30/09/2025",
+        "Vlr. Global": "474.084,24",
+        "Parcelas": "1",
+        "Vlr. Parcela": "474.084,24",
+        "Número Contrato": "09031/2024"
+      }
+    },
+    {
+      "contrato_id": "313003",
+      "dados": {
+        "Data Assinatura": "13/08/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "CONTRATAÇÃO DE SERVIÇOS CONTÍNUOS DE OPERAÇÃO DO SISTEMA DE SEGURANÇA ELETRÔNICA DO ESCRITÓRIO CENTRAL DA ANP, NO RIO DE JANEIRO, COM EXECUÇÃO EM REGIME DE DEDICAÇÃO EXCLUSIVA DE MÃO DE OBRA.",
+        "Data Início": "30/09/2025",
+        "Data Fim": "30/09/2026",
+        "Vlr. Global": "467.029,80",
+        "Parcelas": "12",
+        "Vlr. Parcela": "38.919,15",
+        "Número Contrato": "09031/2024"
+      }
+    },
+    {
+      "contrato_id": "313003",
+      "dados": {
+        "Data Assinatura": "15/04/2026",
+        "Número": "00002/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "O PRESENTE TERMO ADITIVO TEM POR OBJETO PROMOVER A REPACTUAÇÃO DE PREÇOS, NOS TERMOS DO ART. 135 DA LEI Nº. 14.133, DE 2021, COMBINADO COM A CLÁUSULA SÉTIMA DO CONTRATO, E A MANUTENÇÃO DO EQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO Nº 9.031/2024-ANP-204.330, MEDIANTE A APLICAÇÃO DO INSTITUTO DA REVISÃO CONTRATUAL, COM FUNDAMENTO NOS ART. 124, INCISO II, ALÍNEA \"D\", E 134 DA LEI Nº. 14.133, DE 2021.\r\n\r\nA REPACTUAÇÃO DE PREÇOS, FORMALIZADA POR ESTE INSTRUMENTO, COMPREENDE:\r\nA ATUALIZAÇÃO DOS CUSTOS DE MÃO DE OBRA EM DECORRÊNCIA DA CONVENÇÃO COLETIVA DE TRABALHO 2025/2026 (REGISTRO MTE Nº RJ001061/2025), COM EFEITOS FINANCEIROS A PARTIR DE 1º DE MARÇO DE 2025;\r\nA MAJORAÇÃO DOS CUSTOS DECORRENTES DO MERCADO, MEDIANTE APLICAÇÃO DO IPCA (IBGE) ACUMULADO NO PERÍODO DE 12 (DOZE) MESES SUBSEQUENTES À DATA DA APRESENTAÇÃO DA PROPOSTA, CONFORME PREVISTO NA CLÁUSULA SÉTIMA DO CONTRATO, TENDO A ADMINISTRAÇÃO PROCEDIDO À RETIFICAÇÃO EX OFFICIO DOS CÁLCULOS APRESENTADOS PELA CONTRATADA, EM OBSERVÂNCIA AO ÍNDICE CONTRATUALMENTE PACTUADO; E\r\nA RECOMPOSIÇÃO DOS CUSTOS DE VALE-TRANSPORTE, EM DECORRÊNCIA DA MAJORAÇÃO DA TARIFA PÚBLICA NO MUNICÍPIO DO RIO DE JANEIRO, PROMOVIDA PELO DECRETO RIO Nº 55.631/2025, DE 1º DE JANEIRO DE 2025.\r\nA REVISÃO CONTRATUAL, IGUALMENTE FORMALIZADA POR ESTE INSTRUMENTO, COMPREENDE AO REEQUILÍBRIO DAS ALÍQUOTAS MÉDIAS EFETIVAS DE PIS E COFINS, EM RAZÃO DE SUA COMPROVADA VARIAÇÃO APÓS A APRESENTAÇÃO DA PROPOSTA, COM BASE NA ORIENTAÇÃO Nº. 19 DA SECRETARIA DE GESTÃO DO MINISTÉRIO DA GESTÃO E INOVAÇÃO EM SERVIÇOS PÚBLICOS - SEGES/MG, CARACTERIZANDO HIPÓTESE DE FATO DO PRÍNCIPE.",
+        "Data Início": "15/04/2026",
+        "Data Fim": "30/09/2026",
+        "Vlr. Global": "512.670,72",
+        "Parcelas": "12",
+        "Vlr. Parcela": "42.722,56",
+        "Número Contrato": "09031/2024"
+      }
+    },
+    {
+      "contrato_id": "313003",
+      "dados": {
+        "Data Assinatura": "16/07/2026",
+        "Número": "00003/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO COMPREENDIDO ENTRE 30/09/2026 E 30/09/2027, COM FUNDAMENTO NO ARTIGO 107 DA LEI Nº 14.133, DE 2021; PROMOVER A ALTERAÇÃO QUALITATIVA DO CONTRATO Nº 9.031/2024, CONSISTENTE NA REDUÇÃO DA JORNADA DE TRABALHO DO POSTO DE SUPERVISOR DE 44 (QUARENTA E QUATRO) PARA 40 (QUARENTA) HORAS SEMANAIS, EM CONFORMIDADE COM O DISPOSTO NA INSTRUÇÃO NORMATIVA SEGES/MGI Nº. 190, DE 5 DE DEZEMBRO DE 2024, INTRODUZIDAS PELA INSTRUÇÃO NORMATIVA SEGES/MGI Nº. 148, DE 13 DE ABRIL DE 2026; E INCLUSÃO DO BENEFÍCIO DE REEMBOLSO-CRECHE, DESTINADO A TODOS OS EMPREGADOS ALOCADOS NA EXECUÇÃO DOS SERVIÇOS OBJETO DO CONTRATO, NOS TERMOS DO ART. 3º, INCISO III, DO DECRETO Nº 12.174, DE 11 DE SETEMBRO DE 2024, E DA INSTRUÇÃO NORMATIVA SEGES/MGI Nº 147, DE 13 DE ABRIL DE 2026, COM FUNDAMENTO NO ART. 124, INCISO II, ALÍNEAS “C” E “D”, DA LEI Nº 14.133, DE 1º DE ABRIL DE 2021, PERMANECENDO INALTERADAS AS DEMAIS CONDIÇÕES ANTERIORMENTE PACTUADAS.",
+        "Data Início": "30/09/2026",
+        "Data Fim": "30/09/2027",
+        "Vlr. Global": "564.588,84",
+        "Parcelas": "12",
+        "Vlr. Parcela": "47.049,07",
+        "Número Contrato": "09031/2024"
+      }
+    },
+    {
       "contrato_id": "943278",
       "dados": {
         "Data Assinatura": "18/06/2026",
@@ -23340,6 +23340,51 @@
         "Parcelas": "12",
         "Vlr. Parcela": "23.973,54",
         "Número Contrato": "09018/2022"
+      }
+    },
+    {
+      "contrato_id": "955902",
+      "dados": {
+        "Data Assinatura": "26/05/2026",
+        "Número": "2026NE000461",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000461 DE ACORDO COM PROCESSO NÚMERO: 48610.221232/2025-12",
+        "Data Início": "26/05/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "2.889,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "2.889,00",
+        "Número Contrato": "2026NE000461"
+      }
+    },
+    {
+      "contrato_id": "956044",
+      "dados": {
+        "Data Assinatura": "09/07/2026",
+        "Número": "2026NE000585",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000585 DE ACORDO COM PROCESSO NÚMERO: 48610.216167/2026-86",
+        "Data Início": "13/07/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "1.400,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.400,00",
+        "Número Contrato": "2026NE000585"
+      }
+    },
+    {
+      "contrato_id": "956151",
+      "dados": {
+        "Data Assinatura": "01/06/2026",
+        "Número": "2026NE000467",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000467 DE ACORDO COM PROCESSO NÚMERO: 48610.221232/2025-12",
+        "Data Início": "01/06/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "3.237,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "3.237,00",
+        "Número Contrato": "2026NE000467"
       }
     },
     {
