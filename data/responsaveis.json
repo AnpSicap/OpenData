@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-07-28T09:52:35.916898",
-  "total_registros": 2579,
+  "ultima_atualizacao": "2026-07-29T09:55:14.546869",
+  "total_registros": 2588,
   "dados": [
     {
       "contrato_id": "121472",
@@ -11046,6 +11046,42 @@
       }
     },
     {
+      "contrato_id": "949560",
+      "dados": {
+        "CPF": "***.155.097-**",
+        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000560"
+      }
+    },
+    {
+      "contrato_id": "949560",
+      "dados": {
+        "CPF": "***.466.297-**",
+        "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000560"
+      }
+    },
+    {
+      "contrato_id": "949560",
+      "dados": {
+        "CPF": "***.340.087-**",
+        "Nome": "LUCIANA SILVA CORREIA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000560"
+      }
+    },
+    {
+      "contrato_id": "949560",
+      "dados": {
+        "CPF": "***.352.637-**",
+        "Nome": "VIVIAN WAINER DA SILVA BUENO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000560"
+      }
+    },
+    {
       "contrato_id": "737207",
       "dados": {
         "CPF": "***.562.837-**",
@@ -11061,6 +11097,42 @@
         "Nome": "RICARDO RODRIGUES MONTEIRO",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2025NE000701"
+      }
+    },
+    {
+      "contrato_id": "949561",
+      "dados": {
+        "CPF": "***.155.097-**",
+        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000559"
+      }
+    },
+    {
+      "contrato_id": "949561",
+      "dados": {
+        "CPF": "***.466.297-**",
+        "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000559"
+      }
+    },
+    {
+      "contrato_id": "949561",
+      "dados": {
+        "CPF": "***.340.087-**",
+        "Nome": "LUCIANA SILVA CORREIA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000559"
+      }
+    },
+    {
+      "contrato_id": "949561",
+      "dados": {
+        "CPF": "***.352.637-**",
+        "Nome": "VIVIAN WAINER DA SILVA BUENO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000559"
       }
     },
     {
@@ -19260,6 +19332,15 @@
         "Nome": "IVANDRO SANT'ANA",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "2026NE000518"
+      }
+    },
+    {
+      "contrato_id": "961321",
+      "dados": {
+        "CPF": "***.330.607-**",
+        "Nome": "ADEMAR FIGUEIREDO DOS SANTOS",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "2026NE000532"
       }
     },
     {
