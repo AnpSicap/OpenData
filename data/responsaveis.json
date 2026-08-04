@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-08-03T11:04:05.358644",
-  "total_registros": 2602,
+  "ultima_atualizacao": "2026-08-04T09:55:18.900997",
+  "total_registros": 2604,
   "dados": [
     {
       "contrato_id": "121472",
@@ -23229,6 +23229,24 @@
         "Nome": "MINA SAITO",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "05021/2025"
+      }
+    },
+    {
+      "contrato_id": "966550",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000626"
+      }
+    },
+    {
+      "contrato_id": "966550",
+      "dados": {
+        "CPF": "***.969.577-**",
+        "Nome": "DOUGLAS PEREIRA PEDRA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2026NE000626"
       }
     },
     {

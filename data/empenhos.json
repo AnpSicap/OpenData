@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-08-03T11:04:05.383721",
-  "total_registros": 2311,
+  "ultima_atualizacao": "2026-08-04T09:55:18.924929",
+  "total_registros": 2314,
   "dados": [
     {
       "contrato_id": "121472",
@@ -4059,8 +4059,8 @@
         "Número": "2025NE000485",
         "PI": "-8 - SEM INFORMACAO",
         "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "367.054,01",
-        "A liq.": "94.282,27",
+        "Emp.": "361.591,60",
+        "A liq.": "88.819,86",
         "Liquid.": "11.148,95",
         "Pg": "261.622,79",
         "RP Inscr.": "0,00",
@@ -4095,8 +4095,8 @@
         "Número": "2026NE000586",
         "PI": "-",
         "ND": "339040 - SERVICOS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO - PJ",
-        "Emp.": "405.464,36",
-        "A liq.": "109.244,06",
+        "Emp.": "375.842,33",
+        "A liq.": "79.622,03",
         "Liquid.": "296.220,30",
         "Pg": "0,00",
         "RP Inscr.": "0,00",
@@ -4603,6 +4603,24 @@
         "A liq.": "61.268,08",
         "Liquid.": "0,00",
         "Pg": "829.109,60",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "01025/2021"
+      }
+    },
+    {
+      "contrato_id": "121580",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000635",
+        "PI": "-",
+        "ND": "339139 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA (INTRA)",
+        "Emp.": "499.993,26",
+        "A liq.": "499.993,26",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
         "RP Inscr.": "0,00",
         "RP A Liq.": "0,00",
         "RP Liq.": "0,00",
@@ -21789,8 +21807,8 @@
         "Número": "2026NE000596",
         "PI": "-",
         "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
-        "Emp.": "588.424,39",
-        "A liq.": "393.441,43",
+        "Emp.": "390.048,51",
+        "A liq.": "195.065,55",
         "Liquid.": "194.982,96",
         "Pg": "0,00",
         "RP Inscr.": "0,00",
@@ -40737,6 +40755,24 @@
       }
     },
     {
+      "contrato_id": "965955",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000633",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "3.160,00",
+        "A liq.": "3.160,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2026NE000633"
+      }
+    },
+    {
       "contrato_id": "163102",
       "dados": {
         "UG": "323031",
@@ -41274,6 +41310,24 @@
         "RP Liq.": "0,00",
         "RP Pg": "0,00",
         "Número Contrato": "05021/2025"
+      }
+    },
+    {
+      "contrato_id": "966550",
+      "dados": {
+        "UG": "323031",
+        "Número": "2026NE000626",
+        "PI": "-",
+        "ND": "339039 - OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA",
+        "Emp.": "10.800,00",
+        "A liq.": "10.800,00",
+        "Liquid.": "0,00",
+        "Pg": "0,00",
+        "RP Inscr.": "0,00",
+        "RP A Liq.": "0,00",
+        "RP Liq.": "0,00",
+        "RP Pg": "0,00",
+        "Número Contrato": "2026NE000626"
       }
     },
     {
