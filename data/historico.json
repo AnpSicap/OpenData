@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-08-04T09:55:18.872062",
-  "total_registros": 1579,
+  "ultima_atualizacao": "2026-08-05T09:54:16.117301",
+  "total_registros": 1582,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1345,7 +1345,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "04/08/2026",
+        "Data Fim": "05/08/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -7030,7 +7030,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "04/08/2026",
+        "Data Fim": "05/08/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8245,7 +8245,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "04/08/2026",
+        "Data Fim": "05/08/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -10143,6 +10143,21 @@
       }
     },
     {
+      "contrato_id": "159010",
+      "dados": {
+        "Data Assinatura": "03/08/2026",
+        "Número": "00005/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR O PRAZO DA VIGÊNCIA DO CONTRATO Nº 9.031/22-ANP-206.658, POR 12 (DOZE) MESES, CONTEMPLANDO-SE, NESTA OCASIÃO, O PERÍODO DE 26/09/2026 A 26/09/2027, NOS TERMOS DO ART. 57, II, DA LEI N.º 8.666, DE 1993 E ASSEGURAR À CONTRATADA O DIREITO DE PLEITEAR O REAJUSTE E A REPACTUAÇÃO DOS VALORES DO CONTRATO, DE FORMA RETROATIVA, TÃO LOGO DISPONHA DO PERCENTUAL ACUMULADO NO PERÍODO, CONFORME DISPOSTO NA CLÁUSULA SEXTA DO CONTRATO.",
+        "Data Início": "26/09/2026",
+        "Data Fim": "26/09/2027",
+        "Vlr. Global": "3.762.972,72",
+        "Parcelas": "12",
+        "Vlr. Parcela": "313.581,06",
+        "Número Contrato": "09031/2022"
+      }
+    },
+    {
       "contrato_id": "15268",
       "dados": {
         "Data Assinatura": "21/06/2016",
@@ -11264,6 +11279,21 @@
         "Vlr. Global": "1.928.836,80",
         "Parcelas": "12",
         "Vlr. Parcela": "160.736,40",
+        "Número Contrato": "09023/2025"
+      }
+    },
+    {
+      "contrato_id": "701825",
+      "dados": {
+        "Data Assinatura": "03/08/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "REPACTUAR O VALOR DO CONTRATO Nº 9.023/25, COM EFEITOS FINANCEIROS RETROATIVOS A 29/09/2025, EM VIRTUDE DAS ALTERAÇÕES DE CUSTOS DECORRENTES DA CONVENÇÃO COLETIVA DE TRABALHO 2025/2027 DO SINDPD-RJ (SEI Nº 5954624), QUE PROMOVEU AJUSTES NO AUXÍLIO ALIMENTAÇÃO/REFEIÇÃO E NO BENEFÍCIO INDIRETO, CONFORME DETALHADO NA NOTA TÉCNICA Nº 38/2026/STI-CONT/STI/ANP-RJ (SEI Nº 5944520); REVISAR OS VALORES CONTRATUAIS, COM FUNDAMENTO NOS ARTS. 124, INCISO II, ALÍNEA “D”, E 134 DA LEI Nº 14.133/2021, EM RAZÃO DA CONCESSÃO DE REEQUILÍBRIO ECONÔMICO-FINANCEIRO DECORRENTE DA REONERAÇÃO GRADUAL DA FOLHA DE PAGAMENTOS PROMOVIDA PELA LEI Nº 14.973/2024, QUE ALTERA GRADUALMENTE OS PERCENTUAIS DE INSS E CPRB DAS PLANILHAS DE FORMAÇÃO DE PREÇOS, COM EFEITOS FINANCEIROS A PARTIR DE JANEIRO/2026; E SUPRIMIR 01 (UM) POSTO DO PERFIL “GERENTE DE QUALIDADE”, CORRESPONDENTE À REDUÇÃO DE 20% DO QUANTITATIVO ORIGINALMENTE CONTRATADO, VISANDO ADEQUAÇÃO AO ORÇAMENTO EM RAZÃO DA REDUÇÃO DE DESPESAS DECORRENTE DO CORTE ORÇAMENTÁRIO IMPOSTO PELO DECRETO Nº 12.477/2025, CONFORME DETALHADO NA NOTA TÉCNICA Nº 38/2026/STI-CONT/STI/ANP-RJ (SEI Nº 5944520).",
+        "Data Início": "03/08/2026",
+        "Data Fim": "28/09/2026",
+        "Vlr. Global": "1.973.011,66",
+        "Parcelas": "12",
+        "Vlr. Parcela": "164.417,64",
         "Número Contrato": "09023/2025"
       }
     },
@@ -14860,7 +14890,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "04/08/2026",
+        "Data Fim": "05/08/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -15978,6 +16008,21 @@
       }
     },
     {
+      "contrato_id": "116021",
+      "dados": {
+        "Data Assinatura": "03/08/2026",
+        "Número": "00003/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR, EM CARÁTER EXCEPCIONAL, A VIGÊNCIA DO CONTRATO POR 12 (DOZE) MESES, CORRESPONDENTE AO PERÍODO COMPREENDIDO ENTRE 22/09/2026 E 22/09/2027, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI N.º 8.666/93.",
+        "Data Início": "22/09/2026",
+        "Data Fim": "22/09/2027",
+        "Vlr. Global": "241.118,16",
+        "Parcelas": "1",
+        "Vlr. Parcela": "241.118,16",
+        "Número Contrato": "08020/2021"
+      }
+    },
+    {
       "contrato_id": "146840",
       "dados": {
         "Data Assinatura": "20/05/2022",
@@ -16435,7 +16480,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "04/08/2026",
+        "Data Fim": "05/08/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16705,7 +16750,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "04/08/2026",
+        "Data Fim": "05/08/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
