@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-08-07T08:31:56.367468",
-  "total_registros": 2535,
+  "ultima_atualizacao": "2026-08-10T08:56:40.724012",
+  "total_registros": 2515,
   "dados": [
     {
       "contrato_id": "121472",
@@ -8031,51 +8031,6 @@
       }
     },
     {
-      "contrato_id": "220209",
-      "dados": {
-        "CPF": "***.155.097-**",
-        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09018/2023"
-      }
-    },
-    {
-      "contrato_id": "220209",
-      "dados": {
-        "CPF": "***.284.527-**",
-        "Nome": "JOSÉ ANTONIO RODRIGUES",
-        "Tipo": "Gestor",
-        "Número Contrato": "09018/2023"
-      }
-    },
-    {
-      "contrato_id": "220209",
-      "dados": {
-        "CPF": "***.516.487-**",
-        "Nome": "RONALDO MEDEIROS DE BAKKER",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09018/2023"
-      }
-    },
-    {
-      "contrato_id": "220209",
-      "dados": {
-        "CPF": "***.404.477-**",
-        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "09018/2023"
-      }
-    },
-    {
-      "contrato_id": "220209",
-      "dados": {
-        "CPF": "***.529.093-**",
-        "Nome": "MARIO DOS SANTOS FERNANDES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09018/2023"
-      }
-    },
-    {
       "contrato_id": "47756",
       "dados": {
         "CPF": "***.262.975-**",
@@ -9054,51 +9009,6 @@
         "Nome": "JOSÉ ESMERALDO BARRETO NETO",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "09032/2022"
-      }
-    },
-    {
-      "contrato_id": "220213",
-      "dados": {
-        "CPF": "***.155.097-**",
-        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09021/2023"
-      }
-    },
-    {
-      "contrato_id": "220213",
-      "dados": {
-        "CPF": "***.284.527-**",
-        "Nome": "JOSÉ ANTONIO RODRIGUES",
-        "Tipo": "Gestor",
-        "Número Contrato": "09021/2023"
-      }
-    },
-    {
-      "contrato_id": "220213",
-      "dados": {
-        "CPF": "***.516.487-**",
-        "Nome": "RONALDO MEDEIROS DE BAKKER",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09021/2023"
-      }
-    },
-    {
-      "contrato_id": "220213",
-      "dados": {
-        "CPF": "***.404.477-**",
-        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "09021/2023"
-      }
-    },
-    {
-      "contrato_id": "220213",
-      "dados": {
-        "CPF": "***.529.093-**",
-        "Nome": "MARIO DOS SANTOS FERNANDES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09021/2023"
       }
     },
     {
@@ -10485,51 +10395,6 @@
         "Nome": "JULIANA PETRONILLIO HERNANDES",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2025NE000606"
-      }
-    },
-    {
-      "contrato_id": "220214",
-      "dados": {
-        "CPF": "***.155.097-**",
-        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09022/2023"
-      }
-    },
-    {
-      "contrato_id": "220214",
-      "dados": {
-        "CPF": "***.284.527-**",
-        "Nome": "JOSÉ ANTONIO RODRIGUES",
-        "Tipo": "Gestor",
-        "Número Contrato": "09022/2023"
-      }
-    },
-    {
-      "contrato_id": "220214",
-      "dados": {
-        "CPF": "***.516.487-**",
-        "Nome": "RONALDO MEDEIROS DE BAKKER",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09022/2023"
-      }
-    },
-    {
-      "contrato_id": "220214",
-      "dados": {
-        "CPF": "***.404.477-**",
-        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "09022/2023"
-      }
-    },
-    {
-      "contrato_id": "220214",
-      "dados": {
-        "CPF": "***.529.093-**",
-        "Nome": "MARIO DOS SANTOS FERNANDES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09022/2023"
       }
     },
     {
@@ -21546,51 +21411,6 @@
         "Nome": "ANDREA CAMBRAIA VIDAL",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "05002/2023"
-      }
-    },
-    {
-      "contrato_id": "220211",
-      "dados": {
-        "CPF": "***.155.097-**",
-        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "00919/2023"
-      }
-    },
-    {
-      "contrato_id": "220211",
-      "dados": {
-        "CPF": "***.284.527-**",
-        "Nome": "JOSÉ ANTONIO RODRIGUES",
-        "Tipo": "Gestor",
-        "Número Contrato": "00919/2023"
-      }
-    },
-    {
-      "contrato_id": "220211",
-      "dados": {
-        "CPF": "***.516.487-**",
-        "Nome": "RONALDO MEDEIROS DE BAKKER",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "00919/2023"
-      }
-    },
-    {
-      "contrato_id": "220211",
-      "dados": {
-        "CPF": "***.404.477-**",
-        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "00919/2023"
-      }
-    },
-    {
-      "contrato_id": "220211",
-      "dados": {
-        "CPF": "***.529.093-**",
-        "Nome": "MARIO DOS SANTOS FERNANDES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "00919/2023"
       }
     },
     {
