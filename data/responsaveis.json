@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-08-10T08:56:40.724012",
-  "total_registros": 2515,
+  "ultima_atualizacao": "2026-08-11T08:25:44.471221",
+  "total_registros": 2510,
   "dados": [
     {
       "contrato_id": "121472",
@@ -558,51 +558,6 @@
         "Nome": "SAHID DE OLIVEIRA KIK",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "09058/2019"
-      }
-    },
-    {
-      "contrato_id": "502382",
-      "dados": {
-        "CPF": "***.155.097-**",
-        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "2024NE000805"
-      }
-    },
-    {
-      "contrato_id": "502382",
-      "dados": {
-        "CPF": "***.874.647-**",
-        "Nome": "SORAYA XAVIER FRANCO",
-        "Tipo": "Gestor",
-        "Número Contrato": "2024NE000805"
-      }
-    },
-    {
-      "contrato_id": "502382",
-      "dados": {
-        "CPF": "***.893.147-**",
-        "Nome": "THIAGO MARIANO DE SOUZA",
-        "Tipo": "Gestor Substituto",
-        "Número Contrato": "2024NE000805"
-      }
-    },
-    {
-      "contrato_id": "502382",
-      "dados": {
-        "CPF": "***.340.087-**",
-        "Nome": "LUCIANA SILVA CORREIA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "2024NE000805"
-      }
-    },
-    {
-      "contrato_id": "502382",
-      "dados": {
-        "CPF": "***.466.297-**",
-        "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "2024NE000805"
       }
     },
     {
@@ -14610,69 +14565,6 @@
       }
     },
     {
-      "contrato_id": "358892",
-      "dados": {
-        "CPF": "***.539.347-**",
-        "Nome": "ESTEFANY GONZAGA JERONIMO",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "09043/2024"
-      }
-    },
-    {
-      "contrato_id": "358892",
-      "dados": {
-        "CPF": "***.767.959-**",
-        "Nome": "PATRICK MOREIRA",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "09043/2024"
-      }
-    },
-    {
-      "contrato_id": "358892",
-      "dados": {
-        "CPF": "***.096.105-**",
-        "Nome": "PAULO ROBERTO CORREIA FRAGA",
-        "Tipo": "Fiscal Setorial",
-        "Número Contrato": "09043/2024"
-      }
-    },
-    {
-      "contrato_id": "358892",
-      "dados": {
-        "CPF": "***.404.477-**",
-        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "09043/2024"
-      }
-    },
-    {
-      "contrato_id": "358892",
-      "dados": {
-        "CPF": "***.108.208-**",
-        "Nome": "SERGIO HENRIQUE SOUSA ALMEIDA",
-        "Tipo": "Fiscal Setorial Substituto",
-        "Número Contrato": "09043/2024"
-      }
-    },
-    {
-      "contrato_id": "358892",
-      "dados": {
-        "CPF": "***.009.017-**",
-        "Nome": "HENRIQUE LAGUARDIA HERINGER FARIA",
-        "Tipo": "Fiscal Setorial Substituto",
-        "Número Contrato": "09043/2024"
-      }
-    },
-    {
-      "contrato_id": "358892",
-      "dados": {
-        "CPF": "***.330.087-**",
-        "Nome": "ANA LUCIA BRANT FERREIRA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09043/2024"
-      }
-    },
-    {
       "contrato_id": "247377",
       "dados": {
         "CPF": "***.470.941-**",
@@ -16551,6 +16443,69 @@
         "Nome": "MARIO DOS SANTOS FERNANDES",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "09020/2018"
+      }
+    },
+    {
+      "contrato_id": "358892",
+      "dados": {
+        "CPF": "***.539.347-**",
+        "Nome": "ESTEFANY GONZAGA JERONIMO",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "09043/2024"
+      }
+    },
+    {
+      "contrato_id": "358892",
+      "dados": {
+        "CPF": "***.767.959-**",
+        "Nome": "PATRICK MOREIRA",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "09043/2024"
+      }
+    },
+    {
+      "contrato_id": "358892",
+      "dados": {
+        "CPF": "***.096.105-**",
+        "Nome": "PAULO ROBERTO CORREIA FRAGA",
+        "Tipo": "Fiscal Setorial",
+        "Número Contrato": "09043/2024"
+      }
+    },
+    {
+      "contrato_id": "358892",
+      "dados": {
+        "CPF": "***.404.477-**",
+        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "09043/2024"
+      }
+    },
+    {
+      "contrato_id": "358892",
+      "dados": {
+        "CPF": "***.108.208-**",
+        "Nome": "SERGIO HENRIQUE SOUSA ALMEIDA",
+        "Tipo": "Fiscal Setorial Substituto",
+        "Número Contrato": "09043/2024"
+      }
+    },
+    {
+      "contrato_id": "358892",
+      "dados": {
+        "CPF": "***.009.017-**",
+        "Nome": "HENRIQUE LAGUARDIA HERINGER FARIA",
+        "Tipo": "Fiscal Setorial Substituto",
+        "Número Contrato": "09043/2024"
+      }
+    },
+    {
+      "contrato_id": "358892",
+      "dados": {
+        "CPF": "***.330.087-**",
+        "Nome": "ANA LUCIA BRANT FERREIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09043/2024"
       }
     },
     {
