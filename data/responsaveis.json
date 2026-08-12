@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-08-11T08:25:44.471221",
-  "total_registros": 2510,
+  "ultima_atualizacao": "2026-08-12T08:34:59.716708",
+  "total_registros": 2514,
   "dados": [
     {
       "contrato_id": "121472",
@@ -2511,60 +2511,6 @@
         "Nome": "ALEXANDRE MACIEL DA SILVA",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2025NE000404"
-      }
-    },
-    {
-      "contrato_id": "277444",
-      "dados": {
-        "CPF": "***.919.117-**",
-        "Nome": "BARBARA CORDEIRO DIAS SKABA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "01026/2024"
-      }
-    },
-    {
-      "contrato_id": "277444",
-      "dados": {
-        "CPF": "***.907.567-**",
-        "Nome": "FÁBIO PORTNOJ CANTINHO",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "01026/2024"
-      }
-    },
-    {
-      "contrato_id": "277444",
-      "dados": {
-        "CPF": "***.907.567-**",
-        "Nome": "FÁBIO PORTNOJ CANTINHO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "01026/2024"
-      }
-    },
-    {
-      "contrato_id": "277444",
-      "dados": {
-        "CPF": "***.919.117-**",
-        "Nome": "BARBARA CORDEIRO DIAS SKABA",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "01026/2024"
-      }
-    },
-    {
-      "contrato_id": "277444",
-      "dados": {
-        "CPF": "***.508.047-**",
-        "Nome": "GIL RIBEIRO FILHO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "01026/2024"
-      }
-    },
-    {
-      "contrato_id": "277444",
-      "dados": {
-        "CPF": "***.508.047-**",
-        "Nome": "GIL RIBEIRO FILHO",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "01026/2024"
       }
     },
     {
@@ -18390,6 +18336,15 @@
       }
     },
     {
+      "contrato_id": "914833",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000447"
+      }
+    },
+    {
       "contrato_id": "927078",
       "dados": {
         "CPF": "***.562.837-**",
@@ -18687,33 +18642,6 @@
       }
     },
     {
-      "contrato_id": "867961",
-      "dados": {
-        "CPF": "***.217.117-**",
-        "Nome": "LEANDRO GUEDES DA FONSECA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "05003/2026"
-      }
-    },
-    {
-      "contrato_id": "867961",
-      "dados": {
-        "CPF": "***.959.686-**",
-        "Nome": "DANYELE APARECIDA ALVES GUIMARÃES",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "05003/2026"
-      }
-    },
-    {
-      "contrato_id": "867961",
-      "dados": {
-        "CPF": "***.562.837-**",
-        "Nome": "RICARDO RODRIGUES MONTEIRO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "05003/2026"
-      }
-    },
-    {
       "contrato_id": "33327",
       "dados": {
         "CPF": "***.629.167-**",
@@ -18822,6 +18750,24 @@
       }
     },
     {
+      "contrato_id": "914944",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000452"
+      }
+    },
+    {
+      "contrato_id": "914957",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000453"
+      }
+    },
+    {
       "contrato_id": "916440",
       "dados": {
         "CPF": "***.254.947-**",
@@ -18909,6 +18855,15 @@
         "Nome": "FLAVIO BARROSO NEVES",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "01027/2022"
+      }
+    },
+    {
+      "contrato_id": "914966",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000454"
       }
     },
     {
@@ -22116,6 +22071,60 @@
       }
     },
     {
+      "contrato_id": "277444",
+      "dados": {
+        "CPF": "***.919.117-**",
+        "Nome": "BARBARA CORDEIRO DIAS SKABA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01026/2024"
+      }
+    },
+    {
+      "contrato_id": "277444",
+      "dados": {
+        "CPF": "***.907.567-**",
+        "Nome": "FÁBIO PORTNOJ CANTINHO",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "01026/2024"
+      }
+    },
+    {
+      "contrato_id": "277444",
+      "dados": {
+        "CPF": "***.907.567-**",
+        "Nome": "FÁBIO PORTNOJ CANTINHO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "01026/2024"
+      }
+    },
+    {
+      "contrato_id": "277444",
+      "dados": {
+        "CPF": "***.919.117-**",
+        "Nome": "BARBARA CORDEIRO DIAS SKABA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "01026/2024"
+      }
+    },
+    {
+      "contrato_id": "277444",
+      "dados": {
+        "CPF": "***.508.047-**",
+        "Nome": "GIL RIBEIRO FILHO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "01026/2024"
+      }
+    },
+    {
+      "contrato_id": "277444",
+      "dados": {
+        "CPF": "***.508.047-**",
+        "Nome": "GIL RIBEIRO FILHO",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "01026/2024"
+      }
+    },
+    {
       "contrato_id": "813077",
       "dados": {
         "CPF": "***.826.884-**",
@@ -22401,6 +22410,33 @@
         "Nome": "DOUGLAS PEREIRA PEDRA",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "2026NE000626"
+      }
+    },
+    {
+      "contrato_id": "867961",
+      "dados": {
+        "CPF": "***.217.117-**",
+        "Nome": "LEANDRO GUEDES DA FONSECA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05003/2026"
+      }
+    },
+    {
+      "contrato_id": "867961",
+      "dados": {
+        "CPF": "***.959.686-**",
+        "Nome": "DANYELE APARECIDA ALVES GUIMARÃES",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "05003/2026"
+      }
+    },
+    {
+      "contrato_id": "867961",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05003/2026"
       }
     },
     {

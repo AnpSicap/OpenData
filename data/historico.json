@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-08-11T08:25:44.439642",
-  "total_registros": 1575,
+  "ultima_atualizacao": "2026-08-12T08:34:59.686016",
+  "total_registros": 1577,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1330,7 +1330,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "11/08/2026",
+        "Data Fim": "12/08/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -1920,51 +1920,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "2.630,00",
         "Número Contrato": "2022NE000300"
-      }
-    },
-    {
-      "contrato_id": "277444",
-      "dados": {
-        "Data Assinatura": "05/06/2024",
-        "Número": "01026/2024",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 01026/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.203227/2023-58",
-        "Data Início": "05/06/2024",
-        "Data Fim": "05/06/2025",
-        "Vlr. Global": "1.501.130,96",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.501.130,96",
-        "Número Contrato": "01026/2024"
-      }
-    },
-    {
-      "contrato_id": "277444",
-      "dados": {
-        "Data Assinatura": "20/06/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "RETIFICAÇÃO DE ERROS MATERIAIS INCORRIDOS EM VALORES DO ANEXO I DO TERMO DE CONTRATO N° 1.026/24 (DOCUMENTO SEI Nº. 4025976), QUE ESTÃO EM DESACORDO COM A PLANILHA PREÇOS DESCONTO (DOCUMENTO SEI Nº 4007101), CONFORME DESCRITO ABAIXO:\r\n\r\n \r\n\r\nA) ONDE SE LÊ: \"1.2.1 PLANEJAMENTO E EXECUÇÃO DE MEDIA TRAINING ....PREÇO UNITÁRIO R$ 1.974,67\"; LEIA-SE: \"1.2.1 PLANEJAMENTO E EXECUÇÃO DE MEDIA TRAINING ....PREÇO UNITÁRIO R$ 11.848,04\".\r\n\r\nB) ONDE SE LÊ: \"1.5.2 DIAGRAMAÇÃO ALTA COMPLEXIDADE.....PREÇO UNITÁRIO: R$ 161.265,60, E PREÇO TOTAL: R$ 161.265,60\"; LEIA-SE: \"1.5.2 DIAGRAMAÇÃO ALTA COMPLEXIDADE.....PREÇO UNITÁRIO: R$ 16.265,60\", PREÇO TOTAL: R$ 16.265,60.",
-        "Data Início": "05/06/2024",
-        "Data Fim": "05/06/2025",
-        "Vlr. Global": "1.501.130,96",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.501.130,96",
-        "Número Contrato": "01026/2024"
-      }
-    },
-    {
-      "contrato_id": "277444",
-      "dados": {
-        "Data Assinatura": "27/05/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE  05/06/2025 A 05/06/2026, COM BASE NA PRESCRIÇÃO DO ART. 57, INCISO II, DA LEI Nº 8.666/93, E NA CLÁUSULA TERCEIRA DO RESPECTIVO AJUSTE.\r\nREAJUSTAR O VALOR DO CONTRATO EM 6,33%, COM BASE NO IGP-M ACUMULADO DE DEZEMBRO DE 2023 A NOVEMBRO DE 2024, CONFORME O DISPOSTO NA CLÁUSULA NONA DO CONTRATO",
-        "Data Início": "05/06/2025",
-        "Data Fim": "05/06/2026",
-        "Vlr. Global": "1.596.152,55",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.596.152,55",
-        "Número Contrato": "01026/2024"
       }
     },
     {
@@ -7030,7 +6985,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "11/08/2026",
+        "Data Fim": "12/08/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8230,7 +8185,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "11/08/2026",
+        "Data Fim": "12/08/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -14590,7 +14545,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "11/08/2026",
+        "Data Fim": "12/08/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -16120,7 +16075,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "11/08/2026",
+        "Data Fim": "12/08/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16390,7 +16345,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "11/08/2026",
+        "Data Fim": "12/08/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -18105,21 +18060,6 @@
         "Parcelas": "1",
         "Vlr. Parcela": "389.745,67",
         "Número Contrato": "09047/2021"
-      }
-    },
-    {
-      "contrato_id": "867961",
-      "dados": {
-        "Data Assinatura": "30/04/2026",
-        "Número": "05003/2026",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 05003/2026 DE ACORDO COM PROCESSO NÚMERO: 48610.205666/2026-48",
-        "Data Início": "30/04/2026",
-        "Data Fim": "30/04/2027",
-        "Vlr. Global": "348.517,10",
-        "Parcelas": "1",
-        "Vlr. Parcela": "348.517,10",
-        "Número Contrato": "05003/2026"
       }
     },
     {
@@ -23103,6 +23043,66 @@
       }
     },
     {
+      "contrato_id": "277444",
+      "dados": {
+        "Data Assinatura": "05/06/2024",
+        "Número": "01026/2024",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 01026/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.203227/2023-58",
+        "Data Início": "05/06/2024",
+        "Data Fim": "05/06/2025",
+        "Vlr. Global": "1.501.130,96",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.501.130,96",
+        "Número Contrato": "01026/2024"
+      }
+    },
+    {
+      "contrato_id": "277444",
+      "dados": {
+        "Data Assinatura": "20/06/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "RETIFICAÇÃO DE ERROS MATERIAIS INCORRIDOS EM VALORES DO ANEXO I DO TERMO DE CONTRATO N° 1.026/24 (DOCUMENTO SEI Nº. 4025976), QUE ESTÃO EM DESACORDO COM A PLANILHA PREÇOS DESCONTO (DOCUMENTO SEI Nº 4007101), CONFORME DESCRITO ABAIXO:\r\n\r\n \r\n\r\nA) ONDE SE LÊ: \"1.2.1 PLANEJAMENTO E EXECUÇÃO DE MEDIA TRAINING ....PREÇO UNITÁRIO R$ 1.974,67\"; LEIA-SE: \"1.2.1 PLANEJAMENTO E EXECUÇÃO DE MEDIA TRAINING ....PREÇO UNITÁRIO R$ 11.848,04\".\r\n\r\nB) ONDE SE LÊ: \"1.5.2 DIAGRAMAÇÃO ALTA COMPLEXIDADE.....PREÇO UNITÁRIO: R$ 161.265,60, E PREÇO TOTAL: R$ 161.265,60\"; LEIA-SE: \"1.5.2 DIAGRAMAÇÃO ALTA COMPLEXIDADE.....PREÇO UNITÁRIO: R$ 16.265,60\", PREÇO TOTAL: R$ 16.265,60.",
+        "Data Início": "05/06/2024",
+        "Data Fim": "05/06/2025",
+        "Vlr. Global": "1.501.130,96",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.501.130,96",
+        "Número Contrato": "01026/2024"
+      }
+    },
+    {
+      "contrato_id": "277444",
+      "dados": {
+        "Data Assinatura": "27/05/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE  05/06/2025 A 05/06/2026, COM BASE NA PRESCRIÇÃO DO ART. 57, INCISO II, DA LEI Nº 8.666/93, E NA CLÁUSULA TERCEIRA DO RESPECTIVO AJUSTE.\r\nREAJUSTAR O VALOR DO CONTRATO EM 6,33%, COM BASE NO IGP-M ACUMULADO DE DEZEMBRO DE 2023 A NOVEMBRO DE 2024, CONFORME O DISPOSTO NA CLÁUSULA NONA DO CONTRATO",
+        "Data Início": "05/06/2025",
+        "Data Fim": "05/06/2026",
+        "Vlr. Global": "1.596.152,55",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.596.152,55",
+        "Número Contrato": "01026/2024"
+      }
+    },
+    {
+      "contrato_id": "277444",
+      "dados": {
+        "Data Assinatura": "05/06/2026",
+        "Número": "00002/2026",
+        "Tipo": "Termo Aditivo",
+        "Observação": "1. READEQUAR QUANTITATIVAMENTE OS ITENS DA PLANILHA CONTRATUAL, COM FUNDAMENTO NO ART. 65, § 1º DA LEI Nº 8.666/1993, VISANDO A MELHOR ADEQUAÇÃO TÉCNICA ÀS NECESSIDADES DA CONTRATANTE, CONFORME DETALHADO NA NOTA TÉCNICA Nº 2/2026/SCI/ANP-RJ (SEI Nº 5679070).\r\n2. PRORROGAR A VIGÊNCIA CONTRATUAL POR ATÉ 12 (DOZE) MESES, COMPREENDIDOS ENTRE 05/06/2026 E 05/06/2027, NOS TERMOS DO ART. 57, INCISO II, DA LEI Nº 8.666/93 E NOTA TÉCNICA Nº 6/2026/SCI/ANP-RJ (SEI Nº 5853721). FICA ESTABELECIDA A POSSIBILIDADE DE RESCISÃO AMIGÁVEL E ANTECIPADA DO CONTRATO, A CRITÉRIO DA CONTRATANTE, NOS TERMOS DO ARTIGO 79, INCISO II E § 1º, DA LEI Nº 8.666/93, MEDIANTE NOTIFICAÇÃO PRÉVIA À CONTRATADA COM ANTECEDÊNCIA MÍNIMA DE 60 (SESSENTA) DIAS.\r\n3. REAJUSTAR OS PREÇOS CONTRATUAIS EM -0,11% (ZERO VÍRGULA ONZE POR CENTO NEGATIVO) COM BASE NO IGP-M ACUMULADO DE DEZEMBRO DE 2024 A NOVEMBRO DE 2025, NOS TERMOS DA NOTA TÉCNICA Nº 6/2026/SCI/ANP-RJ (SEI Nº 5853721) E CONFORME CLÁUSULA NONA DO CONTRATO.",
+        "Data Início": "05/06/2026",
+        "Data Fim": "05/06/2027",
+        "Vlr. Global": "1.487.655,43",
+        "Parcelas": "12",
+        "Vlr. Parcela": "123.971,29",
+        "Número Contrato": "01026/2024"
+      }
+    },
+    {
       "contrato_id": "813077",
       "dados": {
         "Data Assinatura": "16/12/2025",
@@ -23490,6 +23490,36 @@
         "Parcelas": "1",
         "Vlr. Parcela": "10.800,00",
         "Número Contrato": "2026NE000626"
+      }
+    },
+    {
+      "contrato_id": "867961",
+      "dados": {
+        "Data Assinatura": "30/04/2026",
+        "Número": "05003/2026",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 05003/2026 DE ACORDO COM PROCESSO NÚMERO: 48610.205666/2026-48",
+        "Data Início": "30/04/2026",
+        "Data Fim": "30/04/2027",
+        "Vlr. Global": "348.517,10",
+        "Parcelas": "1",
+        "Vlr. Parcela": "348.517,10",
+        "Número Contrato": "05003/2026"
+      }
+    },
+    {
+      "contrato_id": "867961",
+      "dados": {
+        "Data Assinatura": "10/08/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "CORREÇÃO DE ERRO MATERIAL VISANDO À INCLUSÃO DO VALOR REFERENTE AO SERVIÇO DE GRAVAÇÃO DAS AULAS, PREVISTO ORIGINALMENTE NO ITEM 7.40.1 DO TERMO DE REFERÊNCIA - PROJETO BÁSICO Nº 59/2026 (SEI Nº 5806488) E NO ITEM 6 DA PROPOSTA COMERCIAL DA CONTRATADA (SEI Nº 5784717), O QUAL NÃO FOI INCLUÍDO NO INSTRUMENTO CONTRATUAL, CONFORME NOTA TÉCNICA Nº 18/2026/SGP-CAO/SGP/ANP-RJ (SEI Nº 6133236).",
+        "Data Início": "30/04/2026",
+        "Data Fim": "30/04/2027",
+        "Vlr. Global": "387.684,10",
+        "Parcelas": "1",
+        "Vlr. Parcela": "387.684,10",
+        "Número Contrato": "05003/2026"
       }
     },
     {
