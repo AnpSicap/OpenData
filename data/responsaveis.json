@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-08-13T08:38:27.477714",
-  "total_registros": 2516,
+  "ultima_atualizacao": "2026-08-14T08:33:54.241648",
+  "total_registros": 2520,
   "dados": [
     {
       "contrato_id": "121472",
@@ -3825,60 +3825,6 @@
         "Nome": "ALISSON CHRISTI VIEIRA ROCHA",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "09019/2020"
-      }
-    },
-    {
-      "contrato_id": "623252",
-      "dados": {
-        "CPF": "***.758.087-**",
-        "Nome": "VANESSA NUPCIAS SANTOS",
-        "Tipo": "Fiscal Requisitante",
-        "Número Contrato": "05016/2025"
-      }
-    },
-    {
-      "contrato_id": "623252",
-      "dados": {
-        "CPF": "***.343.287-**",
-        "Nome": "LUCIA FREDERICO DE LYRA VAZ",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "05016/2025"
-      }
-    },
-    {
-      "contrato_id": "623252",
-      "dados": {
-        "CPF": "***.476.213-**",
-        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "05016/2025"
-      }
-    },
-    {
-      "contrato_id": "623252",
-      "dados": {
-        "CPF": "***.343.287-**",
-        "Nome": "LUCIA FREDERICO DE LYRA VAZ",
-        "Tipo": "Fiscal Requisitante Substituto",
-        "Número Contrato": "05016/2025"
-      }
-    },
-    {
-      "contrato_id": "623252",
-      "dados": {
-        "CPF": "***.758.087-**",
-        "Nome": "VANESSA NUPCIAS SANTOS",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "05016/2025"
-      }
-    },
-    {
-      "contrato_id": "623252",
-      "dados": {
-        "CPF": "***.896.037-**",
-        "Nome": "SAHID DE OLIVEIRA KIK",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "05016/2025"
       }
     },
     {
@@ -9990,69 +9936,6 @@
         "Nome": "MERCEDES SANTANA DA SILVA",
         "Tipo": "Fiscal Substituto",
         "Número Contrato": "01029/2016"
-      }
-    },
-    {
-      "contrato_id": "411245",
-      "dados": {
-        "CPF": "***.539.347-**",
-        "Nome": "ESTEFANY GONZAGA JERONIMO",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "09042/2024"
-      }
-    },
-    {
-      "contrato_id": "411245",
-      "dados": {
-        "CPF": "***.767.959-**",
-        "Nome": "PATRICK MOREIRA",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "09042/2024"
-      }
-    },
-    {
-      "contrato_id": "411245",
-      "dados": {
-        "CPF": "***.767.959-**",
-        "Nome": "PATRICK MOREIRA",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "09042/2024"
-      }
-    },
-    {
-      "contrato_id": "411245",
-      "dados": {
-        "CPF": "***.404.477-**",
-        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "09042/2024"
-      }
-    },
-    {
-      "contrato_id": "411245",
-      "dados": {
-        "CPF": "***.800.535-**",
-        "Nome": "MILENA NASCIMENTO SALES",
-        "Tipo": "Fiscal Setorial",
-        "Número Contrato": "09042/2024"
-      }
-    },
-    {
-      "contrato_id": "411245",
-      "dados": {
-        "CPF": "***.921.555-**",
-        "Nome": "VANJOALDO DOS REIS LOPES NETO",
-        "Tipo": "Fiscal Setorial Substituto",
-        "Número Contrato": "09042/2024"
-      }
-    },
-    {
-      "contrato_id": "411245",
-      "dados": {
-        "CPF": "***.921.555-**",
-        "Nome": "VANJOALDO DOS REIS LOPES NETO",
-        "Tipo": "Fiscal Setorial Substituto",
-        "Número Contrato": "09042/2024"
       }
     },
     {
@@ -21414,6 +21297,69 @@
       }
     },
     {
+      "contrato_id": "411245",
+      "dados": {
+        "CPF": "***.539.347-**",
+        "Nome": "ESTEFANY GONZAGA JERONIMO",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "09042/2024"
+      }
+    },
+    {
+      "contrato_id": "411245",
+      "dados": {
+        "CPF": "***.767.959-**",
+        "Nome": "PATRICK MOREIRA",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "09042/2024"
+      }
+    },
+    {
+      "contrato_id": "411245",
+      "dados": {
+        "CPF": "***.767.959-**",
+        "Nome": "PATRICK MOREIRA",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "09042/2024"
+      }
+    },
+    {
+      "contrato_id": "411245",
+      "dados": {
+        "CPF": "***.404.477-**",
+        "Nome": "FERNANDO NINAUT NICHELLI MACHADO",
+        "Tipo": "Fiscal Substituto",
+        "Número Contrato": "09042/2024"
+      }
+    },
+    {
+      "contrato_id": "411245",
+      "dados": {
+        "CPF": "***.800.535-**",
+        "Nome": "MILENA NASCIMENTO SALES",
+        "Tipo": "Fiscal Setorial",
+        "Número Contrato": "09042/2024"
+      }
+    },
+    {
+      "contrato_id": "411245",
+      "dados": {
+        "CPF": "***.921.555-**",
+        "Nome": "VANJOALDO DOS REIS LOPES NETO",
+        "Tipo": "Fiscal Setorial Substituto",
+        "Número Contrato": "09042/2024"
+      }
+    },
+    {
+      "contrato_id": "411245",
+      "dados": {
+        "CPF": "***.921.555-**",
+        "Nome": "VANJOALDO DOS REIS LOPES NETO",
+        "Tipo": "Fiscal Setorial Substituto",
+        "Número Contrato": "09042/2024"
+      }
+    },
+    {
       "contrato_id": "247365",
       "dados": {
         "CPF": "***.470.941-**",
@@ -22413,6 +22359,60 @@
       }
     },
     {
+      "contrato_id": "623252",
+      "dados": {
+        "CPF": "***.758.087-**",
+        "Nome": "VANESSA NUPCIAS SANTOS",
+        "Tipo": "Fiscal Requisitante",
+        "Número Contrato": "05016/2025"
+      }
+    },
+    {
+      "contrato_id": "623252",
+      "dados": {
+        "CPF": "***.343.287-**",
+        "Nome": "LUCIA FREDERICO DE LYRA VAZ",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "05016/2025"
+      }
+    },
+    {
+      "contrato_id": "623252",
+      "dados": {
+        "CPF": "***.476.213-**",
+        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "05016/2025"
+      }
+    },
+    {
+      "contrato_id": "623252",
+      "dados": {
+        "CPF": "***.343.287-**",
+        "Nome": "LUCIA FREDERICO DE LYRA VAZ",
+        "Tipo": "Fiscal Requisitante Substituto",
+        "Número Contrato": "05016/2025"
+      }
+    },
+    {
+      "contrato_id": "623252",
+      "dados": {
+        "CPF": "***.758.087-**",
+        "Nome": "VANESSA NUPCIAS SANTOS",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "05016/2025"
+      }
+    },
+    {
+      "contrato_id": "623252",
+      "dados": {
+        "CPF": "***.896.037-**",
+        "Nome": "SAHID DE OLIVEIRA KIK",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "05016/2025"
+      }
+    },
+    {
       "contrato_id": "966550",
       "dados": {
         "CPF": "***.562.837-**",
@@ -22473,6 +22473,42 @@
         "Nome": "MARCO ANTONIO BARBOSA FIDELIS",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "2026NE000556"
+      }
+    },
+    {
+      "contrato_id": "977238",
+      "dados": {
+        "CPF": "***.470.941-**",
+        "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000529"
+      }
+    },
+    {
+      "contrato_id": "977238",
+      "dados": {
+        "CPF": "***.470.941-**",
+        "Nome": "ALEX RODRIGUES BRITO DE MEDEIROS",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000529"
+      }
+    },
+    {
+      "contrato_id": "977238",
+      "dados": {
+        "CPF": "***.928.441-**",
+        "Nome": "CRISTIANE BRITO COSTA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000529"
+      }
+    },
+    {
+      "contrato_id": "977238",
+      "dados": {
+        "CPF": "***.928.441-**",
+        "Nome": "CRISTIANE BRITO COSTA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2026NE000529"
       }
     },
     {
