@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-08-17T08:10:00.539904",
-  "total_registros": 2521,
+  "ultima_atualizacao": "2026-08-18T07:56:05.290479",
+  "total_registros": 2524,
   "dados": [
     {
       "contrato_id": "121472",
@@ -6984,96 +6984,6 @@
         "Nome": "SAHID DE OLIVEIRA KIK",
         "Tipo": "Fiscal Administrativo Substituto",
         "Número Contrato": "2024NE000578"
-      }
-    },
-    {
-      "contrato_id": "210010",
-      "dados": {
-        "CPF": "***.193.867-**",
-        "Nome": "RAYANNE RODRIGUES LUIZ",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09017/2023"
-      }
-    },
-    {
-      "contrato_id": "210010",
-      "dados": {
-        "CPF": "***.413.288-**",
-        "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
-        "Tipo": "Responsável Unidade Requisitante",
-        "Número Contrato": "09017/2023"
-      }
-    },
-    {
-      "contrato_id": "210010",
-      "dados": {
-        "CPF": "***.466.297-**",
-        "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09017/2023"
-      }
-    },
-    {
-      "contrato_id": "210010",
-      "dados": {
-        "CPF": "***.155.097-**",
-        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09017/2023"
-      }
-    },
-    {
-      "contrato_id": "210010",
-      "dados": {
-        "CPF": "***.340.087-**",
-        "Nome": "LUCIANA SILVA CORREIA",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09017/2023"
-      }
-    },
-    {
-      "contrato_id": "210010",
-      "dados": {
-        "CPF": "***.874.647-**",
-        "Nome": "SORAYA XAVIER FRANCO",
-        "Tipo": "Gestor",
-        "Número Contrato": "09017/2023"
-      }
-    },
-    {
-      "contrato_id": "210010",
-      "dados": {
-        "CPF": "***.893.147-**",
-        "Nome": "THIAGO MARIANO DE SOUZA",
-        "Tipo": "Gestor Substituto",
-        "Número Contrato": "09017/2023"
-      }
-    },
-    {
-      "contrato_id": "210010",
-      "dados": {
-        "CPF": "***.126.417-**",
-        "Nome": "CARLOS ANDRÉ JACOMIM DOS SANTOS",
-        "Tipo": "Fiscal Técnico Substituto",
-        "Número Contrato": "09017/2023"
-      }
-    },
-    {
-      "contrato_id": "210010",
-      "dados": {
-        "CPF": "***.529.093-**",
-        "Nome": "MARIO DOS SANTOS FERNANDES",
-        "Tipo": "Fiscal Técnico",
-        "Número Contrato": "09017/2023"
-      }
-    },
-    {
-      "contrato_id": "210010",
-      "dados": {
-        "CPF": "***.352.637-**",
-        "Nome": "VIVIAN WAINER DA SILVA BUENO",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09017/2023"
       }
     },
     {
@@ -22518,6 +22428,123 @@
         "Nome": "CRISTIANE BRITO COSTA",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "2026NE000529"
+      }
+    },
+    {
+      "contrato_id": "977238",
+      "dados": {
+        "CPF": "***.566.343-**",
+        "Nome": "JULIANA PETRONILLIO HERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000529"
+      }
+    },
+    {
+      "contrato_id": "210010",
+      "dados": {
+        "CPF": "***.193.867-**",
+        "Nome": "RAYANNE RODRIGUES LUIZ",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09017/2023"
+      }
+    },
+    {
+      "contrato_id": "210010",
+      "dados": {
+        "CPF": "***.413.288-**",
+        "Nome": "REGIS DO NASCIMENTO BEVILAQUA",
+        "Tipo": "Responsável Unidade Requisitante",
+        "Número Contrato": "09017/2023"
+      }
+    },
+    {
+      "contrato_id": "210010",
+      "dados": {
+        "CPF": "***.466.297-**",
+        "Nome": "VALENTINA DE OLIVEIRA MADEIRA",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "09017/2023"
+      }
+    },
+    {
+      "contrato_id": "210010",
+      "dados": {
+        "CPF": "***.155.097-**",
+        "Nome": "GIANCARLO DE BARROS LUTTERBACH",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09017/2023"
+      }
+    },
+    {
+      "contrato_id": "210010",
+      "dados": {
+        "CPF": "***.340.087-**",
+        "Nome": "LUCIANA SILVA CORREIA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09017/2023"
+      }
+    },
+    {
+      "contrato_id": "210010",
+      "dados": {
+        "CPF": "***.874.647-**",
+        "Nome": "SORAYA XAVIER FRANCO",
+        "Tipo": "Gestor",
+        "Número Contrato": "09017/2023"
+      }
+    },
+    {
+      "contrato_id": "210010",
+      "dados": {
+        "CPF": "***.893.147-**",
+        "Nome": "THIAGO MARIANO DE SOUZA",
+        "Tipo": "Gestor Substituto",
+        "Número Contrato": "09017/2023"
+      }
+    },
+    {
+      "contrato_id": "210010",
+      "dados": {
+        "CPF": "***.126.417-**",
+        "Nome": "CARLOS ANDRÉ JACOMIM DOS SANTOS",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "09017/2023"
+      }
+    },
+    {
+      "contrato_id": "210010",
+      "dados": {
+        "CPF": "***.529.093-**",
+        "Nome": "MARIO DOS SANTOS FERNANDES",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "09017/2023"
+      }
+    },
+    {
+      "contrato_id": "210010",
+      "dados": {
+        "CPF": "***.352.637-**",
+        "Nome": "VIVIAN WAINER DA SILVA BUENO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "09017/2023"
+      }
+    },
+    {
+      "contrato_id": "979422",
+      "dados": {
+        "CPF": "***.330.607-**",
+        "Nome": "ADEMAR FIGUEIREDO DOS SANTOS",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000616"
+      }
+    },
+    {
+      "contrato_id": "979486",
+      "dados": {
+        "CPF": "***.330.607-**",
+        "Nome": "ADEMAR FIGUEIREDO DOS SANTOS",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000637"
       }
     },
     {
