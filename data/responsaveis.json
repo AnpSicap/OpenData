@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-08-18T07:56:05.290479",
-  "total_registros": 2524,
+  "ultima_atualizacao": "2026-08-19T07:56:12.864362",
+  "total_registros": 2529,
   "dados": [
     {
       "contrato_id": "121472",
@@ -21108,6 +21108,15 @@
       }
     },
     {
+      "contrato_id": "968880",
+      "dados": {
+        "CPF": "***.697.927-**",
+        "Nome": "FERNANDA SEIXAS DE ABREU GOMES",
+        "Tipo": "Fiscal Titular",
+        "Número Contrato": "2026NE000636"
+      }
+    },
+    {
       "contrato_id": "195403",
       "dados": {
         "CPF": "***.174.041-**",
@@ -22208,6 +22217,15 @@
     {
       "contrato_id": "976265",
       "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000654"
+      }
+    },
+    {
+      "contrato_id": "976265",
+      "dados": {
         "CPF": "***.863.997-**",
         "Nome": "MARINA  ABELHA FERREIRA",
         "Tipo": "Fiscal Administrativo",
@@ -22347,6 +22365,33 @@
         "Nome": "DOUGLAS PEREIRA PEDRA",
         "Tipo": "Fiscal Técnico Substituto",
         "Número Contrato": "2026NE000626"
+      }
+    },
+    {
+      "contrato_id": "981296",
+      "dados": {
+        "CPF": "***.896.037-**",
+        "Nome": "SAHID DE OLIVEIRA KIK",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000630"
+      }
+    },
+    {
+      "contrato_id": "981296",
+      "dados": {
+        "CPF": "***.156.568-**",
+        "Nome": "MAURO RICARDO DA SILVA",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000630"
+      }
+    },
+    {
+      "contrato_id": "981296",
+      "dados": {
+        "CPF": "***.826.884-**",
+        "Nome": "NATALIE FERNANDA FERNANDES",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000630"
       }
     },
     {
