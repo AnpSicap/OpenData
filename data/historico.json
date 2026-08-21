@@ -1,7 +1,97 @@
 {
-  "ultima_atualizacao": "2026-08-20T07:59:53.602971",
-  "total_registros": 1593,
+  "ultima_atualizacao": "2026-08-21T08:01:59.988057",
+  "total_registros": 1599,
   "dados": [
+    {
+      "contrato_id": "121472",
+      "dados": {
+        "Data Assinatura": "10/11/2021",
+        "Número": "09033/2021",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09033/2021 DE ACORDO COM PROCESSO NÚMERO: 48610.204424/2021-22",
+        "Data Início": "10/11/2021",
+        "Data Fim": "10/11/2022",
+        "Vlr. Global": "1.925.000,00",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.925.000,00",
+        "Número Contrato": "09033/2021"
+      }
+    },
+    {
+      "contrato_id": "121472",
+      "dados": {
+        "Data Assinatura": "10/11/2022",
+        "Número": "00001/2022",
+        "Tipo": "Termo Aditivo",
+        "Observação": "PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR ATÉ 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 10/11/2022 A 10/11/2023,  MANTIDOS OS MOLDES ORIGINAIS, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93\r\n\r\n       2.1.1 O CONTRATO PODERÁ SER RESCINDIDO DE FORMA AMIGÁVEL E ANTECIPADA, TÃO LOGO SEJA FINALIZADA NOVA LICITAÇÃO, A SER PROMOVIDA PARA A CONTRATAÇÃO DOS MESMOS SERVIÇOS OBJETO DO PRESENTE CONTRATO, NOS TERMOS DO ARTIGO 79, INCISO II E §1º, DA LEI Nº 8.666/1993, MEDIANTE NOTIFICAÇÃO PRÉVIA DA CONTRATANTE À CONTRATADA, COM NO MÍNIMO 30 (TRINTA) DIAS DE ANTECEDÊNCIA, MANTIDAS AS DEMAIS CONDIÇÕES ANTERIORMENTE PACTUADAS.\r\n\r\n2.2 ELIMINAR/E/OU REDUZIR OS CUSTOS FIXOS OU VARIÁVEIS NÃO RENOVÁVEIS JÁ AMORTIZADOS OU PAGOS NO PRIMEIRO ANO DA CONTRATAÇÃO.\r\n\r\n2.3  ASSEGURAR À CONTRATADA, O DIREITO DE PLEITEAR A REPACTUAÇÃO DO VALOR DOS SERVIÇOS, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO E DO ITEM 11 DO TERMO DE REFERÊNCIA.",
+        "Data Início": "10/11/2022",
+        "Data Fim": "10/11/2023",
+        "Vlr. Global": "1.930.289,94",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.930.289,94",
+        "Número Contrato": "09033/2021"
+      }
+    },
+    {
+      "contrato_id": "121472",
+      "dados": {
+        "Data Assinatura": "31/10/2023",
+        "Número": "00001/2023",
+        "Tipo": "Termo Aditivo",
+        "Observação": "2.1 PRORROGAR A VIGÊNCIA DO CONTRATO ORIGINAL POR ATÉ 12 (DOZE) MESES, CORRESPONDENTES AO PERÍODO DE 10/11/2023 A 10/11/2024,  MANTIDOS OS MOLDES VIGENTES, COM FUNDAMENTO NO ARTIGO 57, INCISO II, DA LEI Nº 8666/93\r\n\r\n       2.1.1 O CONTRATO PODERÁ SER RESCINDIDO DE FORMA AMIGÁVEL E ANTECIPADA, TÃO LOGO SEJA FINALIZADA NOVA LICITAÇÃO, A SER PROMOVIDA PARA A CONTRATAÇÃO DOS MESMOS SERVIÇOS OBJETO DO PRESENTE CONTRATO, NOS TERMOS DO ARTIGO 79, INCISO II E §1º, DA LEI Nº 8.666/1993, MEDIANTE NOTIFICAÇÃO PRÉVIA DA CONTRATANTE À CONTRATADA, COM NO MÍNIMO 30 (TRINTA) DIAS DE ANTECEDÊNCIA, MANTIDAS AS DEMAIS CONDIÇÕES ANTERIORMENTE PACTUADAS.\r\n\r\n2.2  ASSEGURAR À CONTRATADA, O DIREITO DE PLEITEAR A REPACTUAÇÃO DO VALOR DOS SERVIÇOS, TÃO LOGO DISPONHA DOS VALORES REAJUSTADOS, COM FUNDAMENTO NA PRESCRIÇÃO DA CLÁUSULA SEXTA DO CONTRATO E DO ITEM 11 DO TERMO DE REFERÊNCIA.",
+        "Data Início": "10/11/2023",
+        "Data Fim": "10/11/2024",
+        "Vlr. Global": "1.930.289,94",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.930.289,94",
+        "Número Contrato": "09033/2021"
+      }
+    },
+    {
+      "contrato_id": "121472",
+      "dados": {
+        "Data Assinatura": "04/03/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REPACTUAR O VALOR EM APROXIMADAMENTE 11,54%, TENDO SEUS EFEITOS FINANCEIROS RETROATIVOS A 01/09/2022, COM BASE NO QUE DISPÕEM O ADITIVO À CCT 2021/2023 E A CCT 2023/2025 DO SINDPD-RJ.",
+        "Data Início": "10/11/2021",
+        "Data Fim": "10/11/2024",
+        "Vlr. Global": "2.152.977,70",
+        "Parcelas": "1",
+        "Vlr. Parcela": "2.152.977,70",
+        "Número Contrato": "09033/2021"
+      }
+    },
+    {
+      "contrato_id": "121472",
+      "dados": {
+        "Data Assinatura": "29/05/2024",
+        "Número": "00003/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "O PRESENTE TERMO TEM POR OBJETO RESCINDIR, AMIGAVELMENTE, A PARTIR DE 31/05/2024, O CONTRATO Nº 9.033/2021, QUE TEM POR OBJETO A PRESTAÇÃO DE SERVIÇOS TÉCNICOS ESPECIALIZADOS EM TECNOLOGIA DA INFORMAÇÃO RELATIVOS AO GRUPO DE ESPECIALIZAÇÃO, PROCESSOS E DESENVOLVIMENTO DE SISTEMAS; AS PARTES DÃO POR TERMINADO, A PARTIR DA ASSINATURA DO TERMO/DATA ESTIPULADA, O CONTRATO ORIGINAL, NADA MAIS TENDO A RECLAMAR UMA DA OUTRA, A QUALQUER TÍTULO E EM QUALQUER ÉPOCA, RELATIVAMENTE ÀS OBRIGAÇÕES CONTRATUAIS ASSUMIDAS, RESSALVADOS QUAISQUER ENCARGOS OU PENDÊNCIAS QUE POR VENTURA POSSAM EXISTIR ENTRE AS PARTES ATÉ A DATA DA RESCISÃO, ESPECIALMENTE QUANTO AO DISPOSTO NOS INCISOS III E IV, DO ARTIGO 80, DA LEI 8.666/93; A RESCISÃO DO CONTRATO NÃO IMPEDE A APLICAÇÃO DE PENALIDADE EM CASO DE INFRAÇÃO EVENTUALMENTE APURADA APÓS O ENCERRAMENTO DO AJUSTE; E A EXECUÇÃO E DEVOLUÇÃO DA GARANTIA SERÃO PROCEDIDAS DE ACORDO COM AS DISPOSIÇÕES CONTIDAS NA IN 05/2017/SEGES/MPDG.",
+        "Data Início": "31/05/2024",
+        "Data Fim": "31/05/2024",
+        "Vlr. Global": "2.152.977,70",
+        "Parcelas": "1",
+        "Vlr. Parcela": "2.152.977,70",
+        "Número Contrato": "09033/2021"
+      }
+    },
+    {
+      "contrato_id": "738222",
+      "dados": {
+        "Data Assinatura": "11/11/2025",
+        "Número": "2025NE000655",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000655 DE ACORDO COM PROCESSO NÚMERO: 48610.222525/2025-17",
+        "Data Início": "11/11/2025",
+        "Data Fim": "31/12/2025",
+        "Vlr. Global": "676,60",
+        "Parcelas": "1",
+        "Vlr. Parcela": "676,60",
+        "Número Contrato": "2025NE000655"
+      }
+    },
     {
       "contrato_id": "738223",
       "dados": {
@@ -1240,7 +1330,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "20/08/2026",
+        "Data Fim": "21/08/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -6925,7 +7015,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "20/08/2026",
+        "Data Fim": "21/08/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8020,7 +8110,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "20/08/2026",
+        "Data Fim": "21/08/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -14365,7 +14455,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "20/08/2026",
+        "Data Fim": "21/08/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -15895,7 +15985,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "20/08/2026",
+        "Data Fim": "21/08/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16165,7 +16255,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "20/08/2026",
+        "Data Fim": "21/08/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
