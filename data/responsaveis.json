@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-08-24T08:14:16.131610",
-  "total_registros": 2529,
+  "ultima_atualizacao": "2026-08-25T08:02:55.741041",
+  "total_registros": 2533,
   "dados": [
     {
       "contrato_id": "121472",
@@ -22590,6 +22590,42 @@
         "Nome": "ADEMAR FIGUEIREDO DOS SANTOS",
         "Tipo": "Fiscal Técnico",
         "Número Contrato": "2026NE000637"
+      }
+    },
+    {
+      "contrato_id": "982207",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000657"
+      }
+    },
+    {
+      "contrato_id": "982207",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000657"
+      }
+    },
+    {
+      "contrato_id": "982207",
+      "dados": {
+        "CPF": "***.217.117-**",
+        "Nome": "LEANDRO GUEDES DA FONSECA",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000657"
+      }
+    },
+    {
+      "contrato_id": "982207",
+      "dados": {
+        "CPF": "***.217.117-**",
+        "Nome": "LEANDRO GUEDES DA FONSECA",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2026NE000657"
       }
     },
     {
