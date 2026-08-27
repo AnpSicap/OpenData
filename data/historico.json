@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-08-26T08:05:15.956911",
-  "total_registros": 1600,
+  "ultima_atualizacao": "2026-08-27T18:27:29.064601",
+  "total_registros": 1603,
   "dados": [
     {
       "contrato_id": "121472",
@@ -1330,7 +1330,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05040/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.201207/2024-76",
         "Data Início": "24/03/2025",
-        "Data Fim": "26/08/2026",
+        "Data Fim": "27/08/2026",
         "Vlr. Global": "28.279,92",
         "Parcelas": "1",
         "Vlr. Parcela": "28.279,92",
@@ -7015,7 +7015,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2024NE000245 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "29/02/2024",
-        "Data Fim": "26/08/2026",
+        "Data Fim": "27/08/2026",
         "Vlr. Global": "20.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "20.052,32",
@@ -8110,7 +8110,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000134 DE ACORDO COM PROCESSO NÚMERO: 48610.202246/2020-14",
         "Data Início": "22/01/2025",
-        "Data Fim": "26/08/2026",
+        "Data Fim": "27/08/2026",
         "Vlr. Global": "1.000,00",
         "Parcelas": "1",
         "Vlr. Parcela": "1.000,00",
@@ -14425,7 +14425,7 @@
         "Tipo": "Empenho",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 2025NE000135 DE ACORDO COM PROCESSO NÚMERO: 48640.200000/2020-51",
         "Data Início": "22/01/2025",
-        "Data Fim": "26/08/2026",
+        "Data Fim": "27/08/2026",
         "Vlr. Global": "10.502,64",
         "Parcelas": "1",
         "Vlr. Parcela": "10.502,64",
@@ -14520,36 +14520,6 @@
         "Parcelas": "12",
         "Vlr. Parcela": "378.451,86",
         "Número Contrato": "09029/2024"
-      }
-    },
-    {
-      "contrato_id": "655048",
-      "dados": {
-        "Data Assinatura": "18/09/2025",
-        "Número": "09022/2025",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 09022/2025 DE ACORDO COM PROCESSO NÚMERO: 48610230083202472",
-        "Data Início": "18/09/2025",
-        "Data Fim": "18/03/2028",
-        "Vlr. Global": "8.162.683,20",
-        "Parcelas": "30",
-        "Vlr. Parcela": "272.089,44",
-        "Número Contrato": "09022/2025"
-      }
-    },
-    {
-      "contrato_id": "655048",
-      "dados": {
-        "Data Assinatura": "24/03/2026",
-        "Número": "00001/2026",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "CONSIDERANDO A NOTA TÉCNICA 5 (SEI Nº 5756211), QUE ESTABELECEU OS NOVOS PARÂMETROS DE VALOR H/H, E VISANDO A CELERIDADE DO FEITO, ADOTA-SE PARA FINS DE APOSTILAMENTO O CRONOGRAMA FINANCEIRO DETALHADO NO DESPACHO 57 (SEI Nº 5756381), QUE REGISTRA O APOSTILAMENTO DOS VALORES CONTRATUAIS EM CONFORMIDADE COM A EXECUÇÃO FÍSICA REAL DO CONTRATO, CONSIDERANDO O INÍCIO DAS ATIVIDADES EM 13/10/2025 E AS MEDIÇÕES EFETIVADAS ATÉ JANEIRO DE 2026, GARANTINDO A EXATIDÃO DOS VALORES RETROATIVOS A SEREM INDENIZADOS.\r\n\r\nCOM A REPACTUAÇÃO, ESTIMA-SE QUE O VALOR GLOBAL PARA O PERÍODO DE 30 (TRINTA) MESES PASSARÁ DE R$ 8.162.683,20 (OITO MILHÕES, CENTO E SESSENTA E DOIS MIL, SEISCENTOS E OITENTA E TRÊS REAIS E VINTE CENTAVOS) PARA R$ 8.185.525,78 (OITO MILHÕES, CENTO E OITENTA E CINCO MIL, QUINHENTOS E VINTE E CINCO REAIS E SETENTA E OITO CENTAVOS), CONFORME DETALHADO NO DESPACHO SUPRACITADO E NA PLANILHA CONTIDA NO TERMO DE APOSTILAMENTO",
-        "Data Início": "18/09/2025",
-        "Data Fim": "18/03/2028",
-        "Vlr. Global": "8.185.525,78",
-        "Parcelas": "30",
-        "Vlr. Parcela": "272.850,86",
-        "Número Contrato": "09022/2025"
       }
     },
     {
@@ -15408,96 +15378,6 @@
       }
     },
     {
-      "contrato_id": "188204",
-      "dados": {
-        "Data Assinatura": "31/03/2023",
-        "Número": "04050/2022",
-        "Tipo": "Contrato",
-        "Observação": "CELEBRAÇÃO DO CONTRATO: 04050/2022 DE ACORDO COM PROCESSO NÚMERO: 48610.226923/2022-51",
-        "Data Início": "31/03/2023",
-        "Data Fim": "31/03/2028",
-        "Vlr. Global": "8.646.652,80",
-        "Parcelas": "60",
-        "Vlr. Parcela": "144.110,88",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "Data Assinatura": "11/11/2024",
-        "Número": "00001/2024",
-        "Tipo": "Termo Aditivo",
-        "Observação": "COM VISTAS À OBTENÇÃO DE CONDIÇÕES MAIS VANTAJOSAS PARA A ADMINISTRAÇÃO, COM BASE EM NEGOCIAÇÃO FORMULADA COM A LOCADORA, É CONCEDIDO O DESCONTO DE R$7.110,88 (SETE MIL, CENTO E DEZ REAIS E OITENTA E OITO CENTAVOS) SOBRE O VALOR MENSAL ATUAL DE R$144.110,88 (CENTO E QUARENTA E QUATRO MIL CENTO E DEZ REAIS E OITENTA E OITO CENTAVOS),SOMENTE NO PERÍODO DE 1º DE NOVEMBRO DE 2024 ATÉ 31 DE MARÇO DE 2025.",
-        "Data Início": "12/11/2024",
-        "Data Fim": "31/03/2028",
-        "Vlr. Global": "8.611.098,40",
-        "Parcelas": "1",
-        "Vlr. Parcela": "8.611.098,40",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "Data Assinatura": "29/04/2025",
-        "Número": "00001/2025",
-        "Tipo": "Termo de Apostilamento",
-        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 4.050/22-ANP-226.923 EM 8,582490%, COM BASE NO IGP-M ACUMULADO ENTRE ABRIL DE 2024 E MARÇO DE 2025, PARA O PERÍODO COMPREENDIDO ENTRE 31/03/2025 A 31/03/2026, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 17/2025/SGA-CCO/SGA/ANP-RJ (SEI 4902958).",
-        "Data Início": "31/03/2023",
-        "Data Fim": "31/03/2028",
-        "Vlr. Global": "1.877.750,16",
-        "Parcelas": "1",
-        "Vlr. Parcela": "1.877.750,16",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "Data Assinatura": "29/07/2025",
-        "Número": "00002/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "COM VISTAS À OBTENÇÃO DE CONDIÇÕES MAIS VANTAJOSAS PARA A ADMINISTRAÇÃO, COM BASE EM NEGOCIAÇÃO FORMULADA COM A LOCADORA, É CONCEDIDO O DESCONTO DE R$ 31.295,83 (TRINTA E UM MIL DUZENTOS E NOVENTA E CINCO REAIS E OITENTA E TRÊS CENTAVOS) SOBRE O VALOR MENSAL ATUAL DE R$ 156.479,18 (CENTO E CINQUENTA E SEIS MIL QUATROCENTOS E SETENTA E NOVE REAIS E DEZOITO CENTAVOS),SOMENTE NO PERÍODO DE 1º DE JULHO DE 2025 ATÉ 31 DE DEZEMBRO DE 2025.",
-        "Data Início": "29/07/2025",
-        "Data Fim": "31/03/2028",
-        "Vlr. Global": "8.868.582,22",
-        "Parcelas": "60",
-        "Vlr. Parcela": "147.809,70",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "Data Assinatura": "26/12/2025",
-        "Número": "00003/2025",
-        "Tipo": "Termo Aditivo",
-        "Observação": "TERMO PROVISÓRIO DE RESCISÃO AO CONTRATO DE LOCAÇÃO DE IMÓVEL Nº 4.050/22-ANP-226.923 E PAGAMENTO DE MULTA\r\n\r\nO PRESENTETERMO ADITIVO TEM POR OBJETO FORMALIZAR A INTENÇÃO DA LOCATÁRIA DE RESCINDIR ANTECIPADAMENTE O CONTRATO Nº 4.050/2022 (SEI N.º 2955097), QUE DISPÕE SOBRE A LOCAÇÃO DO 14º, 15º, 16º, 17º 18º E 19º PAVIMENTOS DO IMÓVEL LOCALIZADO NA AVENIDA RIO BRANCO, 57, CENTRO, RIO DE JANEIRO, COM PRODUÇÃO DE EFEITOS A PARTIR DE 31/03/2026, COM A CONSEQUENTE DEVOLUÇÃO DOS ANDARES 14º AO 19º MED MEDIANTE O PAGAMENTO DA MULTA CONTRATUAL CORRESPONDENTE A R$ 751.099,97 (SETECENTOS E CINQUENTA E UM MIL E NOVENTA E NOVE REAIS E NOVENTA E SETE CENTAVOS), CONFORME ESTABELECIDO NAS CLÁUSULAS 4.4.1 E 14.5 E 14.5.1 DO CONTRATO.",
-        "Data Início": "26/12/2025",
-        "Data Fim": "31/03/2026",
-        "Vlr. Global": "751.099,97",
-        "Parcelas": "60",
-        "Vlr. Parcela": "12.518,33",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
-      "contrato_id": "188204",
-      "dados": {
-        "Data Assinatura": "31/03/2026",
-        "Número": "04050/2022",
-        "Tipo": "Termo de Rescisão",
-        "Observação": "O PRESENTE TERMO TEM POR OBJETO A FORMALIZAÇÃO DA RESCISÃO DO CONTRATO Nº 4.050/2022 (2955097), REFERENTE À LOCAÇÃO DOS PAVIMENTOS 14º AO 19º DO IMÓVEL SITUADO NA AVENIDA RIO BRANCO, Nº 57, CENTRO, RIO DE JANEIRO/RJ,\r\nA RESCISÃO ORA FORMALIZADA DECORRE DO EXERCÍCIO DO DIREITO DE RESILIÇÃO UNILATERAL PELA LOCATÁRIA, NOS TERMOS CONTRATUAIS, PRODUZINDO EFEITOS A PARTIR DE 31 DE MARÇO DE 2026.",
-        "Data Início": "31/03/2023",
-        "Data Fim": "31/03/2026",
-        "Vlr. Global": "0,00",
-        "Parcelas": "",
-        "Vlr. Parcela": "0,00",
-        "Número Contrato": "04050/2022"
-      }
-    },
-    {
       "contrato_id": "247384",
       "dados": {
         "Data Assinatura": "25/01/2024",
@@ -16000,7 +15880,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 04019/2024 DE ACORDO COM PROCESSO NÚMERO: 48640.200336/2021-02",
         "Data Início": "02/08/2021",
-        "Data Fim": "26/08/2026",
+        "Data Fim": "27/08/2026",
         "Vlr. Global": "30.052,32",
         "Parcelas": "1",
         "Vlr. Parcela": "30.052,32",
@@ -16270,7 +16150,7 @@
         "Tipo": "Contrato",
         "Observação": "CELEBRAÇÃO DO CONTRATO: 05044/2024 DE ACORDO COM PROCESSO NÚMERO: 48610.210019/2024-96",
         "Data Início": "14/01/2025",
-        "Data Fim": "26/08/2026",
+        "Data Fim": "27/08/2026",
         "Vlr. Global": "1.049.145,90",
         "Parcelas": "1",
         "Vlr. Parcela": "1.049.145,90",
@@ -19320,6 +19200,51 @@
         "Parcelas": "1",
         "Vlr. Parcela": "70.920,00",
         "Número Contrato": "2024NE000756"
+      }
+    },
+    {
+      "contrato_id": "655048",
+      "dados": {
+        "Data Assinatura": "18/09/2025",
+        "Número": "09022/2025",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 09022/2025 DE ACORDO COM PROCESSO NÚMERO: 48610230083202472",
+        "Data Início": "18/09/2025",
+        "Data Fim": "18/03/2028",
+        "Vlr. Global": "8.162.683,20",
+        "Parcelas": "30",
+        "Vlr. Parcela": "272.089,44",
+        "Número Contrato": "09022/2025"
+      }
+    },
+    {
+      "contrato_id": "655048",
+      "dados": {
+        "Data Assinatura": "24/03/2026",
+        "Número": "00001/2026",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "CONSIDERANDO A NOTA TÉCNICA 5 (SEI Nº 5756211), QUE ESTABELECEU OS NOVOS PARÂMETROS DE VALOR H/H, E VISANDO A CELERIDADE DO FEITO, ADOTA-SE PARA FINS DE APOSTILAMENTO O CRONOGRAMA FINANCEIRO DETALHADO NO DESPACHO 57 (SEI Nº 5756381), QUE REGISTRA O APOSTILAMENTO DOS VALORES CONTRATUAIS EM CONFORMIDADE COM A EXECUÇÃO FÍSICA REAL DO CONTRATO, CONSIDERANDO O INÍCIO DAS ATIVIDADES EM 13/10/2025 E AS MEDIÇÕES EFETIVADAS ATÉ JANEIRO DE 2026, GARANTINDO A EXATIDÃO DOS VALORES RETROATIVOS A SEREM INDENIZADOS.\r\n\r\nCOM A REPACTUAÇÃO, ESTIMA-SE QUE O VALOR GLOBAL PARA O PERÍODO DE 30 (TRINTA) MESES PASSARÁ DE R$ 8.162.683,20 (OITO MILHÕES, CENTO E SESSENTA E DOIS MIL, SEISCENTOS E OITENTA E TRÊS REAIS E VINTE CENTAVOS) PARA R$ 8.185.525,78 (OITO MILHÕES, CENTO E OITENTA E CINCO MIL, QUINHENTOS E VINTE E CINCO REAIS E SETENTA E OITO CENTAVOS), CONFORME DETALHADO NO DESPACHO SUPRACITADO E NA PLANILHA CONTIDA NO TERMO DE APOSTILAMENTO",
+        "Data Início": "18/09/2025",
+        "Data Fim": "18/03/2028",
+        "Vlr. Global": "8.185.525,78",
+        "Parcelas": "30",
+        "Vlr. Parcela": "272.850,86",
+        "Número Contrato": "09022/2025"
+      }
+    },
+    {
+      "contrato_id": "655048",
+      "dados": {
+        "Data Assinatura": "28/06/2026",
+        "Número": "00002/2026",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "1. REGISTRAR A EXCLUSÃO DOS CUSTOS NÃO RENOVÁVEIS CONSTANTES DA PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇOS DO CONTRATO Nº 9.022/25-ANP-230.383, RELATIVOS AO MÓDULO 3 - PROVISÃO PARA RESCISÃO, EM CONFORMIDADE COM A NOTA TÉCNICA Nº 652/2017/MP (SEI Nº 6190866), CONFORME DEMONSTRADO NA NOTA TÉCNICA Nº 26/2026/SDT/ANP-RJ (SEI Nº 6189557) E NA PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇOS REVISADA (SEI Nº 6211943).\r\n2. ADEQUAR O VALOR DO CONTRATO Nº 9.022/25-ANP-230.383 EM DECORRÊNCIA DA AMORTIZAÇÃO DOS CUSTOS NÃO RENOVÁVEIS DURANTE A EXECUÇÃO CONTRATUAL, PROMOVENDO A COMPATIBILIZAÇÃO DOS VALORES CONTRATUAIS COM OS CUSTOS EFETIVAMENTE INCIDENTES NA PRESTAÇÃO DOS SERVIÇOS.",
+        "Data Início": "18/09/2025",
+        "Data Fim": "18/03/2028",
+        "Vlr. Global": "8.082.194,40",
+        "Parcelas": "30",
+        "Vlr. Parcela": "269.406,48",
+        "Número Contrato": "09022/2025"
       }
     },
     {
@@ -23613,6 +23538,21 @@
       }
     },
     {
+      "contrato_id": "987911",
+      "dados": {
+        "Data Assinatura": "24/08/2026",
+        "Número": "2026NE000687",
+        "Tipo": "Empenho",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 2026NE000687 DE ACORDO COM PROCESSO NÚMERO: 48610.209913/2026-85",
+        "Data Início": "24/08/2026",
+        "Data Fim": "31/12/2026",
+        "Vlr. Global": "40.698,33",
+        "Parcelas": "1",
+        "Vlr. Parcela": "40.698,33",
+        "Número Contrato": "2026NE000687"
+      }
+    },
+    {
       "contrato_id": "981296",
       "dados": {
         "Data Assinatura": "28/07/2026",
@@ -23865,6 +23805,111 @@
         "Parcelas": "1",
         "Vlr. Parcela": "65.400,00",
         "Número Contrato": "2026NE000657"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "Data Assinatura": "31/03/2023",
+        "Número": "04050/2022",
+        "Tipo": "Termo de Encerramento",
+        "Observação": "",
+        "Data Início": "31/03/2023",
+        "Data Fim": "31/03/2026",
+        "Vlr. Global": "0,00",
+        "Parcelas": "",
+        "Vlr. Parcela": "0,00",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "Data Assinatura": "31/03/2023",
+        "Número": "04050/2022",
+        "Tipo": "Contrato",
+        "Observação": "CELEBRAÇÃO DO CONTRATO: 04050/2022 DE ACORDO COM PROCESSO NÚMERO: 48610.226923/2022-51",
+        "Data Início": "31/03/2023",
+        "Data Fim": "31/03/2028",
+        "Vlr. Global": "8.646.652,80",
+        "Parcelas": "60",
+        "Vlr. Parcela": "144.110,88",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "Data Assinatura": "11/11/2024",
+        "Número": "00001/2024",
+        "Tipo": "Termo Aditivo",
+        "Observação": "COM VISTAS À OBTENÇÃO DE CONDIÇÕES MAIS VANTAJOSAS PARA A ADMINISTRAÇÃO, COM BASE EM NEGOCIAÇÃO FORMULADA COM A LOCADORA, É CONCEDIDO O DESCONTO DE R$7.110,88 (SETE MIL, CENTO E DEZ REAIS E OITENTA E OITO CENTAVOS) SOBRE O VALOR MENSAL ATUAL DE R$144.110,88 (CENTO E QUARENTA E QUATRO MIL CENTO E DEZ REAIS E OITENTA E OITO CENTAVOS),SOMENTE NO PERÍODO DE 1º DE NOVEMBRO DE 2024 ATÉ 31 DE MARÇO DE 2025.",
+        "Data Início": "12/11/2024",
+        "Data Fim": "31/03/2028",
+        "Vlr. Global": "8.611.098,40",
+        "Parcelas": "1",
+        "Vlr. Parcela": "8.611.098,40",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "Data Assinatura": "29/04/2025",
+        "Número": "00001/2025",
+        "Tipo": "Termo de Apostilamento",
+        "Observação": "REAJUSTAR O VALOR DO CONTRATO Nº 4.050/22-ANP-226.923 EM 8,582490%, COM BASE NO IGP-M ACUMULADO ENTRE ABRIL DE 2024 E MARÇO DE 2025, PARA O PERÍODO COMPREENDIDO ENTRE 31/03/2025 A 31/03/2026, CONFORME O DISPOSTO NA NOTA TÉCNICA Nº 17/2025/SGA-CCO/SGA/ANP-RJ (SEI 4902958).",
+        "Data Início": "31/03/2023",
+        "Data Fim": "31/03/2028",
+        "Vlr. Global": "1.877.750,16",
+        "Parcelas": "1",
+        "Vlr. Parcela": "1.877.750,16",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "Data Assinatura": "29/07/2025",
+        "Número": "00002/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "COM VISTAS À OBTENÇÃO DE CONDIÇÕES MAIS VANTAJOSAS PARA A ADMINISTRAÇÃO, COM BASE EM NEGOCIAÇÃO FORMULADA COM A LOCADORA, É CONCEDIDO O DESCONTO DE R$ 31.295,83 (TRINTA E UM MIL DUZENTOS E NOVENTA E CINCO REAIS E OITENTA E TRÊS CENTAVOS) SOBRE O VALOR MENSAL ATUAL DE R$ 156.479,18 (CENTO E CINQUENTA E SEIS MIL QUATROCENTOS E SETENTA E NOVE REAIS E DEZOITO CENTAVOS),SOMENTE NO PERÍODO DE 1º DE JULHO DE 2025 ATÉ 31 DE DEZEMBRO DE 2025.",
+        "Data Início": "29/07/2025",
+        "Data Fim": "31/03/2028",
+        "Vlr. Global": "8.868.582,22",
+        "Parcelas": "60",
+        "Vlr. Parcela": "147.809,70",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "Data Assinatura": "26/12/2025",
+        "Número": "00003/2025",
+        "Tipo": "Termo Aditivo",
+        "Observação": "TERMO PROVISÓRIO DE RESCISÃO AO CONTRATO DE LOCAÇÃO DE IMÓVEL Nº 4.050/22-ANP-226.923 E PAGAMENTO DE MULTA\r\n\r\nO PRESENTETERMO ADITIVO TEM POR OBJETO FORMALIZAR A INTENÇÃO DA LOCATÁRIA DE RESCINDIR ANTECIPADAMENTE O CONTRATO Nº 4.050/2022 (SEI N.º 2955097), QUE DISPÕE SOBRE A LOCAÇÃO DO 14º, 15º, 16º, 17º 18º E 19º PAVIMENTOS DO IMÓVEL LOCALIZADO NA AVENIDA RIO BRANCO, 57, CENTRO, RIO DE JANEIRO, COM PRODUÇÃO DE EFEITOS A PARTIR DE 31/03/2026, COM A CONSEQUENTE DEVOLUÇÃO DOS ANDARES 14º AO 19º MED MEDIANTE O PAGAMENTO DA MULTA CONTRATUAL CORRESPONDENTE A R$ 751.099,97 (SETECENTOS E CINQUENTA E UM MIL E NOVENTA E NOVE REAIS E NOVENTA E SETE CENTAVOS), CONFORME ESTABELECIDO NAS CLÁUSULAS 4.4.1 E 14.5 E 14.5.1 DO CONTRATO.",
+        "Data Início": "26/12/2025",
+        "Data Fim": "31/03/2026",
+        "Vlr. Global": "751.099,97",
+        "Parcelas": "60",
+        "Vlr. Parcela": "12.518,33",
+        "Número Contrato": "04050/2022"
+      }
+    },
+    {
+      "contrato_id": "188204",
+      "dados": {
+        "Data Assinatura": "31/03/2026",
+        "Número": "04050/2022",
+        "Tipo": "Termo de Rescisão",
+        "Observação": "O PRESENTE TERMO TEM POR OBJETO A FORMALIZAÇÃO DA RESCISÃO DO CONTRATO Nº 4.050/2022 (2955097), REFERENTE À LOCAÇÃO DOS PAVIMENTOS 14º AO 19º DO IMÓVEL SITUADO NA AVENIDA RIO BRANCO, Nº 57, CENTRO, RIO DE JANEIRO/RJ,\r\nA RESCISÃO ORA FORMALIZADA DECORRE DO EXERCÍCIO DO DIREITO DE RESILIÇÃO UNILATERAL PELA LOCATÁRIA, NOS TERMOS CONTRATUAIS, PRODUZINDO EFEITOS A PARTIR DE 31 DE MARÇO DE 2026.",
+        "Data Início": "31/03/2023",
+        "Data Fim": "31/03/2026",
+        "Vlr. Global": "0,00",
+        "Parcelas": "",
+        "Vlr. Parcela": "0,00",
+        "Número Contrato": "04050/2022"
       }
     },
     {
