@@ -1,6 +1,6 @@
 {
-  "ultima_atualizacao": "2026-08-28T19:35:21.907398",
-  "total_registros": 2539,
+  "ultima_atualizacao": "2026-08-31T15:27:44.063733",
+  "total_registros": 2535,
   "dados": [
     {
       "contrato_id": "121472",
@@ -20991,78 +20991,6 @@
       }
     },
     {
-      "contrato_id": "258402",
-      "dados": {
-        "CPF": "***.566.343-**",
-        "Nome": "JULIANA PETRONILLIO HERNANDES",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "2024NE000282"
-      }
-    },
-    {
-      "contrato_id": "258403",
-      "dados": {
-        "CPF": "***.566.343-**",
-        "Nome": "JULIANA PETRONILLIO HERNANDES",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "2024NE000284"
-      }
-    },
-    {
-      "contrato_id": "942710",
-      "dados": {
-        "CPF": "***.487.292-**",
-        "Nome": "LUCIANO RICARDO DA SILVA LOBO",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "2026NE000563"
-      }
-    },
-    {
-      "contrato_id": "942710",
-      "dados": {
-        "CPF": "***.344.907-**",
-        "Nome": "HELOISE HELENA LOPES MAIA DA COSTA",
-        "Tipo": "Fiscal Substituto",
-        "Número Contrato": "2026NE000563"
-      }
-    },
-    {
-      "contrato_id": "244483",
-      "dados": {
-        "CPF": "***.163.777-**",
-        "Nome": "ALISSON CHRISTI VIEIRA ROCHA",
-        "Tipo": "Responsável Unidade Requisitante",
-        "Número Contrato": "09032/2023"
-      }
-    },
-    {
-      "contrato_id": "244483",
-      "dados": {
-        "CPF": "***.476.213-**",
-        "Nome": "JOSÉ ESMERALDO BARRETO NETO",
-        "Tipo": "Fiscal Administrativo",
-        "Número Contrato": "09032/2023"
-      }
-    },
-    {
-      "contrato_id": "244483",
-      "dados": {
-        "CPF": "***.896.037-**",
-        "Nome": "SAHID DE OLIVEIRA KIK",
-        "Tipo": "Fiscal Administrativo Substituto",
-        "Número Contrato": "09032/2023"
-      }
-    },
-    {
-      "contrato_id": "968880",
-      "dados": {
-        "CPF": "***.697.927-**",
-        "Nome": "FERNANDA SEIXAS DE ABREU GOMES",
-        "Tipo": "Fiscal Titular",
-        "Número Contrato": "2026NE000636"
-      }
-    },
-    {
       "contrato_id": "195403",
       "dados": {
         "CPF": "***.174.041-**",
@@ -21717,6 +21645,42 @@
         "Nome": "JESSICA BAUCK DE LA VEGA DA SILVA",
         "Tipo": "Fiscal Administrativo",
         "Número Contrato": "2026NE000528"
+      }
+    },
+    {
+      "contrato_id": "965955",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo",
+        "Número Contrato": "2026NE000633"
+      }
+    },
+    {
+      "contrato_id": "965955",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Técnico",
+        "Número Contrato": "2026NE000633"
+      }
+    },
+    {
+      "contrato_id": "965955",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Administrativo Substituto",
+        "Número Contrato": "2026NE000633"
+      }
+    },
+    {
+      "contrato_id": "965955",
+      "dados": {
+        "CPF": "***.562.837-**",
+        "Nome": "RICARDO RODRIGUES MONTEIRO",
+        "Tipo": "Fiscal Técnico Substituto",
+        "Número Contrato": "2026NE000633"
       }
     },
     {
