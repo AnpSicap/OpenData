@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-09-02T09:17:00.207312",
+  "ultima_atualizacao": "2026-09-03T09:25:46.571248",
   "total_registros": 5000,
   "dados": [
     {
@@ -93211,35 +93211,6 @@
     {
       "orgao": "32205 - AGENCIA NACIONAL DO PETROLEO",
       "ug": "323031 - ESC.CENTRAL DA ANP",
-      "fornecedor": "62.652.961/0001-38 - AGENCIA ESTADO S.A",
-      "contrato": "05037/2022",
-      "fundamento_legal": "LEI 8.666 / 1993",
-      "objeto": "PRESTAÇÃO DE SERVIÇOS",
-      "observacao": null,
-      "numero_fatura": "863566",
-      "data_emissao": "2025-07-22",
-      "data_recebimento": "2025-08-07",
-      "data_vencimento": "2025-08-21",
-      "data_pagamento": "2025-08-21",
-      "valor_original": 2190.95,
-      "retencao": 0.0,
-      "glosa": 0.0,
-      "deducoes": -0.0,
-      "valor_final": 2190.95,
-      "processo": "48610.221482/2022-00",
-      "data_referencia": "2025-08-07",
-      "sub_rogacao": null,
-      "indicio_sobrepreco": "Não",
-      "mes": "07 / 2025 - 2.083,26",
-      "ano": "Pendente",
-      "situacao": "Não Informada",
-      "data_ultima_atualizacao": null,
-      "cnpj_fornecedor": "62.652.961/0001-38",
-      "nome_fornecedor": "AGENCIA ESTADO S.A"
-    },
-    {
-      "orgao": "32205 - AGENCIA NACIONAL DO PETROLEO",
-      "ug": "323031 - ESC.CENTRAL DA ANP",
       "fornecedor": "34.028.316/0002-94 - EMPRESA BRASILEIRA DE CORREIO...",
       "contrato": "05067/2020",
       "fundamento_legal": "LEI 8.666 / 1993",
@@ -145001,6 +144972,35 @@
       "data_ultima_atualizacao": null,
       "cnpj_fornecedor": "34.028.316/0002-94",
       "nome_fornecedor": "EMPRESA BRASILEIRA DE CORREIO..."
+    },
+    {
+      "orgao": "32205 - AGENCIA NACIONAL DO PETROLEO",
+      "ug": "323031 - ESC.CENTRAL DA ANP",
+      "fornecedor": "10.781.353/0001-20 - REI DE OURO MUDANCAS E TRANSP...",
+      "contrato": "09012/2025",
+      "fundamento_legal": "LEI 14.133/2021",
+      "objeto": "PRESTAÇÃO DE SERVIÇOS",
+      "observacao": null,
+      "numero_fatura": "292",
+      "data_emissao": "2026-06-30",
+      "data_recebimento": "2026-07-07",
+      "data_vencimento": "2026-07-21",
+      "data_pagamento": "2026-07-21",
+      "valor_original": 883.43,
+      "retencao": 0.0,
+      "glosa": 0.0,
+      "deducoes": -0.0,
+      "valor_final": 883.43,
+      "processo": "48610225203202431",
+      "data_referencia": "2026-07-07",
+      "sub_rogacao": null,
+      "indicio_sobrepreco": "Não",
+      "mes": "06 / 2026 - 883,43",
+      "ano": "Siafi Apropriado",
+      "situacao": "Não Informada",
+      "data_ultima_atualizacao": null,
+      "cnpj_fornecedor": "10.781.353/0001-20",
+      "nome_fornecedor": "REI DE OURO MUDANCAS E TRANSP..."
     }
   ]
 }
